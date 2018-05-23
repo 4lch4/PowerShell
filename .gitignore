@@ -1,2 +1,4 @@
 
 Git_Ignore/
+
+*.TempPoint\.ps1
