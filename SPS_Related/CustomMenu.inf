@@ -1,0 +1,2 @@
+[Menu]
+1=Copy script to profile; powershell Copy-Item -Path $File$ -Destination $ENV:HOMEDRIVE\$ENV:HOMEPATH\Documents\WindowsPowerShell\Scripts\$FileName$
