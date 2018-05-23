@@ -1,0 +1,1807 @@
+﻿<registry name="SOFTWARE\SAPIEN Technologies, Inc.\PowerShell Studio 2018">
+  <k name="Backup">
+    <v name="AutoSaveInterval" value="0" kind="DWord" />
+    <v name="CreateRestorePointOnEdit" value="1" kind="DWord" />
+    <v name="RemoveRestorePointOnClose" value="1" kind="DWord" />
+    <v name="VersionRecallSubmitOnClose" value="0" kind="DWord" />
+  </k>
+  <k name="CacheBuilder">
+    <v name="BuildCache" value="0" kind="DWord" />
+  </k>
+  <k name="Control">
+    <v name="Handle" value="17900" kind="DWord" />
+    <v name="CmdLine" value="" kind="String" />
+  </k>
+  <k name="Debugger">
+    <v name="RSEEReceivePort" value="9988" kind="DWord" />
+    <v name="RSEESendPort" value="9987" kind="DWord" />
+    <v name="DebuggerSendPort" value="9985" kind="DWord" />
+    <v name="DebuggerReceivePort" value="9986" kind="DWord" />
+    <v name="TrackPerformance" value="0" kind="DWord" />
+  </k>
+  <k name="Designer">
+    <v name="SourceFileAction" value="0" kind="DWord" />
+    <v name="SourceSearchAction" value="0" kind="DWord" />
+    <v name="EnableTODOComments" value="1" kind="DWord" />
+    <v name="EnableEndEventComments" value="0" kind="DWord" />
+    <v name="ShowGrid" value="1" kind="DWord" />
+    <v name="LayoutMode" value="0" kind="DWord" />
+    <v name="GridSize" value="8" kind="DWord" />
+    <v name="EnableControlHelpFunctions" value="1" kind="DWord" />
+    <v name="EnableSyncEventNames" value="1" kind="DWord" />
+    <v name="EnableEventAutoInsert" value="0" kind="DWord" />
+    <v name="EnableAutoRenaming" value="1" kind="DWord" />
+    <v name="ExportFormRecoveryData" value="1" kind="DWord" />
+    <v name="EnableV2Compatibility" value="1" kind="DWord" />
+  </k>
+  <k name="Editor">
+    <v name="OutliningInclude" value="3" kind="DWord" />
+    <v name="ShowLineNumbers" value="1" kind="DWord" />
+    <v name="EnableOutlining" value="1" kind="DWord" />
+    <v name="EnableCurrentLineHighlighting" value="1" kind="DWord" />
+    <v name="EnableAutoComplete" value="1" kind="DWord" />
+    <v name="EnableObjectDescriptions" value="1" kind="DWord" />
+    <v name="ShowColumnGuide" value="0" kind="DWord" />
+    <v name="ColumnGuide" value="80" kind="DWord" />
+    <v name="EnableTrackChanges" value="1" kind="DWord" />
+    <v name="EnableAutomaticSyntaxCheck" value="1" kind="DWord" />
+    <v name="EnableAliasTabExpansion" value="1" kind="DWord" />
+    <v name="EnableCmdletAutoSelect" value="1" kind="DWord" />
+    <v name="ConvertTabsIntoSpaces" value="1" kind="DWord" />
+    <v name="TabSize" value="4" kind="DWord" />
+    <v name="ShowModuleCmdlets" value="2" kind="DWord" />
+    <v name="AutoCompleteRequiresExactMatch" value="1" kind="DWord" />
+    <v name="AutoInsertModules" value="1" kind="DWord" />
+    <v name="ShowExternalTools" value="1" kind="DWord" />
+    <v name="EnableDotSourcePrimalSense" value="1" kind="DWord" />
+    <v name="HelpCommentLocation" value="0" kind="DWord" />
+    <v name="EnableSnippetShortcutTabExpansion" value="1" kind="DWord" />
+    <v name="EnableAutoInsertStringClosingQuote" value="1" kind="DWord" />
+    <v name="EnableAutoInsertClosingParathesis" value="1" kind="DWord" />
+    <v name="EnableAutoInsertClosingSquareBrackets" value="1" kind="DWord" />
+    <v name="EnableAutoInsertClosingCurlyBraces" value="1" kind="DWord" />
+    <v name="ShowCommandParameterSetInfo" value="1" kind="DWord" />
+    <v name="ShowWhitespaces" value="0" kind="DWord" />
+    <v name="ShowParameterAliases" value="1" kind="DWord" />
+    <v name="ShowCommandAliases" value="1" kind="DWord" />
+    <v name="ShowSnippetShortcutsInPrimalSense" value="1" kind="DWord" />
+    <v name="EnableCustomPrimalSenseTriggers" value="1" kind="DWord" />
+    <v name="AnalyzeScriptsOnRun" value="1" kind="DWord" />
+    <v name="EnableBracketHighlighting" value="1" kind="DWord" />
+    <v name="CollapseRegionsOnLoad" value="1" kind="DWord" />
+    <v name="SortParametersAlphabetically" value="0" kind="DWord" />
+    <v name="ResolveFunctionsRunSelect" value="1" kind="DWord" />
+    <v name="QuerySessionAssemblies" value="1" kind="DWord" />
+    <k name="Code Formatting">
+      <v name="EnableSmartIndent" value="1" kind="DWord" />
+      <v name="AutomaticallyFormatOnNewLine" value="1" kind="DWord" />
+      <v name="AutomaticallyFormatOnCloseBraces" value="1" kind="DWord" />
+      <v name="AutomaticallyFormatOnPaste" value="1" kind="DWord" />
+      <v name="AutomaticallyFormatOnSemicolon" value="1" kind="DWord" />
+      <v name="CurlyBracketsNewLine" value="0" kind="DWord" />
+      <v name="StatementKeywordNewLine" value="0" kind="DWord" />
+      <v name="IndentParamBlock" value="1" kind="DWord" />
+      <v name="IndentAttributeParameters" value="2" kind="DWord" />
+      <v name="AlignParameters" value="1" kind="DWord" />
+      <v name="AlignAttributeParameters" value="1" kind="DWord" />
+      <v name="ParameterLineSpacing" value="2" kind="DWord" />
+      <v name="ParameterAttributeNewLine" value="1" kind="DWord" />
+      <v name="ParameterTypeNewLine" value="0" kind="DWord" />
+      <v name="ReplaceCurlyQuotes" value="1" kind="DWord" />
+      <v name="ExpandAliases" value="1" kind="DWord" />
+      <v name="LeaveBlockOnSingleLine" value="0" kind="DWord" />
+      <v name="AlignHashTableEqualSigns" value="1" kind="DWord" />
+      <v name="ReservedWordFormatting" value="0" kind="DWord" />
+    </k>
+    <k name="Default Assemblies" />
+    <k name="Style">
+      <v name="FontName" value="Consolas" kind="String" />
+      <v name="FontSize" value="9" kind="DWord" />
+      <v name="BackColor" value="-13816528" kind="DWord" />
+      <v name="MarginColor" value="-12566464" kind="DWord" />
+      <v name="ColumnGuideColor" value="-16724271" kind="DWord" />
+      <v name="CurrentLineHighlightColor" value="-4144960" kind="DWord" />
+      <v name="LineModificationSavedColor" value="-9641364" kind="DWord" />
+      <v name="LineModificationUnavedColor" value="-4510" kind="DWord" />
+      <k name="BatchFile">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Label">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Variable">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="C">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment URL">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="True" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Native Type">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12004916" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-5192482" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Path Spec">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8388608" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Pre-Processor Directive Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Pre-Processor Directive Keyword">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="User Defined Identifier">
+          <v name="Bold" value="True" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment Tag">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment URL">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="True" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="C#">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Documentation Comment">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Keyword">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="C++">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment URL">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="True" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Native Type">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12004916" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-5192482" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Path Spec">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Pre-Processor Directive Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Pre-Processor Directive Keyword">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="User Defined Identifier">
+          <v name="Bold" value="True" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment Tag">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment URL">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="True" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="CSS">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Property Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Property Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Value Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Value Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="HTML">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="ASP Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16777216" kind="DWord" />
+          <v name="BackColor" value="-128" kind="DWord" />
+        </k>
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Declaration Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-2252579" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Declaration Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Entity">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Processing Instruction Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-2252579" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Processing Instruction Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Attribute">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Attribute Value">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Name">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="INIFile">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Punctuation">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Section Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Section Delimiter">
+          <v name="Bold" value="True" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="Java">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Tag">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment URL">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="True" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Native Type">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12004916" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-5192482" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="JScript">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Native Type">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12004916" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-5192482" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="JSON">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="PHP">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Constant">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-2252579" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Function">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16711681" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-5192482" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Variable">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="Plain Text">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="PowerShell">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Alias">
+          <v name="Bold" value="True" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-4194304" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Bracket Highlighted Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="0" kind="DWord" />
+          <v name="BackColor" value="-8355712" kind="DWord" />
+        </k>
+        <k name="Code Snippet Field">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="0" kind="DWord" />
+          <v name="BackColor" value="-13022893" kind="DWord" />
+        </k>
+        <k name="Command">
+          <v name="Bold" value="True" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7876870" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Command Argument">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-6943" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Command As Parameter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="True" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7876870" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Directive">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-14634326" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="External Tool">
+          <v name="Bold" value="True" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12490271" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Function">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16711681" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Highlighted Reference">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="0" kind="DWord" />
+          <v name="BackColor" value="-12495439" kind="DWord" />
+        </k>
+        <k name="Loop Label">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-5192482" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Parameter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-13395457" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Parameter Attribute">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12156236" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Type">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12004916" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Unknown Command">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Unknown Parameter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-4144960" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Variable">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="Python">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-5192482" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="System Identifier">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-2252579" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="SQL">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Data Type">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12004916" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Function">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16711681" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-5192482" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Square String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Square String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="System Variable">
+          <v name="Bold" value="True" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7278960" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Variable">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="VB.NET">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Native Type">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12004916" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-5192482" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Pre-Processor Directive Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Pre-Processor Directive Keyword">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="XML Comment Tag">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="VBScript">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Native Type">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12004916" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Number">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-7114533" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-5192482" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Pre-Processor Directive Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Pre-Processor Directive Keyword">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Reserved Word Operator">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="String Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="XAML">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="CDATA Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="CDATA Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Declaration Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-2252579" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Declaration Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Entity">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Processing Instruction Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-2252579" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Processing Instruction Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Attribute">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Attribute Markup Extension Value">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-4343957" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Attribute Value">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Name">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+      <k name="XML">
+        <v name="Version" value="1.0" kind="String" />
+        <k name="CDATA Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-8355712" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="CDATA Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Comment Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-12799119" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Declaration Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-2252579" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Declaration Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Entity">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Processing Instruction Default">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-2252579" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Processing Instruction Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Attribute">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-32944" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Attribute Value">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Delimiter">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-16728065" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Tag Name">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1015680" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+        <k name="Text">
+          <v name="Bold" value="False" kind="String" />
+          <v name="Italic" value="False" kind="String" />
+          <v name="Underline" value="False" kind="String" />
+          <v name="ForeColor" value="-1" kind="DWord" />
+          <v name="BackColor" value="0" kind="DWord" />
+        </k>
+      </k>
+    </k>
+  </k>
+  <k name="Panels">
+    <v name="ShowSchema" value="0" kind="DWord" />
+    <v name="CacheAllFields" value="0" kind="DWord" />
+    <v name="FilePattern" value="*.psproj; *.psf; *.pss; *.ps1; *.psd1; *.psm1; *.filegroup; *.bat; *.c; *.cpp; *.h; *.cs; *.css; *.html; *.ini; *.inf; *.java; *.js; *.php; *.py; *.sql; *.vb; *.vbs; *.xaml; *.xml; *.ps1xml; *.xslt; *.xsd; *.json; *.txt; *.psdlg; *.pstemplate; *.pff; *.pfs; *.pfproj; *.exe" kind="String" />
+    <v name="CustomSnippetFolder" value="" kind="String" />
+    <v name="LayoutEditor" value="" kind="String" />
+    <v name="LayoutDesigner" value="" kind="String" />
+    <v name="LayoutDebugging" value="Debug Layout" kind="String" />
+    <v name="EnableAutoLayout" value="1" kind="DWord" />
+    <v name="AutoDisplayOutputPanels" value="1" kind="DWord" />
+    <v name="LastAppliedLayout" value="" kind="String" />
+  </k>
+  <k name="Platform">
+    <v name="Platform" value="1" kind="DWord" />
+    <v name="STAMode" value="1" kind="DWord" />
+    <v name="Elevated" value="0" kind="DWord" />
+    <v name="Version" value="5" kind="DWord" />
+  </k>
+  <k name="PowerShell">
+    <v name="UseExternalHelp" value="0" kind="DWord" />
+    <v name="CheckExtensionCache" value="1" kind="DWord" />
+    <v name="CheckExecutionPolicy" value="1" kind="DWord" />
+    <v name="UpdateCacheOnModuleExport" value="1" kind="DWord" />
+  </k>
+  <k name="Recent Controls" />
+  <k name="Recent Documents">
+    <v name="1" value="C:\ProgramData\SAPIEN\PowerShell Studio 2018\CustomMenu.inf" kind="String" />
+    <v name="2" value="D:\Development\PowerShell\Scripts\New-NodeModule.ps1" kind="String" />
+    <v name="3" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\Example.psproj" kind="String" />
+    <v name="4" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\README.md" kind="String" />
+    <v name="5" value="D:\Development\PowerShell\Forms\Job Progress Bar.psf" kind="String" />
+    <v name="6" value="D:\Development\PowerShell\Forms\EPIC_v1.2_for_forums.psf" kind="String" />
+    <v name="7" value="C:\Users\Alcha\Documents\WindowsPowerShell\Scripts\New-NodeModule.ps1" kind="String" />
+  </k>
+  <k name="Recent Files">
+    <v name="1" value="C:\ProgramData\SAPIEN\PowerShell Studio 2018\CustomMenu.inf" kind="String" />
+    <v name="2" value="D:\Development\PowerShell\Scripts\New-NodeModule.ps1" kind="String" />
+    <v name="3" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\README.md" kind="String" />
+    <v name="4" value="D:\Development\PowerShell\Forms\Job Progress Bar.psf" kind="String" />
+    <v name="5" value="D:\Development\PowerShell\Forms\EPIC_v1.2_for_forums.psf" kind="String" />
+    <v name="6" value="C:\Users\Alcha\Documents\WindowsPowerShell\Scripts\New-NodeModule.ps1" kind="String" />
+  </k>
+  <k name="Recent Projects">
+    <v name="1" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\Example.psproj" kind="String" />
+  </k>
+  <k name="Settings">
+    <v name="Company" value="HassleFree Solutions, LLC" kind="String" />
+    <v name="Name" value="Alcha" kind="String" />
+    <v name="CurrentVersion" value="5.5.152" kind="String" />
+    <v name="CurrentPowerShellVersion" value="5" kind="DWord" />
+    <v name="Serial Key" value="" kind="String" />
+    <v name="Warning" value="1" kind="DWord" />
+    <v name="DefaultFilesDirectory" value="D:\Development\PowerShell\Scripts" kind="String" />
+    <v name="DefaultProjectDirectory" value="D:\Development\PowerShell\Projects" kind="String" />
+    <v name="DefaultTemplateDirectory" value="C:\Users\Alcha\AppData\Roaming\SAPIEN\PowerShell Studio 2018\Templates" kind="String" />
+    <v name="UpdateInterval" value="2" kind="DWord" />
+    <v name="EnableStartPage" value="1" kind="DWord" />
+    <v name="EnableRemoteFileCheck" value="1" kind="DWord" />
+    <v name="ProjectFileCopyAction" value="0" kind="DWord" />
+    <v name="DefaultFileType" value="3" kind="DWord" />
+    <v name="AllowMultipleInstances" value="0" kind="DWord" />
+    <v name="ShowExportedFiles" value="1" kind="DWord" />
+    <v name="EnableRestoreOpenFiles" value="0" kind="DWord" />
+    <v name="SkinName" value="Visual Studio 2013 Dark" kind="String" />
+    <v name="CorePreference" value="0" kind="DWord" />
+    <v name="EnableDeferredFileLoad" value="1" kind="DWord" />
+    <v name="EnableDocumentSelector" value="1" kind="DWord" />
+    <v name="UpdateChangedFileAutomatically" value="1" kind="DWord" />
+  </k>
+  <k name="Shell">
+    <v name="ShellCommand0" value="C:\WINDOWS\SysWOW64\windowspowershell\v1.0\powershell.exe -noexit -Command Remove-Module PSReadline -ErrorAction Ignore;" kind="String" />
+    <v name="ShellName0" value="PowerShell 32 bit" kind="String" />
+    <v name="ShellElevated0" value="1" kind="DWord" />
+    <v name="ShellCommand1" value="C:\WINDOWS\system32\windowspowershell\v1.0\powershell.exe -noexit -Command Remove-Module PSReadline -ErrorAction Ignore;" kind="String" />
+    <v name="ShellName1" value="PowerShell 64 bit" kind="String" />
+    <v name="ShellElevated1" value="1" kind="DWord" />
+    <v name="LastActive" value="1" kind="DWord" />
+    <v name="Font" value="Lucida Console" kind="String" />
+    <v name="FontSize" value="8" kind="DWord" />
+    <v name="Bold" value="0" kind="DWord" />
+    <v name="Italic" value="0" kind="DWord" />
+    <v name="UseConsoleColor" value="1" kind="DWord" />
+    <v name="ShellElevated" value="0" kind="DWord" />
+    <v name="EnableConsolePrimalSense" value="0" kind="DWord" />
+    <v name="EnableConsoleInputLine" value="0" kind="DWord" />
+  </k>
+  <k name="Signing">
+    <v name="Certificate" value="" kind="String" />
+    <v name="CertificateStore" value="" kind="String" />
+    <v name="CertificatePassword" value="" kind="String" />
+    <v name="ExternalSignTool" value="" kind="String" />
+    <v name="TimeStampURL" value="http://timestamp.globalsign.com/scripts/timstamp.dll" kind="String" />
+    <v name="AutoSign" value="0" kind="DWord" />
+  </k>
+  <k name="SourceControl" />
+  <k name="WindowState">
+    <v name="Location" value="182, 182" kind="String" />
+    <v name="Size" value="1354, 650" kind="String" />
+    <v name="WindowState" value="Maximized" kind="String" />
+    <v name="RibbonMinimized" value="0" kind="DWord" />
+    <v name="ToolbarLocation" value="0" kind="DWord" />
+  </k>
+</registry>
