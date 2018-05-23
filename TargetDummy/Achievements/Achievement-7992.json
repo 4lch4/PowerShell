@@ -1,0 +1,18 @@
+{
+  "id": 7992,
+  "title": "I Used To Love Them",
+  "points": 10,
+  "description": "Aid in the construction of the Night Elf defenses in the scenario, 'A Little Patience'.",
+  "rewardItems": [],
+  "icon": "achievement_character_nightelf_female",
+  "criteria": [
+    {
+      "id": 22633,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

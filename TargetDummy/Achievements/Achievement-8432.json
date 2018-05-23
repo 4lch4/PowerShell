@@ -1,0 +1,24 @@
+{
+  "id": 8432,
+  "title": "Challenge Master: Shado-Pan Monastery",
+  "points": 0,
+  "description": "Attain a realm-best time for the Shado-Pan Monastery Challenge Mode.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_shadopanmonastery_platinum",
+  "criteria": [
+    {
+      "id": 23639,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23640,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

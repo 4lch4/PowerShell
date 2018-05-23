@@ -1,0 +1,12 @@
+{
+  "id": 11024,
+  "title": "Soldier of the Alliance: Legion Season 1",
+  "points": 0,
+  "description": "End Legion PvP season 1 in the top 35% of the rated battleground ladder (requires 50 games won in Legion Season 1).",
+  "reward": "Title Reward: Soldier of the Alliance",
+  "rewardItems": [],
+  "icon": "achievement_pvp_g_a",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 0
+}

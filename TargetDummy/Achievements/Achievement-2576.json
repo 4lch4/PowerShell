@@ -1,0 +1,18 @@
+{
+  "id": 2576,
+  "title": "Blushing Bride",
+  "points": 10,
+  "description": "Kiss someone wearing an Elegant Dress while wearing a White Tuxedo Shirt and Black Tuxedo Pants.",
+  "rewardItems": [],
+  "icon": "spell_shadow_soothingkiss",
+  "criteria": [
+    {
+      "id": 9858,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 9622,
+  "title": "Challenge Master: Auchindoun",
+  "points": 0,
+  "description": "Attain a realm-best time for the Auchindoun Challenge Mode.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_auchindoun_gold",
+  "criteria": [
+    {
+      "id": 26453,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26454,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

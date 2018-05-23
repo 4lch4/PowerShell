@@ -1,0 +1,96 @@
+{
+  "id": 1032,
+  "title": "Extinguishing Kalimdor",
+  "points": 10,
+  "description": "Desecrate the Alliance's bonfires in Kalimdor.",
+  "rewardItems": [],
+  "icon": "spell_fire_masterofelements",
+  "criteria": [
+    {
+      "id": 3174,
+      "description": "Ashenvale",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 3175,
+      "description": "Azuremyst Isle",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3176,
+      "description": "Bloodmyst Isle",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3177,
+      "description": "Darkshore",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3178,
+      "description": "Desolace",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3179,
+      "description": "Dustwallow Marsh",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3180,
+      "description": "Feralas",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3181,
+      "description": "Silithus",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 17017,
+      "description": "Southern Barrens",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 23516,
+      "description": "Stonetalon Mountains",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3182,
+      "description": "Tanaris",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3183,
+      "description": "Teldrassil",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 23515,
+      "description": "Un'Goro Crater",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 3185,
+      "description": "Winterspring",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,8 @@
+{
+  "id": 8898,
+  "name": "Sapta Sight",
+  "icon": "ability_cheapshot",
+  "description": "Allows the shaman to see elemental spirits.",
+  "range": "15 yd range",
+  "castTime": "Instant"
+}

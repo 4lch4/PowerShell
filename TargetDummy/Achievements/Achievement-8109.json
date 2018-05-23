@@ -1,0 +1,30 @@
+{
+  "id": 8109,
+  "title": "The Mogu Below-gu",
+  "points": 10,
+  "description": "In the Court of Bones, summon and defeat one of the ancient mogu listed below.",
+  "rewardItems": [],
+  "icon": "achievement_bg_xkills_avgraveyard",
+  "criteria": [
+    {
+      "id": 22836,
+      "description": "Haqin of the Hundred Spears",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22837,
+      "description": "Forgemaster Deng",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22838,
+      "description": "Sparkmancer Vu",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

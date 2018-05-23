@@ -1,0 +1,19 @@
+{
+  "id": 8679,
+  "title": "Conqueror of Orgrimmar",
+  "points": 10,
+  "description": "Defeat Garrosh Hellscream in Siege of Orgrimmar on Heroic or Mythic difficulty.",
+  "reward": "Title Reward: Conqueror of Orgrimmar",
+  "rewardItems": [],
+  "icon": "ability_garrosh_hellscreams_warsong",
+  "criteria": [
+    {
+      "id": 23879,
+      "description": "Garrosh Hellscream",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

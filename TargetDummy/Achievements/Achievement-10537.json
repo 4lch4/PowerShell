@@ -1,0 +1,18 @@
+{
+  "id": 10537,
+  "title": "Patron of War",
+  "points": 0,
+  "description": "Witness the world's finest Gladiators compete!",
+  "rewardItems": [],
+  "icon": "garrison_building_sparringarena",
+  "criteria": [
+    {
+      "id": 34981,
+      "description": "World of Warcraft Esports Award",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 631,
+  "title": "Shadowfang Keep",
+  "points": 10,
+  "description": "Defeat Lord Godfrey.",
+  "rewardItems": [],
+  "icon": "inv_helm_robe_dungeonrobe_c_04",
+  "criteria": [
+    {
+      "id": 18525,
+      "description": "Lord Godfrey",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 5368,
+  "name": "Thick Skin",
+  "subtext": "Rank 2",
+  "icon": "trade_engineering",
+  "description": "Adds a chance to temporarily increase armor when successfully hit.",
+  "castTime": "Passive"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 5357,
+  "title": "Field Marshal",
+  "points": 10,
+  "description": "Earn a rated battleground rating of 2300.",
+  "reward": "Title Reward: Field Marshal",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_13",
+  "criteria": [
+    {
+      "id": 15300,
+      "description": "",
+      "orderIndex": 1,
+      "max": 2300
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

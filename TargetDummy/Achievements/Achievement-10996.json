@@ -1,0 +1,54 @@
+{
+  "id": 10996,
+  "title": "Got to Ketchum All",
+  "points": 10,
+  "description": "Use the Ketchum Tablet to acquire imprints of all the named snails within Neltharion's Lair.",
+  "rewardItems": [],
+  "icon": "inv_misc_shell_04",
+  "criteria": [
+    {
+      "id": 31787,
+      "description": "Sparky's imprint collected",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 31790,
+      "description": "Turbax's imprint collected",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 31791,
+      "description": "Whipsnap's imprint collected",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 31792,
+      "description": "Blaze's imprint collected",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 31793,
+      "description": "Slinky's imprint collected",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 31794,
+      "description": "Sticky's imprint collected",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 32888,
+      "description": "Scaly's Imprint Collected",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

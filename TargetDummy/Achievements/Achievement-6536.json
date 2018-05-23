@@ -1,0 +1,42 @@
+{
+  "id": 6536,
+  "title": "Mighty Roamin' Krasaranger",
+  "points": 10,
+  "description": "Complete the Krasarang Wilds storylines listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_krasarangwilds_loremaster",
+  "criteria": [
+    {
+      "id": 18824,
+      "description": "Zhu's Watch",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 18825,
+      "description": "Thunder Cleft",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Nayeli Lagoon",
+      "orderIndex": 2,
+      "max": 3
+    },
+    {
+      "id": 18829,
+      "description": "Temple of the Red Crane",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18830,
+      "description": "Dawnchaser Retreat",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

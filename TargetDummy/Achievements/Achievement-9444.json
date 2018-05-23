@@ -1,0 +1,18 @@
+{
+  "id": 9444,
+  "title": "Ahead of the Curve: Blackhand's Crucible",
+  "points": 0,
+  "description": "Defeat Blackhand in Blackrock Foundry on Heroic difficulty or higher, before the release of patch 6.2.",
+  "rewardItems": [],
+  "icon": "achievement_boss_blackhand",
+  "criteria": [
+    {
+      "id": 25783,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

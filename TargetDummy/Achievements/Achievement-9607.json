@@ -1,0 +1,66 @@
+{
+  "id": 9607,
+  "title": "Make It a Bonus",
+  "points": 10,
+  "description": "Complete the Gorgrond bonus objectives below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_gorgrond",
+  "criteria": [
+    {
+      "id": 26391,
+      "description": "Bonus Objective: Brimstone Springs",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26392,
+      "description": "Bonus Objective: Iyun Weald",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26393,
+      "description": "Bonus Objective: Mistcreep Mire",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26394,
+      "description": "Bonus Objective: Valley of Destruction",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 26396,
+      "description": "Bonus Objective: Ruins of the First Bastion",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26398,
+      "description": "Bonus Objective: The Forgotten Caves",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "South Gronn Canyon or Evermorn Springs",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Stonemaul Arena or Tangleheart",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Affliction Ridge or The Razorbloom",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 10690,
+  "name": "Infallible Mind",
+  "icon": "spell_ice_lament",
+  "description": "Increases Intellect by 25 when consumed.  Guardian Elixir.",
+  "range": "20 yd range",
+  "castTime": "Instant"
+}

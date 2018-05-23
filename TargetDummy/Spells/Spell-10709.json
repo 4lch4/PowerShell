@@ -1,0 +1,7 @@
+{
+  "id": 10709,
+  "name": "Brown Prairie Dog",
+  "icon": "inv_pet_prairiedog",
+  "description": "Right Click to summon and dismiss your prairie dog.",
+  "castTime": "Instant"
+}

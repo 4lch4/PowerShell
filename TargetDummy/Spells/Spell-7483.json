@@ -1,0 +1,7 @@
+{
+  "id": 7483,
+  "name": "Howling Rage",
+  "icon": "ability_bullrush",
+  "description": "Increases Physical damage dealt by 30.",
+  "castTime": "1.5 sec cast"
+}

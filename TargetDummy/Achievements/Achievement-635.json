@@ -1,0 +1,36 @@
+{
+  "id": 635,
+  "title": "Razorfen Kraul",
+  "points": 10,
+  "description": "Defeat Charlga Razorflank.",
+  "rewardItems": [],
+  "icon": "achievement_boss_charlgarazorflank",
+  "criteria": [
+    {
+      "id": 18528,
+      "description": "Charlga Razorflank",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4250,
+      "description": "A Vengeful Fate",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4251,
+      "description": "The Crone of the Kraul",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4409,
+      "description": "An Unholy Alliance",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

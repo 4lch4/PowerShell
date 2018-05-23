@@ -1,0 +1,18 @@
+{
+  "id": 2040,
+  "title": "Less-rabi",
+  "points": 10,
+  "description": "Defeat Moorabi in Gundrak on Heroic Difficulty while preventing him from transforming into a mammoth at any point during the encounter.",
+  "rewardItems": [],
+  "icon": "inv_misc_monsterhorn_04",
+  "criteria": [
+    {
+      "id": 7319,
+      "description": "Moorabi",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

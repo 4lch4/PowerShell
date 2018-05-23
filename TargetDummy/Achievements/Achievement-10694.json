@@ -1,0 +1,85 @@
+{
+  "id": 10694,
+  "title": "Fabulous",
+  "points": 10,
+  "description": "Unlock each of the achievements listed below.",
+  "reward": "Title Reward: the Fabulous",
+  "rewardItems": [],
+  "icon": "inv_jewelry_ring_42",
+  "criteria": [
+    {
+      "id": 30580,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 30581,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 30582,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 30583,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 30584,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 30585,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 30586,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 30587,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 30588,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 30589,
+      "description": "",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 30590,
+      "description": "",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 30591,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

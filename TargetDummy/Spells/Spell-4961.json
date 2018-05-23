@@ -1,0 +1,8 @@
+{
+  "id": 4961,
+  "name": "Resupply",
+  "icon": "spell_misc_drink",
+  "description": "Heals an ally for 6,306.",
+  "range": "40 yd range",
+  "castTime": "2 sec cast"
+}

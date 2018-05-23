@@ -1,0 +1,36 @@
+{
+  "id": 500,
+  "title": "Heroic: The Culling of Stratholme",
+  "points": 10,
+  "description": "Defeat the Caverns of Time: Stratholme bosses on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_cotstratholme_heroic",
+  "criteria": [
+    {
+      "id": 6805,
+      "description": "Meathook",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6806,
+      "description": "Chrono-Lord Epoch",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6807,
+      "description": "Salramm the Fleshcrafter",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6434,
+      "description": "Mal'Ganis",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

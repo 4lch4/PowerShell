@@ -1,0 +1,25 @@
+{
+  "id": 2763,
+  "title": "Exalted Champion of Ironforge",
+  "points": 10,
+  "description": "Earn exalted status with and the right to represent Ironforge in the Argent Tournament.",
+  "reward": "Title Reward: of Ironforge",
+  "rewardItems": [],
+  "icon": "inv_misc_tournaments_symbol_dwarf",
+  "criteria": [
+    {
+      "id": 5330,
+      "description": "Exalted with Ironforge",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 11323,
+      "description": "Champion of Ironforge",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

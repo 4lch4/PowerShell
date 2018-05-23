@@ -1,0 +1,24 @@
+{
+  "id": 2985,
+  "title": "Deforestation (10 player)",
+  "points": 10,
+  "description": "Defeat 2 Ancient Water Spirits, 2 Storm Lashers and 2 Snaplashers within 10 seconds in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_nature_naturetouchdecay",
+  "criteria": [
+    {
+      "id": 10396,
+      "description": "Freya",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 10397,
+      "description": "Freya",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

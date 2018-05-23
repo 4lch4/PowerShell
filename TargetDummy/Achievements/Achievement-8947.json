@@ -1,0 +1,18 @@
+{
+  "id": 8947,
+  "title": "Hurry Up, Maggot!",
+  "points": 10,
+  "description": "Cause the Butcher in Highmaul to slay 6 Maggots before defeating him on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_vendor_boiledsilkwormpupa",
+  "criteria": [
+    {
+      "id": 24639,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

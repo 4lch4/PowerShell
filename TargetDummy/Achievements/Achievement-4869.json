@@ -1,0 +1,36 @@
+{
+  "id": 4869,
+  "title": "Sinking into Vashj'ir",
+  "points": 10,
+  "description": "Complete 130 quests in Vashj'ir.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_vashjir",
+  "criteria": [
+    {
+      "id": 13607,
+      "description": "",
+      "orderIndex": 1,
+      "max": 130
+    },
+    {
+      "id": 16498,
+      "description": "",
+      "orderIndex": 2,
+      "max": 130
+    },
+    {
+      "id": 16499,
+      "description": "",
+      "orderIndex": 3,
+      "max": 130
+    },
+    {
+      "id": 16500,
+      "description": "",
+      "orderIndex": 4,
+      "max": 130
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

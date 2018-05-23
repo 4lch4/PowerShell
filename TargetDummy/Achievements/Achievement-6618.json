@@ -1,0 +1,18 @@
+{
+  "id": 6618,
+  "title": "On A Roll",
+  "points": 5,
+  "description": "Win 10 consecutive pet battles.",
+  "rewardItems": [],
+  "icon": "inv_pet_battlepettraining",
+  "criteria": [
+    {
+      "id": 21527,
+      "description": "",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

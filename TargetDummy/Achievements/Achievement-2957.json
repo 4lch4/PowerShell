@@ -1,0 +1,110 @@
+{
+  "id": 2957,
+  "title": "Glory of the Ulduar Raider (10 player)",
+  "points": 25,
+  "description": "Complete the 10-player raid achievements listed below.",
+  "reward": "Reward: Rusted Proto-Drake",
+  "rewardItems": [
+    {
+      "id": 45802,
+      "name": "Reins of the Rusted Proto-Drake",
+      "icon": "ability_mount_razorscale",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_helmet_19",
+  "criteria": [
+    {
+      "id": 10100,
+      "description": "Orbit-uary",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 10102,
+      "description": "Stokin' the Furnace",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 10101,
+      "description": "Iron Dwarf, Medium Rare",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 10103,
+      "description": "Heartbreaker",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 10104,
+      "description": "I Choose You, Steelbreaker",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 10105,
+      "description": "Disarmed",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 10111,
+      "description": "Crazy Cat Lady",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 10106,
+      "description": "I Could Say That This Cache Was Rare",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 10107,
+      "description": "Lose Your Illusion",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 10108,
+      "description": "Knock, Knock, Knock on Wood",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 10464,
+      "description": "Firefighter",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 10110,
+      "description": "I Love the Smell of Saronite in the Morning",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 10112,
+      "description": "One Light in the Darkness",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

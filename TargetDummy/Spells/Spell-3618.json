@@ -1,0 +1,7 @@
+{
+  "id": 3618,
+  "name": "Self Stun",
+  "icon": "spell_shadow_lifedrain",
+  "description": "The subject dies",
+  "castTime": "Instant"
+}

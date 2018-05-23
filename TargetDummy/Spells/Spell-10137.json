@@ -1,0 +1,8 @@
+{
+  "id": 10137,
+  "name": "Fizzule's Folly",
+  "icon": "trade_engineering",
+  "description": "Blow on the whistle to let Fizzule know you're an ally.",
+  "range": "100 yd range",
+  "castTime": "Instant"
+}

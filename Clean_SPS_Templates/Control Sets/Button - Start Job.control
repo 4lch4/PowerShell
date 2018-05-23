@@ -1,0 +1,258 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a button that starts a Job using the Job Tracker and displays a busy image until the Job is complete.
+Uses the "Form - Job Tracker" Control Set.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPrVMxTsNAEMwjeAEfgI6GJ1DSIjpeQEtDgaj5AhIlEhIKBYpCg5AoDA0pCMhSUCDYju1znEvi+DLsrmPHkYIUIk4az96cdzx3Olcq/zEubi2s7x6jsn24FNZ2jsA98m0utg7OcPf0jmXHi92RHjHhL9etN0wmkz+hbjWz1BzbmPTXZgq5cE3HUbZdfgyHAzExaYqUOGWegg1YN8ZMOUUchYRgZqB1jGScIEkSPhjBeDyam+ca6ypwBUUCrXuSYkTImRu4zliX6gF870tQMojAKdgoT8Ccz3Wf1gii9Xtwvz8EhYFSHuKekheYizrONdpzHBbrnbYNRmEQhi4i5QvKCRbNleqi3WoSXmcGnvuJIHAQ+A5COpzAJxBnNelS8zrrDlp2QyAJ+FrWHx7hdzuCrkecgzWuWS/VPplUazVwr1zlzf1TnF9eo/F8vxSubqrY2DuZ/x9W/pkg92b18QOnKJlT8dLI+gAAAABJRU5ErkJggg==</Icon>
+  <Identifiers>
+    <ID id="1" name="buttonStartJob" type="object" />
+    <ID id="2" name="buttonStartJob_Click" type="event" />
+    <ID id="3" name="imagelistButtonBusyAnimation" type="object" useExistingTypeMatchName="True" />
+	<ID id="4" name="jobTracker_FormClosed" type="event" shared="True"/>
+    <ID id="5" name="timerJobTracker" type="object" useExistingTypeMatchName="True"/>
+    <ID id="6" name="timerJobTracker_Tick" type="event" shared="True"/>
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="ImageList">
+        <Reference name="%ID:3%" />
+      </Property>
+      <Property name="Location">12, 12</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="Size">75, 23</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="Text">Start</Property>
+      <Property name="TextImageRelation">ImageBeforeText</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">%ID:2%</Event>
+    </Object>
+    <Object type="System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:3%">
+      <Property name="ImageStream">
+        <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAAB2CgAAAk1TRnQBSQFMAgEBCAEAASgBAAEoAQABEAEAARABAAT/ASEBAAj/AUIBTQE2BwABNgMAASgDAAFAAwABMAMAAQEBAAEgBgABMP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AugADwgH/Az0B/wM9Af8DwgH/MAADwgH/A10B/wOCAf8DwgH/sAADPQH/AwAB/wMAAf8DPQH/MAADggH/Az0B/wM9Af8DXQH/gAADwgH/Az0B/wM9Af8DwgH/IAADPQH/AwAB/wMAAf8DPQH/A8IB/wNdAf8DggH/A8IB/xAAA8IB/wM9Af8DPQH/A8IB/wNdAf8DPQH/Az0B/wNdAf8EAAOSAf8DkgH/A8IB/3AAAz0B/wMAAf8DAAH/Az0B/yAAA8IB/wM9Af8DPQH/A8IB/wOCAf8DPQH/Az0B/wOCAf8QAAM9Af8DAAH/AwAB/wM9Af8DwgH/A10B/wOCAf8DwgH/A5IB/wOCAf8DggH/A5IB/3AAAz0B/wMAAf8DAAH/Az0B/zAAA10B/wM9Af8DPQH/A10B/xAAAz0B/wMAAf8DAAH/Az0B/xAAA5IB/wOSAf8DkgH/A8IB/3AAA8IB/wM9Af8DPQH/A8IB/zAAA8IB/wNdAf8DggH/A8IB/xAAA8IB/wM9Af8DPQH/A8IB/xAAA8IB/wOSAf8DkgH/A8IB/zgAA8IB/wM9Af8DPQH/A8IB/zAAA8IB/wOCAf8DXQH/A8IB/zAAA8IB/wPCAf8DkgH/A8IB/zQAA8IB/wPCAf80AAM9Af8DAAH/AwAB/wM9Af8wAANdAf8DPQH/Az0B/wNdAf8wAAOSAf8DggH/A4IB/wOSAf8wAAPCAf8DwgH/A8IB/wPCAf8wAAM9Af8DAAH/AwAB/wM9Af8wAAOCAf8DPQH/Az0B/wOCAf8wAAPCAf8DggH/A5IB/wOSAf8wAAPCAf8DwgH/A8IB/wPCAf8wAAPCAf8DPQH/Az0B/wPCAf8wAAPCAf8DggH/A10B/wPCAf8wAAPCAf8DkgH/A5IB/wPCAf80AAPCAf8DwgH/EAADwgH/A8IB/xQAA8IB/wOCAf8DXQH/A8IB/zAAA8IB/wOSAf8DkgH/A8IB/zQAA8IB/wPCAf9UAAPCAf8DwgH/A8IB/wPCAf8QAANdAf8DPQH/Az0B/wNdAf8wAAOSAf8DggH/A5IB/wOSAf8wAAPCAf8DwgH/A8IB/wPCAf9QAAPCAf8DwgH/A8IB/wPCAf8DwgH/A8IB/wOSAf8DwgH/A4IB/wM9Af8DPQH/A4IB/yQAA8IB/wPCAf8EAAPCAf8DggH/A5IB/wOSAf8wAAPCAf8DwgH/A8IB/wPCAf9UAAPCAf8DwgH/BAADkgH/A4IB/wOCAf8DkgH/A8IB/wOCAf8DXQH/A8IB/yAAA8IB/wPCAf8DwgH/A8IB/wPCAf8DkgH/A5IB/wPCAf80AAPCAf8DwgH/ZAADkgH/A5IB/wOSAf8DkgH/MAADwgH/A8IB/wPCAf8DwgH/sAADwgH/A5IB/wOSAf8DwgH/NAADwgH/A8IB/7QAA8IB/wPCAf8DkgH/A8IB/zQAA8IB/wPCAf+0AAOSAf8DggH/A4IB/wOSAf8wAAPCAf8DwgH/A8IB/wPCAf+gAAPCAf8DXQH/A4IB/wPCAf8DkgH/A5IB/wOSAf8DwgH/BAADwgH/A8IB/xQAA8IB/wPCAf8DkgH/A8IB/wPCAf8DwgH/A8IB/wPCAf8kAAPCAf8DwgH/dAADggH/Az0B/wM9Af8DggH/A8IB/wOSAf8DkgH/A8IB/wPCAf8DwgH/A8IB/wPCAf8QAAOSAf8DggH/A4IB/wOSAf8EAAPCAf8DwgH/JAADwgH/A8IB/wPCAf8DwgH/cAADXQH/Az0B/wM9Af8DggH/EAADwgH/A8IB/wPCAf8DwgH/EAADkgH/A5IB/wOSAf8DkgH/MAADwgH/A8IB/wPCAf8DwgH/cAADwgH/A10B/wNdAf8DwgH/FAADwgH/A8IB/xQAA8IB/wOSAf8DkgH/A8IB/zQAA8IB/wPCAf9sAAPCAf8DPQH/Az0B/wPCAf8wAAPCAf8DXQH/A4IB/wPCAf8wAAPCAf8DwgH/A5IB/wPCAf80AAPCAf8DwgH/NAADPQH/AwAB/wMAAf8DPQH/MAADggH/Az0B/wM9Af8DXQH/MAADkgH/A4IB/wOCAf8DkgH/MAADwgH/A8IB/wPCAf8DwgH/MAADPQH/AwAB/wMAAf8DPQH/MAADXQH/Az0B/wM9Af8DggH/MAADkgH/A5IB/wOSAf8DkgH/MAADwgH/A8IB/wPCAf8DwgH/MAADwgH/Az0B/wM9Af8DwgH/MAADwgH/A10B/wNdAf8DwgH/MAADwgH/A5IB/wOSAf8DwgH/NAADwgH/A8IB/3wAA8IB/wM9Af8DPQH/A8IB/zAAA8IB/wNdAf8DggH/A8IB/zAAA8IB/wPCAf8DkgH/A8IB/xAAA8IB/wM9Af8DPQH/A8IB/1AAAz0B/wMAAf8DAAH/Az0B/zAAA4IB/wM9Af8DPQH/A10B/zAAA5IB/wOCAf8DggH/A5IB/xAAAz0B/wMAAf8DAAH/Az0B/1AAAz0B/wMAAf8DAAH/Az0B/zAAA10B/wM9Af8DPQH/A4IB/wOSAf8DPQH/Az0B/wPCAf8gAAOSAf8DkgH/A5IB/wOSAf8DwgH/A10B/wOCAf8DwgH/Az0B/wMAAf8DAAH/Az0B/1AAA8IB/wM9Af8DPQH/A8IB/zAAA8IB/wOCAf8DXQH/A8IB/wM9Af8DAAH/AwAB/wM9Af8gAAPCAf8DkgH/A5IB/wPCAf8DggH/Az0B/wM9Af8DXQH/A8IB/wM9Af8DPQH/A8IB/6AAAz0B/wMAAf8DAAH/Az0B/zAAA10B/wM9Af8DPQH/A4IB/7AAA8IB/wM9Af8DPQH/A8IB/zAAA8IB/wOCAf8DXQH/A8IB/xgAAUIBTQE+BwABPgMAASgDAAFAAwABMAMAAQEBAAEBBQABgAEBFgAD/4EABP8B/AE/AfwBPwT/AfwBPwH8AT8D/wHDAfwBAwHAASMD/wHDAfwBAwHAAQMD/wHDAf8DwwP/AcMB/wPDAf8B8AH/AfAB/wHwAf8B+QH/AfAB/wHwAf8B8AH/AfAB/wHwAf8B8AH/AfAB/wHwAf8B8AH/AfAB/wHwAf8B+QHnAcMB/wHDAf8B5wL/AsMB/wHDAf8BwwL/AcABAwH+AUMB/wHDAv8B5AEDAfwBAwH/AecC/wH8AT8B/AE/BP8B/AE/Af4BfwT/AfwBPwH+AX8E/wH8AT8B/AE/BP8BwAEnAcABPwHnA/8BwAEDAcIBfwHDA/8DwwH/AcMD/wHDAecBwwH/AecD/wEPAf8BDwH/AQ8B/wGfAf8BDwH/AQ8B/wEPAf8BDwH/AQ8B/wEPAf8BDwH/AQ8B/wEPAf8BDwH/AQ8B/wGfA/8BwwH/AcMB/wLDAv8BwwH/AcMB/wLDAv8BwwH/AcABPwHAAQMC/wHDAf8BwAE/AcABAwT/AfwBPwH8AT8E/wH8AT8B/AE/Cw==</Binary>
+      </Property>
+      <Property name="TransparentColor">Transparent</Property>
+    </Object>
+	<Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:5%">
+      <Event name="Tick">%ID:6%</Event>
+    </Object>
+  </Objects>
+  <Container>
+    <Events>
+      <Event name="FormClosed">%ID:4%</Event>
+    </Events>
+  </Container>
+  <Events>
+    <Event id="2">
+      <![CDATA[$%ID:2%={
+	
+	$%ID:1%.Enabled = $false	
+	
+	#Create a New Job using the Job Tracker
+	Add-JobTracker -Name 'JobName' `
+	-JobScript {
+   		#--------------------------------------------------
+		#TODO: Set a script block
+		#Important: Do not access form controls from this script block.
+    
+		Param($Argument1)#Pass any arguments using the ArgumentList parameter
+    
+		for($i = 0; $i -lt 50; $i++){ Start-Sleep -Milliseconds 100 } 
+		
+		#--------------------------------------------------
+	}`
+	-CompletedScript {
+		Param($Job)
+		#$results = Receive-Job -Job $Job 
+		#Enable the Button
+		$%ID:1%.ImageIndex = -1
+		$%ID:1%.Enabled = $true
+	}`
+	-UpdateScript {
+		Param($Job)
+		#$results = Receive-Job -Job $Job -Keep
+		#Animate the Button
+		if($null -ne $%ID:1%.ImageList)
+		{
+			if($%ID:1%.ImageIndex -lt $%ID:1%.ImageList.Images.Count - 1)
+			{
+				$%ID:1%.ImageIndex += 1
+			}
+			else
+			{
+				$%ID:1%.ImageIndex = 0		
+			}
+		}
+	}`
+	-ArgumentList $null
+}]]></Event>
+	<Event id="4"><![CDATA[$%ID:4%=[System.Windows.Forms.FormClosedEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.FormClosedEventArgs]
+	#Stop any pending jobs
+	Stop-JobTracker
+}]]></Event>
+    <Event id="6"><![CDATA[$%ID:6%={
+	Update-JobTracker
+}]]></Event>
+  </Events>
+  <Functions>
+    <Function name="Stop-JobTracker" region="Job Tracker">
+      <![CDATA[function Stop-JobTracker
+{
+	<#
+		.SYNOPSIS
+			Stops and removes all Jobs from the list.
+	#>
+	#Stop the timer
+	$timerJobTracker.Stop()
+	
+	#Remove all the jobs
+	while($JobTrackerList.Count -gt 0)
+	{
+		$job = $JobTrackerList[0].Job
+		$JobTrackerList.RemoveAt(0)
+		Stop-Job $job
+		Remove-Job $job
+	}
+}]]></Function>
+    <Function name="Update-JobTracker" region="Job Tracker"><![CDATA[function Update-JobTracker
+{
+	<#
+		.SYNOPSIS
+			Checks the status of each job on the list.
+	#>
+	
+	#Poll the jobs for status updates
+	$%ID:5%.Stop() #Freeze the Timer
+	
+	for($index = 0; $index -lt $JobTrackerList.Count; $index++)
+	{
+		$psObject = $JobTrackerList[$index]
+		
+		if($null -ne $psObject) 
+		{
+			if($null -ne $psObject.Job)
+			{
+				if ($psObject.Job.State -eq 'Blocked')
+                {
+                    #Try to unblock the job
+                    Receive-Job $psObject.Job | Out-Null
+                }
+                elseif($psObject.Job.State -ne 'Running')
+				{				
+					#Call the Complete Script Block
+					if($null -ne $psObject.CompleteScript)
+					{
+						#$results = Receive-Job -Job $psObject.Job
+						Invoke-Command -ScriptBlock $psObject.CompleteScript -ArgumentList $psObject.Job
+					}
+					
+					$JobTrackerList.RemoveAt($index)
+					Remove-Job -Job $psObject.Job
+					$index-- #Step back so we don't skip a job
+				}
+				elseif($null -ne $psObject.UpdateScript)
+				{
+					#Call the Update Script Block
+					Invoke-Command -ScriptBlock $psObject.UpdateScript -ArgumentList $psObject.Job
+				}
+			}
+		}
+		else
+		{
+			$JobTrackerList.RemoveAt($index)
+			$index-- #Step back so we don't skip a job
+		}
+	}
+	
+	if($JobTrackerList.Count -gt 0)
+	{
+		$%ID:5%.Start()#Resume the timer	
+	}	
+}]]></Function>
+    <Function name="Add-JobTracker" region="Job Tracker">
+      <![CDATA[$JobTrackerList = New-Object System.Collections.ArrayList
+function Add-JobTracker
+{
+	<#
+		.SYNOPSIS
+			Add a new job to the JobTracker and starts the timer.
+	
+		.DESCRIPTION
+			Add a new job to the JobTracker and starts the timer.
+	
+		.PARAMETER  Name
+			The name to assign to the Job
+	
+		.PARAMETER  JobScript
+			The script block that the Job will be performing. 
+			Important: Do not access form controls from this script block.
+	
+		.PARAMETER ArgumentList
+			The arguments to pass to the job
+	
+		.PARAMETER  CompleteScript
+			The script block that will be called when the job is complete.
+			The job is passed as an argument. The Job argument is null when the job fails.
+	
+		.PARAMETER  UpdateScript
+			The script block that will be called each time the timer ticks. 
+			The job is passed as an argument. Use this to get the Job's progress.
+	
+		.EXAMPLE
+			Add-JobTracker -Name 'JobName' `
+			-JobScript {	
+				Param($Argument1)#Pass any arguments using the ArgumentList parameter
+				#Important: Do not access form controls from this script block.
+				Get-WmiObject Win32_Process -Namespace "root\CIMV2"
+			}`
+			-CompletedScript {
+				Param($Job)		
+				$results = Receive-Job -Job $Job		
+			}`
+			-UpdateScript {
+				Param($Job)
+				#$results = Receive-Job -Job $Job -Keep
+			}
+	
+		.LINK
+			
+	#>
+	
+	Param(
+	[ValidateNotNull()]
+	[Parameter(Mandatory=$true)]
+	[string]$Name, 
+	[ValidateNotNull()]
+	[Parameter(Mandatory=$true)]
+	[ScriptBlock]$JobScript,
+	$ArgumentList = $null,
+	[ScriptBlock]$CompletedScript,
+	[ScriptBlock]$UpdateScript)
+	
+	#Start the Job
+	$job = Start-Job -Name $Name -ScriptBlock $JobScript -ArgumentList $ArgumentList
+	
+	if($null -ne $job)
+	{
+		#Create a Custom Object to keep track of the Job & Script Blocks
+		$members = @{	'Job' = $Job;
+						'CompleteScript' = $CompletedScript;
+						'UpdateScript' = $UpdateScript}
+		
+		$psObject = New-Object System.Management.Automation.PSObject -Property $members
+		
+		[void]$JobTrackerList.Add($psObject)	
+		
+		#Start the Timer
+		if(-not $%ID:5%.Enabled)
+		{
+			$%ID:5%.Start()
+		}
+	}
+	elseif($null -ne $CompletedScript)
+	{
+		#Failed
+		Invoke-Command -ScriptBlock $CompletedScript -ArgumentList $null
+	}
+
+}]]></Function>
+  </Functions>
+</ControlTemplate>

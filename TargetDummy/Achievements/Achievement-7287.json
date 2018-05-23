@@ -1,0 +1,18 @@
+{
+  "id": 7287,
+  "title": "Champion of Chi-Ji",
+  "points": 10,
+  "description": "Defeat every challenger at the Cradle of Chi-Ji.",
+  "rewardItems": [],
+  "icon": "ability_mount_cranemount",
+  "criteria": [
+    {
+      "id": 20452,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

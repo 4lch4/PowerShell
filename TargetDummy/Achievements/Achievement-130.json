@@ -1,0 +1,18 @@
+{
+  "id": 130,
+  "title": "Grand Master Fisherman",
+  "points": 10,
+  "description": "Obtain 450 skill points in fishing.",
+  "rewardItems": [],
+  "icon": "trade_fishing",
+  "criteria": [
+    {
+      "id": 5696,
+      "description": "Obtain 450 skill points in fishing.",
+      "orderIndex": 1,
+      "max": 450
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 7336,
+  "title": "Stone Servants",
+  "points": 10,
+  "description": "Discover the following artifacts.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20647,
+      "description": "Terracotta Arm",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20648,
+      "description": "Quilen Statuette",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,42 @@
+{
+  "id": 5850,
+  "title": "Fish or Cut Bait: Undercity",
+  "points": 10,
+  "description": "Complete each of the Undercity fishing daily quests.",
+  "rewardItems": [],
+  "icon": "inv_fishingpole_07",
+  "criteria": [
+    {
+      "id": 17764,
+      "description": "Fish Head",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17765,
+      "description": "Tadpole Terror",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17766,
+      "description": "Like Pike?",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17767,
+      "description": "Time for Slime",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17768,
+      "description": "Moat Monster!",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

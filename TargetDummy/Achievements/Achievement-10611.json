@@ -1,0 +1,18 @@
+{
+  "id": 10611,
+  "title": "Dropping Some Eaves",
+  "points": 10,
+  "description": "Witness the conversation between Advisor Melandrus and Grand Magistrix Elisande in Court of Stars on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_helm_mask_fittedalpha_b_01_nightborne_01",
+  "criteria": [
+    {
+      "id": 31017,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

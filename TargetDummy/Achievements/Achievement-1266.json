@@ -1,0 +1,96 @@
+{
+  "id": 1266,
+  "title": "Explore Grizzly Hills",
+  "points": 10,
+  "description": "Explore Grizzly Hills, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_grizzlyhills_01",
+  "criteria": [
+    {
+      "id": 4178,
+      "description": "Conquest Hold",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4179,
+      "description": "Drak'Tharon Keep",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4180,
+      "description": "Drakil'jin Ruins",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4181,
+      "description": "Dun Argol",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4182,
+      "description": "Granite Springs",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4183,
+      "description": "Grizzlemaw",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4184,
+      "description": "Rage Fang Shrine",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4185,
+      "description": "Thor Modan",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4186,
+      "description": "Venture Bay",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4187,
+      "description": "Voldrune",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4188,
+      "description": "Amberpine Lodge",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4189,
+      "description": "Blue Sky Logging Grounds",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4190,
+      "description": "Camp Oneqwah",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4191,
+      "description": "Westfall Brigade Encampment",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 606,
+  "title": "5 Coins of Ancestry",
+  "points": 10,
+  "description": "Receive 5 Coins of Ancestry.",
+  "rewardItems": [],
+  "icon": "inv_misc_elvencoins",
+  "criteria": [
+    {
+      "id": 472,
+      "description": "Receive 5 Coins of Ancestry",
+      "orderIndex": 1,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

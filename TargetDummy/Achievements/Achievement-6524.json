@@ -1,0 +1,18 @@
+{
+  "id": 6524,
+  "title": "Realm First! Level 90",
+  "points": 0,
+  "description": "First person on the realm to achieve level 90.",
+  "rewardItems": [],
+  "icon": "achievement_level_90",
+  "criteria": [
+    {
+      "id": 5212,
+      "description": "Level 90",
+      "orderIndex": 0,
+      "max": 90
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11690,
+  "title": "When You're Fifteen",
+  "points": 10,
+  "description": "Reach Prestige Level 15.",
+  "rewardItems": [],
+  "icon": "achievement_legionpvp4tier3",
+  "criteria": [
+    {
+      "id": 36188,
+      "description": "Reach Prestige Level 15.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

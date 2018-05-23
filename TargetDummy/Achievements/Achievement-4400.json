@@ -1,0 +1,37 @@
+{
+  "id": 4400,
+  "title": "WoW's 5th Anniversary",
+  "points": 0,
+  "description": "Logged in during WoW's 5th Anniversary.",
+  "rewardItems": [
+    {
+      "id": 49362,
+      "name": "Onyxian Whelpling",
+      "icon": "inv_misc_head_dragon_black",
+      "quality": 1,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_misc_celebrationcake_01",
+  "criteria": [
+    {
+      "id": 12562,
+      "description": "Logged in during 5th anniversary event",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

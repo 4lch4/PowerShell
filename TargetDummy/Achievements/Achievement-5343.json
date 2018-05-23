@@ -1,0 +1,19 @@
+{
+  "id": 5343,
+  "title": "Grand Marshal",
+  "points": 10,
+  "description": "Earn a rated battleground rating of 2400.",
+  "reward": "Title Reward: Grand Marshal",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_14",
+  "criteria": [
+    {
+      "id": 15300,
+      "description": "",
+      "orderIndex": 1,
+      "max": 2400
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

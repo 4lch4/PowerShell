@@ -1,0 +1,18 @@
+{
+  "id": 8205,
+  "title": "Operation: Shieldwall",
+  "points": 10,
+  "description": "Earn Exalted status with Operation: Shieldwall.",
+  "rewardItems": [],
+  "icon": "achievement_general_allianceslayer",
+  "criteria": [
+    {
+      "id": 22511,
+      "description": "Operation: Shieldwall exalted",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "title": "Level 10",
+  "points": 10,
+  "description": "Reach level 10.",
+  "rewardItems": [],
+  "icon": "achievement_level_10",
+  "criteria": [
+    {
+      "id": 5212,
+      "description": "Reach level 10",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

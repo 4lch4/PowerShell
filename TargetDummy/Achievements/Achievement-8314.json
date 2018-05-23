@@ -1,0 +1,18 @@
+{
+  "id": 8314,
+  "title": "Battle on the High Seas",
+  "points": 10,
+  "description": "Defeat Admiral Hagman in the Battle on the High Seas.",
+  "rewardItems": [],
+  "icon": "ability_vehicle_siegeenginecannon",
+  "criteria": [
+    {
+      "id": 22263,
+      "description": "Kill Admiral Hagman",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

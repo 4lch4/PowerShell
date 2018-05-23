@@ -1,0 +1,24 @@
+{
+  "id": 10137,
+  "title": "Wild Gladiator's Felblood Gronnling",
+  "points": 0,
+  "description": "Obtain the Wild Gladiator's Felblood Gronnling from Warlords of Draenor Arena Season 2",
+  "rewardItems": [],
+  "icon": "inv_fellessergronnmount",
+  "criteria": [
+    {
+      "id": 28397,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28398,
+      "description": "Wild Gladiator's Felblood Gronnling",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

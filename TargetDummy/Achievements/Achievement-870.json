@@ -1,0 +1,19 @@
+{
+  "id": 870,
+  "title": "100000 Honorable Kills",
+  "points": 10,
+  "description": "Get 100000 honorable kills.",
+  "reward": "Title Reward: Of the Horde or Of the Alliance",
+  "rewardItems": [],
+  "icon": "achievement_pvp_p_15",
+  "criteria": [
+    {
+      "id": 13253,
+      "description": "Get 100000 honorable kills",
+      "orderIndex": 1,
+      "max": 100000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 11016,
+  "name": "Soul Bite",
+  "icon": "spell_shadow_siphonmana",
+  "description": "Drains health and mana from an enemy, transferring them to the caster.",
+  "range": "Melee Range",
+  "castTime": "2 sec cast"
+}

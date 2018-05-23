@@ -1,0 +1,102 @@
+{
+  "id": 9691,
+  "title": "Flock Together",
+  "points": 5,
+  "description": "Defeat 12 Master Tamers in Broken Isles with all Flying pets.",
+  "rewardItems": [],
+  "icon": "ability_skyreach_flying_charge",
+  "criteria": [
+    {
+      "id": 32545,
+      "description": "Nightwatcher Merayl",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 32554,
+      "description": "Bodhi Sunwayver",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 32563,
+      "description": "Tiffany Nelson",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 32572,
+      "description": "Amalia",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 32581,
+      "description": "Sir Galveston",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 32590,
+      "description": "Bredda Tenderhide",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 32599,
+      "description": "Grixis Tinypop",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 32608,
+      "description": "Odrogg",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 32617,
+      "description": "Robert Craig",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 32626,
+      "description": "Trapper Jarrun",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 32635,
+      "description": "Aulier",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 32644,
+      "description": "Master Tamer Flummox",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 32653,
+      "description": "Varenne",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 32662,
+      "description": "Durian Strongfruit",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 32671,
+      "description": "Xorvasc",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,12 @@
+{
+  "id": 11012,
+  "title": "Vindictive Gladiator: Legion Season 1",
+  "points": 0,
+  "description": "End Legion PvP season 1 in the top 0.1% of the arena ladder (requires 50 games won in Legion Season 1).",
+  "reward": "Title Reward: Vindictive Gladiator",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_08",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

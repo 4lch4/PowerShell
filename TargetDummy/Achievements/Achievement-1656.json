@@ -1,0 +1,79 @@
+{
+  "id": 1656,
+  "title": "Hallowed Be Thy Name",
+  "points": 10,
+  "description": "Complete the Hallow's End achievements listed below.",
+  "reward": "Title Reward: The Hallowed",
+  "rewardItems": [],
+  "icon": "achievement_halloween_witch_01",
+  "criteria": [
+    {
+      "id": 5831,
+      "description": "Trick or Treat!",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 5832,
+      "description": "Out With It",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5833,
+      "description": "Bring Me The Head of... Oh Wait",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5834,
+      "description": "The Savior of Hallow's End",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5836,
+      "description": "That Sparkling Smile",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Rotten Hallow",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 5838,
+      "description": "G.N.E.R.D. Rage",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 5839,
+      "description": "Check Your Head",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 5840,
+      "description": "The Masquerade",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 5841,
+      "description": "Sinister Calling",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 5842,
+      "description": "Tricks and Treats of Azeroth",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

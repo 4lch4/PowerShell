@@ -1,0 +1,138 @@
+{
+  "id": 1263,
+  "title": "Explore Howling Fjord",
+  "points": 10,
+  "description": "Explore Howling Fjord, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_howlingfjord_01",
+  "criteria": [
+    {
+      "id": 4136,
+      "description": "Kamagua",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4137,
+      "description": "Cauldros Isle",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4138,
+      "description": "Camp Winterhoof",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4139,
+      "description": "Apothecary Camp",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4140,
+      "description": "Vengeance Landing",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4141,
+      "description": "Steel Gate",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4142,
+      "description": "Scalawag Point",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4143,
+      "description": "Nifflevar",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4144,
+      "description": "Gjalerbron",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4146,
+      "description": "Ember Clutch",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4147,
+      "description": "Giant's Run",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4148,
+      "description": "Fort Wildervar",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4149,
+      "description": "Ivald's Ruin",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4150,
+      "description": "Halgrind",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4151,
+      "description": "New Agamand",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4152,
+      "description": "Skorn",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4153,
+      "description": "The Twisted Glade",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4154,
+      "description": "Utgarde Keep",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4155,
+      "description": "Westguard Keep",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4157,
+      "description": "Baelgun's Excavation Site",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 4158,
+      "description": "Baleheim",
+      "orderIndex": 21,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

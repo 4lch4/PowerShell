@@ -1,0 +1,24 @@
+{
+  "id": 7103,
+  "title": "Greed is Good",
+  "points": 10,
+  "description": "Gain both the Berserking and Restoration buffs at the same time in Silvershard Mines.",
+  "rewardItems": [],
+  "icon": "ability_racial_packhobgoblin",
+  "criteria": [
+    {
+      "id": 20994,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20993,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

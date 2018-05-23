@@ -1,0 +1,18 @@
+{
+  "id": 8949,
+  "title": "Mythic: Kargath Bladefist",
+  "points": 10,
+  "description": "Defeat Kargath Bladefist in Highmaul on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_highmaul_kargath",
+  "criteria": [
+    {
+      "id": 24642,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

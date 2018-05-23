@@ -1,0 +1,24 @@
+{
+  "id": 279,
+  "title": "Simply Abominable",
+  "points": 10,
+  "description": "Complete the quest to retrieve Smokywood Pastures' stolen treats and receive a Smokywood Pastures' Thank You.",
+  "rewardItems": [],
+  "icon": "inv_helmet_68",
+  "criteria": [
+    {
+      "id": 6223,
+      "description": "A Smokywood Pastures' Thank You!",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6224,
+      "description": "A Smokywood Pastures' Thank You!",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

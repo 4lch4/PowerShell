@@ -1,0 +1,18 @@
+{
+  "id": 11749,
+  "title": "Suns Out, Thori'dals Out",
+  "points": 10,
+  "description": "Collect any class armor set from Sunwell Plateau.",
+  "rewardItems": [],
+  "icon": "achievement_boss_kiljaedan",
+  "criteria": [
+    {
+      "id": 36364,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

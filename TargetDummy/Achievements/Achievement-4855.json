@@ -1,0 +1,19 @@
+{
+  "id": 4855,
+  "title": "What was Briefly Yours is Now Mine",
+  "points": 10,
+  "description": "Find 10 rare artifacts.",
+  "reward": "Title Reward: Associate Professor",
+  "rewardItems": [],
+  "icon": "trade_archaeology_dwarf_artifactfragment",
+  "criteria": [
+    {
+      "id": 16194,
+      "description": "Find 10 rare artifacts.",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

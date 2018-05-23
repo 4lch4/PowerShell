@@ -1,0 +1,37 @@
+{
+  "id": 10626,
+  "title": "Zoom!",
+  "points": 5,
+  "description": "Help Zoom win the snail race in Stonedark Grotto.",
+  "rewardItems": [
+    {
+      "id": 137298,
+      "name": "Zoom",
+      "icon": "inv_checkered_flag",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "trade_archaeology_fossil_snailshell",
+  "criteria": [
+    {
+      "id": 30231,
+      "description": "Zoom Wins!",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

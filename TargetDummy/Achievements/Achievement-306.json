@@ -1,0 +1,54 @@
+{
+  "id": 306,
+  "title": "Master Angler of Azeroth",
+  "points": 20,
+  "description": "Win the Booty Bay fishing contest.",
+  "rewardItems": [],
+  "icon": "inv_misc_fish_06",
+  "criteria": [
+    {
+      "id": 406,
+      "description": "Win the Booty Bay fishing contest",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22515,
+      "description": "Win the Booty Bay fishing contest",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22514,
+      "description": "Win the Booty Bay fishing contest",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22516,
+      "description": "Boots of the Bay",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3850,
+      "description": "Hook of the Master Angler",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3849,
+      "description": "Arcanite Fishing Pole",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 34982,
+      "description": "Win the Booty Bay fishing contest",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

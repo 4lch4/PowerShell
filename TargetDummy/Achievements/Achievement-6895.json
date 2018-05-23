@@ -1,0 +1,18 @@
+{
+  "id": 6895,
+  "title": "Scarlet Halls Challenger",
+  "points": 0,
+  "description": "Complete the Scarlet Halls Challenge Mode.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_scarlethalls_hourglass",
+  "criteria": [
+    {
+      "id": 20719,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

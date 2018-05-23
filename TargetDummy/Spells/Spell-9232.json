@@ -1,0 +1,8 @@
+{
+  "id": 9232,
+  "name": "Scarlet Resurrection",
+  "icon": "spell_holy_resurrection",
+  "description": "Resurrects a friendly target with full health and mana.",
+  "range": "50,000 yd range",
+  "castTime": "2 sec cast"
+}

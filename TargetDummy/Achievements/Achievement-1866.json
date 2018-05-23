@@ -1,0 +1,18 @@
+{
+  "id": 1866,
+  "title": "Good Grief",
+  "points": 10,
+  "description": "Defeat the Maiden of Grief in the Halls of Stone on Heroic Difficulty in 1 minute or less.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_ulduar77_10man",
+  "criteria": [
+    {
+      "id": 7143,
+      "description": "Kill the Maiden of Grief in 1 minute or less.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

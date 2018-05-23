@@ -1,0 +1,18 @@
+{
+  "id": 11545,
+  "title": "Legionfall Commander",
+  "points": 5,
+  "description": "Earn Revered status with the Armies of Legionfall.",
+  "rewardItems": [],
+  "icon": "achievement_faction_legionfall",
+  "criteria": [
+    {
+      "id": 35977,
+      "description": "",
+      "orderIndex": 0,
+      "max": 21000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 884,
+  "title": "Swift White Hawkstrider",
+  "points": 0,
+  "description": "Obtain the Swift White Hawkstrider from Kael'thas Sunstrider in Magister's Terrace.",
+  "rewardItems": [],
+  "icon": "ability_mount_cockatricemountelite_green",
+  "criteria": [
+    {
+      "id": 6165,
+      "description": "Swift White Hawkstrider",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

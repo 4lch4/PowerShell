@@ -1,0 +1,67 @@
+{
+  "id": 9478,
+  "title": "Savage Friends",
+  "points": 5,
+  "description": "Earn Exalted with 1 Draenor reputation.",
+  "reward": "Reward: Unlocks Trading Post, Level 3 Blueprint",
+  "rewardItems": [],
+  "icon": "achievement_reputation_03",
+  "criteria": [
+    {
+      "id": 25826,
+      "description": "",
+      "orderIndex": 0,
+      "max": 42000
+    },
+    {
+      "id": 25827,
+      "description": "",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 25828,
+      "description": "",
+      "orderIndex": 2,
+      "max": 42000
+    },
+    {
+      "id": 25829,
+      "description": "",
+      "orderIndex": 3,
+      "max": 42000
+    },
+    {
+      "id": 25341,
+      "description": "",
+      "orderIndex": 4,
+      "max": 42000
+    },
+    {
+      "id": 25831,
+      "description": "",
+      "orderIndex": 5,
+      "max": 42000
+    },
+    {
+      "id": 28980,
+      "description": "",
+      "orderIndex": 6,
+      "max": 42000
+    },
+    {
+      "id": 28979,
+      "description": "",
+      "orderIndex": 7,
+      "max": 42000
+    },
+    {
+      "id": 28981,
+      "description": "",
+      "orderIndex": 8,
+      "max": 42000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 0
+}

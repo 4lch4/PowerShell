@@ -1,0 +1,18 @@
+{
+  "id": 5220,
+  "title": "I'm in the Black Lodge",
+  "points": 10,
+  "description": "In a single Twin Peaks battle, kill 2 flag carriers before they leave the Dragonmaw Flag Room.",
+  "rewardItems": [],
+  "icon": "achievement_bg_killflagcarriers_grabflag_capit",
+  "criteria": [
+    {
+      "id": 14828,
+      "description": "Kill 2 flag carriers before they leave the Dragonmaw Forge",
+      "orderIndex": 0,
+      "max": 2
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

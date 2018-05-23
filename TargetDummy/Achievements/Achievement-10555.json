@@ -1,0 +1,18 @@
+{
+  "id": 10555,
+  "title": "Buggy Fight",
+  "points": 10,
+  "description": "Defeat Nythendra in The Emerald Nightmare after squishing 15 Glow Bugs on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "inv_misc_bugsprayer",
+  "criteria": [
+    {
+      "id": 29705,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

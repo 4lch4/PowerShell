@@ -1,0 +1,18 @@
+{
+  "id": 8016,
+  "title": "Assault on Zan'vess",
+  "points": 10,
+  "description": "Defeat Commander Tel'vrak in Assault on Zan'vess.",
+  "rewardItems": [],
+  "icon": "achievement_raid_mantidraid03",
+  "criteria": [
+    {
+      "id": 22299,
+      "description": "Defeat Commander Tel'vrak",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

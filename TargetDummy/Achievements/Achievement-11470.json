@@ -1,0 +1,18 @@
+{
+  "id": 11470,
+  "title": "Slayin' to Seven",
+  "points": 10,
+  "description": "Reach Prestige Level 7.",
+  "rewardItems": [],
+  "icon": "achievement_legionpvp2tier3",
+  "criteria": [
+    {
+      "id": 35025,
+      "description": "Reach Prestige Level 7.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,120 @@
+{
+  "id": 845,
+  "title": "Explore Ashenvale",
+  "points": 10,
+  "description": "Explore Ashenvale, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ashenvale_01",
+  "criteria": [
+    {
+      "id": 1323,
+      "description": "The Zoram Strand",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14094,
+      "description": "Orendil's Retreat",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14095,
+      "description": "Silverwind Refuge",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 14096,
+      "description": "Thunder Peak",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1324,
+      "description": "Lake Falathim",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1325,
+      "description": "Maestra's Post",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1326,
+      "description": "Thistlefur Village",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1327,
+      "description": "The Shrine of Aessina",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1329,
+      "description": "Astranaar",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1331,
+      "description": "The Ruins of Stardust",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1333,
+      "description": "The Howling Vale",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1334,
+      "description": "Raynewood Retreat",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1335,
+      "description": "Fallen Sky Lake",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1336,
+      "description": "Splintertree Post",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1337,
+      "description": "Satyrnaar",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1338,
+      "description": "Bough Shadow",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1339,
+      "description": "Warsong Lumber Camp",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1340,
+      "description": "Felfire Hill",
+      "orderIndex": 18,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

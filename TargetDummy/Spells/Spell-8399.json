@@ -1,0 +1,9 @@
+{
+  "id": 8399,
+  "name": "Sleep",
+  "icon": "spell_nature_sleep",
+  "description": "Puts nearby enemies to sleep for up to 6 sec. Any damage caused will awaken them.",
+  "range": "30 yd range",
+  "powerCost": "80 Mana",
+  "castTime": "1.5 sec cast"
+}

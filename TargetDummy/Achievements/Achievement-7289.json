@@ -1,0 +1,18 @@
+{
+  "id": 7289,
+  "title": "Shadow Hopper",
+  "points": 10,
+  "description": "Bounce a ball with a hatchling 25 times in a row without dropping it.",
+  "rewardItems": [],
+  "icon": "inv_pandarenserpentpet",
+  "criteria": [
+    {
+      "id": 21045,
+      "description": "",
+      "orderIndex": 0,
+      "max": 25
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

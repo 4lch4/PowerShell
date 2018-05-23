@@ -1,0 +1,9 @@
+{
+  "id": 8114,
+  "name": "Versatility",
+  "subtext": "Rank 3",
+  "icon": "spell_shadow_burningspirit",
+  "description": "Increases the target's Versatility by 7 for 30 min.  This effect counts as a Battle Elixir.",
+  "range": "30 yd range",
+  "castTime": "3 sec cast"
+}

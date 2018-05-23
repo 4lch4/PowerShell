@@ -1,0 +1,18 @@
+{
+  "id": 6762,
+  "title": "Heroic: Scholomance",
+  "points": 10,
+  "description": "Defeat Darkmaster Gandling in Scholomance on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "spell_holy_senseundead",
+  "criteria": [
+    {
+      "id": 19673,
+      "description": "Darkmaster Gandling",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

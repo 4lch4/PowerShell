@@ -1,0 +1,18 @@
+{
+  "id": 6744,
+  "title": "Realm First! Level 90 Paladin",
+  "points": 0,
+  "description": "First paladin on the realm to achieve level 90.",
+  "rewardItems": [],
+  "icon": "ability_thunderbolt",
+  "criteria": [
+    {
+      "id": 5215,
+      "description": "Level to 90",
+      "orderIndex": 0,
+      "max": 90
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

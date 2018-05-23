@@ -1,0 +1,24 @@
+{
+  "id": 6622,
+  "title": "Big City Pet Brawler",
+  "points": 10,
+  "description": "Complete each of the Big City Pet Brawlin' achievements listed below.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_winpetbattle_northrend",
+  "criteria": [
+    {
+      "id": 19436,
+      "description": "Big City Pet Brawlin' - Horde",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19435,
+      "description": "Big City Pet Brawlin' - Alliance",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

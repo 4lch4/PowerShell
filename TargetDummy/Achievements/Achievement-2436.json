@@ -1,0 +1,42 @@
+{
+  "id": 2436,
+  "title": "Desert Rose",
+  "points": 10,
+  "description": "Use Spring Robes to plant a flower in each of the deserts listed below.",
+  "rewardItems": [],
+  "icon": "spell_shaman_giftearthmother",
+  "criteria": [
+    {
+      "id": 9138,
+      "description": "The Badlands",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9139,
+      "description": "Desolace",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 9142,
+      "description": "Silithus",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9140,
+      "description": "Tanaris",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 9141,
+      "description": "Thousand Needles",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

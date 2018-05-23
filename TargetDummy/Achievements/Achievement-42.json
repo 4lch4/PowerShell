@@ -1,0 +1,162 @@
+{
+  "id": 42,
+  "title": "Eastern Kingdoms Explorer",
+  "points": 25,
+  "description": "Explore the regions of Eastern Kingdoms.",
+  "rewardItems": [],
+  "icon": "achievement_zone_easternkingdoms_01",
+  "criteria": [
+    {
+      "id": 1285,
+      "description": "Elwynn Forest",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1278,
+      "description": "Arathi Highlands",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1279,
+      "description": "Badlands",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1280,
+      "description": "Blasted Lands",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1281,
+      "description": "Burning Steppes",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1283,
+      "description": "Dun Morogh",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1284,
+      "description": "Duskwood",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1287,
+      "description": "Hillsbrad Foothills",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1288,
+      "description": "Loch Modan",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1289,
+      "description": "Redridge Mountains",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1290,
+      "description": "Tirisfal Glades",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1550,
+      "description": "Eversong Woods",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1291,
+      "description": "Searing Gorge",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1292,
+      "description": "Silverpine Forest",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1551,
+      "description": "Ghostlands",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1293,
+      "description": "Northern Stranglethorn",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1277,
+      "description": "Cape of Stranglethorn",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1294,
+      "description": "Swamp of Sorrows",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 1295,
+      "description": "The Hinterlands",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 1297,
+      "description": "Westfall",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 1298,
+      "description": "Wetlands",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 1282,
+      "description": "Deadwind Pass",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 1296,
+      "description": "Western Plaguelands",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 1286,
+      "description": "Eastern Plaguelands",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 1796,
+      "description": "Isle of Quel'Danas",
+      "orderIndex": 25,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

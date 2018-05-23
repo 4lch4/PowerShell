@@ -1,0 +1,67 @@
+{
+  "id": 9527,
+  "title": "Terrific Technology",
+  "points": 5,
+  "description": "Use at least 6 of the inventions available at the Workshop specified below.",
+  "reward": "Reward: Unlocks Gnomish Gearworks/Goblin Workshop, Level 3 Blueprint",
+  "rewardItems": [],
+  "icon": "garrison_building_workshop",
+  "criteria": [
+    {
+      "id": 26627,
+      "description": "Robo-Rooster",
+      "orderIndex": 0,
+      "max": 20
+    },
+    {
+      "id": 26628,
+      "description": "Sticky Grenade Launcher",
+      "orderIndex": 1,
+      "max": 50
+    },
+    {
+      "id": 0,
+      "description": "Pneumatic Power Gauntlet",
+      "orderIndex": 2,
+      "max": 50
+    },
+    {
+      "id": 0,
+      "description": "Prototype Motorcycle",
+      "orderIndex": 3,
+      "max": 50
+    },
+    {
+      "id": 26631,
+      "description": "\"Skyterror\" Personal Delivery System",
+      "orderIndex": 4,
+      "max": 10
+    },
+    {
+      "id": 26632,
+      "description": "GG-117 Micro-Jetpack",
+      "orderIndex": 5,
+      "max": 10
+    },
+    {
+      "id": 26635,
+      "description": "Sentry Turret Dispensor",
+      "orderIndex": 6,
+      "max": 10
+    },
+    {
+      "id": 26633,
+      "description": "XD-57 \"Bullseye\" Guided Rocket Kit",
+      "orderIndex": 7,
+      "max": 5
+    },
+    {
+      "id": 26634,
+      "description": "N.U.K.U.L.A.R. Target Painter",
+      "orderIndex": 8,
+      "max": 5
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,7 @@
+{
+  "id": 8078,
+  "name": "Thunderclap",
+  "icon": "spell_nature_thunderclap",
+  "description": "Inflicts Nature damage to nearby enemies, increasing the time between their attacks and slowing their movement speed for 6 sec.",
+  "castTime": "Instant"
+}

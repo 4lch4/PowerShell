@@ -1,0 +1,55 @@
+{
+  "id": 8051,
+  "title": "Gods and Monsters",
+  "points": 10,
+  "description": "Discover each of the lore objects in Pandaria that tell of the dark origins of the mogu.",
+  "rewardItems": [
+    {
+      "id": 94199,
+      "name": "Gods and Monsters",
+      "icon": "trade_archaeology_silverscrollcase",
+      "quality": 1,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_faction_lorewalkers",
+  "criteria": [
+    {
+      "id": 22717,
+      "description": "Agents of Order",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22718,
+      "description": "Shadow, Storm, and Stone",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22719,
+      "description": "The Curse and the Silence",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22720,
+      "description": "Age of a Hundred Kings",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7334,
+  "title": "Instruments of Cruelty",
+  "points": 10,
+  "description": "Discover the following artifacts.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20639,
+      "description": "Manacles of Rebellion",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20640,
+      "description": "Petrified Bone Whip",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20641,
+      "description": "Warlord's Branding Iron",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 20642,
+      "description": "Anatomical Dummy",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

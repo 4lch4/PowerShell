@@ -1,0 +1,18 @@
+{
+  "id": 6518,
+  "title": "I Heard You Like Amber...",
+  "points": 10,
+  "description": "Kill Living Amber in Burning Amber until at least 8 pools overlap, and then defeat Amber-Shaper Un'sok on Normal or Heroic difficulty in Heart of Fear.",
+  "rewardItems": [],
+  "icon": "spell_yorsahj_bloodboil_yellow",
+  "criteria": [
+    {
+      "id": 19219,
+      "description": "I Heard You Like Amber",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

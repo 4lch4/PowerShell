@@ -1,0 +1,18 @@
+{
+  "id": 636,
+  "title": "Razorfen Downs",
+  "points": 10,
+  "description": "Defeat Amnennar the Coldbringer.",
+  "rewardItems": [],
+  "icon": "achievement_boss_amnennar_the_coldbringer",
+  "criteria": [
+    {
+      "id": 24977,
+      "description": "Amnennar the Coldbringer",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

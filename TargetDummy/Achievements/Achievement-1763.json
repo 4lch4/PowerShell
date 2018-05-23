@@ -1,0 +1,18 @@
+{
+  "id": 1763,
+  "title": "Artillery Veteran",
+  "points": 10,
+  "description": "Destroy 100 vehicles using a turret.",
+  "rewardItems": [],
+  "icon": "inv_weapon_rifle_19",
+  "criteria": [
+    {
+      "id": 7625,
+      "description": "Destroy 100 vehicles using a turret",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

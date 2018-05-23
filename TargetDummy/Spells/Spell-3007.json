@@ -1,0 +1,7 @@
+{
+  "id": 3007,
+  "name": "Godheal",
+  "icon": "spell_nature_healingtouch",
+  "description": "Restores 100% health every 1 sec.",
+  "castTime": "Instant"
+}

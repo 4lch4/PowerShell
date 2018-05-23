@@ -1,0 +1,30 @@
+{
+  "id": 562,
+  "title": "The Arachnid Quarter (10 player)",
+  "points": 10,
+  "description": "Defeat the bosses of The Arachnid Quarter of Naxxramas in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_trinket_naxxramas04",
+  "criteria": [
+    {
+      "id": 5100,
+      "description": "Anub'Rekhan",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6430,
+      "description": "Grand Widow Faerlina",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5102,
+      "description": "Maexxna",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

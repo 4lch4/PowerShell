@@ -1,0 +1,30 @@
+{
+  "id": 275,
+  "title": "Veteran Nanny",
+  "points": 50,
+  "description": "Acquire Egbert's Egg, Sleepy Willy, and Elekk Training Collar on one character.",
+  "rewardItems": [],
+  "icon": "inv_misc_toy_01",
+  "criteria": [
+    {
+      "id": 9167,
+      "description": "Peanut",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9168,
+      "description": "Willy",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 9169,
+      "description": "Egbert",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

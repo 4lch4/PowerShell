@@ -1,0 +1,36 @@
+{
+  "id": 4437,
+  "title": "BB King",
+  "points": 10,
+  "description": "Pelt the enemy leaders listed below.",
+  "rewardItems": [],
+  "icon": "inv_weapon_rifle_01",
+  "criteria": [
+    {
+      "id": 12664,
+      "description": "Muradin Bronzebeard",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 12667,
+      "description": "Prophet Velen",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12666,
+      "description": "Tyrande Whisperwind",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 35831,
+      "description": "Anduin Wrynn",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

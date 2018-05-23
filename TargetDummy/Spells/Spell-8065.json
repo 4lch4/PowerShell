@@ -1,0 +1,8 @@
+{
+  "id": 8065,
+  "name": "Invigorate",
+  "subtext": "Rank 2",
+  "icon": "spell_holy_greaterheal",
+  "description": "Heal your target for 462.",
+  "castTime": "Instant"
+}

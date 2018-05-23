@@ -1,0 +1,18 @@
+{
+  "id": 202,
+  "title": "Quick Cap",
+  "points": 10,
+  "description": "Grab the flag and capture it in under 75 seconds.",
+  "rewardItems": [],
+  "icon": "achievement_bg_grab_cap_flagunderxseconds",
+  "criteria": [
+    {
+      "id": 5602,
+      "description": "Cap in 75 seconds",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

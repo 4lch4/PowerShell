@@ -1,0 +1,18 @@
+{
+  "id": 10591,
+  "title": "All Grown Up",
+  "points": 10,
+  "description": "Work with Nomi to open the test kitchen.",
+  "rewardItems": [],
+  "icon": "trade_cooking_2",
+  "criteria": [
+    {
+      "id": 29881,
+      "description": "Complete the quest, \"Opening the Test Kitchen\".",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

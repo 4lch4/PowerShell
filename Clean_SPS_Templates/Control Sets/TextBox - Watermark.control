@@ -1,0 +1,64 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a textbox that displays a light gray watermark when the user hasn't typed any input.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABYSURBVDhPY6AY1M/d+Z9cDDeAHEAfA4DSUBYCwMRoYwBIEqYABGB8dDEQwDAAmyJ8YnhdAMIwPgygi9HPBch8EICxsRpACqCuAeRisAEUg//gMCIXMDAAAPhvbFRbEplKAAAAAElFTkSuQmCC</Icon>
+  <Identifiers>
+    <ID id="1" name="textboxWatermark" type="object" />
+    <ID id="2" name="textboxWatermark_TextChanged" type="event" />
+    <ID id="3" name="Watermark_VisibleChanged" type="event" shared="True" />
+    <ID id="4" name="Watermark_Enter" type="event" shared="True" />
+    <ID id="5" name="Watermark_Leave" type="event" shared="True" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="Location">12, 12</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="Size">120, 20</Property>
+      <Property name="TabIndex">0</Property>
+	  <Property name="ForeColor">LightGray</Property>
+      <Property name="Text">Please enter text here.</Property>
+      <Event name="TextChanged">%ID:2%</Event>
+      <Event name="VisibleChanged">%ID:3%</Event>
+      <Event name="Enter">%ID:4%</Event>
+      <Event name="Leave">%ID:5%</Event>
+    </Object>
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%={
+# 	NOTE: Make sure you ignore the default watermark text when validating
+#	if($textboxWatermark.Text -eq $textboxWatermark.Tag)
+#	{
+#		#ignore or invalid input	
+#	}
+}]]></Event>
+    <Event id="3"><![CDATA[$%ID:3%={
+	if($this.Visible -and $null -eq $this.Tag)
+	{
+		#Initialize the watermark and save it in the Tag property
+		$this.Tag = $this.Text;
+		$this.ForeColor = 'LightGray'
+		#If we have focus then clear out the text
+		if($this.Focused)
+		{
+			$this.Text = ""
+			$this.ForeColor = 'WindowText'
+		}
+	}
+}]]></Event>
+    <Event id="4"><![CDATA[$%ID:4%={
+	if($this.Text -eq $this.Tag)
+	{
+		#Clear the text
+		$this.Text = ""
+		$this.ForeColor = 'WindowText'
+	}
+}]]></Event>
+    <Event id="5"><![CDATA[$%ID:5%={
+	if($this.Text -eq "")
+	{
+		#Display the watermark
+		$this.Text = $this.Tag
+		$this.ForeColor = 'LightGray'
+	}
+}]]></Event>
+  </Events>
+</ControlTemplate>

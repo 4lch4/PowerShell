@@ -1,0 +1,18 @@
+{
+  "id": 4847,
+  "title": "The Vortex Pinnacle",
+  "points": 10,
+  "description": "Defeat Asaad in the Vortex Pinnacle.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_skywall",
+  "criteria": [
+    {
+      "id": 13566,
+      "description": "Asaad",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

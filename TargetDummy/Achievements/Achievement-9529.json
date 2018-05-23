@@ -1,0 +1,18 @@
+{
+  "id": 9529,
+  "title": "On the Shadow's Trail",
+  "points": 10,
+  "description": "Complete the Frostfire Ridge storyline listed below.",
+  "rewardItems": [],
+  "icon": "spell_shadow_nethercloak",
+  "criteria": [
+    {
+      "id": 24519,
+      "description": "To Capture Gul'dan",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

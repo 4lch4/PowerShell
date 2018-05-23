@@ -1,0 +1,18 @@
+{
+  "id": 1996,
+  "title": "The Safety Dance (10 player)",
+  "points": 10,
+  "description": "Defeat Heigan the Unclean in Naxxramas without anyone in the raid dying in 10 player mode.",
+  "rewardItems": [],
+  "icon": "ability_rogue_quickrecovery",
+  "criteria": [
+    {
+      "id": 7264,
+      "description": "Defeat Heigan the Unclean without anyone in the raid dying.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

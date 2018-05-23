@@ -1,0 +1,18 @@
+{
+  "id": 6758,
+  "title": "Heroic: Temple of the Jade Serpent",
+  "points": 10,
+  "description": "Defeat the Sha of Doubt in Temple of the Jade Serpent on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_jadeserpent",
+  "criteria": [
+    {
+      "id": 19668,
+      "description": "Sha of Doubt",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

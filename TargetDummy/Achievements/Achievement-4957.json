@@ -1,0 +1,360 @@
+{
+  "id": 4957,
+  "title": "20 Dungeon Quests Completed",
+  "points": 10,
+  "description": "Complete 20 dungeon quests.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_07",
+  "criteria": [
+    {
+      "id": 16552,
+      "description": "",
+      "orderIndex": 1,
+      "max": 20
+    },
+    {
+      "id": 16553,
+      "description": "",
+      "orderIndex": 2,
+      "max": 20
+    },
+    {
+      "id": 16554,
+      "description": "",
+      "orderIndex": 3,
+      "max": 20
+    },
+    {
+      "id": 16555,
+      "description": "",
+      "orderIndex": 4,
+      "max": 20
+    },
+    {
+      "id": 16556,
+      "description": "",
+      "orderIndex": 5,
+      "max": 20
+    },
+    {
+      "id": 16557,
+      "description": "",
+      "orderIndex": 6,
+      "max": 20
+    },
+    {
+      "id": 16558,
+      "description": "",
+      "orderIndex": 7,
+      "max": 20
+    },
+    {
+      "id": 16559,
+      "description": "",
+      "orderIndex": 8,
+      "max": 20
+    },
+    {
+      "id": 16560,
+      "description": "",
+      "orderIndex": 9,
+      "max": 20
+    },
+    {
+      "id": 16561,
+      "description": "",
+      "orderIndex": 10,
+      "max": 20
+    },
+    {
+      "id": 16562,
+      "description": "",
+      "orderIndex": 11,
+      "max": 20
+    },
+    {
+      "id": 16563,
+      "description": "",
+      "orderIndex": 12,
+      "max": 20
+    },
+    {
+      "id": 16564,
+      "description": "",
+      "orderIndex": 13,
+      "max": 20
+    },
+    {
+      "id": 16565,
+      "description": "",
+      "orderIndex": 14,
+      "max": 20
+    },
+    {
+      "id": 16566,
+      "description": "",
+      "orderIndex": 15,
+      "max": 20
+    },
+    {
+      "id": 16567,
+      "description": "",
+      "orderIndex": 16,
+      "max": 20
+    },
+    {
+      "id": 16568,
+      "description": "",
+      "orderIndex": 17,
+      "max": 20
+    },
+    {
+      "id": 16569,
+      "description": "",
+      "orderIndex": 18,
+      "max": 20
+    },
+    {
+      "id": 16570,
+      "description": "",
+      "orderIndex": 19,
+      "max": 20
+    },
+    {
+      "id": 16571,
+      "description": "",
+      "orderIndex": 20,
+      "max": 20
+    },
+    {
+      "id": 16572,
+      "description": "",
+      "orderIndex": 21,
+      "max": 20
+    },
+    {
+      "id": 16573,
+      "description": "",
+      "orderIndex": 22,
+      "max": 20
+    },
+    {
+      "id": 16574,
+      "description": "",
+      "orderIndex": 23,
+      "max": 20
+    },
+    {
+      "id": 16575,
+      "description": "",
+      "orderIndex": 24,
+      "max": 20
+    },
+    {
+      "id": 16576,
+      "description": "",
+      "orderIndex": 25,
+      "max": 20
+    },
+    {
+      "id": 16577,
+      "description": "",
+      "orderIndex": 26,
+      "max": 20
+    },
+    {
+      "id": 16578,
+      "description": "",
+      "orderIndex": 27,
+      "max": 20
+    },
+    {
+      "id": 16579,
+      "description": "",
+      "orderIndex": 28,
+      "max": 20
+    },
+    {
+      "id": 16580,
+      "description": "",
+      "orderIndex": 29,
+      "max": 20
+    },
+    {
+      "id": 16581,
+      "description": "",
+      "orderIndex": 30,
+      "max": 20
+    },
+    {
+      "id": 16582,
+      "description": "",
+      "orderIndex": 31,
+      "max": 20
+    },
+    {
+      "id": 16583,
+      "description": "",
+      "orderIndex": 32,
+      "max": 20
+    },
+    {
+      "id": 16584,
+      "description": "",
+      "orderIndex": 33,
+      "max": 20
+    },
+    {
+      "id": 16585,
+      "description": "",
+      "orderIndex": 34,
+      "max": 20
+    },
+    {
+      "id": 16586,
+      "description": "",
+      "orderIndex": 35,
+      "max": 20
+    },
+    {
+      "id": 16587,
+      "description": "",
+      "orderIndex": 36,
+      "max": 20
+    },
+    {
+      "id": 16588,
+      "description": "",
+      "orderIndex": 37,
+      "max": 20
+    },
+    {
+      "id": 16589,
+      "description": "",
+      "orderIndex": 38,
+      "max": 20
+    },
+    {
+      "id": 16590,
+      "description": "",
+      "orderIndex": 39,
+      "max": 20
+    },
+    {
+      "id": 16591,
+      "description": "",
+      "orderIndex": 40,
+      "max": 20
+    },
+    {
+      "id": 16592,
+      "description": "",
+      "orderIndex": 41,
+      "max": 20
+    },
+    {
+      "id": 16593,
+      "description": "",
+      "orderIndex": 42,
+      "max": 20
+    },
+    {
+      "id": 16594,
+      "description": "",
+      "orderIndex": 43,
+      "max": 20
+    },
+    {
+      "id": 16595,
+      "description": "",
+      "orderIndex": 44,
+      "max": 20
+    },
+    {
+      "id": 16596,
+      "description": "",
+      "orderIndex": 45,
+      "max": 20
+    },
+    {
+      "id": 16597,
+      "description": "",
+      "orderIndex": 46,
+      "max": 20
+    },
+    {
+      "id": 16598,
+      "description": "",
+      "orderIndex": 47,
+      "max": 20
+    },
+    {
+      "id": 16599,
+      "description": "",
+      "orderIndex": 48,
+      "max": 20
+    },
+    {
+      "id": 16600,
+      "description": "",
+      "orderIndex": 49,
+      "max": 20
+    },
+    {
+      "id": 16601,
+      "description": "",
+      "orderIndex": 50,
+      "max": 20
+    },
+    {
+      "id": 16602,
+      "description": "",
+      "orderIndex": 51,
+      "max": 20
+    },
+    {
+      "id": 16603,
+      "description": "",
+      "orderIndex": 52,
+      "max": 20
+    },
+    {
+      "id": 16604,
+      "description": "",
+      "orderIndex": 53,
+      "max": 20
+    },
+    {
+      "id": 16605,
+      "description": "",
+      "orderIndex": 54,
+      "max": 20
+    },
+    {
+      "id": 16606,
+      "description": "",
+      "orderIndex": 55,
+      "max": 20
+    },
+    {
+      "id": 17419,
+      "description": "",
+      "orderIndex": 56,
+      "max": 20
+    },
+    {
+      "id": 16607,
+      "description": "",
+      "orderIndex": 57,
+      "max": 20
+    },
+    {
+      "id": 17420,
+      "description": "",
+      "orderIndex": 58,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

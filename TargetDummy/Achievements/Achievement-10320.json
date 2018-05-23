@@ -1,0 +1,24 @@
+{
+  "id": 10320,
+  "title": "Collector's Edition: Illidari Felstalker",
+  "points": 0,
+  "description": "Owner of the Legion Collector's Edition Illidari Felstalker mount.",
+  "rewardItems": [],
+  "icon": "inv_felstalkermount",
+  "criteria": [
+    {
+      "id": 28785,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28786,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

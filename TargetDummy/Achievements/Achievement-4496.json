@@ -1,0 +1,18 @@
+{
+  "id": 4496,
+  "title": "It's Over Nine Thousand!",
+  "points": 10,
+  "description": "Earn more than 9000 achievement points.",
+  "rewardItems": [],
+  "icon": "ability_warrior_innerrage",
+  "criteria": [
+    {
+      "id": 12698,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

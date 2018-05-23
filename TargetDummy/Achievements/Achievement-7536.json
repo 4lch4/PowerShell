@@ -1,0 +1,18 @@
+{
+  "id": 7536,
+  "title": "Chapter IV: Celestial Blessings",
+  "points": 0,
+  "description": "Accompany Wrathion on his journey to obtain blessings from the four August Celestials.",
+  "rewardItems": [],
+  "icon": "inv_legendary_theblackprince",
+  "criteria": [
+    {
+      "id": 23362,
+      "description": "Complete Quest \"Cloak of Virtue.\"",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

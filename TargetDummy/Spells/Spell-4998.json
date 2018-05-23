@@ -1,0 +1,8 @@
+{
+  "id": 4998,
+  "name": "[PH] Teleport to Grom'Gol",
+  "icon": "trade_engineering",
+  "description": "Sends player to Grom'Gol",
+  "range": "20 yd range",
+  "castTime": "2 sec cast"
+}

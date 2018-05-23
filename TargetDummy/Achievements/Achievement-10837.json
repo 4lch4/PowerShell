@@ -1,0 +1,30 @@
+{
+  "id": 10837,
+  "title": "Royal Athenaeum",
+  "points": 10,
+  "description": "Defeat the following bosses within The Nighthold.",
+  "rewardItems": [],
+  "icon": "achievement_thenighthold_highbotanisttelam",
+  "criteria": [
+    {
+      "id": 31447,
+      "description": "Spellblade Aluriel",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 31448,
+      "description": "Star Augur Etraeus",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 31449,
+      "description": "High Botanist Tel'arn",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

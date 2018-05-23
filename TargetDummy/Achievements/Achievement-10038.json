@@ -1,0 +1,18 @@
+{
+  "id": 10038,
+  "title": "Mythic: Fel Lord Zakuun",
+  "points": 10,
+  "description": "Defeat Fel Lord Zakuun in Hellfire Citadel on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_fellord",
+  "criteria": [
+    {
+      "id": 28101,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

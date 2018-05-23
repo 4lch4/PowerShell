@@ -1,0 +1,49 @@
+{
+  "id": 762,
+  "title": "Ambassador of the Horde",
+  "points": 10,
+  "description": "Earn Exalted reputation with all six Horde factions.",
+  "reward": "Title Reward: Ambassador",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_16",
+  "criteria": [
+    {
+      "id": 16825,
+      "description": "Exalted Bilgewater Cartel",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 5313,
+      "description": "Exalted Darkspear Trolls",
+      "orderIndex": 2,
+      "max": 42000
+    },
+    {
+      "id": 5314,
+      "description": "Exalted Orgrimmar",
+      "orderIndex": 3,
+      "max": 42000
+    },
+    {
+      "id": 5317,
+      "description": "Exalted Silvermoon City",
+      "orderIndex": 4,
+      "max": 42000
+    },
+    {
+      "id": 5315,
+      "description": "Exalted Thunder Bluff",
+      "orderIndex": 5,
+      "max": 42000
+    },
+    {
+      "id": 5316,
+      "description": "Exalted Undercity",
+      "orderIndex": 6,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

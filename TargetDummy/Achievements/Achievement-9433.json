@@ -1,0 +1,18 @@
+{
+  "id": 9433,
+  "title": "A-VOID-ance",
+  "points": 10,
+  "description": "Defeat Kenos without using Void Implosion to slay any Coalesced Void Fragments in the Shadowmoon Enclave.",
+  "rewardItems": [],
+  "icon": "ability_rogue_envelopingshadows",
+  "criteria": [
+    {
+      "id": 25746,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

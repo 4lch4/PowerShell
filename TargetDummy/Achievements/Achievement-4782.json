@@ -1,0 +1,48 @@
+{
+  "id": 4782,
+  "title": "Green Brewfest Stein",
+  "points": 0,
+  "description": "Proud owner of the 2009 Vintage Green Brewfest Stein.",
+  "rewardItems": [],
+  "icon": "inv_misc_beer_06",
+  "criteria": [
+    {
+      "id": 13372,
+      "description": "Green Brewfest Stein",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13373,
+      "description": "Filled Green Brewfest Stein",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 13374,
+      "description": "Filled Green Brewfest Stein",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 13375,
+      "description": "Filled Green Brewfest Stein",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 13376,
+      "description": "Filled Green Brewfest Stein",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 13377,
+      "description": "Filled Green Brewfest Stein",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

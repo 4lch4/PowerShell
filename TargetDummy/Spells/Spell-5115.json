@@ -1,0 +1,7 @@
+{
+  "id": 5115,
+  "name": "Battle Command",
+  "icon": "ability_racial_bloodrage",
+  "description": "Increases the attack speed of nearby allies by 50% for 6 sec.",
+  "castTime": "Instant"
+}

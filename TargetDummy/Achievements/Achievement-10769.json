@@ -1,0 +1,18 @@
+{
+  "id": 10769,
+  "title": "Burning Down the House",
+  "points": 10,
+  "description": "Defeat the Shade of Xavius while he has 10 stacks of Apocalyptic Empowerment in Darkheart Thicket on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "ability_xavius_nightmareinfusion",
+  "criteria": [
+    {
+      "id": 31344,
+      "description": "Defeat the Shade of Xavius while he has 10 stacks of Apocalyptic Empowerment",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

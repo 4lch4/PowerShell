@@ -1,0 +1,54 @@
+{
+  "id": 10597,
+  "title": "Legion Aquaculture",
+  "points": 10,
+  "description": "Catch 100 normal fish in Legion.",
+  "rewardItems": [],
+  "icon": "achievement_profession_fishing_northrendangler",
+  "criteria": [
+    {
+      "id": 29922,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    },
+    {
+      "id": 29923,
+      "description": "",
+      "orderIndex": 1,
+      "max": 100
+    },
+    {
+      "id": 29924,
+      "description": "",
+      "orderIndex": 2,
+      "max": 100
+    },
+    {
+      "id": 29925,
+      "description": "",
+      "orderIndex": 3,
+      "max": 100
+    },
+    {
+      "id": 29926,
+      "description": "",
+      "orderIndex": 4,
+      "max": 100
+    },
+    {
+      "id": 29927,
+      "description": "",
+      "orderIndex": 5,
+      "max": 100
+    },
+    {
+      "id": 29928,
+      "description": "",
+      "orderIndex": 6,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

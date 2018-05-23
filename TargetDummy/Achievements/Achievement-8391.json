@@ -1,0 +1,30 @@
+{
+  "id": 8391,
+  "title": "Tournament Participation 2013",
+  "points": 0,
+  "description": "Participated in the 2013 Tournament Arena Realm.",
+  "rewardItems": [
+    {
+      "id": 45180,
+      "name": "Murkimus' Little Spear",
+      "icon": "inv_spear_05",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_spear_06",
+  "criteria": [],
+  "accountWide": true,
+  "factionId": 2
+}

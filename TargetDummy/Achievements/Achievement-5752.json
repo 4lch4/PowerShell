@@ -1,0 +1,18 @@
+{
+  "id": 5752,
+  "title": "Justly Rewarded",
+  "points": 10,
+  "description": "Make 30,000 gold from quest rewards.",
+  "rewardItems": [],
+  "icon": "inv_misc_coin_16",
+  "criteria": [
+    {
+      "id": 4092,
+      "description": "",
+      "orderIndex": 0,
+      "max": 300000000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

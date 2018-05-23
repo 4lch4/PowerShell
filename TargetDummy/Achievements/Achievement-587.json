@@ -1,0 +1,36 @@
+{
+  "id": 587,
+  "title": "Stormy Assassin",
+  "points": 10,
+  "description": "In a single Eye of the Storm battle, get 5 honorable kills at each of the bases.",
+  "rewardItems": [],
+  "icon": "ability_druid_galewinds",
+  "criteria": [
+    {
+      "id": 441,
+      "description": "Kill 5 people at the Blood Elf Tower",
+      "orderIndex": 1,
+      "max": 5
+    },
+    {
+      "id": 442,
+      "description": "Kill 5 people at the Draenei Ruins",
+      "orderIndex": 2,
+      "max": 5
+    },
+    {
+      "id": 443,
+      "description": "Kill 5 people at the Fel Reaver ruins",
+      "orderIndex": 3,
+      "max": 5
+    },
+    {
+      "id": 444,
+      "description": "Kill 5 people at the Mage Tower",
+      "orderIndex": 4,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1766,
+  "title": "Ancient Protector",
+  "points": 10,
+  "description": "Kill 10 players in the Courtyard of the Ancients in a single battle.",
+  "rewardItems": [],
+  "icon": "ability_rogue_bloodsplatter",
+  "criteria": [
+    {
+      "id": 7630,
+      "description": "Kill 10 players in the Courtyard of the Ancients in a single battle",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

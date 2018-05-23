@@ -1,0 +1,18 @@
+{
+  "id": 710,
+  "title": "The Defiler",
+  "points": 10,
+  "description": "Gain exalted reputation with The Forsaken Defilers.",
+  "rewardItems": [],
+  "icon": "spell_shadow_psychichorrors",
+  "criteria": [
+    {
+      "id": 5318,
+      "description": "Exalted with The Defilers",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11711,
+  "title": "The Fierce and the Furious",
+  "points": 10,
+  "description": "Collect any class armor set from PvP Season 6.",
+  "rewardItems": [],
+  "icon": "inv_mace_17",
+  "criteria": [
+    {
+      "id": 36233,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

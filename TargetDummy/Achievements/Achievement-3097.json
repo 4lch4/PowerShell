@@ -1,0 +1,18 @@
+{
+  "id": 3097,
+  "title": "Dwarfageddon (10 player)",
+  "points": 10,
+  "description": "Destroy 100 Steelforged Defenders in 10 seconds on the Ulduar gauntlet in 10-player mode.",
+  "rewardItems": [],
+  "icon": "ability_vehicle_liquidpyrite_blue",
+  "criteria": [
+    {
+      "id": 10858,
+      "description": "Steelforged Defenders slain",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

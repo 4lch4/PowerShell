@@ -1,0 +1,29 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a button that prevents multiple clicks.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPrVMxTsNAEMwjeAEfgI6GJ1DSIjpeQEtDgaj5AhIlEhIKBYpCg5AoDA0pCMhSUCDYju1znEvi+DLsrmPHkYIUIk4az96cdzx3Olcq/zEubi2s7x6jsn24FNZ2jsA98m0utg7OcPf0jmXHi92RHjHhL9etN0wmkz+hbjWz1BzbmPTXZgq5cE3HUbZdfgyHAzExaYqUOGWegg1YN8ZMOUUchYRgZqB1jGScIEkSPhjBeDyam+ca6ypwBUUCrXuSYkTImRu4zliX6gF870tQMojAKdgoT8Ccz3Wf1gii9Xtwvz8EhYFSHuKekheYizrONdpzHBbrnbYNRmEQhi4i5QvKCRbNleqi3WoSXmcGnvuJIHAQ+A5COpzAJxBnNelS8zrrDlp2QyAJ+FrWHx7hdzuCrkecgzWuWS/VPplUazVwr1zlzf1TnF9eo/F8vxSubqrY2DuZ/x9W/pkg92b18QOnKJlT8dLI+gAAAABJRU5ErkJggg==</Icon>
+  <Identifiers>
+    <ID id="1" name="buttonSingleClick" type="object" />
+    <ID id="2" name="buttonSingleClick_Click" type="event" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="Location">12, 227</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="Size">75, 23</Property>
+      <Property name="TabIndex">1</Property>
+      <Property name="Text">Single Click</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">%ID:2%</Event>
+    </Object>
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%={
+	$this.Enabled = $False
+	#TODO: Place custom script here
+
+	#Process the pending messages before enabling the button
+	[System.Windows.Forms.Application]::DoEvents()
+	$this.Enabled = $True
+}]]></Event>
+  </Events>
+</ControlTemplate>

@@ -1,0 +1,84 @@
+{
+  "id": 9224,
+  "title": "Take Them Out",
+  "points": 10,
+  "description": "Defeat all of the Alliance Captains listed below within The Road of Glory.",
+  "rewardItems": [],
+  "icon": "ability_hunter_rapidkilling",
+  "criteria": [
+    {
+      "id": 26289,
+      "description": "Defeat Alune Windmane",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26290,
+      "description": "Defeat Anne Otther",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26291,
+      "description": "Defeat Avenger Turley",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26293,
+      "description": "Defeat Chani Malflame",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 26294,
+      "description": "Defeat Hildie Hackerguard",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26295,
+      "description": "Defeat Jackson Bajheera",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 26296,
+      "description": "Defeat John Swifty",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 26297,
+      "description": "Defeat Malda Brewbelly",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 26298,
+      "description": "Defeat Mathias Zunn",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 26299,
+      "description": "Defeat Shani Freezewind",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 26300,
+      "description": "Defeat Taylor Dewland",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 26301,
+      "description": "Defeat Tosan Galaxyfist",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

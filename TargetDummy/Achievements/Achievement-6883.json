@@ -1,0 +1,18 @@
+{
+  "id": 6883,
+  "title": "Silvershard Mines Veteran",
+  "points": 10,
+  "description": "Complete 100 victories in Silvershard Mines.",
+  "rewardItems": [],
+  "icon": "achievement_battleground_silvershardmines",
+  "criteria": [
+    {
+      "id": 19659,
+      "description": "Complete 100 victories in Silvershard Mines",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

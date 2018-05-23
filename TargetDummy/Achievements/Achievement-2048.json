@@ -1,0 +1,18 @@
+{
+  "id": 2048,
+  "title": "Gonna Go When the Volcano Blows (25 player)",
+  "points": 10,
+  "description": "Defeat Sartharion the Onyx Guardian without getting hit by Lava Strike in 25-player mode.",
+  "rewardItems": [],
+  "icon": "spell_shaman_lavaflow",
+  "criteria": [
+    {
+      "id": 7327,
+      "description": "Sartharion the Onyx Guardian",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

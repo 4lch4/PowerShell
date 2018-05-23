@@ -1,0 +1,18 @@
+{
+  "id": 11132,
+  "title": "10,000 World Quests Completed",
+  "points": 5,
+  "description": "Complete 10,000 World Quests.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_07",
+  "criteria": [
+    {
+      "id": 33094,
+      "description": "",
+      "orderIndex": 0,
+      "max": 10000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

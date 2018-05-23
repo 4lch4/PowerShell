@@ -1,0 +1,24 @@
+{
+  "id": 1678,
+  "title": "Loremaster of Kalimdor",
+  "points": 10,
+  "description": "Complete the Kalimdor quest achievements listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_kalimdor_01",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "All Criteria",
+      "orderIndex": 0,
+      "max": 14
+    },
+    {
+      "id": 22230,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

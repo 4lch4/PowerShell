@@ -1,0 +1,18 @@
+{
+  "id": 9711,
+  "title": "Planned to Fail",
+  "points": 10,
+  "description": "Destroy 10 Secret Warplans in Iron Siegeworks.",
+  "rewardItems": [],
+  "icon": "inv_misc_map09",
+  "criteria": [
+    {
+      "id": 26675,
+      "description": "Destroy 10 Secret Warplans",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

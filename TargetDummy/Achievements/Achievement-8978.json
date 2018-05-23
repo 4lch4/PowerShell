@@ -1,0 +1,18 @@
+{
+  "id": 8978,
+  "title": "The Iron Price",
+  "points": 10,
+  "description": "Collect 3 Pristine True Iron Ores and then defeat Gruul in Blackrock Foundry in Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "inv_ingot_iron",
+  "criteria": [
+    {
+      "id": 24786,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

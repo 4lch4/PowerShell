@@ -1,0 +1,18 @@
+{
+  "id": 11185,
+  "title": "Keystone Conqueror",
+  "points": 10,
+  "description": "Complete a Level 10 or higher Mythic dungeon within the time limit.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_gold",
+  "criteria": [
+    {
+      "id": 33098,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

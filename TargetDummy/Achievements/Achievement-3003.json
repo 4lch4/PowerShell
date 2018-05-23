@@ -1,0 +1,24 @@
+{
+  "id": 3003,
+  "title": "Supermassive (10 player)",
+  "points": 10,
+  "description": "Defeat Algalon the Observer after closing 3 Black Holes within 10 seconds in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_shadow_mindtwisting",
+  "criteria": [
+    {
+      "id": 10780,
+      "description": "Close 3 Black Holes within 10 seconds",
+      "orderIndex": 1,
+      "max": 3
+    },
+    {
+      "id": 10781,
+      "description": "Defeat Algalon the Observer",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

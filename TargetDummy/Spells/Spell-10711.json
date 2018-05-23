@@ -1,0 +1,7 @@
+{
+  "id": 10711,
+  "name": "Snowshoe Rabbit",
+  "icon": "inv_crate_02",
+  "description": "Right Click to summon and dismiss your rabbit.",
+  "castTime": "Instant"
+}

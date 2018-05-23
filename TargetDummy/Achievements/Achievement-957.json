@@ -1,0 +1,18 @@
+{
+  "id": 957,
+  "title": "Hero of the Zandalar Tribe",
+  "points": 0,
+  "description": "Earn exalted status with the Zandalar Tribe.",
+  "rewardItems": [],
+  "icon": "inv_bijou_green",
+  "criteria": [
+    {
+      "id": 2050,
+      "description": "Exalted with the Zandalar Tribe",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

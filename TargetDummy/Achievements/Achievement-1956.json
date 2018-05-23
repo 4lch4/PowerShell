@@ -1,0 +1,80 @@
+{
+  "id": 1956,
+  "title": "Higher Learning",
+  "points": 10,
+  "description": "Read the volumes of \"The Schools of Arcane Magic\" found in Dalaran listed below.",
+  "reward": "Reward: The Schools of Arcane Magic - Mastery",
+  "rewardItems": [
+    {
+      "id": 43824,
+      "name": "The Schools of Arcane Magic - Mastery",
+      "icon": "inv_misc_book_11",
+      "quality": 3,
+      "itemLevel": 80,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_misc_book_11",
+  "criteria": [
+    {
+      "id": 7236,
+      "description": "The Schools of Arcane Magic - Introduction",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7237,
+      "description": "The Schools of Arcane Magic - Abjuration",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7238,
+      "description": "The Schools of Arcane Magic - Conjuration",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7239,
+      "description": "The Schools of Arcane Magic - Divination",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7240,
+      "description": "The Schools of Arcane Magic - Enchantment",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7241,
+      "description": "The Schools of Arcane Magic - Illusion",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7242,
+      "description": "The Schools of Arcane Magic - Necromancy",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 7243,
+      "description": "The Schools of Arcane Magic - Transmutation",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

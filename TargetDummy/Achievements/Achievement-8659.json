@@ -1,0 +1,18 @@
+{
+  "id": 8659,
+  "title": "Hero of the Horde: Prideful",
+  "points": 0,
+  "description": "End PvP season 15 in the top .5% of the rated battleground ladder.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_h",
+  "criteria": [
+    {
+      "id": 15308,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

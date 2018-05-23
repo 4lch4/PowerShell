@@ -1,0 +1,10 @@
+{
+  "id": 5321,
+  "name": "Ishamuhale's Rage",
+  "subtext": "Rank 1",
+  "icon": "spell_nature_purge",
+  "description": "Increases the Stamina of the target by 2 for 30 min.",
+  "range": "30 yd range",
+  "castTime": "Instant",
+  "cooldown": "1 sec cooldown"
+}

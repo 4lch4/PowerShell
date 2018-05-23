@@ -1,0 +1,42 @@
+{
+  "id": 5848,
+  "title": "Fish or Cut Bait: Darnassus",
+  "points": 10,
+  "description": "Complete each of the Darnassus fishing daily quests.",
+  "rewardItems": [],
+  "icon": "inv_fishingpole_06",
+  "criteria": [
+    {
+      "id": 17754,
+      "description": "Happy as a Clam Digger",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17755,
+      "description": "Stocking Up",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17756,
+      "description": "The Sister's Pendant",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17757,
+      "description": "A Slippery Snack",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17758,
+      "description": "An Old Favorite",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

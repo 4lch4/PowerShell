@@ -1,0 +1,18 @@
+{
+  "id": 897,
+  "title": "You're So Offensive",
+  "points": 10,
+  "description": "Earn Exalted status with the Shattered Sun Offensive.",
+  "rewardItems": [],
+  "icon": "inv_shield_48",
+  "criteria": [
+    {
+      "id": 4761,
+      "description": "Exalted with Shattered Sun Offensive",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

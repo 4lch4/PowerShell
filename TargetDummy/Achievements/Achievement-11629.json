@@ -1,0 +1,18 @@
+{
+  "id": 11629,
+  "title": "Untamed Beauty",
+  "points": 10,
+  "description": "Collect any class armor set from PvP Season 16.",
+  "rewardItems": [],
+  "icon": "ability_druid_primaltenacity",
+  "criteria": [
+    {
+      "id": 35671,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

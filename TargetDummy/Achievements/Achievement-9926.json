@@ -1,0 +1,18 @@
+{
+  "id": 9926,
+  "title": "Hero of the Storm",
+  "points": 0,
+  "description": "Owner of the Graves pet from the Heroes of the Storm promotion.",
+  "rewardItems": [],
+  "icon": "inv_gravegolempet",
+  "criteria": [
+    {
+      "id": 27884,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

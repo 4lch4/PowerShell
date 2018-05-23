@@ -1,0 +1,18 @@
+{
+  "id": 10771,
+  "title": "Webbing Crashers",
+  "points": 10,
+  "description": "Defeat Elerethe Renferal in The Emerald Nightmare after destroying all her Pulsing Egg Sacs during the encounter on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "spell_nature_web",
+  "criteria": [
+    {
+      "id": 31347,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

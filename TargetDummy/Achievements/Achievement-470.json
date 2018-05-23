@@ -1,0 +1,18 @@
+{
+  "id": 470,
+  "title": "Corporal",
+  "points": 0,
+  "description": "Earned the title, \"Corporal\" at level 60.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_02",
+  "criteria": [
+    {
+      "id": 739,
+      "description": "Corporal",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,134 @@
+{
+  "id": 11180,
+  "title": "Glory of the Legion Raider",
+  "points": 25,
+  "description": "Complete the Legion raid achievements listed below.",
+  "reward": "Mount Reward: Grove Defiler",
+  "rewardItems": [
+    {
+      "id": 141216,
+      "name": "Defiled Reins",
+      "icon": "inv_moosemount2nightmare",
+      "quality": 4,
+      "itemLevel": 110,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_helmet_mail_legionendgame_c_01",
+  "criteria": [
+    {
+      "id": 32351,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 32339,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 32342,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 32336,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 32349,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 32338,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 32340,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 32348,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 32346,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 32343,
+      "description": "",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 32337,
+      "description": "",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 32335,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 32341,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 32344,
+      "description": "",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 32350,
+      "description": "",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 32345,
+      "description": "",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 32347,
+      "description": "",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

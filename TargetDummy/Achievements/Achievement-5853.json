@@ -1,0 +1,36 @@
+{
+  "id": 5853,
+  "title": "A-Caroling We Will Go",
+  "points": 10,
+  "description": "Use your Gaudy Winter Veil Sweater to carol in enemy capital cities during the Feast of Winter Veil.",
+  "rewardItems": [],
+  "icon": "spell_holy_divinehymn",
+  "criteria": [
+    {
+      "id": 17780,
+      "description": "Orgrimmar",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17781,
+      "description": "Silvermoon City",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17782,
+      "description": "Thunder Bluff",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17783,
+      "description": "Undercity",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

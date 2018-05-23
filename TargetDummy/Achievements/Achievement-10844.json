@@ -1,0 +1,18 @@
+{
+  "id": 10844,
+  "title": "Mythic: Spellblade Aluriel",
+  "points": 10,
+  "description": "Defeat Spellblade Aluriel in The Nighthold on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_thenighthold_spellbladealuriel",
+  "criteria": [
+    {
+      "id": 31457,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

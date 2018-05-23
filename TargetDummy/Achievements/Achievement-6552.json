@@ -1,0 +1,72 @@
+{
+  "id": 6552,
+  "title": "Friends on the Farm",
+  "points": 10,
+  "description": "Become best friends with all of the characters at the Halfhill Market.",
+  "rewardItems": [],
+  "icon": "achievement_reputation_03",
+  "criteria": [
+    {
+      "id": 19398,
+      "description": "Farmer Fung",
+      "orderIndex": 0,
+      "max": 42000
+    },
+    {
+      "id": 19402,
+      "description": "Jogu the Drunk",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 19396,
+      "description": "Chee Chee",
+      "orderIndex": 2,
+      "max": 42000
+    },
+    {
+      "id": 19404,
+      "description": "Sho",
+      "orderIndex": 3,
+      "max": 42000
+    },
+    {
+      "id": 19397,
+      "description": "Ella",
+      "orderIndex": 4,
+      "max": 42000
+    },
+    {
+      "id": 19405,
+      "description": "Tina Mudclaw",
+      "orderIndex": 5,
+      "max": 42000
+    },
+    {
+      "id": 19403,
+      "description": "Old Hillpaw",
+      "orderIndex": 6,
+      "max": 42000
+    },
+    {
+      "id": 19401,
+      "description": "Haohan Mudclaw",
+      "orderIndex": 7,
+      "max": 42000
+    },
+    {
+      "id": 19399,
+      "description": "Fish Fellreed",
+      "orderIndex": 8,
+      "max": 42000
+    },
+    {
+      "id": 19400,
+      "description": "Gina Mudclaw",
+      "orderIndex": 9,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

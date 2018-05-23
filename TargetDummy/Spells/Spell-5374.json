@@ -1,0 +1,8 @@
+{
+  "id": 5374,
+  "name": "Mutilate",
+  "icon": "ability_dualwield",
+  "description": "Instantly attacks for 54,195 Physical damage. Awards 2 combo points.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

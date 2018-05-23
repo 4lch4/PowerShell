@@ -1,0 +1,18 @@
+{
+  "id": 7462,
+  "title": "A Rare Catch",
+  "points": 5,
+  "description": "Capture a rare quality battle pet.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_catchrarepet",
+  "criteria": [
+    {
+      "id": 21238,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

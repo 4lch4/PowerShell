@@ -1,0 +1,18 @@
+{
+  "id": 9813,
+  "title": "Big Powermonger: Bronze",
+  "points": 5,
+  "description": "Complete The Real Big Race with the Powermonger within 30 tolls.",
+  "rewardItems": [],
+  "icon": "inv_checkered_flag",
+  "criteria": [
+    {
+      "id": 27536,
+      "description": "Complete The Real Big Race with the Powermonger within 35 tolls.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,19 @@
+{
+  "id": 11232,
+  "title": "Lock, Stock and Two Smoking Goblins",
+  "points": 5,
+  "description": "Complete the quest \"Time to Collect.\"",
+  "reward": "Title Reward: The Gullible",
+  "rewardItems": [],
+  "icon": "achievement_goblinheaddead",
+  "criteria": [
+    {
+      "id": 33089,
+      "description": "Time to Collect",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

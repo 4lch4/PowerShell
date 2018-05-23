@@ -1,0 +1,210 @@
+{
+  "id": 692,
+  "title": "Gruul's Lair",
+  "points": 10,
+  "description": "Defeat Gruul the Dragonkiller in Gruul's Lair.",
+  "rewardItems": [],
+  "icon": "achievement_boss_gruulthedragonkiller",
+  "criteria": [
+    {
+      "id": 3256,
+      "description": "Gruul the Dragonkiller",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4493,
+      "description": "The Cudgel of Kar'desh",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4908,
+      "description": "Aldori Legacy Defender",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4909,
+      "description": "Axe of the Gronn Lords",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4910,
+      "description": "Bloodmaw Magus-Blade",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4911,
+      "description": "Collar of Cho'gall",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4912,
+      "description": "Cowl of Nature's Breath",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4913,
+      "description": "Dragonspine Trophy",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4914,
+      "description": "Eye of Gruul",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4915,
+      "description": "Gauntlets of Martial Perfection",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4916,
+      "description": "Gauntlets of the Dragonslayer",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4917,
+      "description": "Gronn-Stitched Girdle",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4918,
+      "description": "Shuriken of Negation",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4919,
+      "description": "Teeth of Gruul",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4920,
+      "description": "Windshear Boots",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4921,
+      "description": "Cyclone Kilt",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4922,
+      "description": "Cyclone Legguards",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4923,
+      "description": "Cyclone War-Kilt",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4924,
+      "description": "Justicar Greaves",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4925,
+      "description": "Justicar Leggings",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 4926,
+      "description": "Justicar Legguards",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 4927,
+      "description": "Netherblade Breeches",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 4928,
+      "description": "Britches of Malorne",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 4929,
+      "description": "Greaves of Malorne",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 4930,
+      "description": "Legguards of Malorne",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 4931,
+      "description": "Leggings of the Incarnate",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 4932,
+      "description": "Trousers of the Incarnate",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 4933,
+      "description": "Warbringer Greaves",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 4934,
+      "description": "Warbringer Legguards",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 4935,
+      "description": "Demon Stalker Greaves",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 4936,
+      "description": "Legwraps of the Aldor",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 4937,
+      "description": "Voidheart Leggings",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 9079,
+      "description": "Earthen Signet",
+      "orderIndex": 33,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

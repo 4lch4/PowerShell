@@ -1,0 +1,38 @@
+{
+  "id": 2536,
+  "title": "Mountain o' Mounts",
+  "points": 10,
+  "description": "Obtain 100 mounts (usable by a single character).",
+  "reward": "Reward: Blue Dragonhawk Mount",
+  "rewardItems": [
+    {
+      "id": 44843,
+      "name": "Blue Dragonhawk",
+      "icon": "ability_hunter_pet_dragonhawk",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "ability_hunter_pet_dragonhawk",
+  "criteria": [
+    {
+      "id": 4787,
+      "description": "Obtain 100 mounts",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": true,
+  "factionId": 0
+}

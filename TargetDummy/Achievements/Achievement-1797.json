@@ -1,0 +1,54 @@
+{
+  "id": 1797,
+  "title": "Chef de Partie",
+  "points": 10,
+  "description": "Learn 75 cooking recipes.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_60",
+  "criteria": [
+    {
+      "id": 7221,
+      "description": "",
+      "orderIndex": 0,
+      "max": 75
+    },
+    {
+      "id": 22276,
+      "description": "",
+      "orderIndex": 1,
+      "max": 75
+    },
+    {
+      "id": 22280,
+      "description": "",
+      "orderIndex": 2,
+      "max": 75
+    },
+    {
+      "id": 22278,
+      "description": "",
+      "orderIndex": 3,
+      "max": 75
+    },
+    {
+      "id": 22279,
+      "description": "",
+      "orderIndex": 4,
+      "max": 75
+    },
+    {
+      "id": 22277,
+      "description": "",
+      "orderIndex": 5,
+      "max": 75
+    },
+    {
+      "id": 22275,
+      "description": "",
+      "orderIndex": 6,
+      "max": 75
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

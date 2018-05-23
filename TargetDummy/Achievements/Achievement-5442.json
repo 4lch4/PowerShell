@@ -1,0 +1,60 @@
+{
+  "id": 5442,
+  "title": "Full Caravan",
+  "points": 10,
+  "description": "Recruit all 8 characters into Fiona's travelling party in Eastern Plaguelands.",
+  "rewardItems": [],
+  "icon": "inv_misc_crop_02",
+  "criteria": [
+    {
+      "id": 15624,
+      "description": "Fiona",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15625,
+      "description": "Gidwin Goldbraids",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15626,
+      "description": "Tarenar Sunstrike",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15627,
+      "description": "Argus Highbeacon",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15628,
+      "description": "Pamela Redpath",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 15629,
+      "description": "Vex'tul",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 15630,
+      "description": "Rimblat Earthshatter",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 17428,
+      "description": "Beezil Linkspanner",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

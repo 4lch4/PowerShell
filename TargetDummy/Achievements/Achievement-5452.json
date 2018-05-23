@@ -1,0 +1,18 @@
+{
+  "id": 5452,
+  "title": "Visions of Vashj'ir Past",
+  "points": 10,
+  "description": "Witness the 3 visions of the Naz'jar Battlemaiden in Vashj'ir.",
+  "rewardItems": [],
+  "icon": "achievement_boss_ladyvashj",
+  "criteria": [
+    {
+      "id": 15647,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

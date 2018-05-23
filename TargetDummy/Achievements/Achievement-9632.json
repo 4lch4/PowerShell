@@ -1,0 +1,18 @@
+{
+  "id": 9632,
+  "title": "The Power Is Yours",
+  "points": 10,
+  "description": "Combine the effects of all three types of Rune Crystals in Shattrath City.",
+  "rewardItems": [],
+  "icon": "shaman_talent_elementalblast",
+  "criteria": [
+    {
+      "id": 26464,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

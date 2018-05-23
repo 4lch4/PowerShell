@@ -1,0 +1,8 @@
+{
+  "id": 6620,
+  "name": "Place Toxic Fogger",
+  "icon": "inv_cask_01",
+  "description": "Place near the Venture Co. Airport",
+  "range": "5 yd range",
+  "castTime": "3 sec cast"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1359,
+  "title": "Might of Dragonblight",
+  "points": 10,
+  "description": "Complete 130 quests in Dragonblight.",
+  "rewardItems": [],
+  "icon": "achievement_zone_dragonblight_07",
+  "criteria": [
+    {
+      "id": 76,
+      "description": "Complete 130 quests in Dragonblight",
+      "orderIndex": 1,
+      "max": 130
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

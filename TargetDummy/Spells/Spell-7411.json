@@ -1,0 +1,7 @@
+{
+  "id": 7411,
+  "name": "Enchanting",
+  "icon": "trade_engraving",
+  "description": "Allows an enchanter to enchant basic items up to a maximum potential skill of 75.  Requires Dusts and Essences found by disenchanting magic items.",
+  "castTime": "Instant"
+}

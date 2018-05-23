@@ -1,0 +1,36 @@
+{
+  "id": 498,
+  "title": "Heroic: The Oculus",
+  "points": 10,
+  "description": "Defeat The Oculus bosses on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_nexus80_heroic",
+  "criteria": [
+    {
+      "id": 6859,
+      "description": "Drakos the Interrogator",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6860,
+      "description": "Mage-Lord Urom",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6861,
+      "description": "Varos Cloudstrider",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5617,
+      "description": "Ley-Guardian Eregos",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

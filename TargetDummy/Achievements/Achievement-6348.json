@@ -1,0 +1,102 @@
+{
+  "id": 6348,
+  "title": "Mystically Superior",
+  "points": 10,
+  "description": "Equip a superior item in every slot with a minimum item level of 450.",
+  "rewardItems": [],
+  "icon": "inv_glove_plate_pvpwarrior_c_01",
+  "criteria": [
+    {
+      "id": 18952,
+      "description": "Head",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18953,
+      "description": "Neck",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 18954,
+      "description": "Shoulder",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18955,
+      "description": "Chest",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 18956,
+      "description": "Waist",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 18957,
+      "description": "Legs",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 18958,
+      "description": "Feet",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 18959,
+      "description": "Wrist",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 18960,
+      "description": "Hands",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 18961,
+      "description": "Left Ring",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 18962,
+      "description": "Right Ring",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 18963,
+      "description": "First Trinket",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 18964,
+      "description": "Second Trinket",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 18965,
+      "description": "Cloak",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 18966,
+      "description": "Weapon",
+      "orderIndex": 15,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

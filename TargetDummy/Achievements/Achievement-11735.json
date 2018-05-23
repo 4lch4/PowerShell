@@ -1,0 +1,18 @@
+{
+  "id": 11735,
+  "title": "Take Command",
+  "points": 5,
+  "description": "Contribute to the Command Center on the Broken Shore 5 times.",
+  "rewardItems": [],
+  "icon": "ability_warrior_charge",
+  "criteria": [
+    {
+      "id": 36002,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

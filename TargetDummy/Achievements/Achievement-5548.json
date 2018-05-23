@@ -1,0 +1,90 @@
+{
+  "id": 5548,
+  "title": "To All the Squirrels Who Cared for Me",
+  "points": 10,
+  "description": "The Cataclysm has brought more critters to Azeroth. You must /love them too.",
+  "rewardItems": [],
+  "icon": "inv_jewelcrafting_crimsonhare",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Alpine Chipmunk",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 16215,
+      "description": "Baradin Fox Kit",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Grotto Vole",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Highlands Turkey",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Mac Frog",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Oasis Moth",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Rattlesnake",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Rock Viper",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 16222,
+      "description": "Rockchewer Whelk",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 16223,
+      "description": "Sassy Cat",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 16224,
+      "description": "Sea Cucumber",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Wharf Rat",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Yellow-Bellied Marmot",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

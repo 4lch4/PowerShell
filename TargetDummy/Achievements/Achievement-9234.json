@@ -1,0 +1,18 @@
+{
+  "id": 9234,
+  "title": "Primal Conquest",
+  "points": 0,
+  "description": "Earn 27,000 Conquest Points in Warlords Season 1.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winwsg",
+  "criteria": [
+    {
+      "id": 25351,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

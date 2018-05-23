@@ -1,0 +1,18 @@
+{
+  "id": 8311,
+  "title": "Heroic: Crypt of Forgotten Kings",
+  "points": 10,
+  "description": "Complete the Crypt of Forgotten Kings scenario on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "archaeology_5_0_keystone_mogu",
+  "criteria": [
+    {
+      "id": 23342,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

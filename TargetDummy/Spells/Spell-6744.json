@@ -1,0 +1,8 @@
+{
+  "id": 6744,
+  "name": "Ram Riding",
+  "icon": "spell_nature_swiftness",
+  "description": "Allows the player to ride a ram.",
+  "range": "100 yd range",
+  "castTime": "Instant"
+}

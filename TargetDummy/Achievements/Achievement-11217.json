@@ -1,0 +1,18 @@
+{
+  "id": 11217,
+  "title": "Many Many Missions, Handle It!",
+  "points": 5,
+  "description": "Complete 500 Class Hall Missions.",
+  "rewardItems": [],
+  "icon": "achievement_garrison_invasion_gold",
+  "criteria": [
+    {
+      "id": 32928,
+      "description": "Complete 500 Class Hall Missions.",
+      "orderIndex": 0,
+      "max": 500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

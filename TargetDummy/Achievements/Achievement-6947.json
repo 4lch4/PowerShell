@@ -1,0 +1,36 @@
+{
+  "id": 6947,
+  "title": "Four Square",
+  "points": 10,
+  "description": "Hold all four Orbs of Power at least once in a single Temple of Kotmogu battle.",
+  "rewardItems": [],
+  "icon": "achievement_battleground_templeofkotmogu",
+  "criteria": [
+    {
+      "id": 20064,
+      "description": "Cyan Orb",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20065,
+      "description": "Purple Orb",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20066,
+      "description": "Green Orb",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 20067,
+      "description": "Orange Orb",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

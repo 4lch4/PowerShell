@@ -1,0 +1,42 @@
+{
+  "id": 10877,
+  "title": "Pillars of Creation",
+  "points": 25,
+  "description": "Scour the Broken Isles and recover all five Pillars of Creation.",
+  "rewardItems": [],
+  "icon": "ability_titankeeper_cleansingorb",
+  "criteria": [
+    {
+      "id": 31588,
+      "description": "Aegis of Aggramar",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 31589,
+      "description": "Tidestone of Golganneth",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 36177,
+      "description": "Eye of Aman'Thul",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 31590,
+      "description": "Hammer of Khaz'goroth",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 31591,
+      "description": "Tears of Elune",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

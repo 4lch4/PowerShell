@@ -1,0 +1,96 @@
+{
+  "id": 6976,
+  "title": "Explore Kun-Lai Summit",
+  "points": 10,
+  "description": "Explore Kun-Lai Summit, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_kunlaisummit",
+  "criteria": [
+    {
+      "id": 20146,
+      "description": "Binan Village",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20147,
+      "description": "Firebough Nook",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20148,
+      "description": "Gate of the August Celestials",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 20149,
+      "description": "Isle of Reckoning",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 20150,
+      "description": "Kota Peak",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 20151,
+      "description": "Mogujia",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 20152,
+      "description": "Mount Neverest",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 20153,
+      "description": "Muskpaw Ranch",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 20154,
+      "description": "Peak of Serenity",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 20155,
+      "description": "Shado-Pan Monastery",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 20156,
+      "description": "Temple of the White Tiger",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 20157,
+      "description": "The Burlap Trail",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 20158,
+      "description": "Valley of Emperors",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 20159,
+      "description": "Zouchin Village",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

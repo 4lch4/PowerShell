@@ -1,0 +1,24 @@
+{
+  "id": 432,
+  "title": "Champion of the Naaru",
+  "points": 0,
+  "description": "Earned the title, \"Champion of the Naaru\".",
+  "rewardItems": [],
+  "icon": "inv_mace_51",
+  "criteria": [
+    {
+      "id": 4494,
+      "description": "Trial of the Naaru",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6789,
+      "description": "Champion of the Naaru",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

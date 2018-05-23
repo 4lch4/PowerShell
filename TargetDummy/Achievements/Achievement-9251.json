@@ -1,0 +1,18 @@
+{
+  "id": 9251,
+  "title": "Ringmaster",
+  "points": 10,
+  "description": "Collect 25 Blazing Rings in one flight session of Firebird's Challenge.",
+  "rewardItems": [],
+  "icon": "spell_shaman_improvedfirenova",
+  "criteria": [
+    {
+      "id": 25378,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

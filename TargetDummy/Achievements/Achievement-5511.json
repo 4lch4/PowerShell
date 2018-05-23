@@ -1,0 +1,66 @@
+{
+  "id": 5511,
+  "title": "It's Always in the Last Place You Look",
+  "points": 10,
+  "description": "Recover archaeology artifacts from each of the following races.",
+  "rewardItems": [],
+  "icon": "trade_archaeology_tuskarr_artifactfragment",
+  "criteria": [
+    {
+      "id": 16197,
+      "description": "Draenei",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 16198,
+      "description": "Dwarf",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 16199,
+      "description": "Fossil",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 16200,
+      "description": "Nerubian",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 16201,
+      "description": "Night Elf",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 16202,
+      "description": "Orc",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 16203,
+      "description": "Tol'vir",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 16204,
+      "description": "Troll",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 16205,
+      "description": "Vrykul",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

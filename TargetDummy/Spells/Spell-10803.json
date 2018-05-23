@@ -1,0 +1,7 @@
+{
+  "id": 10803,
+  "name": "Summon Purple Tallstrider",
+  "icon": "ability_mount_raptor",
+  "description": "Summons and dismisses a rideable tallstrider.",
+  "castTime": "Instant"
+}

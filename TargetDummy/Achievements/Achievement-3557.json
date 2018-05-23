@@ -1,0 +1,36 @@
+{
+  "id": 3557,
+  "title": "Pilgrim's Paunch",
+  "points": 10,
+  "description": "Acquire the Spirit of Sharing from a complete Bountiful Table feast at every Horde capital.",
+  "rewardItems": [],
+  "icon": "inv_misc_organ_10",
+  "criteria": [
+    {
+      "id": 11082,
+      "description": "Orgrimmar",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 11083,
+      "description": "Silvermoon City",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11084,
+      "description": "Thunder Bluff",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 11085,
+      "description": "Undercity",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

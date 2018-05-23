@@ -1,0 +1,78 @@
+{
+  "id": 11160,
+  "title": "Unleashed Monstrosities",
+  "points": 10,
+  "description": "Defeat 8 of the following monstrous creatures on the Broken Isles.",
+  "rewardItems": [],
+  "icon": "inv_misc_stormdragonpurple",
+  "criteria": [
+    {
+      "id": 32097,
+      "description": "Na'zak the Fiend",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 32096,
+      "description": "Nithogg",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 32099,
+      "description": "Humongris",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 32095,
+      "description": "Flotsam",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 32100,
+      "description": "Ana-Mouz",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 32102,
+      "description": "Levantus",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 32094,
+      "description": "Drugon the Frostblood",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "The Soultakers",
+      "orderIndex": 7,
+      "max": 3
+    },
+    {
+      "id": 32101,
+      "description": "Calamir",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 32098,
+      "description": "Shar'thos",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 35022,
+      "description": "Withered J'im",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

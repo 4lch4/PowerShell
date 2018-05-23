@@ -1,0 +1,12 @@
+{
+  "id": 10100,
+  "title": "Rival: Warlords Season 2",
+  "points": 0,
+  "description": "End Warlords PvP season 2 in the top 10% of the arena ladder (requires 50 games won in Warlords Season 2).",
+  "reward": "Title Reward: Rival",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_08",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

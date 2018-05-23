@@ -1,0 +1,228 @@
+{
+  "id": 687,
+  "title": "Temple of Ahn'Qiraj",
+  "points": 10,
+  "description": "Defeat C'Thun.",
+  "rewardItems": [],
+  "icon": "achievement_boss_cthun",
+  "criteria": [
+    {
+      "id": 3274,
+      "description": "C'Thun",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4450,
+      "description": "Striker's Hauberk",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4451,
+      "description": "Deathdealer's Vest",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4452,
+      "description": "Conqueror's Breastplate",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4454,
+      "description": "Genesis Vest",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4455,
+      "description": "Stormcaller's Hauberk",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4453,
+      "description": "Avenger's Breastplate",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4456,
+      "description": "Doomcaller's Robes",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4457,
+      "description": "Enigma Robes",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4458,
+      "description": "Vestments of the Oracle",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4459,
+      "description": "C'Thun's Legacy",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4460,
+      "description": "Atiesh, the Befouled Greatstaff",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4585,
+      "description": "Belt of Never-ending Agony",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4586,
+      "description": "Cloak of Clarity",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4587,
+      "description": "Dark Edge of Insanity",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4588,
+      "description": "Dark Storm Gauntlets",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4589,
+      "description": "Death's Sting",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4590,
+      "description": "Gauntlets of Annihilation",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4591,
+      "description": "Grasp of the Old God",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4592,
+      "description": "Ring of the Godslayer",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 4593,
+      "description": "Scepter of the False Prophet",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 4594,
+      "description": "Vanquished Tentacle of C'Thun",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 4595,
+      "description": "Cloak of the Devoured",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 4596,
+      "description": "Eyestalk Waist Cord",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 4941,
+      "description": "Mark of C'Thun",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 8894,
+      "description": "Conqueror's Breastplate",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 8895,
+      "description": "Avenger's Breastplate",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 8896,
+      "description": "Deathdealer's Vest",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 8897,
+      "description": "Doomcaller's Robes",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 8898,
+      "description": "Enigma Robes",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 8899,
+      "description": "Genesis Vest",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 8900,
+      "description": "Stormcaller's Hauberk",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 8901,
+      "description": "Striker's Hauberk",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 8902,
+      "description": "Vestments of the Oracle",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 8903,
+      "description": "Husk of the Old God",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 9078,
+      "description": "Husk of the Old God",
+      "orderIndex": 36,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

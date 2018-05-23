@@ -1,0 +1,18 @@
+{
+  "id": 1243,
+  "title": "Fish Don't Leave Footprints",
+  "points": 10,
+  "description": "Learn the ability to find fish.",
+  "rewardItems": [],
+  "icon": "achievement_profession_fishing_findfish",
+  "criteria": [
+    {
+      "id": 3681,
+      "description": "Find Fish",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

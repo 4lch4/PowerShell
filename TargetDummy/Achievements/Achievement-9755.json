@@ -1,0 +1,18 @@
+{
+  "id": 9755,
+  "title": "Darkmoon Race Enthusiast",
+  "points": 5,
+  "description": "Successfully complete Welcome to the Darkmoon Races or The Real Race with the Racing Strider.",
+  "rewardItems": [],
+  "icon": "inv_checkered_flag",
+  "criteria": [
+    {
+      "id": 27478,
+      "description": "Successfully complete your first Darkmoon Race",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

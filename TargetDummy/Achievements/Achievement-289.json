@@ -1,0 +1,36 @@
+{
+  "id": 289,
+  "title": "The Savior of Hallow's End",
+  "points": 10,
+  "description": "Complete one of the quests to save a village from the Headless Horseman.",
+  "rewardItems": [],
+  "icon": "achievement_halloween_bat_01",
+  "criteria": [
+    {
+      "id": 2281,
+      "description": "\"Let the Fires Come!\"",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 2282,
+      "description": "\"Let the Fires Come!\"",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2283,
+      "description": "Stop the Fires!",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 2284,
+      "description": "Stop the Fires!",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

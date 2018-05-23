@@ -1,0 +1,30 @@
+{
+  "id": 11578,
+  "title": "Vindictive Elite",
+  "points": 0,
+  "description": "Reach 2000 in any Rated PvP Bracket during Legion Season 1",
+  "rewardItems": [],
+  "icon": "achievement_pvp_legion01",
+  "criteria": [
+    {
+      "id": 35506,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 35490,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 35503,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

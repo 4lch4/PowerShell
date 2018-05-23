@@ -1,0 +1,7 @@
+{
+  "id": 6942,
+  "name": "Overwhelming Stench",
+  "icon": "spell_holiday_tow_spicecloud",
+  "description": "Reduces the Intellect of all nearby enemies.",
+  "castTime": "Instant"
+}

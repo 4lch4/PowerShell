@@ -1,0 +1,18 @@
+{
+  "id": 7411,
+  "title": "10000 Daily Quests Completed",
+  "points": 10,
+  "description": "Complete 10000 daily quests.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_daily_07",
+  "criteria": [
+    {
+      "id": 4984,
+      "description": "",
+      "orderIndex": 0,
+      "max": 10000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

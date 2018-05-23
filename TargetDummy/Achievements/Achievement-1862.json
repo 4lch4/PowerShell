@@ -1,0 +1,18 @@
+{
+  "id": 1862,
+  "title": "Volazj's Quick Demise",
+  "points": 10,
+  "description": "Defeat Herald Volazj in Ahn'kahet on Heroic Difficulty in 2 minutes or less.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_azjollowercity_25man",
+  "criteria": [
+    {
+      "id": 7133,
+      "description": "Kill Herald Volazj on Heroic Difficulty in 2 minutes or less.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

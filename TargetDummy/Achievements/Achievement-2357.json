@@ -1,0 +1,18 @@
+{
+  "id": 2357,
+  "title": "Dreadsteed of Xoroth",
+  "points": 0,
+  "description": "Completed the Dreadsteed of Xoroth warlock quest.",
+  "rewardItems": [],
+  "icon": "ability_mount_dreadsteed",
+  "criteria": [
+    {
+      "id": 8905,
+      "description": "Dreadsteed of Xoroth",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

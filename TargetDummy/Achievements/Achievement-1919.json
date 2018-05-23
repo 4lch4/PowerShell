@@ -1,0 +1,16 @@
+{
+  "id": 1919,
+  "title": "On The Rocks",
+  "points": 10,
+  "description": "Defeat Prince Keleseth in Utgarde Keep on Heroic Difficulty without shattering any Frost Tombs.",
+  "rewardItems": [],
+  "icon": "ability_mage_coldasice",
+  "criteria": [{
+    "id": 7231,
+    "description": "Defeat Prince Keleseth on Heroic Difficulty without shattering any Frost Tombs",
+    "orderIndex": 1,
+    "max": 1
+  }],
+  "accountWide": false,
+  "factionId": 2
+}

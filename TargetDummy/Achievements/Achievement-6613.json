@@ -1,0 +1,156 @@
+{
+  "id": 6613,
+  "title": "Eastern Kingdoms Tamer",
+  "points": 5,
+  "description": "Capture a battle pet in each of the Eastern Kingdoms zones listed below.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_defeatwildpettamers_easternkingdom",
+  "criteria": [
+    {
+      "id": 21419,
+      "description": "Arathi Highlands",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21421,
+      "description": "Badlands",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21422,
+      "description": "Blasted Lands",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21423,
+      "description": "Burning Steppes",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 21427,
+      "description": "Cape of Stranglethorn",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21428,
+      "description": "Deadwind Pass",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 21386,
+      "description": "Duskwood",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21430,
+      "description": "Eastern Plaguelands",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21380,
+      "description": "Elwynn Forest",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 21432,
+      "description": "Eversong Woods",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 21433,
+      "description": "Ghostlands",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 21435,
+      "description": "Hillsbrad Foothills",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 21437,
+      "description": "Hinterlands",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 21440,
+      "description": "Loch Modan",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 21441,
+      "description": "Northern Stranglethorn",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 21385,
+      "description": "Redridge Mountains",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 21442,
+      "description": "Searing Gorge",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 21443,
+      "description": "Silverpine Forest",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 21444,
+      "description": "Swamp of Sorrows",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 21445,
+      "description": "Tirisfal Glades",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 21486,
+      "description": "Twilight Highlands",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 21446,
+      "description": "Western Plaguelands",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 21384,
+      "description": "Westfall",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 21447,
+      "description": "Wetlands",
+      "orderIndex": 23,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,78 @@
+{
+  "id": 388,
+  "title": "City Defender",
+  "points": 10,
+  "description": "Kill 50 enemy players in any of your home cities.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_a",
+  "criteria": [
+    {
+      "id": 5020,
+      "description": "Stormwind City",
+      "orderIndex": 1,
+      "max": 50
+    },
+    {
+      "id": 5021,
+      "description": "Ironforge",
+      "orderIndex": 2,
+      "max": 50
+    },
+    {
+      "id": 5022,
+      "description": "Darnassus",
+      "orderIndex": 3,
+      "max": 50
+    },
+    {
+      "id": 5023,
+      "description": "Cenarion Enclave",
+      "orderIndex": 4,
+      "max": 50
+    },
+    {
+      "id": 5024,
+      "description": "Craftsmen's Terrace",
+      "orderIndex": 5,
+      "max": 50
+    },
+    {
+      "id": 5025,
+      "description": "The Temple Gardens",
+      "orderIndex": 6,
+      "max": 50
+    },
+    {
+      "id": 5026,
+      "description": "Tradesmen's Terrace",
+      "orderIndex": 7,
+      "max": 50
+    },
+    {
+      "id": 5027,
+      "description": "Warrior's Terrace",
+      "orderIndex": 8,
+      "max": 50
+    },
+    {
+      "id": 5028,
+      "description": "The Exodar",
+      "orderIndex": 9,
+      "max": 50
+    },
+    {
+      "id": 5029,
+      "description": "Valley of Heroes",
+      "orderIndex": 10,
+      "max": 50
+    },
+    {
+      "id": 5030,
+      "description": "Stormwind Harbor",
+      "orderIndex": 11,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

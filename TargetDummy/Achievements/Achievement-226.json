@@ -1,0 +1,18 @@
+{
+  "id": 226,
+  "title": "The Alterac Blitz",
+  "points": 20,
+  "description": "Win Alterac Valley in 6 minutes.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winav_underxminutes",
+  "criteria": [
+    {
+      "id": 1241,
+      "description": "Win in 6 minutes",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

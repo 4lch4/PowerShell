@@ -1,0 +1,18 @@
+{
+  "id": 2049,
+  "title": "Twilight Assist (10 player)",
+  "points": 10,
+  "description": "With at least one Twilight Drake still alive, engage and defeat Sartharion the Onyx Guardian in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_coablackdragonflight_normal",
+  "criteria": [
+    {
+      "id": 7328,
+      "description": "Sartharion the Onyx Guardian",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

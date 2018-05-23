@@ -1,0 +1,18 @@
+{
+  "id": 7291,
+  "title": "In a Trail of Smoke",
+  "points": 10,
+  "description": "Finish the Sky Race with 10 stacks of the Fleet Winds buff.",
+  "rewardItems": [],
+  "icon": "achievement_jadeserpent",
+  "criteria": [
+    {
+      "id": 21047,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

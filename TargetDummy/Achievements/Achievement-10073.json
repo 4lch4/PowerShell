@@ -1,0 +1,18 @@
+{
+  "id": 10073,
+  "title": "Echoes of Doomfire",
+  "points": 10,
+  "description": "Defeat Archimonde in Hellfire Citadel with Doomfire still active on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "spell_fire_ragnaros_molteninfernogreen",
+  "criteria": [
+    {
+      "id": 28289,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

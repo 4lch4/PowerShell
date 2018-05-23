@@ -1,0 +1,18 @@
+{
+  "id": 713,
+  "title": "Silverwing Sentinel",
+  "points": 10,
+  "description": "Gain exalted reputation with the Silverwing Sentinels.",
+  "rewardItems": [],
+  "icon": "ability_racial_shadowmeld",
+  "criteria": [
+    {
+      "id": 5334,
+      "description": "Exalted with Silverwing Sentinels",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,48 @@
+{
+  "id": 10672,
+  "title": "Broken Isles Diplomat",
+  "points": 10,
+  "description": "Earn Revered with all of the Broken Isles reputations listed below.",
+  "rewardItems": [],
+  "icon": "achievements_zone_brokenshore",
+  "criteria": [
+    {
+      "id": 30498,
+      "description": "Court of Farondis",
+      "orderIndex": 0,
+      "max": 21000
+    },
+    {
+      "id": 30500,
+      "description": "The Dreamweavers",
+      "orderIndex": 1,
+      "max": 21000
+    },
+    {
+      "id": 30497,
+      "description": "Highmountain Tribe",
+      "orderIndex": 2,
+      "max": 21000
+    },
+    {
+      "id": 30501,
+      "description": "The Valarjar",
+      "orderIndex": 3,
+      "max": 21000
+    },
+    {
+      "id": 30499,
+      "description": "The Nightfallen",
+      "orderIndex": 4,
+      "max": 21000
+    },
+    {
+      "id": 30496,
+      "description": "The Wardens",
+      "orderIndex": 5,
+      "max": 21000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

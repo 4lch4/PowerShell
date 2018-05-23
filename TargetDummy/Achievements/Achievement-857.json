@@ -1,0 +1,84 @@
+{
+  "id": 857,
+  "title": "Explore Winterspring",
+  "points": 10,
+  "description": "Explore Winterspring, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_winterspring",
+  "criteria": [
+    {
+      "id": 1473,
+      "description": "Frostfire Hot Springs",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1474,
+      "description": "Timbermaw Post",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1475,
+      "description": "Lake Kel'Theril",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1476,
+      "description": "Starfall Village",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1477,
+      "description": "Mazthoril",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1478,
+      "description": "Everlook",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1481,
+      "description": "Owl Wing Thicket",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1482,
+      "description": "Ice Thistle Hills",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1483,
+      "description": "Winterfall Village",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1484,
+      "description": "The Hidden Grove",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1485,
+      "description": "Frostsaber Rock",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1479,
+      "description": "Frostwhisper Gorge",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

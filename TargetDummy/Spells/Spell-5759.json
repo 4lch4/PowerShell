@@ -1,0 +1,9 @@
+{
+  "id": 5759,
+  "name": "Cat Form",
+  "icon": "ability_druid_catform",
+  "description": "Shapeshifts into a cat for 4 min., increasing attack power and allowing the use of various cat abilities.",
+  "powerCost": "9 Mana",
+  "castTime": "Instant",
+  "cooldown": "30 sec cooldown"
+}

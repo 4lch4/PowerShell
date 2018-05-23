@@ -1,0 +1,30 @@
+{
+  "id": 1282,
+  "title": "Fa-la-la-la-Ogri'la",
+  "points": 10,
+  "description": "Complete the Bomb Them Again! quest while mounted on a flying reindeer during the Feast of Winter Veil.",
+  "rewardItems": [],
+  "icon": "achievement_worldevent_xmasogre",
+  "criteria": [
+    {
+      "id": 3936,
+      "description": "Summon Reindeer Flying Mount Tier 3.5 (Brown) (PVP Reward)",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3937,
+      "description": "Summon Reindeer Flying Mount Tier 3.0 (Brown)",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3938,
+      "description": "Summon Reindeer Flying Mount Tier 2.0 (Brown)",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

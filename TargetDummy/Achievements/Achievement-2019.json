@@ -1,0 +1,84 @@
+{
+  "id": 2019,
+  "title": "Proof of Demise",
+  "points": 0,
+  "description": "Completed the Northrend daily dungeon quests listed below.",
+  "rewardItems": [],
+  "icon": "ability_paladin_swiftretribution",
+  "criteria": [
+    {
+      "id": 7300,
+      "description": "Proof of Demise: Ingvar the Plunderer",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7301,
+      "description": "Proof of Demise: Keristrasza",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7302,
+      "description": "Proof of Demise: Ley-Guardian Eregos",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7303,
+      "description": "Proof of Demise: King Ymiron",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7304,
+      "description": "Proof of Demise: The Prophet Tharon'ja",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7305,
+      "description": "Proof of Demise: Gal'darah",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7306,
+      "description": "Proof of Demise: Mal'Ganis",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 7307,
+      "description": "Proof of Demise: Sjonnir The Ironshaper",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 7308,
+      "description": "Proof of Demise: Loken",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 7309,
+      "description": "Proof of Demise: Anub'arak",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 7310,
+      "description": "Proof of Demise: Herald Volazj",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 7311,
+      "description": "Proof of Demise: Cyanigosa",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,108 @@
+{
+  "id": 841,
+  "title": "Explore Wetlands",
+  "points": 10,
+  "description": "Explore Wetlands, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_wetlands_01",
+  "criteria": [
+    {
+      "id": 1262,
+      "description": "Menethil Harbor",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1263,
+      "description": "Black Channel Marsh",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1264,
+      "description": "Bluegill Marsh",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1265,
+      "description": "Whelgar's Excavation Site",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1266,
+      "description": "Sundown Marsh",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1267,
+      "description": "Saltspray Glen",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1268,
+      "description": "Ironbeard's Tomb",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1269,
+      "description": "Dun Modr",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1270,
+      "description": "Angerfang Encampment",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1271,
+      "description": "Thelgen Rock",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1272,
+      "description": "Greenwarden's Grove",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1273,
+      "description": "Mosshide Fen",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1274,
+      "description": "Direforge Hill",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 14157,
+      "description": "Dun Algaz",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 14158,
+      "description": "Slabchisel's Survey",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1275,
+      "description": "Raptor Ridge",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

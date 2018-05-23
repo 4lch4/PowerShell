@@ -1,0 +1,36 @@
+{
+  "id": 2886,
+  "title": "The Siege of Ulduar (10 player)",
+  "points": 10,
+  "description": "Defeat the bosses of The Siege area of Ulduar in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_ulduarraid_archway_01",
+  "criteria": [
+    {
+      "id": 9968,
+      "description": "Flame Leviathan",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9939,
+      "description": "Razorscale",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 9974,
+      "description": "XT-002 Deconstructor",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9972,
+      "description": "Ignis the Furnace Master",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

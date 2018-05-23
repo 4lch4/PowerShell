@@ -1,0 +1,7 @@
+{
+  "id": 9636,
+  "name": "Summon Swamp Spirit",
+  "icon": "spell_nature_abolishmagic",
+  "description": "Summons 1 Swamp Spirit to aid the caster in battle for 1 min.",
+  "castTime": "1.5 sec cast"
+}

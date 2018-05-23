@@ -1,0 +1,42 @@
+{
+  "id": 582,
+  "title": "Alterac Valley All-Star",
+  "points": 20,
+  "description": "In a single Alterac Valley battle, assault a graveyard, defend a graveyard, assault a tower, defend a tower and slay someone in the Field of Strife.",
+  "rewardItems": [],
+  "icon": "spell_holy_heroism",
+  "criteria": [
+    {
+      "id": 421,
+      "description": "Assault a graveyard",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 422,
+      "description": "Defend a graveyard",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 423,
+      "description": "Assault a tower",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 424,
+      "description": "Defend a tower",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 425,
+      "description": "Kill someone in the Field of Strife",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,168 @@
+{
+  "id": 966,
+  "title": "Tricks and Treats of Eastern Kingdoms",
+  "points": 10,
+  "description": "Visit the Candy Buckets in Eastern Kingdoms.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_27",
+  "criteria": [
+    {
+      "id": 18418,
+      "description": "Arathi Highlands, Refuge Point",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18419,
+      "description": "Badlands, Dragon's Mouth",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 18429,
+      "description": "Badlands, Fuselight",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18420,
+      "description": "Blasted Lands, Nethergarde Keep",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 18421,
+      "description": "Blasted Lands, Surwich",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 2144,
+      "description": "The Cape of Stranglethorn, Booty Bay",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 2132,
+      "description": "Dun Morogh, Kharanos",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 2133,
+      "description": "Duskwood, Darkshire",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 2143,
+      "description": "Eastern Plaguelands, Light's Hope Chapel",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 2134,
+      "description": "Elwynn Forest, Goldshire",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 2136,
+      "description": "The Hinterlands, Aerie Peak",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 18425,
+      "description": "The Hinterlands, Stormfeather Outpost",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 2137,
+      "description": "Ironforge, The Commons",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 18422,
+      "description": "Loch Modan, Farstrider Lodge",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 2138,
+      "description": "Loch Modan, Thelsamar",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 18423,
+      "description": "Northern Stranglethorn, Fort Livingston",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 2139,
+      "description": "Redridge Mountains, Lakeshire",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 18430,
+      "description": "Searing Gorge, Iron Summit",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 2140,
+      "description": "Stormwind, The Trade District",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 18431,
+      "description": "Swamp of Sorrows, Bogpaddle",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 18424,
+      "description": "Swamp of Sorrows, The Harborage",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 18426,
+      "description": "Western Plaguelands, Chillwind Camp",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 2142,
+      "description": "Wetlands, Menethil Harbor",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 18428,
+      "description": "Wetlands, Swiftgear Station",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 2141,
+      "description": "Westfall, Sentinel Hill",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 18427,
+      "description": "Wetlands, Greenwarden's Grove",
+      "orderIndex": 26,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

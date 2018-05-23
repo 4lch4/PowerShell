@@ -1,0 +1,12 @@
+{
+  "id": 11060,
+  "title": "Challenger: Legion Season 4",
+  "points": 0,
+  "description": "End Legion PvP season 4 in the top 35% of the arena ladder (requires 50 games won your current faction in Legion Season 4).",
+  "reward": "Title Reward: Challenger",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_07",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

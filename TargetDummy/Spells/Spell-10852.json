@@ -1,0 +1,8 @@
+{
+  "id": 10852,
+  "name": "Battle Net",
+  "icon": "ability_ensnare",
+  "description": "Immobilizes nearby enemies for 10 sec.",
+  "range": "20 yd range",
+  "castTime": "Instant"
+}

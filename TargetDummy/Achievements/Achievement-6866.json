@@ -1,0 +1,18 @@
+{
+  "id": 6866,
+  "title": "Realm First! Zen Master Herbalist",
+  "points": 0,
+  "description": "First person on the realm to achieve 600 skill in herbalism.",
+  "rewardItems": [],
+  "icon": "trade_herbalism",
+  "criteria": [
+    {
+      "id": 5569,
+      "description": "",
+      "orderIndex": 0,
+      "max": 600
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

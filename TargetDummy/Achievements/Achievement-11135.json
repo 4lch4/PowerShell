@@ -1,0 +1,84 @@
+{
+  "id": 11135,
+  "title": "A Heroic Campaign",
+  "points": 20,
+  "description": "Complete three different class Order Campaigns.",
+  "rewardItems": [],
+  "icon": "achievement_doublejeopardy",
+  "criteria": [
+    {
+      "id": 31936,
+      "description": "Death Knight",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 31937,
+      "description": "Demon Hunter",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 30608,
+      "description": "Druid",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 31938,
+      "description": "Hunter",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 31939,
+      "description": "Mage",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 31940,
+      "description": "Monk",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 31709,
+      "description": "Paladin",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 31941,
+      "description": "Priest",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 31942,
+      "description": "Rogue",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 31943,
+      "description": "Shaman",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 31944,
+      "description": "Warlock",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 31945,
+      "description": "Warrior",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

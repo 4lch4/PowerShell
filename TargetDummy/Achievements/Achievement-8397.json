@@ -1,0 +1,169 @@
+{
+  "id": 8397,
+  "title": "Crazy for Cats",
+  "points": 10,
+  "description": "Obtain 20 of the cats listed below.",
+  "reward": "Title Reward: The Crazy Cat Lady/Man",
+  "rewardItems": [],
+  "icon": "inv_pet_cats_siamesecat",
+  "criteria": [
+    {
+      "id": 23577,
+      "description": "Black Tabby Cat",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23578,
+      "description": "Bombay Cat",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 29725,
+      "description": "Brightpaw",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 23579,
+      "description": "Calico Cat",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 23580,
+      "description": "Cat",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 23581,
+      "description": "Cheetah Cub",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 23596,
+      "description": "Cinder Kitten",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 23582,
+      "description": "Cornish Rex Cat",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 23583,
+      "description": "Darkmoon Cub",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 23584,
+      "description": "Feline Familiar",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 23585,
+      "description": "Fluxfire Feline",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 23740,
+      "description": "Guardian Cub",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 23586,
+      "description": "Mr. Bigglesworth",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 23597,
+      "description": "Nightsaber Cub",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 23587,
+      "description": "Orange Tabby Cat",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 23588,
+      "description": "Panther Cub",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 23589,
+      "description": "Sand Kitten",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 23590,
+      "description": "Sapphire Cub",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 23591,
+      "description": "Siamese Cat",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 23592,
+      "description": "Silver Tabby Cat",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 23593,
+      "description": "Snow Cub",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 23599,
+      "description": "Spectral Cub",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 23598,
+      "description": "Spectral Tiger Cub",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 23594,
+      "description": "White Kitten",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 23595,
+      "description": "Winterspring Cub",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 23600,
+      "description": "Xu-Fu, Cub of Xuen",
+      "orderIndex": 25,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

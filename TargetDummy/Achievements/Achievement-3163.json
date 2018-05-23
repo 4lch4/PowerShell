@@ -1,0 +1,18 @@
+{
+  "id": 3163,
+  "title": "One Light in the Darkness (25 player)",
+  "points": 10,
+  "description": "Defeat Yogg-Saron with the assistance of one or fewer Keepers in 25-player mode.",
+  "rewardItems": [],
+  "icon": "spell_shadow_shadesofdarkness",
+  "criteria": [
+    {
+      "id": 10416,
+      "description": "Yogg-Saron",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

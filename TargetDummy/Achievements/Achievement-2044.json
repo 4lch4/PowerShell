@@ -1,0 +1,18 @@
+{
+  "id": 2044,
+  "title": "Ruby Void",
+  "points": 10,
+  "description": "Defeat Ley-Guardian Eregos in The Oculus on Heroic Difficulty without anyone in your party using a Ruby Drake.",
+  "rewardItems": [],
+  "icon": "ability_mount_drake_red",
+  "criteria": [
+    {
+      "id": 7323,
+      "description": "Ley-Guardian Eregos",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

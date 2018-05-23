@@ -1,0 +1,49 @@
+{
+  "id": 1683,
+  "title": "Brewmaster",
+  "points": 10,
+  "description": "Complete the Brewfest achievements listed below.",
+  "reward": "Title Reward: Brewmaster",
+  "rewardItems": [],
+  "icon": "achievement_worldevent_brewmaster",
+  "criteria": [
+    {
+      "id": 6181,
+      "description": "The Brewfest Diet",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6182,
+      "description": "Brew of the Month",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6184,
+      "description": "Direbrewfest",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6185,
+      "description": "Down With The Dark Iron",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 8160,
+      "description": "Have Keg, Will Travel",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7235,
+      "description": "Does Your Wolpertinger Linger?",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

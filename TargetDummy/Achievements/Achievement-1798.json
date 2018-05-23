@@ -1,0 +1,54 @@
+{
+  "id": 1798,
+  "title": "Sous Chef",
+  "points": 10,
+  "description": "Learn 100 cooking recipes.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_13",
+  "criteria": [
+    {
+      "id": 7221,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    },
+    {
+      "id": 22276,
+      "description": "",
+      "orderIndex": 1,
+      "max": 100
+    },
+    {
+      "id": 22280,
+      "description": "",
+      "orderIndex": 2,
+      "max": 100
+    },
+    {
+      "id": 22278,
+      "description": "",
+      "orderIndex": 3,
+      "max": 100
+    },
+    {
+      "id": 22279,
+      "description": "",
+      "orderIndex": 4,
+      "max": 100
+    },
+    {
+      "id": 22277,
+      "description": "",
+      "orderIndex": 5,
+      "max": 100
+    },
+    {
+      "id": 22275,
+      "description": "",
+      "orderIndex": 6,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

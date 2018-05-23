@@ -1,0 +1,12 @@
+{
+  "id": 11044,
+  "title": "Defender of the Horde: Legion Season 3",
+  "points": 0,
+  "description": "End Legion PvP season 3 in the top 10% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 3).",
+  "reward": "Title Reward: Defender of the Horde",
+  "rewardItems": [],
+  "icon": "achievement_pvp_o_h",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 1
+}

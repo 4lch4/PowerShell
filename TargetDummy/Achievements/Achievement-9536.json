@@ -1,0 +1,18 @@
+{
+  "id": 9536,
+  "title": "Slagnarok",
+  "points": 10,
+  "description": "Defeat 20 creatures after slagging them with goren acid in Magnarok.",
+  "rewardItems": [],
+  "icon": "rogue_leeching_poison",
+  "criteria": [
+    {
+      "id": 26348,
+      "description": "Defeat Slagged Enemies",
+      "orderIndex": 0,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

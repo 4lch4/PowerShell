@@ -1,0 +1,36 @@
+{
+  "id": 11433,
+  "title": "Burn After Reading",
+  "points": 10,
+  "description": "Collect all four Sealed Tomes from Return to Karazhan on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_inscription_tomeoftheclearmind",
+  "criteria": [
+    {
+      "id": 34852,
+      "description": "Legacy of the Mountain King",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 34853,
+      "description": "Redemption of the Fallen",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 34854,
+      "description": "Torment of the Worgen",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 34855,
+      "description": "Wrath of the Titans",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

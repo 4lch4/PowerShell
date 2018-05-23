@@ -1,0 +1,19 @@
+{
+  "id": 9512,
+  "title": "Nemesis: Manslayer",
+  "points": 5,
+  "description": "Complete the quest Nemesis: Manslayer at the Gladiator's Sanctum.",
+  "reward": "Title Reward: Manslayer",
+  "rewardItems": [],
+  "icon": "achievement_character_human_female",
+  "criteria": [
+    {
+      "id": 25976,
+      "description": "Nemesis: Manslayer",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

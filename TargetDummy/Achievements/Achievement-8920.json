@@ -1,0 +1,37 @@
+{
+  "id": 8920,
+  "title": "Don't Let the Tala-door Hit You on the Way Out",
+  "points": 10,
+  "description": "Complete the Talador storylines listed below.",
+  "reward": "Reward: Unlocks \"Treasure Map: Talador\"",
+  "rewardItems": [],
+  "icon": "achievement_zone_talador",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Establishing your Outpost",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 24698,
+      "description": "The Battle for Shattrath",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 24699,
+      "description": "The Plight of the Arakkoa",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 24700,
+      "description": "In the Shadows of Auchindoun",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

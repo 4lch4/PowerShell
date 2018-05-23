@@ -1,0 +1,8 @@
+{
+  "id": 11130,
+  "name": "Knock Away",
+  "icon": "inv_gauntlets_05",
+  "description": "Inflicts normal damage plus 51 to nearby enemies and knocks them back.",
+  "range": "10 yd range",
+  "castTime": "Instant"
+}

@@ -1,0 +1,66 @@
+{
+  "id": 8100,
+  "title": "Pay to Slay",
+  "points": 10,
+  "description": "Defeat one of the Isle of Thunder summonable bosses listed below.",
+  "rewardItems": [],
+  "icon": "inv_qiraj_jewelglyphed",
+  "criteria": [
+    {
+      "id": 22814,
+      "description": "Spirit of Warlord Teng",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22815,
+      "description": "Kor'dok and Tinzo the Emberkeeper",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22812,
+      "description": "Echo of Kros",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 23205,
+      "description": "Electromancer Ju'le",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 22763,
+      "description": "Qi'nor",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 22817,
+      "description": "Ancient Mogu Guardian",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 22759,
+      "description": "Windweaver Akil'amon",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 22813,
+      "description": "Cera",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 23206,
+      "description": "Incomplete Drakkari Colossus",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

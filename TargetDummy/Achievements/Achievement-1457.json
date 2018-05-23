@@ -1,0 +1,60 @@
+{
+  "id": 1457,
+  "title": "Explore Crystalsong Forest",
+  "points": 10,
+  "description": "Explore Crystalsong Forest, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_crystalsong_01",
+  "criteria": [
+    {
+      "id": 5290,
+      "description": "The Azure Front",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5291,
+      "description": "The Decrepit Flow",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5292,
+      "description": "Sunreaver's Command",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5293,
+      "description": "Forlorn Woods",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 5294,
+      "description": "Windrunner's Overlook",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 5295,
+      "description": "The Great Tree",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 5296,
+      "description": "Violet Stand",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 5297,
+      "description": "The Unbound Thicket",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

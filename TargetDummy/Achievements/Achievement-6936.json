@@ -1,0 +1,18 @@
+{
+  "id": 6936,
+  "title": "Candle in the Wind",
+  "points": 10,
+  "description": "Defeat Blade Lord Ta'yak while all four braziers are lit in Heart of Fear on Normal or Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "trade_archaeology_candlestub",
+  "criteria": [
+    {
+      "id": 21111,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

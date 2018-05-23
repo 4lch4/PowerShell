@@ -1,0 +1,18 @@
+{
+  "id": 1559,
+  "title": "250 Fish",
+  "points": 10,
+  "description": "Fish up 250 items.",
+  "rewardItems": [],
+  "icon": "inv_misc_fish_50",
+  "criteria": [
+    {
+      "id": 5288,
+      "description": "Catch 250 fish",
+      "orderIndex": 1,
+      "max": 250
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

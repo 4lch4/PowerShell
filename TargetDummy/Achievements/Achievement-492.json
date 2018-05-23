@@ -1,0 +1,42 @@
+{
+  "id": 492,
+  "title": "Heroic: Ahn'kahet: The Old Kingdom",
+  "points": 10,
+  "description": "Defeat the Ahn'kahet: The Old Kingdom bosses on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_azjollowercity_heroic",
+  "criteria": [
+    {
+      "id": 6851,
+      "description": "Prince Taldaram",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6852,
+      "description": "Elder Nadox",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6853,
+      "description": "Jedoga Shadowseeker",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5611,
+      "description": "Herald Volazj",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 5054,
+      "description": "Amanitar",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

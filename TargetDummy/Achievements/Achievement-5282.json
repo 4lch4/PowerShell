@@ -1,0 +1,18 @@
+{
+  "id": 5282,
+  "title": "Arrested Development",
+  "points": 10,
+  "description": "Allow all three of Corla's zealots to evolve, then defeat Corla after slaying the evolved zealots in Blackrock Caverns on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_blackrockcaverns_corlaheraldoftwilight",
+  "criteria": [
+    {
+      "id": 15944,
+      "description": "Corla, Herald of Twilight",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

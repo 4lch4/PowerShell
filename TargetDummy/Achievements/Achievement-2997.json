@@ -1,0 +1,18 @@
+{
+  "id": 2997,
+  "title": "Shadowdodger (25 player)",
+  "points": 10,
+  "description": "Defeat General Vezax without any raid member being hit by Shadow Crash in 25-player mode.",
+  "rewardItems": [],
+  "icon": "spell_shadow_painspike",
+  "criteria": [
+    {
+      "id": 10306,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

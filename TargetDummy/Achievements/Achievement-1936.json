@@ -1,0 +1,24 @@
+{
+  "id": 1936,
+  "title": "Does Your Wolpertinger Linger?",
+  "points": 10,
+  "description": "Obtain a Wolpertinger pet from the Brewfest quest line.",
+  "rewardItems": [],
+  "icon": "inv_drink_13",
+  "criteria": [
+    {
+      "id": 7232,
+      "description": "Wolpertinger's Tankard",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7233,
+      "description": "Wolpertinger",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

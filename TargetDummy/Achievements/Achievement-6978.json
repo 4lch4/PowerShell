@@ -1,0 +1,84 @@
+{
+  "id": 6978,
+  "title": "Explore Dread Wastes",
+  "points": 10,
+  "description": "Explore Dread Wastes, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_dreadwastes",
+  "criteria": [
+    {
+      "id": 20963,
+      "description": "Heart of Fear",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20964,
+      "description": "Klaxxi'vess",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20965,
+      "description": "Kypari Vor",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 20966,
+      "description": "Kypari Zar",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 20967,
+      "description": "Rikkitun Village",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 20968,
+      "description": "Soggy's Gamble",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 20969,
+      "description": "Terrace of Gurthan",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 20970,
+      "description": "The Briny Muck",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 20971,
+      "description": "The Clutches of Shek'zeer",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 20972,
+      "description": "The Sunset Brewgarden",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 20973,
+      "description": "Writhingwood",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 20974,
+      "description": "Zan'vess",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

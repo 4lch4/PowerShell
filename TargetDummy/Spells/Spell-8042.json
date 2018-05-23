@@ -1,0 +1,9 @@
+{
+  "id": 8042,
+  "name": "Earth Shock",
+  "icon": "spell_nature_earthshock",
+  "description": "Instantly shocks the target with concussive force, causing up to 78,078 Nature damage based on Maelstrom spent.",
+  "range": "40 yd range",
+  "powerCost": "10 Maelstrom",
+  "castTime": "Instant"
+}

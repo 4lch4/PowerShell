@@ -1,0 +1,24 @@
+{
+  "id": 213,
+  "title": "Stormtrooper",
+  "points": 10,
+  "description": "Kill 5 flag carriers in a single Eye of the Storm battle.",
+  "rewardItems": [],
+  "icon": "achievement_bg_kill_flag_carriereos",
+  "criteria": [
+    {
+      "id": 3685,
+      "description": "5 Flag Carriers",
+      "orderIndex": 0,
+      "max": 5
+    },
+    {
+      "id": 28767,
+      "description": "5 Flag Carriers",
+      "orderIndex": 1,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

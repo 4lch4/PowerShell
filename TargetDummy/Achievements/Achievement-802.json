@@ -1,0 +1,90 @@
+{
+  "id": 802,
+  "title": "Explore Westfall",
+  "points": 10,
+  "description": "Explore Westfall, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_westfall_01",
+  "criteria": [
+    {
+      "id": 1248,
+      "description": "Sentinel Hill",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1249,
+      "description": "Saldean's Farm",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1250,
+      "description": "Furlbrow's Pumpkin Farm",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1251,
+      "description": "The Jansen Stead",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1252,
+      "description": "Jangolode Mine",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1253,
+      "description": "The Molsen Farm",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1255,
+      "description": "The Dead Acre",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1256,
+      "description": "Moonbrook",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1257,
+      "description": "Alexston Farmstead",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1258,
+      "description": "Demont's Place",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1260,
+      "description": "The Dagger Hills",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 14156,
+      "description": "The Raging Chasm",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1261,
+      "description": "The Dust Plains",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

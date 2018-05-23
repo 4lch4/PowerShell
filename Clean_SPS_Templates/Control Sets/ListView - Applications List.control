@@ -1,0 +1,271 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a ListView that displays a list of applications and their installed / found status.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAChSURBVDhPY2CgFOw5evX/tgMX/2/cff4/slm4xEFqUNRv3nvhPwiYeiaDMcwQfOIMQPUHDhyAqF+17RTYAJghMAPwizP8BxkCNmDx+qNw25FdgEscZAG6aykLxsaJq/4XNc/7n141FYxhppEqTpkrKNZNajpAsRAU3yjxCpXFlQ4wXAuJb6R4harAlQ6wehdbvOJLBxSHGYoBFMc3yPuUAAA6QvXjyRoBowAAAABJRU5ErkJggg==</Icon>
+  <Identifiers>
+    <ID id="1" name="listviewApplications" type="object" />
+    <ID id="2" name="listviewApplications_ColumnClick" type="event" />
+    <ID id="3" name="imagelistSmall" type="object" />
+    <ID id="4" name="imagelistLarge" type="object" />
+    <ID id="5" name="columnheader1" type="object" />
+    <ID id="6" name="columnheader2" type="object" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="Columns">
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="%ID:5%" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="%ID:6%" />
+        </Item>
+      </Property>
+      <Property name="FullRowSelect">True</Property>
+      <Property name="Groups">
+        <Item type="System.Windows.Forms.ListViewGroup, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAIlN5c3RlbS5XaW5kb3dzLkZvcm1zLkxpc3RWaWV3R3JvdXAGBQAAAENWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIFN5c3RlbS5XaW5kb3dzLkZvcm1zLkhvcml6b250YWxBbGlnbm1lbnQpAQAAAAoL">
+            <Argument>Installed</Argument>
+            <Argument>Left</Argument>
+            <Property name="Header">Installed</Property>
+            <Property name="Name">listviewgroupInstalled</Property>
+          </InstanceDescriptor>
+        </Item>
+        <Item type="System.Windows.Forms.ListViewGroup, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgYAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpNZW1iZXJUeXBlEEdlbmVyaWNBcmd1bWVudHMBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAIlN5c3RlbS5XaW5kb3dzLkZvcm1zLkxpc3RWaWV3R3JvdXAGBQAAAENWb2lkIC5jdG9yKFN5c3RlbS5TdHJpbmcsIFN5c3RlbS5XaW5kb3dzLkZvcm1zLkhvcml6b250YWxBbGlnbm1lbnQpAQAAAAoL">
+            <Argument>Not Installed</Argument>
+            <Argument>Left</Argument>
+            <Property name="Header">Not Installed</Property>
+            <Property name="Name">listviewgroupNotInstalled</Property>
+          </InstanceDescriptor>
+        </Item>
+      </Property>
+      <Property name="LargeImageList">
+        <Reference name="%ID:4%" />
+      </Property>
+      <Property name="Location">12, 12</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="ShowItemToolTips">True</Property>
+      <Property name="Size">231, 172</Property>
+      <Property name="SmallImageList">
+        <Reference name="%ID:3%" />
+      </Property>
+      <Property name="Sorting">Ascending</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="UseCompatibleStateImageBehavior">False</Property>
+      <Property name="View">Tile</Property>
+      <Event name="ColumnClick">%ID:2%</Event>
+    </Object>
+    <Object type="System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:3%">
+      <Property name="ImageStream">
+        <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAABABgAAAk1TRnQBSQFMAwEBAAEgAQEBIAEBARABAAEQAQAE/wEhAQAI/wFCAU0BNgcAATYDAAEoAwABQAMAARADAAEBAQABIAYAARAWAAMCAQMDHwEsA0YBgQNOAZUDQAFuAxcBIAMJAQwDAgEDAwkBDAMdASkDOAFeAzABTAMJAQzLAAEBAzsBZQFkAVIBRgH3AYUBcAFfAf8BzAHDAboB/wHwAe4B6wH/A5IB5ANLAY4BWQFWAVUBtQF7AWcBXwHgAbgBfQFgAfwBwQGGAWAB/wGKAWIBRQH8AVcCVAGuAxwBKAMBAQLAAAMhATABbgFZAU0B+gF5AWYBVAH+AZIBhAF8Af4B4AHbAdUB/wH5AfgB9wH/AfQB8gHwAf8B0QHFAbsB/wG9AYgBZwH/AcoBjgFoAf8BzAGUAXIB/wHXAbkBqQH/AbsBpwGdAf8BoAFqAU8B/wJRAVABnwMdASrAAAJPAU4BlwF1AWIBUAH/AYgBfAFvAfwBtwGwAaoB+QHpAeEB2wH/AfMB8QHvAf8B3gHZAdIB/wGmAZkBiwH/AaUBhgFsAf8B3wHHAboB/wHsAeoB6QH/A+gB/wHRAcsBxgH/Ab8BoQGQAf8DSgGNAx8BLcAAAVoBWAFVAcABeQFmAVQB/wGZAZEBhgH1AakBngGYAewB3QG4AaMB/wHlAdoB0wH/AbQBqAGdAf8BewFqAVgB/wGMAXoBbQH/A+wB/wPuAf8D6gH/AckBvAGyAf8B1AGtAY4B/wNFAXwDCQEMwAACVgFUAbMBiAF0AWMB/wG6AbABpwH7AbgBsgGrAfUB1wG7AasB/wHmAeAB2wH/AZ4BkAGBAf8BdAFhAU8B/wGMAXoBbAH/A+4B/wPvAf8D7AH/Ab4BuwG4Af8BuQGxAasB/wNCAXbEAAM/AW0BtwGsAaAB/wHjAd8B2wH+AesB6gHoAf4B5QHiAd8B/wG3Aa0BowH/AYwBdwFmAf8BcgFgAU0B/wGrAaEBlwH/A/IB/wPxAf8D7gH/AcoBwgG7Af8BzQHDAbsB/wNCAXXEAAMHAQoBfgJ8AdgB+AH3AfYB/wH1AfQB8gH/Ac0BxQG9Af8BiQF1AWQB/wFxAV8BTAH/AXcBZQFTAf8B5wHlAeMB/wP0Af8D8gH/A+4B/wHLAccBwwH/AcoBxQHAAf8DQgF1yAADFgEfA3EByQHoAeQB3wH/AbcBrAGhAf8BcQFfAU4B/wFvAV4BTQH/AdcB0gHOAf8D+QH/A/UB/wPyAf8D7gH/Ac4BywHJAf8DyQH/A0IBdc8AAQEDXwG5AdMBzQHIAf8ByQHDAb4B/wHwAe8B7gH/A/sB/wP6Af8D9QH/A/IB/wPuAf8BwgG/Ab0B/wHWAtgB/wNCAXXQAANaAa8D8QH/A/MB/wP3Af8D+wH/A/oB/wP3Af8B8gLxAf8B7gHiAdsB/wGxAaMBmwH/Aa8BsAGxAf8DQgF10AADWwGxA/EB/wPzAf8D9gH/A/sB/wH1AewB5wH/Ae0B1QHIAf8B6gHDAa0B/wHqAcABqgH/Aa0BkQGBAf8BsQKvAf8DQgF10AADXAGyA/AB/wHvAesB6QH/AeEBxQG1Af8B0wGeAYEB/wHaAagBjQH/AeEBtAGbAf8B5QG5AaAB/wHmAbwBpAH/AawBhAFzAf4B1QGoAY0B/wNCAXXQAAFdAVwBWgG0AdkBswGeAf8B0wGdAXsB/wHKAYkBXgH/Ac0BkQFpAf8BzwGfAYAB/wHHAZkBeQH/Ab4BkwFzAf8BuAGOAW8B/wGLAWcBSwH+AcwBmQF2Af8DQgF10AABWgFWAVUBsAHbAaMBfwH+Ad8BqQGDAf4B3gGmAYAB/gHaAaUBggH+Ac4BmQF+Af4BwgGLAXAB/gG2AX8BYAH+AasBdgFPAf4BmAFmAUEB/gGKAV8BPgH+A0ABcNAAAw0BEQMyAVECSwFKAYwDSgGKA0QBegM9AWkDNgFZAy8BSQMmATgDHAEoAxIBGAMDAQTEAAFCAU0BPgcAAT4DAAEoAwABQAMAARADAAEBAQABAQUAAYAXAAP/AQABgAEDJwABAQcAAQEHAAEBBgABgAEBBgABwAEBBgAB4AEBBgAB4AEBBgAB4AEBBgAB4AEBBgAB4AEBBgAB4AEBBgAL</Binary>
+      </Property>
+      <Property name="TransparentColor">Transparent</Property>
+    </Object>
+    <Object type="System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:4%">
+      <Property name="ImageStream">
+        <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAAAIFwAAAk1TRnQBSQFMAwEBAAEgAQEBIAEBASABAAEgAQAE/wEhAQAI/wFCAU0BNgcAATYDAAEoAwABgAMAASADAAEBAQABIAYAAUAeAAMBAQIDBgEIAwsEDwEUAxgBIQMgAS8DHQEpAxMBGgMSARgDEAEWAw0BEQMIAQsDBAEFAwABARAAAwEBAgMHAQoDDgETAw0BEgMHAQn/AKEAAwEBAgMHAQkDFAEcA0UBfQFdAVcBUwHTAX4BdQFiAfoBqgGdAZAB/gG+AbsBsgH9AY8BiwGHAeUDUwGgAyoBQAMSARkDDwEUAwoBDQMEAQYDBAEGAwwBEAMYASEDJwE7Az0BaQNOAZkBXgFaAVcBwAFbAVgBVQG8AzYBWAMaASQDCAEL/wCYAAEBAwUBBwMuAUgBXQFWAU8B4gFfAUwBOQH/AW0BWgFJAf8BkAGBAW0B/wG4Aa0BoAH/AdUBzgHGAf8B5wHjAd8B/wHzAfEB7wH/Ad8B3gHdAfsDTwGYAyIBMQMnATsDNAFUAkcBRgGBAVcCVAGuAW0BYAFaAdYBoQF3AV8B9gHBAYQBXwH/AcABhQFgAf8BwAGFAV8B/wGfAXIBVgH+AXoBWgFIAfYBUgJRAaEDJgE4AxEBFwMCAQP/AI0AAwMBBAMwAU0BagFVAUwB9wFkAVEBPQH/AWYBUwFAAf8BdQFkAVIB/wGYAYkBdgH/AcIBuQGuAf8B4AHaAdQB/wHvAewB6QH/AfgB9wH2Af8B/AH7AfoB/wH4AfcB9gH/AYIBgAF/AeIBgAFnAVwB6gG1AX8BZgH+AcMBigFlAf8BxwGLAWYB/wHHAYoBZQH/AcUBiAFjAf8BxAGHAWIB/wHDAYYBYgH/AcIBhgFhAf8BpgFuAVIB/wGDAVQBPQH/AZQBYQFIAf8BbgFgAVcB3wM9AWcDFwEgAwcBCf8AiAABAQMXASABZQFaAVEB7gFuAVsBSAH/AW0BWgFGAf8BcAFeAUwB/wGDAW4BXQH/AaIBlQGGAf8BzwHGAb4B/wHpAeUB4AH/AfUB8wHxAf8C+wH6Af8B+wH6AfkB/wHzAfEB7gH/AeYB4gHdAf8BxAGpAZgB/wG8AYcBZAH/AcIBiQFmAf8ByQGNAWcB/wHKAY0BZwH/AckBiwFlAf8ByAGKAWUB/wHGAYkBZAH/Ac0BoQGIAf8BzgG4AawB/wGFAVgBQgH/AZQBYQFIAf8BpwFwAVMB/wGEAWgBWgHtAzEBTwMcAScDDQER/wCBAAMBAQIBUQJQAZ8BcQFfAUwB/wFyAWABTQH/AXgBZQFTAf8BfwFxAWAB/gGIAX8BcAH+AbABpAGXAf8B2gHTAcsB/wHwAe0B6QH/AfkB+AH3Af8B/AL7Af8B9wH1AfQB/wHsAegB5AH/AdoB1AHNAf8BwAG2AasB/wGzAYgBagH/AcEBigFnAf8ByQGPAWkB/wHNAZABagH/AcwBkAFpAf8B1QGtAZcB/wHiAdUBzwH/A+cB/wPrAf8BrgGfAZcB/wGWAWQBSgH/Aa0BdQFXAf8BhwFrAV4B6wM1AVcDLQFGAx0BKv8AgQADDwEUAW0BWQFRAfcBcQFfAUsB/wF3AWQBUgH/AX8BdQFkAf4BkwGDAWwB/QGZAZEBhAH7AcsBwQG4Af8B5gHgAdwB/wHvAewB6QH/AfsB+gH5Af8B+gL4Af8B8AHtAeoB/wHfAdoB1AH/AcQBugGwAf8BpAGXAYkB/wGWAXgBYwH/AcIBjAFqAf8BzAGUAXAB/wHcAbgBpAH/AeoB4QHcAf8D7AH/A+gB/wPnAf8D6gH/A8UB/wG4AaEBlQH/AbIBeAFbAf8BhQFtAV8B6AMpAT4DJgE4AyIBMv8AgQADMgFRAWwBWQFFAf8BcAFdAUoB/wGAAWkBVwH/AYkBfwFvAf4BlQGLAYQB9wGiAZwBmQLuAeEB2wH/AekB2wHTAf8B5gHcAdYB/wHmAeIB3gH/AfMB8QHvAf8B4gHdAdgB/wHHAb4BtAH/AaUBmAGLAf8BiQF1AWUB/wFyAV8BTgH/AcYBqwGaAf8B5wHiAd8B/wPvAf8D7gH/A+wB/wPpAf8D6AH/AegB6QHqAf8BrwGVAYEB/wHJAbwBsgH/AcwBqwGZAf8BiQFxAWEB5gMdASkDGgElAxkBI/8AgQACRQFEAXwBaAFVAUEB/wFxAV4BSgH/AYQBbgFcAf8BlgGHAXAB/QGXAZEBjAHvAYoBiQGIAdwB5QHMAb4B/wHjAcQBswH/AeYB0gHFAf8B5AHaAdIB/wHlAeAB3AH/Ac8BxgG+Af8BqwGeAZIB/wGOAXoBawH/AXYBZAFTAf8BZwFUAUIB/wG2Aa8BqQH/A+kB/wPuAf8D7wH/A+0B/wPqAf8D6QH/AeUB5gHnAf8BsQGRAXQB/wHIAZ4BeAH/AdoBtwGbAf8BiQF6AWsB5AMVAR0DFAEbAxABFv8AgQACSQFIAYcBZAFRAT4B/wFwAV0BSwH/AYUBcAFfAf8BmgGMAXUB/QGdAZsBmAHtAYICfQHXAdgBtgGkAf8B0AGaAXoB/wHZAa8BlwH/AeYB0wHIAf8B5AHcAdYB/wG+AbQBqQH/AZgBiQF2Af8BggFtAVwB/wFtAVsBSQH/AWIBTwE8Af8BpwGfAZYB/wPpAf8D7wH/A+8B/wPtAf8D6wH/A+kB/wLiAeMB/wGrAZcBhwH/AckBpQGHAf8B5QG6AZgB/wGSAYgBfwHkAwoBDQMAAQH/AIUAA0QBewFlAVIBPwH/AXMBYQFPAf8BigF2AWYB/wGgAZIBhQH+AbMBrgGpAfQBmAGWAZQB5QHYAb8BrwH/AcUBlQF3Af8B0AGnAZAB/wHnAdYBywH/AecB4gHfAf8BsgGmAZsB/wGRAYIBbQH/AXsBaQFXAf8BbAFZAUcB/wFkAVEBPQH/AaYBnQGTAf8D6wH/A/AB/wPvAf8D7gH/A+wB/wPrAf8B3wLgAf8BnwGXAZIB/wGvAasBqAH/Ad4BxAGvAf8BkgGJAYEB5AMHAQn/AIkAAzMBUwFsAVkBRwH/AYIBbgFcAf8BnAGOAXsB/wG4Aa4BowH+AdEBzQHIAfsBugG3AbYB9AHeAdABxwH/AeAB0AHFAf8B5gHfAdsB/wPvAf8B2wHYAdQB/wGmAZkBiwH/AY8BegFpAf8BegFnAVUB/wFtAVoBRwH/AWkBVgFCAf8BtAGsAaQB/wPuAf8D8QH/A/AB/wPvAf8D7QH/A+wB/wPeAf8BnAGVAY8B/wOOAf8DyQH/AY4BhgGBAeIDBwEJ/wCJAAMOARMBeQFkAVwB+AGYAYkBdgH/AbkBrgGjAf8B2gHTAcwB/wHnAeQB4QH+Ad8B3QHcAfwB4wHgAd0B/wHmAeQB4gH/AewB6wHqAf8B4wHgAd4B/wGyAacBnAH/AZkBigF2Af8BiQFzAWEB/wF3AWQBUQH/AW8BXAFIAf8BawFZAUUB/wHQAcwByAH/A/EB/wPxAf8D8QH/A/AB/wPuAf8D7QH/A98B/wG0AaIBlAH/Ab8BtQGsAf8BwgHBAb8B/wGJAYUBgAHiAwcBCf8AjQABVgFVAVQBqgG3AawBoAH/AdUBzgHGAf8B6gHmAeIB/wH2AfQB8wH/AfUB9AHzAf4B+AH3AfYB/wHqAegB5QH/AdYB0QHLAf8BsQGmAZkB/wGXAYgBdAH/AYwBdwFmAf8BgQFrAVkB/wF0AWEBTgH/AXEBXgFLAf8BewFqAVkB/wHvAu4B/wPzAf8D8gH/A/IB/wPwAf8D7gH/A+4B/wLhAeIB/wGzAaUBmQH/AcoBvAGxAf8B6gHbAc4B/wGPAYkBhgHiAwcBCf8AjQADHQEqAbgBsQGnAfgB5QHgAdsB/wHzAfAB7gH/AfsB+gH5Af8C+wH6Af8B9AHyAfAB/wHlAeAB2wH/AcIBuAGuAf8BmgGMAXkB/wGFAXABXwH/AXoBaAFWAf8BdAFhAU4B/wFxAV8BSwH/AXEBXgFLAf8BugGyAaoB/wP1Af8D9QH/A/IB/wPzAf8D8QH/A+8B/wPuAf8B4wLkAf8BsQGmAZ4B/wG1Aa8BqwH/AecB3QHWAf8BkgGOAYgB4gMHAQn/AJEAAz8BbQHnAeQB4AH+AfgB9wH1Af8B/AL7Af8B+AH3AfUB/wHuAesB5wH/AdsB1QHOAf8BtAGpAZ0B/wGNAXoBaQH/AXQBYgFQAf8BbAFZAUcB/wFrAVgBRQH/AW4BXAFIAf8BjwGAAW4B/wL0AfMB/wP4Af8D9QH/A/MB/wPzAf8D8QH/A+8B/wPuAf8B5QLnAf8BsQGpAaMB/wGzAbABrgH/AdkB1QHTAf8BkgGOAYkB4gMHAQn/AJUAA0YBfQHwAe8B7gH9AvoB+QH/AfMB8AHuAf8B5gHiAd0B/wHQAcgBvwH/AakBnAGPAf8BgwFvAV0B/wFqAVcBRQH/AWIBTwE8Af8BZgFTAT8B/wGEAXABYAH/AewB6gHoAf8D+gH/A/gB/wP1Af8D9AH/A/MB/wPxAf8D7wH/A+4B/wHnAukB/wGwAasBpgH/AbECsAH/AeUB5AHjAf8BkgGOAYkB4gMHAQn/AJkAAzABSwGNAYsBiQHeAewB6QHkAf8B3AHWAc8B/wHEAboBrwH/AaEBkwGFAf8BeAFmAVUB/wFjAVEBPgH/AV4BSwE5Af8BmwGOAYMB/wHxAe8B7gH/A/sB/wP7Af8D+AH/A/UB/wP0Af8D8wH/A/EB/wPvAf8D7gH/A+kB/wG2AbIBrgH/AbkCugH/A9YB/wGSAY4BiwHiAwcBCf8AnQADBAEGA0oBigHXAdIBzAH/AcEBuAGuAf8BqAGcAY8B/wGVAYgBdwH/AakBnwGWAf8B3AHYAdUB/wP3Af8D+wH/A/wB/wP7Af8D+AH/A/UB/wP1Af8D8wH/A/EB/wPvAf8D7gH/A+gB/wGmAaIBnwH/AdIC1AH/Ae8C8QH/AZIBjgGLAeIDBwEJ/wChAAM4AV4D8QH/A/EB/wPxAf8D8gH/A/QB/wP2Af8D9wH/A/sB/wP8Af8D+wH/A/gB/wP2Af8D9QH/A/MB/wPxAf8D7wH/A+4B/wHmAeMB4gH/AZQBkQGNAf8BrwKxAf8B5wHqAesB/wGSAY4BiwHiAwcBCf8AoQADOgFgA/EB/wPxAf8D8QH/A/IB/wP0Af8D9gH/A/cB/wP7Af8D/AH/A/sB/wP4Af8D9wH/A/UB/wPzAf8D8QH/A+8B/wPuAf8B4AHZAdUB/wGSAY4BiwH/AZoBmwGcAf8BvwHBAcIB/wGSAY4BiQHiAwcBCf8AoQADOgFhA/EB/wPxAf8D8QH/A/IB/wP0Af8D9gH/A/cB/wP7Af8D/AH/A/sB/wP5Af8D+AH/A/UB/wPzAf8B8QHuAe0B/wHuAd0B1AH/Ae0BzQG7Af8BxAGfAYoB/wGMAYYBggH/AZ0BngGfAf8BxQHHAcgB/wGSAY4BiQHiAwcBCf8AoQADOwFjA/EB/wPxAf8D8QH/A/IB/wP0Af8D9gH/A/cB/wP7Af8D/AH/A/sB/wP5Af8C+AH3Af8B8QHlAd4B/wHsAdABwQH/AeoBwQGrAf8B6wHBAaoB/wHrAcIBqwH/AcEBmgGEAf8BiwGEAYAB/wGRApIB/wHCAcMBxAH/AZABjgGJAeIDBwEJ/wChAAM7AWQD8QH/A/EB/wPxAf8D8QH/A/QB/wP1Af8D9wH/A/sB/wP8Af8B9AHoAeIB/wHtAdQBxgH/AeYBvgGoAf8B5gG6AaIB/wHnAbwBpAH/AegBvgGmAf8B6QG/AagB/wHpAb8BqQH/AbwBlQF7Af8BqgGQAYAB/wG0Aa0BqAH/A7wB/wGPAYkBhwHhAwcBCf8AoQADOwFlA/AB/wPwAf8D8AH/A/EB/wPzAf8D9QH/AfMB7gHrAf8B5QHJAbkB/wHVAaEBhAH/AdQBmgF2Af8B4AGxAZkB/wHiAbUBnAH/AeQBtwGfAf8B5QG6AaEB/wHmAbwBowH/AecBvQGlAf8B5wG+AacB/wGyAYkBegH+Aa0BhgFpAf8ByAGaAXoB/wHaAbYBnwH/AYsBggF7AeEDBwEJ/wChAAM9AWcD8AH/A/AB/wPwAf8B8AHvAe4B/wHpAdkB0AH/AdYBqgGRAf8ByAGHAV8B/wHIAYYBXQH/AcoBiQFhAf8B2AGnAYwB/wHdAa4BlAH/Ad8BsAGYAf8B4QG0AZsB/wHjAbYBngH/AeQBuQGgAf8B5QG7AaIB/wHmAbwBpAH/Aa4BhQF1Af4BsAGIAWwB/wHOAaABhAH/AeUBsgGTAf8BkQF/AXYB4QMHAQn/AKEAAz0BaAPvAf8B6AHdAdcB/wHeAb8BrwH/AdUBpQGLAf8B0gGeAYEB/wHHAYUBXAH/AccBhQFcAf8BxwGFAVwB/wHOAZQBbwH/AdcBpgGLAf8B2QGpAY8B/wHbAawBkgH/Ad4BrwGWAf8B3AGuAZYB/wHXAasBkgH/AdIBpwGOAf8BzAGiAYkB/wGeAXsBYgH+AbEBiAFrAf8B1AGkAYgB/wHnAbUBlQH/AZEBgQF2AeEDBwEJ/wChAAM9AWkB0gGkAYsB/wHOAZcBdQH/Ac8BmAF2Af8B0gGcAXgB/wHRAZYBbwH/Ac4BjAFgAf8BzgGNAV8B/wHNAY4BYQH/AdEBnQF2Af8BygGZAXMB/wHBAZIBbQH/AbcBigFmAf8BrAGAAV0B/wGkAXYBWAH/AaABcwFWAf8BnwFzAVcB/wGgAXMBVwH/AYkBWAE9Af8BZwE3ARUB/wGeAWYBRAH/AdYBowGCAf8BkQGBAXYB4QMHAQn/AKEAAz4BawHeAaYBeAH/AeABqAF6Af8B4gGqAXoB/wHiAaoBewH/Ad8BoQFsAf8B3wGfAWkB/wHXAZkBbwH+AdgBpAF/Af4B1QGnAYQB/gHQAaYBhwH+AcoBoQGDAf4BxQGaAX8B/gHAAZMBegH+AbwBjAFyAf4BuAGFAWoB/gG0AX8BYQH+AbABfgFXAf4BpwFrAUYB/wGWAXEBVgH+AYYBYAFDAf4BggFJASQB/wF2AWIBVwHhAwcBCf8AoQADOAFcAcwBkwFsAfwBzwGcAXkB/AHbAa0BjAH9Ad8BtgGaAf0B2gG1AZUB/AHiAbkBogH9AeQBtAGYAf4B5wGxAZMB/wHgAaYBhAH/AdkBmQFxAf8B0wGRAWcB/wHMAYoBYQH/AcUBhAFaAf8BvQF5AVIB/wG2AXIBSgH/Aa8BagFCAf8BpwFjAToB/wGgAVsBMgH/AZkBVAEqAf8BmgFcATcB/wGcAWcBTwH9AWsBYwFfAdEDBAEG/wChAAMEAQYDKQE/A0cBggFlAV0BWgLBAZIBcwH1AekBpwGBAf8B6AGlAYAB/wHaAaIBdwH9Aa0BhwFtAfABjgF5AWkB4gF3AWsBYgHVAWgBYQFbAccBXgFYAVYBuQFWAVMBUgGpAVEBUAFPAZoDSgGKA0QBegM9AWkDNgFZAy4BSAMmATgDHAEnAw0BEv8AsQADAgEDAw0BEgMfASwDFgEeAwsBDwMJAQwDBwEJAwQBBgMCAQMDAQEC/wC1AAFCAU0BPgcAAT4DAAEoAwABgAMAASADAAEBAQABAQYAAQIWAAP/AQAB4AEAAXgBPwwAAcACAAEPDAABgAIAAQMMAAGAAgABAV8AAQEPAAEDDwABAw8AAQMMAAGAAgABAwwAAYACAAEDDAABwAIAAQMMAAHgAgABAwwAAfACAAEDDAAB+AIAAQMMAAH8AgABAwwAAfwCAAEDDAAB/AIAAQMMAAH8AgABAwwAAfwCAAEDDAAB/AIAAQMMAAH8AgABAwwAAfwCAAEDDAAB/AIAAQMMAAH8AgABAwwAAfwCAAEDDAAB/AIAAQcMAAH/AYABHwH/DAAL</Binary>
+      </Property>
+      <Property name="TransparentColor">Transparent</Property>
+    </Object>
+    <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:5%">
+      <Property name="Text">Product</Property>
+      <Property name="Width">117</Property>
+    </Object>
+    <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:6%">
+      <Property name="Text">Status</Property>
+      <Property name="Width">313</Property>
+    </Object>
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%=[System.Windows.Forms.ColumnClickEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.ColumnClickEventArgs]
+	Update-ListViewColumnSort $this $_.Column
+}]]></Event>
+  </Events>
+  <Functions>
+    <Function name="Update-ListViewColumnSort">
+      <![CDATA[function Update-ListViewColumnSort 
+{
+	<#
+	.SYNOPSIS
+		Sort the ListView's item using the specified column.
+
+	.DESCRIPTION
+		Sort the ListView's item using the specified column.
+		This function uses Add-Type to define a class that sort the items.
+		The ListView's Tag property is used to keep track of the sorting.
+
+	.PARAMETER ListView
+		The ListView control to sort.
+
+	.PARAMETER ColumnIndex
+		The index of the column to use for sorting.
+		
+	.PARAMETER  SortOrder
+		The direction to sort the items. If not specified or set to None, it will toggle.
+	
+	.EXAMPLE
+		Update-ListViewColumnSort -ListView $listview1 -ColumnIndex 0
+#>
+	param(	
+			[ValidateNotNull()]
+			[Parameter(Mandatory=$true)]
+			[System.Windows.Forms.ListView]$ListView,
+			[Parameter(Mandatory=$true)]
+			[int]$ColumnIndex,
+			[System.Windows.Forms.SortOrder]$SortOrder = 'None')
+	
+	if(($ListView.Items.Count -eq 0) -or ($ColumnIndex -lt 0) -or ($ColumnIndex -ge $ListView.Columns.Count))
+	{
+		return;
+	}
+	
+	#region Define ListViewItemComparer
+		try{
+		[ListViewItemComparer] | Out-Null
+	}
+	catch{
+	Add-Type -ReferencedAssemblies ('System.Windows.Forms') -TypeDefinition  @" 
+	using System;
+	using System.Windows.Forms;
+	using System.Collections;
+	public class ListViewItemComparer : IComparer
+	{
+	    public int column;
+	    public SortOrder sortOrder;
+	    public ListViewItemComparer()
+	    {
+	        column = 0;
+			sortOrder = SortOrder.Ascending;
+	    }
+	    public ListViewItemComparer(int column, SortOrder sort)
+	    {
+	        this.column = column;
+			sortOrder = sort;
+	    }
+	    public int Compare(object x, object y)
+	    {
+			if(column >= ((ListViewItem)x).SubItems.Count)
+				return  sortOrder == SortOrder.Ascending ? -1 : 1;
+		
+			if(column >= ((ListViewItem)y).SubItems.Count)
+				return sortOrder == SortOrder.Ascending ? 1 : -1;
+		
+			if(sortOrder == SortOrder.Ascending)
+	        	return String.Compare(((ListViewItem)x).SubItems[column].Text, ((ListViewItem)y).SubItems[column].Text);
+			else
+				return String.Compare(((ListViewItem)y).SubItems[column].Text, ((ListViewItem)x).SubItems[column].Text);
+	    }
+	}
+"@  | Out-Null
+	}
+	#endregion
+	
+	if($ListView.Tag -is [ListViewItemComparer])
+	{
+		#Toggle the Sort Order
+		if($SortOrder -eq [System.Windows.Forms.SortOrder]::None)
+		{
+			if($ListView.Tag.column -eq $ColumnIndex -and $ListView.Tag.sortOrder -eq 'Ascending')
+			{
+				$ListView.Tag.sortOrder = 'Descending'
+			}
+			else
+			{
+				$ListView.Tag.sortOrder = 'Ascending'
+			}
+		}
+		else
+		{
+			$ListView.Tag.sortOrder = $SortOrder
+		}
+		
+		$ListView.Tag.column = $ColumnIndex
+		$ListView.Sort()#Sort the items
+	}
+	else
+	{
+		if($Sort -eq [System.Windows.Forms.SortOrder]::None)
+		{
+			$Sort = [System.Windows.Forms.SortOrder]::Ascending	
+		}
+		
+		#Set to Tag because for some reason in PowerShell ListViewItemSorter prop returns null
+		$ListView.Tag = New-Object ListViewItemComparer ($ColumnIndex, $SortOrder) 
+		$ListView.ListViewItemSorter = $ListView.Tag #Automatically sorts
+	}
+}]]></Function>
+    <Function name="Add-ToApplicationList">
+  <![CDATA[function Add-ToApplicationList
+{
+	<#
+	.SYNOPSIS
+		Adds a application to the ListView.
+
+	.DESCRIPTION
+		Adds a application to the ListView
+
+	.PARAMETER  ApplicationPath
+		The application's file path.
+
+	.PARAMETER  ImageIndex
+		The index of a predefined image in the ListView's ImageList. If not defined, it will try to extract the image from the application.
+
+	.EXAMPLE
+		Add-ToApplicationList 'C:\application.exe'
+
+	.LINK
+		about_comment_based_help
+
+#>
+	Param( 
+  [ValidateNotNull()]
+	[Parameter(Mandatory=$true)]
+	[System.Windows.Forms.ListView]$ListView,
+  [ValidateNotNull()]
+	[Parameter(Mandatory=$true)]
+	[string]$ApplicationPath,
+	[int]$ImageIndex = -1)
+	
+	if(![string]::IsNullOrEmpty($ApplicationPath))
+	{
+		$AppExist = [System.IO.File]::Exists($ApplicationPath)
+		
+		if($AppExist)
+		{
+			if($null -eq $ImageIndex -or $ImageIndex -eq -1)
+			{
+				$icon = [System.Drawing.Icon]::ExtractAssociatedIcon($ApplicationPath)
+				
+				if($null -ne $icon)
+				{
+					$listview.LargeImageList.Images.Add($icon)
+					$listview.SmallImageList.Images.Add($icon)
+					$ImageIndex = $listview.LargeImageList.Images.Count - 1
+				}
+			}
+		}
+		elseif ($ImageIndex -eq -1)
+		{
+			$ImageIndex = 0	#Default the image
+		}
+		
+		#Add a new item to the ListView
+		$item  = $ListView.Items.Add([System.IO.Path]::GetFileName($ApplicationPath), $ImageIndex)
+		$item.Tag = $ApplicationPath #Save the Path
+		$item.ToolTipText = $ApplicationPath
+		
+		if($AppExist)
+		{ 	
+			#Set the status and the group
+			[void]$item.SubItems.Add('Installed')
+			$item.Group = $ListView.Groups[0]
+		}
+		else
+		{
+			[void]$item.SubItems.Add('Not Installed')
+			$item.Group = $ListView.Groups[1]
+		}
+	}
+}]]></Function>
+  </Functions>
+</ControlTemplate>

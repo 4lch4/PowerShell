@@ -1,0 +1,18 @@
+{
+  "id": 2142,
+  "title": "Filling Up The Barn",
+  "points": 10,
+  "description": "Obtain 25 mounts (usable by a single character).",
+  "rewardItems": [],
+  "icon": "ability_mount_ridingelekkelite_green",
+  "criteria": [
+    {
+      "id": 4787,
+      "description": "Obtain 25 mounts",
+      "orderIndex": 1,
+      "max": 25
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8974,
+  "title": "More Like Wrecked-us",
+  "points": 10,
+  "description": "Defeat Tectus in Highmaul by destroying all eight Motes of Tectus within 10 seconds of each other on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "inv_misc_dust_01",
+  "criteria": [
+    {
+      "id": 26153,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

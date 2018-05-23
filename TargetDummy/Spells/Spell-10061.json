@@ -1,0 +1,7 @@
+{
+  "id": 10061,
+  "name": "Summon Obsidian Shard",
+  "icon": "spell_shadow_teleport",
+  "description": "Summons an Obsidian Shard.",
+  "castTime": "Instant"
+}

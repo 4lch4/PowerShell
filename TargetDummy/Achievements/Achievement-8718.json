@@ -1,0 +1,18 @@
+{
+  "id": 8718,
+  "title": "Oathguard",
+  "points": 10,
+  "description": "Obtain 100 Bloody Coins as an Emissary of Ordos or Ordon Fire-Watcher.",
+  "rewardItems": [],
+  "icon": "timelesscoin-bloody",
+  "criteria": [
+    {
+      "id": 23999,
+      "description": "Bloody Coins",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

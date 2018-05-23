@@ -1,0 +1,18 @@
+{
+  "id": 11790,
+  "title": "Deceiver's Fall",
+  "points": 10,
+  "description": "Defeat Kil'jaeden in the Tomb of Sargeras.",
+  "rewardItems": [],
+  "icon": "achievement_boss_kiljaeden2",
+  "criteria": [
+    {
+      "id": 36477,
+      "description": "Kil'jaeden",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

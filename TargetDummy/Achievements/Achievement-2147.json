@@ -1,0 +1,18 @@
+{
+  "id": 2147,
+  "title": "The Hundred Club (25 player)",
+  "points": 10,
+  "description": "Defeat Sapphiron in Naxxramas without any member of the raid having a frost resist value over 100 in 25-player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_head_dragon_blue",
+  "criteria": [
+    {
+      "id": 7568,
+      "description": "Sapphiron",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

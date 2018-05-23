@@ -1,0 +1,8 @@
+{
+  "id": 6538,
+  "name": "Dig Trap",
+  "icon": "spell_nature_earthquake",
+  "description": "Allows your scorpion to go into stealth, but it cannot move and it's sight range will be reduced. If it attacks from this position it will deal 179 additional damage.",
+  "castTime": "Instant",
+  "cooldown": "1.5 min cooldown"
+}

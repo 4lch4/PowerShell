@@ -1,0 +1,18 @@
+{
+  "id": 7986,
+  "title": "You Mean That Wasn't a Void Zone?",
+  "points": 10,
+  "description": "Defeat Rak'gor Bloodrazor without any member of your party standing in a Healing Ward during the encounter in the Dagger in the Dark Scenario.",
+  "rewardItems": [],
+  "icon": "spell_nature_nullward",
+  "criteria": [
+    {
+      "id": 22544,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

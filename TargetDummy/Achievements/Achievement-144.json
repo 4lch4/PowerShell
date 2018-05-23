@@ -1,0 +1,18 @@
+{
+  "id": 144,
+  "title": "The Lurker Above",
+  "points": 10,
+  "description": "Fish up The Lurker Below in Serpentshrine Cavern.",
+  "rewardItems": [],
+  "icon": "ability_creature_poison_05",
+  "criteria": [
+    {
+      "id": 3622,
+      "description": "Fished up Lurker",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

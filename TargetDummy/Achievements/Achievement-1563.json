@@ -1,0 +1,79 @@
+{
+  "id": 1563,
+  "title": "Hail to the Chef",
+  "points": 10,
+  "description": "Complete the cooking achievements listed below.",
+  "reward": "Title Reward: Chef",
+  "rewardItems": [],
+  "icon": "achievement_profession_chefhat",
+  "criteria": [
+    {
+      "id": 847,
+      "description": "Grand Master Cook",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 5764,
+      "description": "The Cake Is Not A Lie",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5765,
+      "description": "Kickin' It Up a Notch",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6604,
+      "description": "The Northrend Gourmet",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6605,
+      "description": "Second That Emotion",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6607,
+      "description": "Critter Gitter",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Our Daily Bread",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6631,
+      "description": "Dinner Impossible",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6756,
+      "description": "Sous Chef",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 6762,
+      "description": "Captain Rumsey's Lager",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 6788,
+      "description": "The Outland Gourmet",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

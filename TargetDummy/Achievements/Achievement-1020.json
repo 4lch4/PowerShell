@@ -1,0 +1,18 @@
+{
+  "id": 1020,
+  "title": "Ten Tabards",
+  "points": 10,
+  "description": "Collect 10 tabard slot appearances.",
+  "rewardItems": [],
+  "icon": "inv_shirt_guildtabard_01",
+  "criteria": [
+    {
+      "id": 30576,
+      "description": "",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

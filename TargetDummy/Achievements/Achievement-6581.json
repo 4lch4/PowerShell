@@ -1,0 +1,19 @@
+{
+  "id": 6581,
+  "title": "Pro Pet Crew",
+  "points": 5,
+  "description": "Raise 30 pets to level 25.",
+  "reward": "Reward: Pristine Pet Trap",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_raise30petstolevel10",
+  "criteria": [
+    {
+      "id": 19856,
+      "description": "",
+      "orderIndex": 0,
+      "max": 30
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

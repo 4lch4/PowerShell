@@ -1,0 +1,18 @@
+{
+  "id": 11674,
+  "title": "Great Soul, Great Purpose",
+  "points": 10,
+  "description": "Defeat the Desolate Host in Tomb of Sargeras while keeping the Diminishing Soul from perishing on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "item_holyspark",
+  "criteria": [
+    {
+      "id": 36140,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

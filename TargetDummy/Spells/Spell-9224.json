@@ -1,0 +1,9 @@
+{
+  "id": 9224,
+  "name": "Summon Succubus",
+  "subtext": "Rank 1",
+  "icon": "spell_shadow_summonsuccubus",
+  "description": "Call forth a succubus using the summoning circle.",
+  "range": "10 yd range",
+  "castTime": "10 sec cast"
+}

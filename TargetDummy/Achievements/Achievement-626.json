@@ -1,0 +1,48 @@
+{
+  "id": 626,
+  "title": "Lunar Festival Finery",
+  "points": 10,
+  "description": "Purchase a festive pant suit or festive dress with Coins of Ancestry.",
+  "rewardItems": [],
+  "icon": "inv_chest_cloth_59",
+  "criteria": [
+    {
+      "id": 496,
+      "description": "Festive Black Pant Suit",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 497,
+      "description": "Festive Blue Pant Suit",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 498,
+      "description": "Festive Teal Pant Suit",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 499,
+      "description": "Festive Green Dress",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 500,
+      "description": "Festive Pink Dress",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 501,
+      "description": "Festive Purple Dress",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

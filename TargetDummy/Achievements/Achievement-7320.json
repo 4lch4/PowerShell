@@ -1,0 +1,18 @@
+{
+  "id": 7320,
+  "title": "Dog Pile",
+  "points": 10,
+  "description": "Defeat 10 Shado-Pan Trainees within 10 seconds.",
+  "rewardItems": [],
+  "icon": "ability_toughness",
+  "criteria": [
+    {
+      "id": 20978,
+      "description": "",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

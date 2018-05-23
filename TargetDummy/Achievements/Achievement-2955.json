@@ -1,0 +1,18 @@
+{
+  "id": 2955,
+  "title": "If Looks Could Kill (10 player)",
+  "points": 10,
+  "description": "Defeat Kologarn without any raid member being hit by Focused Eyebeams in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_fire_blueflamebolt",
+  "criteria": [
+    {
+      "id": 10286,
+      "description": "Kologarn",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

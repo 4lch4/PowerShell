@@ -1,0 +1,18 @@
+{
+  "id": 8970,
+  "title": "Mythic: Blast Furnace",
+  "points": 10,
+  "description": "Complete the Blast Furnace encounter in Blackrock Foundry on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_furyfurnace",
+  "criteria": [
+    {
+      "id": 24683,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

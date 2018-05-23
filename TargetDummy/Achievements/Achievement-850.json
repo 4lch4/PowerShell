@@ -1,0 +1,66 @@
+{
+  "id": 850,
+  "title": "Explore Dustwallow Marsh",
+  "points": 10,
+  "description": "Explore Dustwallow Marsh, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_dustwallowmarsh",
+  "criteria": [
+    {
+      "id": 1361,
+      "description": "Theramore Isle",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14112,
+      "description": "Blackhoof Village",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14113,
+      "description": "Direhorn Post",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 14114,
+      "description": "Mudsprocket",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 14115,
+      "description": "Shady Rest Inn",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1362,
+      "description": "Dreadmurk Shore",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1363,
+      "description": "Brackenwall Village",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1397,
+      "description": "Wyrmbog",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1398,
+      "description": "Alcaz Island",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

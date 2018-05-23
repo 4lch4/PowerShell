@@ -1,0 +1,30 @@
+{
+  "id": 10829,
+  "title": "Arcing Aqueducts",
+  "points": 10,
+  "description": "Defeat the following bosses within the base of The Nighthold.",
+  "rewardItems": [],
+  "icon": "achievement_thenighthold_trillax",
+  "criteria": [
+    {
+      "id": 31445,
+      "description": "Skorpyron",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 31443,
+      "description": "Trilliax",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 31444,
+      "description": "Chronomatic Anomaly",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

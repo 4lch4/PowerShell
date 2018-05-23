@@ -1,0 +1,18 @@
+{
+  "id": 8730,
+  "title": "Rolo's Riddle",
+  "points": 10,
+  "description": "Solve Rolo's Riddle on the Timeless Isle.",
+  "rewardItems": [],
+  "icon": "inv_misc_map09",
+  "criteria": [
+    {
+      "id": 24082,
+      "description": "Rolo's Riddle Solved.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

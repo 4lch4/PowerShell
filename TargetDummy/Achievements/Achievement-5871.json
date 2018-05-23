@@ -1,0 +1,30 @@
+{
+  "id": 5871,
+  "title": "Master of the Molten Flow",
+  "points": 10,
+  "description": "Complete the following challenges within the Molten Flow.",
+  "rewardItems": [],
+  "icon": "spell_fire_moltenblood",
+  "criteria": [
+    {
+      "id": 17835,
+      "description": "Kill a Flamewaker Shaman with his own Flamewave",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 17836,
+      "description": "Kill a Flamewaker Sentinel while it is carrying someone",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17837,
+      "description": "Survive a Flamewaker Hunter's Wild Barrage without getting hit",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

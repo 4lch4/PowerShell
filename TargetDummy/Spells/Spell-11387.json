@@ -1,0 +1,8 @@
+{
+  "id": 11387,
+  "name": "Wildvine Potion",
+  "icon": "trade_engineering",
+  "description": "Restores 3,234 health and 3,234 mana.",
+  "castTime": "Instant",
+  "cooldown": "1 min cooldown"
+}

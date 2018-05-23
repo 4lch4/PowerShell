@@ -1,0 +1,39 @@
+﻿<File version="3.1">
+  <Code>
+    <![CDATA[#Define a Param block to use custom parameters in the project
+#Param ($CustomParameter)
+
+function Main {
+<#
+    .SYNOPSIS
+        The Main function starts the project application.
+    
+    .PARAMETER Commandline
+        $Commandline contains the complete argument string passed to the script packager executable.
+    
+    .NOTES
+        Use this function to initialize your script and to call GUI forms.
+		
+    .NOTES
+        To get the console output in the Packager (Forms Engine) use:
+		$ConsoleOutput (Type: System.Collections.ArrayList)
+#>
+	Param ([String]$Commandline)
+	
+	#--------------------------------------------------------------------------
+	#TODO: Add initialization script here (Load modules and check requirements)
+	
+	Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+	[void][System.Windows.Forms.MessageBox]::Show('TODO: Add script to the Main function of Startup.pss', 'TODO') 
+	
+	#--------------------------------------------------------------------------
+	
+	
+	
+	$script:ExitCode = 0 #Set the exit code for the Packager
+}
+
+
+
+]]></Code>
+</File>

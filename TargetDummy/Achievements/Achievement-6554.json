@@ -1,0 +1,18 @@
+{
+  "id": 6554,
+  "title": "He's Mine!",
+  "points": 5,
+  "description": "Capture 10 pets in pet battle.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_captureawildpet",
+  "criteria": [
+    {
+      "id": 19749,
+      "description": "",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7258,
+  "title": "Party of Six",
+  "points": 10,
+  "description": "Finish A Brewing Storm with all six Thunderpaw Guardians still alive.",
+  "rewardItems": [],
+  "icon": "pandarenracial_innerpeace",
+  "criteria": [
+    {
+      "id": 20694,
+      "description": "All six Thunderpaw Guardians still alive",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

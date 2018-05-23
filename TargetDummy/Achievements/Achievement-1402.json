@@ -1,0 +1,19 @@
+{
+  "id": 1402,
+  "title": "Realm First! Conqueror of Naxxramas",
+  "points": 0,
+  "description": "Participated in the realm first defeat of Kel'Thuzad in Naxxramas in 25-player mode.",
+  "reward": "Title Reward: Conqueror of Naxxramas",
+  "rewardItems": [],
+  "icon": "inv_trinket_naxxramas06",
+  "criteria": [
+    {
+      "id": 5136,
+      "description": "Kel'Thuzad",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

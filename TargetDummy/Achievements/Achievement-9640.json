@@ -1,0 +1,18 @@
+{
+  "id": 9640,
+  "title": "Chapter I: Call of the Archmage",
+  "points": 25,
+  "description": "Begin Khadgar's legendary quest and prove yourself raid-ready by defeating the spirit of Kairozdormu.",
+  "rewardItems": [],
+  "icon": "quest_khadgar",
+  "criteria": [
+    {
+      "id": 26485,
+      "description": "Complete Quest \"Tarnished Bronze.\"",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

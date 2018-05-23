@@ -1,0 +1,18 @@
+{
+  "id": 10783,
+  "title": "Darkheart Thicket",
+  "points": 10,
+  "description": "Defeat the Shade of Xavius in Darkheart Thicket.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_darkheartthicket",
+  "criteria": [
+    {
+      "id": 31378,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

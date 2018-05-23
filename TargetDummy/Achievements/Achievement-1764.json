@@ -1,0 +1,18 @@
+{
+  "id": 1764,
+  "title": "Drop It!",
+  "points": 10,
+  "description": "Kill 100 players carrying seaforium.",
+  "rewardItems": [],
+  "icon": "ability_hunter_beastsoothe",
+  "criteria": [
+    {
+      "id": 6446,
+      "description": "Kill 100 players carrying seaforium",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

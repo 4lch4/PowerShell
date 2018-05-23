@@ -1,0 +1,8 @@
+{
+  "id": 5384,
+  "name": "Feign Death",
+  "icon": "ability_rogue_feigndeath",
+  "description": "Feign death, tricking enemies into ignoring you. Lasts up to 6 min.",
+  "castTime": "Instant",
+  "cooldown": "30 sec cooldown"
+}

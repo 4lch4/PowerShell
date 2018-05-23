@@ -1,0 +1,9 @@
+{
+  "id": 8118,
+  "name": "Strength",
+  "subtext": "Rank 1",
+  "icon": "spell_nature_strength",
+  "description": "Increases the target's Strength by 3 for 30 min.  This effect counts as a Battle Elixir.",
+  "range": "30 yd range",
+  "castTime": "Instant"
+}

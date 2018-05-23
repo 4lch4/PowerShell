@@ -1,0 +1,18 @@
+{
+  "id": 559,
+  "title": "Needy",
+  "points": 10,
+  "description": "Win a need roll on a superior or better item above level 185 by rolling 100.",
+  "rewardItems": [],
+  "icon": "inv_misc_coin_01",
+  "criteria": [
+    {
+      "id": 2412,
+      "description": "roll need and get exactly 100 on an item above 185",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

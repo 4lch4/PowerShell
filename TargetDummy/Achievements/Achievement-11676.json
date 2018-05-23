@@ -1,0 +1,42 @@
+{
+  "id": 11676,
+  "title": "Five Course Seafood Buffet",
+  "points": 10,
+  "description": "Defeat Mistress Sass'zine in Tomb of Sargeras after feeding the following items to Sarukel on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "inv_tradeskill_cooking_feastofthewater",
+  "criteria": [
+    {
+      "id": 36143,
+      "description": "Hydra Essence",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 36144,
+      "description": "Eel Tartare",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 36146,
+      "description": "Ink Sauce",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 36145,
+      "description": "Murloc Fillet",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 36147,
+      "description": "Player Seasoning",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

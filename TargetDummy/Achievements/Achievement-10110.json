@@ -1,0 +1,31 @@
+{
+  "id": 10110,
+  "title": "Gladiator: Warlords Season 3",
+  "points": 0,
+  "description": "End Warlords PvP season 3 in the top 0.5% of the arena ladder (requires 50 games won in Warlords Season 3).",
+  "reward": "Title Reward: Gladiator",
+  "rewardItems": [
+    {
+      "id": 128282,
+      "name": "Warmongering Gladiator's Felblood Gronnling",
+      "icon": "inv_fellessergronnmount_dark",
+      "quality": 4,
+      "itemLevel": 710,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_featsofstrength_gladiator_07",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

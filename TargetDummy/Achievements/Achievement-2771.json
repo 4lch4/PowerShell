@@ -1,0 +1,42 @@
+{
+  "id": 2771,
+  "title": "Exalted Champion of the Horde",
+  "points": 10,
+  "description": "Earn exalted status with and the right to represent every Horde race's faction in the Argent Tournament.",
+  "rewardItems": [],
+  "icon": "inv_misc_tournaments_banner_orc",
+  "criteria": [
+    {
+      "id": 9673,
+      "description": "Champion of Orgrimmar",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9674,
+      "description": "Champion of Sen'jin",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 9675,
+      "description": "Champion of Silvermoon City",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9676,
+      "description": "Champion of the Undercity",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 9677,
+      "description": "Champion of Thunder Bluff",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

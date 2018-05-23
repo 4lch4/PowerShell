@@ -1,0 +1,24 @@
+{
+  "id": 659,
+  "title": "The Botanica",
+  "points": 10,
+  "description": "Defeat Warp Splinter.",
+  "rewardItems": [],
+  "icon": "achievement_boss_warpsplinter",
+  "criteria": [
+    {
+      "id": 3251,
+      "description": "Warp Splinter",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4480,
+      "description": "How to Break Into the Arcatraz",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

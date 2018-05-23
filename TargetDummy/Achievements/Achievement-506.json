@@ -1,0 +1,18 @@
+{
+  "id": 506,
+  "title": "500 Quests Completed",
+  "points": 10,
+  "description": "Complete 500 quests.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_04",
+  "criteria": [
+    {
+      "id": 3631,
+      "description": "",
+      "orderIndex": 0,
+      "max": 500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

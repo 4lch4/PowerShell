@@ -1,0 +1,48 @@
+{
+  "id": 9451,
+  "title": "Trapper's Delight",
+  "points": 5,
+  "description": "Place 250 Work Orders at the Barn by trapping creatures in the world.",
+  "rewardItems": [],
+  "icon": "garrison_building_barn",
+  "criteria": [
+    {
+      "id": 27236,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27237,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27238,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27239,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27240,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27241,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1009,
+  "title": "Knights of the Ebon Blade",
+  "points": 10,
+  "description": "Earn Exalted status with the Knights of the Ebon Blade.",
+  "rewardItems": [],
+  "icon": "achievement_reputation_knightsoftheebonblade",
+  "criteria": [
+    {
+      "id": 4743,
+      "description": "Exalted with Knights of the Ebon Blade",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

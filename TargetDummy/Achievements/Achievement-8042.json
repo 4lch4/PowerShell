@@ -1,0 +1,18 @@
+{
+  "id": 8042,
+  "title": "Extinguishing Pandaria",
+  "points": 10,
+  "description": "Desecrate the Horde's bonfire in Pandaria's Vale of Eternal Blossoms.",
+  "rewardItems": [],
+  "icon": "spell_fire_masterofelements",
+  "criteria": [
+    {
+      "id": 22686,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,7 @@
+{
+  "id": 9900,
+  "name": "Sharpen Blade IV",
+  "icon": "inv_stone_sharpeningstone_04",
+  "description": "Sharpens your bladed weapon, increasing weapon damage by 5 for 1 hour.  Cannot be applied to items higher than level 200.",
+  "castTime": "3 sec cast"
+}

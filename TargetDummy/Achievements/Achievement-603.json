@@ -1,0 +1,36 @@
+{
+  "id": 603,
+  "title": "Wrath of the Horde",
+  "points": 10,
+  "description": "Kill 5 Alliance players in each of the cities listed below.",
+  "rewardItems": [],
+  "icon": "inv_trinket_thrallmar",
+  "criteria": [
+    {
+      "id": 6637,
+      "description": "Ironforge",
+      "orderIndex": 1,
+      "max": 5
+    },
+    {
+      "id": 6638,
+      "description": "Darnassus",
+      "orderIndex": 2,
+      "max": 5
+    },
+    {
+      "id": 6639,
+      "description": "The Exodar",
+      "orderIndex": 3,
+      "max": 5
+    },
+    {
+      "id": 6640,
+      "description": "Stormwind City",
+      "orderIndex": 4,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

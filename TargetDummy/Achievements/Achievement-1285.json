@@ -1,0 +1,36 @@
+{
+  "id": 1285,
+  "title": "Classic Raider",
+  "points": 20,
+  "description": "Complete the classic raid achievements listed below.",
+  "rewardItems": [],
+  "icon": "inv_helmet_74",
+  "criteria": [
+    {
+      "id": 4009,
+      "description": "Blackwing Lair",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4010,
+      "description": "Molten Core",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4011,
+      "description": "Temple of Ahn'Qiraj",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4013,
+      "description": "Ruins of Ahn'Qiraj",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

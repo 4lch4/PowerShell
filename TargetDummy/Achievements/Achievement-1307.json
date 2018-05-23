@@ -1,0 +1,150 @@
+{
+  "id": 1307,
+  "title": "Upper Blackrock Spire (Classic)",
+  "points": 0,
+  "description": "Defeat General Drakkisath.",
+  "rewardItems": [],
+  "icon": "achievement_boss_generaldrakkisath",
+  "criteria": [
+    {
+      "id": 3268,
+      "description": "General Drakkisath",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4443,
+      "description": "General Drakkisath's Demise",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4444,
+      "description": "Blood of the Black Dragon Champion",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4445,
+      "description": "Drakefire Amulet",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 5072,
+      "description": "Saving the Best for Last",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 5058,
+      "description": "Saving the Best for Last",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 5059,
+      "description": "Saving the Best for Last",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 5060,
+      "description": "Saving the Best for Last",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 5061,
+      "description": "Saving the Best for Last",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 5062,
+      "description": "Saving the Best for Last",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 5063,
+      "description": "Saving the Best for Last",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 5064,
+      "description": "Saving the Best for Last",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 5065,
+      "description": "Saving the Best for Last",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 5066,
+      "description": "Saving the Best for Last",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 5067,
+      "description": "Saving the Best for Last",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 5068,
+      "description": "Saving the Best for Last",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 5069,
+      "description": "Saving the Best for Last",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 5070,
+      "description": "Saving the Best for Last",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 5071,
+      "description": "Saving the Best for Last",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 5072,
+      "description": "Saving the Best for Last",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 5073,
+      "description": "Saving the Best for Last",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 5074,
+      "description": "Saving the Best for Last",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 5075,
+      "description": "Saving the Best for Last",
+      "orderIndex": 23,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

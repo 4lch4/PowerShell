@@ -1,0 +1,18 @@
+{
+  "id": 4904,
+  "title": "Swamp of Sorrows Quests",
+  "points": 10,
+  "description": "Complete 25 quests in Swamp of Sorrows.",
+  "rewardItems": [],
+  "icon": "achievement_zone_swampsorrows_01",
+  "criteria": [
+    {
+      "id": 13749,
+      "description": "Swamp of Sorrows",
+      "orderIndex": 1,
+      "max": 25
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

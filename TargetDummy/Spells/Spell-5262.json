@@ -1,0 +1,7 @@
+{
+  "id": 5262,
+  "name": "Fanatic Blade",
+  "icon": "spell_fire_immolation",
+  "description": "Causes the caster to inflict additional Fire damage to an enemy when the caster is using melee attacks. Lasts 10 sec.",
+  "castTime": "1 sec cast"
+}

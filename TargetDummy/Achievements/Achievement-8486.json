@@ -1,0 +1,11 @@
+{
+  "id": 8486,
+  "title": "Proving Yourself: Bronze Damage (Level 90)",
+  "points": 0,
+  "description": "Successfully complete the Basic Damage (Bronze) trial at the Proving Grounds.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_bronze",
+  "criteria": [],
+  "accountWide": true,
+  "factionId": 2
+}

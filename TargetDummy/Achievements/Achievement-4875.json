@@ -1,0 +1,42 @@
+{
+  "id": 4875,
+  "title": "Loremaster of Cataclysm",
+  "points": 10,
+  "description": "Complete the Cataclysm quest achievements listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_book_06",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Sinking Into Vashj'ir",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 13986,
+      "description": "Coming Down the Mountain",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13987,
+      "description": "Deep into Deepholm",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 13988,
+      "description": "Unearthing Uldum",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Fading Into Twilight",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

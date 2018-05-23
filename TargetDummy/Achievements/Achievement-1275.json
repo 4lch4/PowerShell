@@ -1,0 +1,18 @@
+{
+  "id": 1275,
+  "title": "Bombs Away",
+  "points": 10,
+  "description": "Complete the Fires Over Skettis quest in under 2 minutes 15 seconds while not in a group.",
+  "rewardItems": [],
+  "icon": "inv_misc_bomb_07",
+  "criteria": [
+    {
+      "id": 3922,
+      "description": "Fires Over Skettis",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

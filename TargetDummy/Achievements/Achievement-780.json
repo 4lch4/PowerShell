@@ -1,0 +1,90 @@
+{
+  "id": 780,
+  "title": "Explore Redridge Mountains",
+  "points": 10,
+  "description": "Explore Redridge Mountains, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_redridgemountains",
+  "criteria": [
+    {
+      "id": 1185,
+      "description": "Lakeshire",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1188,
+      "description": "Lake Everstill",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1186,
+      "description": "Three Corners",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1187,
+      "description": "Lakeridge Highway",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1189,
+      "description": "Redridge Canyons",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1191,
+      "description": "Alther's Mill",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1192,
+      "description": "Stonewatch Falls",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1193,
+      "description": "Render's Valley",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1190,
+      "description": "Render's Camp",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1194,
+      "description": "Stonewatch Keep",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1195,
+      "description": "Galardell Valley",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 14161,
+      "description": "Shalewind Canyon",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 14162,
+      "description": "Camp Everstill",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

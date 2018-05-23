@@ -1,0 +1,18 @@
+{
+  "id": 450,
+  "title": "Senior Sergeant",
+  "points": 0,
+  "description": "Earned the title, \"Senior Sergeant\" at level 60.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_04",
+  "criteria": [
+    {
+      "id": 723,
+      "description": "Senior Sergeant",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

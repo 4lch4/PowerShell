@@ -1,0 +1,18 @@
+{
+  "id": 1856,
+  "title": "Make Quick Werk of Him (10 player)",
+  "points": 10,
+  "description": "Defeat Patchwerk in Naxxramas in 3 minutes or less in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_shadow_abominationexplosion",
+  "criteria": [
+    {
+      "id": 7126,
+      "description": "Patchwerk",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11767,
+  "title": "Mythic: Goroth",
+  "points": 10,
+  "description": "Defeat Goroth in Tomb of Sargeras on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_pitinfernal",
+  "criteria": [
+    {
+      "id": 36468,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

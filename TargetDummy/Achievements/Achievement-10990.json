@@ -1,0 +1,18 @@
+{
+  "id": 10990,
+  "title": "Top Honors",
+  "points": 10,
+  "description": "Reach Honor Level 50.",
+  "rewardItems": [],
+  "icon": "pvpcurrency-honor-horde",
+  "criteria": [
+    {
+      "id": 31773,
+      "description": "Honor Level 50",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

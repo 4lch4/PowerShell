@@ -1,0 +1,30 @@
+{
+  "id": 8793,
+  "title": "Murkalot",
+  "points": 0,
+  "description": "Proud owner of Murkalot from the 2013 BlizzCon.",
+  "rewardItems": [],
+  "icon": "inv_mace_1h_pandung_c_01",
+  "criteria": [
+    {
+      "id": 24154,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 24155,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 34642,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

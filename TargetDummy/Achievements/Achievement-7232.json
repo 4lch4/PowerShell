@@ -1,0 +1,18 @@
+{
+  "id": 7232,
+  "title": "The Keg Runner",
+  "points": 10,
+  "description": "Complete Stage 2 of Unga Ingoo in less than four minutes.",
+  "rewardItems": [],
+  "icon": "inv_cask_02",
+  "criteria": [
+    {
+      "id": 20691,
+      "description": "Defeat stage 2 of Unga Ingoo in less than four minutes.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

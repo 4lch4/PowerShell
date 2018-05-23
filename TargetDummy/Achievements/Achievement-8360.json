@@ -1,0 +1,67 @@
+{
+  "id": 8360,
+  "title": "Master of Deepwind Gorge",
+  "points": 10,
+  "description": "Complete the Deepwind Gorge achievements listed below.",
+  "reward": "Title: Gorgeous",
+  "rewardItems": [],
+  "icon": "achievement_bg_dg_master_of_the_deepwind_gorge",
+  "criteria": [
+    {
+      "id": 23429,
+      "description": "Deepwind Gorge Victory",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23430,
+      "description": "Deepwind Gorge Veteran",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 23431,
+      "description": "Deepwind Gorge Perfection",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 23432,
+      "description": "Mine! Mine! Mine!",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 23433,
+      "description": "Other People's Property",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 23434,
+      "description": "Puddle Jumper",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 23522,
+      "description": "Weighed down",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 23523,
+      "description": "Capping Spree",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 23524,
+      "description": "Deepwind All-Star",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 218,
+  "title": "Alterac Valley Victory",
+  "points": 10,
+  "description": "Win Alterac Valley.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winav",
+  "criteria": [
+    {
+      "id": 17411,
+      "description": "Win Alterac Valley.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

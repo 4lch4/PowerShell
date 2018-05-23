@@ -1,0 +1,24 @@
+{
+  "id": 8213,
+  "title": "Friends In Places Higher Yet",
+  "points": 0,
+  "description": "Obtain a Heart of the Nightwing mount through the Recruit-a-Friend program.",
+  "rewardItems": [],
+  "icon": "inv_misc_reforgedarchstone_01",
+  "criteria": [
+    {
+      "id": 22935,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22936,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

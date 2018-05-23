@@ -1,0 +1,18 @@
+{
+  "id": 31,
+  "title": "A Simple Re-Quest",
+  "points": 10,
+  "description": "Complete a daily quest every day for five consecutive days.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_daily_x5",
+  "criteria": [
+    {
+      "id": 72,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

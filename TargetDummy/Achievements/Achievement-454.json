@@ -1,0 +1,18 @@
+{
+  "id": 454,
+  "title": "Scout",
+  "points": 0,
+  "description": "Earned the title, \"Scout\" at level 60.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_01",
+  "criteria": [
+    {
+      "id": 740,
+      "description": "Scout",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

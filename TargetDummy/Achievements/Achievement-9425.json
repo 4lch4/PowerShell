@@ -1,0 +1,18 @@
+{
+  "id": 9425,
+  "title": "So Grossly Incandescent",
+  "points": 10,
+  "description": "Defeat Rukhmar in Spires of Arak.",
+  "rewardItems": [],
+  "icon": "inv_helm_suncrown_d_01",
+  "criteria": [
+    {
+      "id": 25435,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

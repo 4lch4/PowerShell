@@ -1,0 +1,18 @@
+{
+  "id": 6455,
+  "title": "Show Me Your Moves!",
+  "points": 10,
+  "description": "Defeat the Will of the Emperor in Mogu'shan Vaults on Normal or Heroic difficulty after all members of the raid execute an Opportunistic Strike on the same construct within a single Unbalanced phase.",
+  "rewardItems": [],
+  "icon": "ability_rogue_shadowstrikes",
+  "criteria": [
+    {
+      "id": 19105,
+      "description": "Terracotta Army",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

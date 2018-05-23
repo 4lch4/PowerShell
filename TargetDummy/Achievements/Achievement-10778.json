@@ -1,0 +1,18 @@
+{
+  "id": 10778,
+  "title": "The Nightfallen",
+  "points": 10,
+  "description": "Earn Exalted status with The Nightfallen.",
+  "rewardItems": [],
+  "icon": "inv_legion_faction_nightfallen",
+  "criteria": [
+    {
+      "id": 30499,
+      "description": "",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

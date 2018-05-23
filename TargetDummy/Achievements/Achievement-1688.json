@@ -1,0 +1,30 @@
+{
+  "id": 1688,
+  "title": "The Winter Veil Gourmet",
+  "points": 10,
+  "description": "During the Feast of Winter Veil, use your culinary expertise to produce a Gingerbread Cookie, Winter Veil Egg Nog and Hot Apple Cider.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_62",
+  "criteria": [
+    {
+      "id": 6247,
+      "description": "Gingerbread Cookie",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 6248,
+      "description": "Winter Veil Egg Nog",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6249,
+      "description": "Hot Apple Cider",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

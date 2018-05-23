@@ -1,0 +1,36 @@
+{
+  "id": 2890,
+  "title": "The Keepers of Ulduar (10 player)",
+  "points": 10,
+  "description": "Defeat the Keeper bosses of Ulduar in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_ulduarraid_misc_05",
+  "criteria": [
+    {
+      "id": 10560,
+      "description": "Hodir",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 10558,
+      "description": "Thorim",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 10559,
+      "description": "Freya",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9947,
+      "description": "Mimiron",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

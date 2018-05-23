@@ -1,0 +1,18 @@
+{
+  "id": 11737,
+  "title": "Disrupting the Nether",
+  "points": 5,
+  "description": "Contribute to the Nether Disruptor on the Broken Shore 5 times.",
+  "rewardItems": [],
+  "icon": "ability_demonhunter_netherbond",
+  "criteria": [
+    {
+      "id": 36001,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873,
+  "title": "Frostwolf Perfection",
+  "points": 20,
+  "description": "Win Alterac Valley without losing a tower or captain. You must also control all of the Alliance's towers.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_frostwolftrinket_03",
+  "criteria": [
+    {
+      "id": 1811,
+      "description": "Galvagar and Drek'Thar survive",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1812,
+      "description": "Tower A1 owned by the Horde",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1825,
+      "description": "win av",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1813,
+      "description": "Tower A1 owned by the Horde",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1814,
+      "description": "Tower A3 owned by the Horde",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1815,
+      "description": "Tower A4 owned by the Horde",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1816,
+      "description": "Tower H1 owned by the Horde",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1817,
+      "description": "Tower H2 owned by the Horde",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1818,
+      "description": "Tower H3 owned by the Horde",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1819,
+      "description": "Tower H4 owned by the Horde",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,8 @@
+{
+  "id": 10096,
+  "name": "Shrink",
+  "icon": "spell_shadow_antishadow",
+  "description": "",
+  "range": "30 yd range",
+  "castTime": "3 sec cast"
+}

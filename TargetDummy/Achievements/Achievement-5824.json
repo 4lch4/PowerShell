@@ -1,0 +1,38 @@
+{
+  "id": 5824,
+  "title": "Veteran of the Horde II",
+  "points": 10,
+  "description": "Win 150 rated battlegrounds.",
+  "reward": "Reward: Epic Wolf",
+  "rewardItems": [
+    {
+      "id": 103533,
+      "name": "Vicious Saddle",
+      "icon": "achievement_bg_kill_on_mount",
+      "quality": 4,
+      "itemLevel": 90,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_bannerpvp_01",
+  "criteria": [
+    {
+      "id": 15289,
+      "description": "Win 150 rated battlegrounds",
+      "orderIndex": 1,
+      "max": 150
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 10027,
+  "title": "Mythic: Hellfire Assault",
+  "points": 10,
+  "description": "Complete the Hellfire Assault encounter in Hellfire Citadel on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_siegeworks",
+  "criteria": [
+    {
+      "id": 28086,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

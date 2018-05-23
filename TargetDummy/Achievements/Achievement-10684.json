@@ -1,0 +1,18 @@
+{
+  "id": 10684,
+  "title": "Fashionista: Legs",
+  "points": 5,
+  "description": "Collect 100 leg slot appearances.",
+  "rewardItems": [],
+  "icon": "inv_pants_11",
+  "criteria": [
+    {
+      "id": 30569,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

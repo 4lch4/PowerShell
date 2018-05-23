@@ -1,0 +1,18 @@
+{
+  "id": 6427,
+  "title": "Mosh Pit",
+  "points": 10,
+  "description": "Get a combination of 8 players and Scarlet Defenders caught up in Armsmaster Harlan's Blades of Light simultaneously and then defeat Armsmaster Harlan in Scarlet Halls on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "spell_impending_victory",
+  "criteria": [
+    {
+      "id": 19047,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

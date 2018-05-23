@@ -1,0 +1,78 @@
+{
+  "id": 776,
+  "title": "Explore Elwynn Forest",
+  "points": 10,
+  "description": "Explore Elwynn Forest, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_elwynnforest",
+  "criteria": [
+    {
+      "id": 1146,
+      "description": "Northshire Valley",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14147,
+      "description": "Westbrook Garrison",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1147,
+      "description": "Goldshire",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1148,
+      "description": "Fargodeep Mine",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1151,
+      "description": "Jerod's Landing",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1152,
+      "description": "Tower of Azora",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1153,
+      "description": "Brackwell Pumpkin Patch",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1154,
+      "description": "Eastvale Logging Camp",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1155,
+      "description": "Ridgepoint Tower",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1156,
+      "description": "Crystal Lake",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1157,
+      "description": "Stone Cairn Lake",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

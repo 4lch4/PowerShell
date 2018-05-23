@@ -1,0 +1,18 @@
+{
+  "id": 8930,
+  "title": "Ya, We've Got Time...",
+  "points": 10,
+  "description": "Complete the Blast Furnace encounter in Blackrock Foundry after defeating all four Primal Elementalists within 10 seconds of each other, on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "spell_holy_borrowedtime",
+  "criteria": [
+    {
+      "id": 24628,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

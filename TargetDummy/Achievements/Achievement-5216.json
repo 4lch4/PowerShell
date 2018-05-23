@@ -1,0 +1,18 @@
+{
+  "id": 5216,
+  "title": "Peak Speed",
+  "points": 10,
+  "description": "Win Twin Peaks in under 7 minutes.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winwsg_underxminutes",
+  "criteria": [
+    {
+      "id": 14823,
+      "description": "Win Twin Peaks in under 7 minutes",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

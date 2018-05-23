@@ -1,0 +1,36 @@
+{
+  "id": 5193,
+  "title": "Blue Streak",
+  "points": 10,
+  "description": "Discover who slew the dread wyrm Kaldrigos by collecting the following artifacts.",
+  "rewardItems": [],
+  "icon": "achievement_boss_cyanigosa",
+  "criteria": [
+    {
+      "id": 15058,
+      "description": "Notched Sword of Tunadil the Redeemer",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15059,
+      "description": "Dented Shield of Horuz Killcrow",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15060,
+      "description": "Scorched Staff of Shadow Priest Anund",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15095,
+      "description": "Silver Kris of Korl",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

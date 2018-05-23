@@ -1,0 +1,11 @@
+{
+  "id": 688,
+  "title": "Zul'Gurub",
+  "points": 0,
+  "description": "Defeat Hakkar.",
+  "rewardItems": [],
+  "icon": "achievement_boss_hakkar",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

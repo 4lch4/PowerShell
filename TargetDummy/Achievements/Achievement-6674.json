@@ -1,0 +1,42 @@
+{
+  "id": 6674,
+  "title": "Anything You Can Do, I Can Do Better...",
+  "points": 10,
+  "description": "Defeat Feng the Accursed in Normal or Heroic difficulty after mimicking each of the following abilities:",
+  "rewardItems": [],
+  "icon": "thumbsup",
+  "criteria": [
+    {
+      "id": 19501,
+      "description": "Epicenter",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19502,
+      "description": "Lightning Fists",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19504,
+      "description": "Wildfire Spark",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19506,
+      "description": "Arcane Velocity",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 19507,
+      "description": "Arcane Resonance",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

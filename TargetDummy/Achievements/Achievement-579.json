@@ -1,0 +1,96 @@
+{
+  "id": 579,
+  "title": "The Dedicated Few (25 player)",
+  "points": 50,
+  "description": "Defeat the bosses of Naxxramas with less than 21 people in the zone in 25-player mode.",
+  "rewardItems": [],
+  "icon": "spell_shadow_raisedead",
+  "criteria": [
+    {
+      "id": 7159,
+      "description": "Anub'Rekhan",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7167,
+      "description": "Heigan the Unclean",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7163,
+      "description": "Grobbulus",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7170,
+      "description": "Gothik the Harvester",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7160,
+      "description": "Grand Widow Faerlina",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7172,
+      "description": "Kel'Thuzad",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7161,
+      "description": "Maexxna",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 7171,
+      "description": "Sapphiron",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 7168,
+      "description": "Loatheb",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 7164,
+      "description": "Gluth",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 7162,
+      "description": "Patchwerk",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 7165,
+      "description": "Thaddius",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 7169,
+      "description": "Instructor Razuvious",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 7166,
+      "description": "Noth the Plaguebringer",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

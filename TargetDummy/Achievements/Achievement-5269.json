@@ -1,0 +1,18 @@
+{
+  "id": 5269,
+  "title": "In Service of the Horde",
+  "points": 10,
+  "description": "Win a rated battleground.",
+  "rewardItems": [],
+  "icon": "inv_bannerpvp_01",
+  "criteria": [
+    {
+      "id": 15289,
+      "description": "Win a rated battleground",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

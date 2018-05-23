@@ -1,0 +1,60 @@
+{
+  "id": 303,
+  "title": "Have Keg, Will Travel",
+  "points": 10,
+  "description": "Obtain a Brewfest mount, or transform yours into one using Brewfest Hops.",
+  "rewardItems": [],
+  "icon": "inv_cask_01",
+  "criteria": [
+    {
+      "id": 6207,
+      "description": "Brewfest Kodo",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6208,
+      "description": "swift brewfest ram",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6209,
+      "description": "Brewfest Ram",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6210,
+      "description": "Great Brewfest Kodo",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 10966,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 10967,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 10968,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 10969,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

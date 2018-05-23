@@ -1,0 +1,18 @@
+{
+  "id": 10543,
+  "title": "Surge Protector",
+  "points": 10,
+  "description": "Defeat Odyn without any Stormforged Obliterators successfully casting Surge in Halls of Valor on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "ability_thunderking_thunderstruck",
+  "criteria": [
+    {
+      "id": 29679,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

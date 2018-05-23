@@ -1,0 +1,18 @@
+{
+  "id": 1166,
+  "title": "To the Looter Go the Spoils",
+  "points": 10,
+  "description": "Loot the Autographed Picture of Foror & Tigule in Alterac Valley.",
+  "rewardItems": [],
+  "icon": "inv_scroll_10",
+  "criteria": [
+    {
+      "id": 3391,
+      "description": "Autographed Picture of Foror & Tigule",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

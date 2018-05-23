@@ -1,0 +1,18 @@
+{
+  "id": 892,
+  "title": "The Right Stuff",
+  "points": 10,
+  "description": "Learn the artisan riding skill.",
+  "rewardItems": [],
+  "icon": "ability_mount_wyvern_01",
+  "criteria": [
+    {
+      "id": 1872,
+      "description": "Artisan Riding",
+      "orderIndex": 1,
+      "max": 4
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

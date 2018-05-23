@@ -1,0 +1,18 @@
+{
+  "id": 1997,
+  "title": "Momma Said Knock You Out (10 player)",
+  "points": 10,
+  "description": "Defeat Grand Widow Faerlina in Naxxramas without dispelling or preventing frenzy in 10 player mode.",
+  "rewardItems": [],
+  "icon": "spell_shadow_curseofmannoroth",
+  "criteria": [
+    {
+      "id": 7265,
+      "description": "Defeat Grand Widow Faerlina without dispelling or preventing frenzy.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,30 @@
+{
+  "id": 1690,
+  "title": "A Frosty Shake",
+  "points": 10,
+  "description": "During the Feast of Winter Veil, use your Winter Veil Disguise kit to become a snowman and then dance with another snowman in Dalaran.",
+  "rewardItems": [],
+  "icon": "spell_frost_frostward",
+  "criteria": [
+    {
+      "id": 6261,
+      "description": "/dance in dalaran with a snowman as a snowman",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6258,
+      "description": "Winter Veil Disguise Kit in Dalaran",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6257,
+      "description": "Winter Veil Disguise Kit",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

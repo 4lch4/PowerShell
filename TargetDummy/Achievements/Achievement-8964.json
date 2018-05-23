@@ -1,0 +1,18 @@
+{
+  "id": 8964,
+  "title": "Mythic: Ko'ragh",
+  "points": 10,
+  "description": "Defeat Ko'ragh in Highmaul on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_highmaul_felbreakerlord",
+  "criteria": [
+    {
+      "id": 25004,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

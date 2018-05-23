@@ -1,0 +1,24 @@
+{
+  "id": 4616,
+  "title": "Nausea, Heartburn, Indigestion... (25 player)",
+  "points": 10,
+  "description": "Defeat Professor Putricide without using Regurgitated Ooze on the Abomination in 25-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_boss_profputricide",
+  "criteria": [
+    {
+      "id": 12968,
+      "description": "Professor Putricide",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12981,
+      "description": "Professor Putricide",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

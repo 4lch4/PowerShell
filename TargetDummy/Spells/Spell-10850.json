@@ -1,0 +1,8 @@
+{
+  "id": 10850,
+  "name": "Powerful Smelling Salts",
+  "icon": "inv_misc_ammo_gunpowder_01",
+  "description": "Brings a dead player back to life with 15% of their health and mana.  Cannot be used when in combat.",
+  "range": "5 yd range",
+  "castTime": "2 sec cast"
+}

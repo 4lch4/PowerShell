@@ -1,0 +1,30 @@
+{
+  "id": 9615,
+  "title": "With a Nagrand Cherry On Top",
+  "points": 10,
+  "description": "Complete the Nagrand bonus objectives below.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_43",
+  "criteria": [
+    {
+      "id": 26409,
+      "description": "Bonus Objective: Hemet's Happy Hunting Grounds",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26410,
+      "description": "Bonus Objective: Ironfist Harbor",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26428,
+      "description": "Bonus Objective: Snarlpaw Ledge",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

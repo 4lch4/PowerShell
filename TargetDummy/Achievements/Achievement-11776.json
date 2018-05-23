@@ -1,0 +1,18 @@
+{
+  "id": 11776,
+  "title": "Mythic: Mistress Sassz'ine",
+  "points": 10,
+  "description": "Defeat Mistress Sassz'ine in Tomb of Sargeras on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_seawitch",
+  "criteria": [
+    {
+      "id": 36527,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

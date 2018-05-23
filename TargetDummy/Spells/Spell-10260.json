@@ -1,0 +1,9 @@
+{
+  "id": 10260,
+  "name": "Reconstruct",
+  "icon": "spell_shadow_lifedrain",
+  "description": "Repairs the Archaedas construct for 15,020 damage over 20 sec.",
+  "range": "20 yd range",
+  "powerCost": "",
+  "castTime": "Channeled"
+}

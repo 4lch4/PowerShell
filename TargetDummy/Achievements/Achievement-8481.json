@@ -1,0 +1,18 @@
+{
+  "id": 8481,
+  "title": "Mythic: Paragons of the Klaxxi",
+  "points": 10,
+  "description": "Defeat the Klaxxi Paragons in Siege of Orgrimmar on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_klaxxi_paragons",
+  "criteria": [
+    {
+      "id": 24138,
+      "description": "Paragons of the Klaxxi",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

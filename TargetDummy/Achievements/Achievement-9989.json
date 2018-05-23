@@ -1,0 +1,18 @@
+{
+  "id": 9989,
+  "title": "Non-Lethal Enforcer",
+  "points": 10,
+  "description": "Defeat Tyrant Velhari in Hellfire Citadel without killing the Ancient Enforcer on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "ability_bossdarkvindicator_auraofcontempt",
+  "criteria": [
+    {
+      "id": 28018,
+      "description": "Defeat Tyrant Velhari in Hellfire Citadel without killing the Ancient Enforcer on Normal difficulty or higher.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

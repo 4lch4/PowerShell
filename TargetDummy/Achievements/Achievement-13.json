@@ -1,0 +1,18 @@
+{
+  "id": 13,
+  "title": "Level 80",
+  "points": 10,
+  "description": "Reach level 80.",
+  "rewardItems": [],
+  "icon": "achievement_level_80",
+  "criteria": [
+    {
+      "id": 5212,
+      "description": "Reach level 80",
+      "orderIndex": 1,
+      "max": 80
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

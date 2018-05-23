@@ -1,0 +1,18 @@
+{
+  "id": 1008,
+  "title": "The Kirin Tor",
+  "points": 10,
+  "description": "Earn Exalted status with The Kirin Tor.",
+  "rewardItems": [],
+  "icon": "achievement_reputation_kirintor",
+  "criteria": [
+    {
+      "id": 4742,
+      "description": "Exalted with Kirin Tor",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

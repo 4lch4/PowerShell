@@ -1,0 +1,18 @@
+{
+  "id": 9053,
+  "title": "Heroic: The Everbloom",
+  "points": 10,
+  "description": "Defeat Yalnu in The Everbloom on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_enchant_shaperessence",
+  "criteria": [
+    {
+      "id": 25347,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

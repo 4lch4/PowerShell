@@ -1,0 +1,24 @@
+{
+  "id": 1145,
+  "title": "King of the Fire Festival",
+  "points": 10,
+  "description": "Complete the quest, \"A Thief's Reward\", by stealing the flames from your enemy's capital cities.",
+  "rewardItems": [],
+  "icon": "inv_helmet_08",
+  "criteria": [
+    {
+      "id": 3351,
+      "description": "Alliance, A Thief's Reward",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3352,
+      "description": "Horde, A Thief's Reward",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

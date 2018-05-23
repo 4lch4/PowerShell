@@ -1,0 +1,18 @@
+{
+  "id": 1161,
+  "title": "High Five: 2200",
+  "points": 0,
+  "description": "Earn a 2200 personal rating in the 5v5 bracket of the arena.",
+  "rewardItems": [],
+  "icon": "achievement_arena_5v5_7",
+  "criteria": [
+    {
+      "id": 452,
+      "description": "2200 rating",
+      "orderIndex": 1,
+      "max": 2200
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

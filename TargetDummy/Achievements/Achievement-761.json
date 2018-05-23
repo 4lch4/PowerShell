@@ -1,0 +1,108 @@
+{
+  "id": 761,
+  "title": "Explore Arathi Highlands",
+  "points": 10,
+  "description": "Explore Arathi Highlands, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_arathihighlands_01",
+  "criteria": [
+    {
+      "id": 962,
+      "description": "Circle of West Binding",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 963,
+      "description": "Northfold Manor",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2044,
+      "description": "Boulder'gor",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 964,
+      "description": "Galen's Fall",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 965,
+      "description": "Stromgarde Keep",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 966,
+      "description": "Faldir's Cove",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 967,
+      "description": "Circle of Inner Binding",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 968,
+      "description": "Thandol Span",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 969,
+      "description": "Boulderfist Hall",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 970,
+      "description": "Refuge Pointe",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 971,
+      "description": "Circle of Outer Binding",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 972,
+      "description": "Witherbark Village",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 973,
+      "description": "Go'Shek Farm",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 974,
+      "description": "Dabyrie's Farmstead",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 975,
+      "description": "Circle of East Binding",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 976,
+      "description": "Hammerfall",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

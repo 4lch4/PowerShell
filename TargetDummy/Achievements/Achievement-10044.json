@@ -1,0 +1,18 @@
+{
+  "id": 10044,
+  "title": "Ahead of the Curve: The Black Gate",
+  "points": 0,
+  "description": "Defeat Archimonde on Heroic difficulty or higher, before the release of patch 7.0.",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_archimonde",
+  "criteria": [
+    {
+      "id": 28107,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

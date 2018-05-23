@@ -1,0 +1,7 @@
+{
+  "id": 10846,
+  "name": "First Aid",
+  "icon": "spell_holy_sealofsacrifice",
+  "description": "Allows a physician to make and use bandages up to a potential skill of 300.   The cloth used to make those bandages are found on humanoids in the world.",
+  "castTime": "Instant"
+}

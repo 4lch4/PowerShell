@@ -1,0 +1,18 @@
+{
+  "id": 875,
+  "title": "Vengefully Dedicated",
+  "points": 10,
+  "description": "Win 200 ranked arena matches.",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_02",
+  "criteria": [
+    {
+      "id": 306,
+      "description": "Win 200 ranked arena matches",
+      "orderIndex": 1,
+      "max": 200
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

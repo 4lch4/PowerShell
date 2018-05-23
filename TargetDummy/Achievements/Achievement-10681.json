@@ -1,0 +1,18 @@
+{
+  "id": 10681,
+  "title": "Fashionista: Head",
+  "points": 5,
+  "description": "Collect 100 head slot appearances.",
+  "rewardItems": [],
+  "icon": "inv_helmet_25",
+  "criteria": [
+    {
+      "id": 30565,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

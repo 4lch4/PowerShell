@@ -1,0 +1,7 @@
+{
+  "id": 10681,
+  "name": "Summon Cockatoo",
+  "icon": "inv_feather_03",
+  "description": "Right Click to summon and dismiss your bird.",
+  "castTime": "Instant"
+}

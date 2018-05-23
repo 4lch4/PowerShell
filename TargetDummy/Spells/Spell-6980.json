@@ -1,0 +1,9 @@
+{
+  "id": 6980,
+  "name": "Fire Shot",
+  "subtext": "Rank 3",
+  "icon": "ability_searingarrow",
+  "description": "Fires a flaming shot at the enemy, inflicting Fire damage.",
+  "range": "5-30 yd range",
+  "castTime": "Instant"
+}

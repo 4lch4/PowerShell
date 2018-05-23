@@ -1,0 +1,18 @@
+{
+  "id": 10275,
+  "title": "Fleet Commander",
+  "points": 5,
+  "description": "Complete 500 Naval Missions.",
+  "rewardItems": [],
+  "icon": "achievement_garrisonquests_0500",
+  "criteria": [
+    {
+      "id": 28567,
+      "description": "",
+      "orderIndex": 0,
+      "max": 500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2045,
+  "title": "Emerald Void",
+  "points": 10,
+  "description": "Defeat Ley-Guardian Eregos in The Oculus on Heroic Difficulty without anyone in your party using an Emerald Drake.",
+  "rewardItems": [],
+  "icon": "ability_mount_drake_blue",
+  "criteria": [
+    {
+      "id": 7324,
+      "description": "Ley-Guardian Eregos",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,42 @@
+{
+  "id": 584,
+  "title": "Arathi Basin Assassin",
+  "points": 20,
+  "description": "Get five honorable kills at each of the bases in a single Arathi Basin battle.",
+  "rewardItems": [],
+  "icon": "ability_hunter_rapidkilling",
+  "criteria": [
+    {
+      "id": 431,
+      "description": "Kill 5 people at the blacksmith",
+      "orderIndex": 1,
+      "max": 5
+    },
+    {
+      "id": 432,
+      "description": "Kill 5 people at the farm",
+      "orderIndex": 2,
+      "max": 5
+    },
+    {
+      "id": 433,
+      "description": "Kill 5 people at the gold mine",
+      "orderIndex": 3,
+      "max": 5
+    },
+    {
+      "id": 434,
+      "description": "Kill 5 people at the lumber mill",
+      "orderIndex": 4,
+      "max": 5
+    },
+    {
+      "id": 435,
+      "description": "Kill 5 people at the stables",
+      "orderIndex": 5,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

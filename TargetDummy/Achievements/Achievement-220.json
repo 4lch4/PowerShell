@@ -1,0 +1,72 @@
+{
+  "id": 220,
+  "title": "Stormpike Perfection",
+  "points": 20,
+  "description": "Win Alterac Valley without losing a tower or captain. You must also control all of the Horde's towers.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_stormpiketrinket_03",
+  "criteria": [
+    {
+      "id": 1242,
+      "description": "Balinda and Vandaar survive",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1825,
+      "description": "win av",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1803,
+      "description": "Tower A1 owned by the Alliance",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1804,
+      "description": "Tower A1 owned by the Alliance",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1805,
+      "description": "Tower A3 owned by the Alliance",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1806,
+      "description": "Tower A4 owned by the Alliance",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1807,
+      "description": "Tower H1 owned by the Alliance",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1808,
+      "description": "Tower H2 owned by the Alliance",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1809,
+      "description": "Tower H3 owned by the Alliance",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1810,
+      "description": "Tower H4 owned by the Alliance",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,12 @@
+{
+  "id": 9242,
+  "title": "Challenger: Warlords Season 1",
+  "points": 0,
+  "description": "End Warlords PvP season 1 in the top 35% of the arena ladder (requires 50 games won in Warlords Season 1).",
+  "reward": "Title Reward: Challenger",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_06",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

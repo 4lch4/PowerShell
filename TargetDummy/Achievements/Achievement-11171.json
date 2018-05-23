@@ -1,0 +1,84 @@
+{
+  "id": 11171,
+  "title": "Arsenal of Power",
+  "points": 10,
+  "description": "Obtain every artifact available to your class.",
+  "rewardItems": [],
+  "icon": "inv_glaive_1h_artifactaldrochi_d_01dual",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Death Knight",
+      "orderIndex": 0,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Demon Hunter",
+      "orderIndex": 1,
+      "max": 2
+    },
+    {
+      "id": 0,
+      "description": "Druid",
+      "orderIndex": 2,
+      "max": 4
+    },
+    {
+      "id": 0,
+      "description": "Hunter",
+      "orderIndex": 3,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Mage",
+      "orderIndex": 4,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Monk",
+      "orderIndex": 5,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Paladin",
+      "orderIndex": 6,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Priest",
+      "orderIndex": 7,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Rogue",
+      "orderIndex": 8,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Shaman",
+      "orderIndex": 9,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Warlock",
+      "orderIndex": 10,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Warrior",
+      "orderIndex": 11,
+      "max": 3
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

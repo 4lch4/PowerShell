@@ -1,0 +1,18 @@
+{
+  "id": 9659,
+  "title": "Iron Wings",
+  "points": 10,
+  "description": "Use the Iron Troop Launcher in The Pit to get launched through four rings in 3 minutes.",
+  "rewardItems": [],
+  "icon": "ability_vehicle_launchplayer",
+  "criteria": [
+    {
+      "id": 27302,
+      "description": "Use the Iron Troop Launcher in The Pit to get launched through four rings in 3 minutes.",
+      "orderIndex": 0,
+      "max": 4
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 3836,
+  "title": "Koralon the Flame Watcher (10 player)",
+  "points": 10,
+  "description": "Defeat Koralon the Flame Watcher in 10 player mode.",
+  "rewardItems": [],
+  "icon": "spell_fire_totemofwrath",
+  "criteria": [
+    {
+      "id": 13325,
+      "description": "Koralon the Flame Watcher",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

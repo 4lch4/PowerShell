@@ -1,0 +1,18 @@
+{
+  "id": 10848,
+  "title": "Mythic: Krosus",
+  "points": 10,
+  "description": "Defeat Krosus in The Nighthold on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_thenighthold_krosus",
+  "criteria": [
+    {
+      "id": 31461,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

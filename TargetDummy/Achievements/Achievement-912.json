@@ -1,0 +1,114 @@
+{
+  "id": 912,
+  "title": "Elders of Eastern Kingdoms",
+  "points": 10,
+  "description": "Honor the Elders which are located in Eastern Kingdoms",
+  "rewardItems": [],
+  "icon": "spell_holy_symbolofhope",
+  "criteria": [
+    {
+      "id": 1922,
+      "description": "Elder Goldwell in Kharanos",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1923,
+      "description": "Elder Bellowrage in Blasted Lands",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1924,
+      "description": "Elder Stormbrow in Goldshire",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1925,
+      "description": "Elder Meadowrun in Western Plaguelands",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1926,
+      "description": "Elder Starglade in Zul'Gurub",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1927,
+      "description": "Elder Winterhoof in Booty Bay",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1937,
+      "description": "Elder Silvervein in Thelsamar",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1938,
+      "description": "Elder Skychaser in Sentinel Hill",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1939,
+      "description": "Elder Rumblerock in Burning Steppes",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1940,
+      "description": "Elder Dawnstrider in Flame Crest",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1941,
+      "description": "Elder Highpeak in The Hinterlands",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1942,
+      "description": "Elder Ironband in Searing Gorge",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1944,
+      "description": "Elder Graveborn in Brill",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1945,
+      "description": "Elder Obsidian in The Sepulcher",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1946,
+      "description": "Elder Windrun in Eastern Plaguelands",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1947,
+      "description": "Elder Snowcrown in Light's Hope Chapel",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1950,
+      "description": "Elder Moonstrike in Scholomance",
+      "orderIndex": 17,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8366,
+  "title": "Heroic: Battle on the High Seas",
+  "points": 10,
+  "description": "Defeat Admiral Hodgson in the Battle on the High Seas on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "ability_vehicle_siegeenginecannon",
+  "criteria": [
+    {
+      "id": 23438,
+      "description": "Kill Admiral Hodgson",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

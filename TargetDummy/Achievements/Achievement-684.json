@@ -1,0 +1,90 @@
+{
+  "id": 684,
+  "title": "Onyxia's Lair (Level 60)",
+  "points": 0,
+  "description": "Defeat the classic, level 60 version of Onyxia.",
+  "rewardItems": [],
+  "icon": "achievement_boss_onyxia",
+  "criteria": [
+    {
+      "id": 4266,
+      "description": "Victory for the Alliance",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4268,
+      "description": "A Proper String",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4267,
+      "description": "Victory for the Horde",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4437,
+      "description": "The Only Prescription",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4270,
+      "description": "The Forging of Quel'Serrar",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4271,
+      "description": "Onyxia Hide Backpack",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4272,
+      "description": "Ancient Cornerstone Grimoire",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4282,
+      "description": "Deathbringer",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4283,
+      "description": "Vis'kag the Bloodletter",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4284,
+      "description": "Ring of Binding",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4285,
+      "description": "Sapphiron Drape",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4286,
+      "description": "Eskhandar's Collar",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4287,
+      "description": "Shard of the Scale",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

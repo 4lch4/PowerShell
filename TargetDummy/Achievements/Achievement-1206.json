@@ -1,0 +1,138 @@
+{
+  "id": 1206,
+  "title": "To All The Squirrels I've Loved Before",
+  "points": 10,
+  "description": "Show the critters of Azeroth how much you /love them.",
+  "rewardItems": [],
+  "icon": "inv_jewelcrafting_crimsonhare",
+  "criteria": [
+    {
+      "id": 3741,
+      "description": "Borean Frog",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Cat",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Chicken",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3746,
+      "description": "Cow",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Deer",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3749,
+      "description": "Ewe",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Fawn",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Small Frog",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Gazelle",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Hare",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Parrot",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Rabbit",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Ram",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Sheep",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Shore Crab",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Skunk",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Squirrel",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 3739,
+      "description": "Steam Frog",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 3759,
+      "description": "Swine",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Toad",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Prairie Dog",
+      "orderIndex": 20,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

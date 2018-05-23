@@ -1,0 +1,54 @@
+{
+  "id": 8044,
+  "title": "Flame Keeper of Pandaria",
+  "points": 10,
+  "description": "Honor the flames of Pandaria.",
+  "rewardItems": [],
+  "icon": "inv_summerfest_firespirit",
+  "criteria": [
+    {
+      "id": 22688,
+      "description": "Dread Wastes",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22689,
+      "description": "Jade Forest",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22690,
+      "description": "Krasarang Wilds",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22691,
+      "description": "Kun-Lai Summit",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 22692,
+      "description": "Townlong Steppes",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 22693,
+      "description": "Vale of Eternal Blossoms",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 22694,
+      "description": "Valley of the Four Winds",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

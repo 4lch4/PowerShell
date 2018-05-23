@@ -1,0 +1,9 @@
+{
+  "id": 5108,
+  "name": "Voidwalker",
+  "icon": "spell_shadow_summonvoidwalker",
+  "description": "Summons 0 Voidwalkers to aid the caster in battle for until cancelled.",
+  "powerCost": "32 Mana",
+  "castTime": "Instant",
+  "cooldown": "20 sec cooldown"
+}

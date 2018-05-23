@@ -1,0 +1,19 @@
+{
+  "id": 6913,
+  "title": "Scarlet Monastery: Gold",
+  "points": 0,
+  "description": "Complete the Scarlet Monastery Challenge Mode with a rating of Gold.",
+  "reward": "Reward: Teleport to Scarlet Monastery",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_scarletmonastery_gold",
+  "criteria": [
+    {
+      "id": 20726,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

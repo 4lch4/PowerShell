@@ -1,0 +1,18 @@
+{
+  "id": 6756,
+  "title": "Heroic: Mogu'shan Palace",
+  "points": 10,
+  "description": "Defeat Xin the Weaponmaster in Mogu'shan Palace on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_mogupalace",
+  "criteria": [
+    {
+      "id": 19667,
+      "description": "Defeat Xin the Weaponmaster",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

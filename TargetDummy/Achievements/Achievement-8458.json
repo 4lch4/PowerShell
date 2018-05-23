@@ -1,0 +1,36 @@
+{
+  "id": 8458,
+  "title": "Vale of Eternal Sorrows",
+  "points": 10,
+  "description": "Defeat the bosses in the scarred Vale of Eternal Blossoms in the prelude to the Siege of Orgrimmar.",
+  "rewardItems": [],
+  "icon": "achievement_raid_soo_ruined_vale",
+  "criteria": [
+    {
+      "id": 23651,
+      "description": "Immerseus",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23653,
+      "description": "Fallen Protectors",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 23654,
+      "description": "Norushen",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 23652,
+      "description": "Sha of Pride",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

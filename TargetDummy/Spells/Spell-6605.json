@@ -1,0 +1,7 @@
+{
+  "id": 6605,
+  "name": "Terrifying Screech",
+  "icon": "spell_shadow_summonimp",
+  "description": "Causes nearby enemies to flee in fear for 4 sec and reduces their movement speed.",
+  "castTime": "1.5 sec cast"
+}

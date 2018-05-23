@@ -1,0 +1,30 @@
+{
+  "id": 6845,
+  "title": "Nightmare of Shek'zeer",
+  "points": 10,
+  "description": "Defeat the final three bosses in Heart of Fear.",
+  "rewardItems": [],
+  "icon": "achievement_raid_mantidraid01",
+  "criteria": [
+    {
+      "id": 19631,
+      "description": "Wind Lord Mel'jarak",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19633,
+      "description": "Amber-Shaper Un'sok",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19634,
+      "description": "Grand Empress Shek'zeer",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

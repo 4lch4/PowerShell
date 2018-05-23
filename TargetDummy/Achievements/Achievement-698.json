@@ -1,0 +1,186 @@
+{
+  "id": 698,
+  "title": "Sunwell Plateau",
+  "points": 10,
+  "description": "Defeat Kil'jaeden in Sunwell Plateau.",
+  "rewardItems": [],
+  "icon": "achievement_boss_kiljaedan",
+  "criteria": [
+    {
+      "id": 3261,
+      "description": "Kil'jaeden",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4597,
+      "description": "Apolyon, the Soul-Render",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4598,
+      "description": "Borderland Paingrips",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4599,
+      "description": "Cloak of Unforgivable Sin",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4600,
+      "description": "Coif of Alleria",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4601,
+      "description": "Cover of Ursol the Wise",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4602,
+      "description": "Cowl of Gul'dan",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4603,
+      "description": "Cowl of Light's Purity",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4604,
+      "description": "Crown of Anasterian",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4605,
+      "description": "Crux of the Apocalypse",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4606,
+      "description": "Dark Conjuror's Collar",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4607,
+      "description": "Duplicitous Guise",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4608,
+      "description": "Golden Staff of the Sin'dorei",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4609,
+      "description": "Hammer of Sanctification",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4610,
+      "description": "Hand of the Deceiver",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4611,
+      "description": "Handguards of Defiled Worlds",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4612,
+      "description": "Handguards of the Dawn",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4613,
+      "description": "Helm of Burning Righteousness",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4614,
+      "description": "Sunflare",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4615,
+      "description": "Tattered Cape of Antonidas",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 4616,
+      "description": "Thalassian Ranger Gauntlets",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 4617,
+      "description": "Thori'dal, the Stars' Fury",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 4647,
+      "description": "Cover of Ursoc the Mighty",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 4648,
+      "description": "Crown of Dath'Remar",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 4649,
+      "description": "Gloves of Tyri's Power",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 4650,
+      "description": "Helm of Arcane Purity",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 4651,
+      "description": "Helm of Uther's Resolve",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 4652,
+      "description": "Mask of the Fury Hunter",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 4653,
+      "description": "Shroud of Chieftain Ner'zhul",
+      "orderIndex": 29,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,38 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a TextBox with a browse button that selects a folder.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABfSURBVDhPY2CgFNTP3fmfXAy2G6SZHADSR3sDgDZgOA4mRpQLSDYApAFZE4yPLgZyFoYLsCnCJ4bVC+g2kmQAzVyALVywhgGpiYmoaMRnKIoBFOUFSjMjMOVA8gS5AAD4b2xU6o/ZlwAAAABJRU5ErkJggg==</Icon>
+  <Identifiers>
+    <ID id="1" name="buttonBrowseFolder" type="object" />
+    <ID id="2" name="buttonBrowseFolder_Click" type="event" />
+    <ID id="3" name="textboxFolder" type="object" />
+    <ID id="4" name="folderbrowserdialog1" type="object" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="Location">247, 49</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="Size">30, 23</Property>
+      <Property name="TabIndex">4</Property>
+      <Property name="Text">...</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">%ID:2%</Event>
+    </Object>
+    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:3%" children="Controls">
+      <Property name="AutoCompleteMode">SuggestAppend</Property>
+      <Property name="AutoCompleteSource">FileSystemDirectories</Property>
+      <Property name="Location">13, 51</Property>
+      <Property name="Name">%ID:3%</Property>
+      <Property name="Size">228, 20</Property>
+      <Property name="TabIndex">3</Property>
+    </Object>
+    <Object type="System.Windows.Forms.FolderBrowserDialog, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:4%" />
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%={
+	if($%ID:4%.ShowDialog() -eq 'OK')
+	{
+		$%ID:3%.Text = $%ID:4%.SelectedPath
+	}
+}]]></Event>
+  </Events>
+</ControlTemplate>

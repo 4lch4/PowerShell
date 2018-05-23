@@ -1,0 +1,18 @@
+{
+  "id": 8893,
+  "title": "Upper Blackrock Spire: Silver",
+  "points": 0,
+  "description": "Complete the Upper Blackrock Spire Challenge Mode with a rating of Silver or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_upperbrspire_silver",
+  "criteria": [
+    {
+      "id": 24485,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

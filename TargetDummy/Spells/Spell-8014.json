@@ -1,0 +1,8 @@
+{
+  "id": 8014,
+  "name": "Tetanus",
+  "icon": "spell_holy_harmundeadaura",
+  "description": "Reduces an enemy's Stamina for 15 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

@@ -1,0 +1,24 @@
+{
+  "id": 207,
+  "title": "Save the Day",
+  "points": 10,
+  "description": "Kill the enemy who is carrying your flag in the opposing team's flag room while the opposing team's flag is at their base, within their control.",
+  "rewardItems": [],
+  "icon": "ability_rogue_surpriseattack",
+  "criteria": [
+    {
+      "id": 5605,
+      "description": "Carrying Horde Flag",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 5606,
+      "description": "Carrying Alliance Flag",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

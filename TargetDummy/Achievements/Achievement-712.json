@@ -1,0 +1,18 @@
+{
+  "id": 712,
+  "title": "Warsong Outrider",
+  "points": 10,
+  "description": "Gain exalted reputation with the Warsong Outriders.",
+  "rewardItems": [],
+  "icon": "ability_warrior_warcry",
+  "criteria": [
+    {
+      "id": 5319,
+      "description": "Exalted with Warsong Outriders",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

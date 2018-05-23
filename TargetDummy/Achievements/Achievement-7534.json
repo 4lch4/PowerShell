@@ -1,0 +1,18 @@
+{
+  "id": 7534,
+  "title": "Chapter II: Wrathion's War",
+  "points": 0,
+  "description": "Prove Alliance superiority to Wrathion by completing his trials after your forces land on the beach.",
+  "rewardItems": [],
+  "icon": "inv_legendary_theblackprince",
+  "criteria": [
+    {
+      "id": 21875,
+      "description": "Complete Quest \"Call of the Packmaster.\"",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

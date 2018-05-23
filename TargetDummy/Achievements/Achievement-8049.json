@@ -1,0 +1,55 @@
+{
+  "id": 8049,
+  "title": "The Zandalari Prophecy",
+  "points": 10,
+  "description": "Discover each of the lore objects in Pandaria that tell of the Zandalari and their dark prophecy.",
+  "rewardItems": [
+    {
+      "id": 94197,
+      "name": "The Zandalari Prophecy",
+      "icon": "trade_archaeology_silverscrollcase",
+      "quality": 1,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_faction_lorewalkers",
+  "criteria": [
+    {
+      "id": 22708,
+      "description": "Coming of Age",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22709,
+      "description": "For Council and King",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22710,
+      "description": "Shadows of the Loa",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22711,
+      "description": "The Dark Prophet Zul",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 155,
+  "title": "Arathi Basin Veteran",
+  "points": 10,
+  "description": "Complete 100 victories in Arathi Basin.",
+  "rewardItems": [],
+  "icon": "achievement_bg_win_ab_x_times",
+  "criteria": [
+    {
+      "id": 5896,
+      "description": "Complete 100 victories in Arathi Basin.",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

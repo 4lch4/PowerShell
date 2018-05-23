@@ -1,0 +1,12 @@
+{
+  "id": 9589,
+  "title": "Proving Yourself: Endless Healer (Wave 30)",
+  "points": 10,
+  "description": "Successfully complete Wave 30 of the Basic Healer (Endless) trial at the Proving Grounds.",
+  "reward": "Title Reward: The Proven Healer",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_platinum",
+  "criteria": [],
+  "accountWide": true,
+  "factionId": 2
+}

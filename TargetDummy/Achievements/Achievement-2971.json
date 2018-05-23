@@ -1,0 +1,18 @@
+{
+  "id": 2971,
+  "title": "Don't Stand in the Lightning (10 player)",
+  "points": 10,
+  "description": "Defeat Thorim without any raid member being struck by Lightning Charge in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_lightning_lightningbolt01",
+  "criteria": [
+    {
+      "id": 10305,
+      "description": "Thorim: Do not by struck by Lightning Charge.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

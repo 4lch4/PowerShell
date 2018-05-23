@@ -1,0 +1,24 @@
+{
+  "id": 1291,
+  "title": "Lonely?",
+  "points": 10,
+  "description": "Enjoy a Buttermilk Delight with someone in Dalaran at a Romantic Picnic during the Love is in the Air celebration.",
+  "rewardItems": [],
+  "icon": "inv_misc_basket_01",
+  "criteria": [
+    {
+      "id": 4071,
+      "description": "Buttermilk Delight at Romantic Picnic",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5787,
+      "description": "Romantic Picnic",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

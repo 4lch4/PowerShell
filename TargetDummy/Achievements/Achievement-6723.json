@@ -1,0 +1,18 @@
+{
+  "id": 6723,
+  "title": "Heroic: Elegon",
+  "points": 10,
+  "description": "Defeat Elegon in Mogu'shan Vaults on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_moguraid_05",
+  "criteria": [
+    {
+      "id": 19639,
+      "description": "Elegon",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

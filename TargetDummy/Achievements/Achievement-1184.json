@@ -1,0 +1,66 @@
+{
+  "id": 1184,
+  "title": "Strange Brew",
+  "points": 10,
+  "description": "Acquire the Brewfest beers listed below. Don't drink them all at once!",
+  "rewardItems": [],
+  "icon": "inv_drink_08",
+  "criteria": [
+    {
+      "id": 8885,
+      "description": "Barleybrew Clear",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 8884,
+      "description": "Barleybrew Dark",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 8883,
+      "description": "Barleybrew Light",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 8878,
+      "description": "Gordok Grog",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9014,
+      "description": "Mudder's Milk",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 8882,
+      "description": "Ogre Mead",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 8879,
+      "description": "Thunder 45",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 8880,
+      "description": "Thunderbrew Ale",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 8881,
+      "description": "Thunderbrew Stout",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

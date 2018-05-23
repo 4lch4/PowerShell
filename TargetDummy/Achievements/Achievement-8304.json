@@ -1,0 +1,38 @@
+{
+  "id": 8304,
+  "title": "Mount Parade",
+  "points": 10,
+  "description": "Obtain 200 mounts (usable by a single character).",
+  "reward": "Reward: Armored Blue Dragonhawk",
+  "rewardItems": [
+    {
+      "id": 98259,
+      "name": "Armored Blue Dragonhawk",
+      "icon": "ability_mount_dragonhawkarmorallliance",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "ability_mount_dragonhawkarmorallliance",
+  "criteria": [
+    {
+      "id": 4787,
+      "description": "Obtain 200 mounts",
+      "orderIndex": 0,
+      "max": 200
+    }
+  ],
+  "accountWide": true,
+  "factionId": 0
+}

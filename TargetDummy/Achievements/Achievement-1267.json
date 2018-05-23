@@ -1,0 +1,96 @@
+{
+  "id": 1267,
+  "title": "Explore Zul'Drak",
+  "points": 10,
+  "description": "Explore Zul'Drak, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_zuldrak_03",
+  "criteria": [
+    {
+      "id": 4192,
+      "description": "Gundrak",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4193,
+      "description": "Drak'Sotra Fields",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4194,
+      "description": "Ampitheater of Anguish",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4195,
+      "description": "Altar of Sseratus",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4196,
+      "description": "Altar of Rhunok",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4197,
+      "description": "Altar of Quetz'lun",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4198,
+      "description": "Altar of Mam'toth",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4199,
+      "description": "Altar of Har'koa",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4200,
+      "description": "Zim'Torga",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4201,
+      "description": "Zeramas",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4202,
+      "description": "Voltarus",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4203,
+      "description": "Thrym's End",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4204,
+      "description": "Light's Breach",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4205,
+      "description": "Kolramas",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

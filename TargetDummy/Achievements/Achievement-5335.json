@@ -1,0 +1,19 @@
+{
+  "id": 5335,
+  "title": "Knight",
+  "points": 10,
+  "description": "Earn a rated battleground rating of 1600.",
+  "reward": "Title Reward: Knight",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_06",
+  "criteria": [
+    {
+      "id": 15300,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1600
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

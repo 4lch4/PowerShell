@@ -1,0 +1,36 @@
+{
+  "id": 487,
+  "title": "The Oculus",
+  "points": 10,
+  "description": "Defeat the bosses in The Oculus.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_nexus80_normal",
+  "criteria": [
+    {
+      "id": 5459,
+      "description": "Drakos the Interrogator",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5460,
+      "description": "Mage-Lord Urom",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5461,
+      "description": "Varos Cloudstrider",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5462,
+      "description": "Ley-Guardian Eregos",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

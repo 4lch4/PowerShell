@@ -1,0 +1,7 @@
+{
+  "id": 4932,
+  "name": "Ward of Myzrael",
+  "icon": "spell_shadow_teleport",
+  "description": "Renders the caster immune to magical damage, reduces the Physical damage it takes by 40, and causes it to summon a Prismatic Exile when hit. Lasts 20 sec.",
+  "castTime": "Channeled"
+}

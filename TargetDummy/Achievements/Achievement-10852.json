@@ -1,0 +1,18 @@
+{
+  "id": 10852,
+  "title": "Artifact or Artifiction",
+  "points": 10,
+  "description": "Reach Artifact Knowledge level 10 through the researchers in your Class Hall.",
+  "rewardItems": [],
+  "icon": "inv_artifact_tome02",
+  "criteria": [
+    {
+      "id": 31466,
+      "description": "",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

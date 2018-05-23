@@ -1,0 +1,8 @@
+{
+  "id": 2576,
+  "name": "Mining",
+  "icon": "trade_mining",
+  "description": "A more advanced level of mining.  Gives a potential mining skill of 150.",
+  "range": "5 yd range",
+  "castTime": "3.2 sec cast"
+}

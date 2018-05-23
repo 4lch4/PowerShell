@@ -1,0 +1,18 @@
+{
+  "id": 896,
+  "title": "A Quest a Day Keeps the Ogres at Bay",
+  "points": 10,
+  "description": "Earn Exalted status within Ogri'la.",
+  "rewardItems": [],
+  "icon": "inv_misc_apexis_crystal",
+  "criteria": [
+    {
+      "id": 4756,
+      "description": "Exalted with Ogri'la",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

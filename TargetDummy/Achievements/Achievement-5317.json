@@ -1,0 +1,18 @@
+{
+  "id": 5317,
+  "title": "Help the Bombardier! I'm the Bombardier!",
+  "points": 10,
+  "description": "Kill 10 Schnotzz infantry with one artillery shell during the Fire From the Sky daily quest in Uldum.",
+  "rewardItems": [],
+  "icon": "inv_misc_bomb_01",
+  "criteria": [
+    {
+      "id": 16175,
+      "description": "",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

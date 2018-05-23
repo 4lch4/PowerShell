@@ -1,0 +1,30 @@
+{
+  "id": 1255,
+  "title": "Scrooge",
+  "points": 10,
+  "description": "Throw a snowball at Muradin Bronzebeard during the Feast of Winter Veil.",
+  "rewardItems": [],
+  "icon": "inv_ammo_snowball",
+  "criteria": [
+    {
+      "id": 10441,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 10442,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 10443,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

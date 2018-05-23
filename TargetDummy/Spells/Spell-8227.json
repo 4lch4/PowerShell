@@ -1,0 +1,8 @@
+{
+  "id": 8227,
+  "name": "zzOldFlametongue Totem",
+  "icon": "spell_nature_guardianward",
+  "description": "Summons a Flametongue Totem with 5 health at the feet of the caster.  The totem increases the spell power of all party and raid members within 40 yards by 6%.  Lasts 5 min.",
+  "powerCost": "12.88% of base mana",
+  "castTime": "Instant"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 8071,
+  "title": "Halls of Flesh-Shaping",
+  "points": 10,
+  "description": "Defeat the bosses in the befouled chambers beneath the Throne of Thunder.",
+  "rewardItems": [],
+  "icon": "archaeology_5_0_thunderkinginsignia",
+  "criteria": [
+    {
+      "id": 22988,
+      "description": "Durumu the Forgotten",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22989,
+      "description": "Primordius",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22990,
+      "description": "Dark Animus",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

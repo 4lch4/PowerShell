@@ -1,0 +1,18 @@
+{
+  "id": 8988,
+  "title": "Imperator's Fall",
+  "points": 10,
+  "description": "Defeat Imperator Mar'gok atop his citadel in Highmaul.",
+  "rewardItems": [],
+  "icon": "achievement_boss_highmaul_king",
+  "criteria": [
+    {
+      "id": 25018,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

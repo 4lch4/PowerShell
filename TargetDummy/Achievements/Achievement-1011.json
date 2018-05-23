@@ -1,0 +1,18 @@
+{
+  "id": 1011,
+  "title": "The Winds of the North",
+  "points": 20,
+  "description": "Gain Exalted reputation with the Horde Expedition.",
+  "rewardItems": [],
+  "icon": "spell_misc_hellifrepvpthrallmarfavor",
+  "criteria": [
+    {
+      "id": 2422,
+      "description": "Exalted with Horde Expedition",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8966,
+  "title": "Mythic: Gruul",
+  "points": 10,
+  "description": "Defeat Gruul in Blackrock Foundry on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_gruul",
+  "criteria": [
+    {
+      "id": 24653,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

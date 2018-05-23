@@ -1,0 +1,36 @@
+{
+  "id": 10748,
+  "title": "Fighting with Style: Valorous",
+  "points": 10,
+  "description": "Unlock all 4 color variations for your valorous artifact appearance.",
+  "rewardItems": [],
+  "icon": "achievement_arena_5v5_5",
+  "criteria": [
+    {
+      "id": 32163,
+      "description": "Improving on History",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 32164,
+      "description": "Unleashed Monstrisities",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 32165,
+      "description": "You Call That a Challenge?",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 33649,
+      "description": "Glory of the Legion Hero",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

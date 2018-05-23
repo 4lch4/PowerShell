@@ -1,0 +1,30 @@
+{
+  "id": 656,
+  "title": "The Steamvault",
+  "points": 10,
+  "description": "Defeat Warlord Kalithresh.",
+  "rewardItems": [],
+  "icon": "achievement_boss_warlord_kalithresh",
+  "criteria": [
+    {
+      "id": 3248,
+      "description": "Warlord Kalithresh",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4473,
+      "description": "The Warlord's Hideout",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4474,
+      "description": "Trial of the Naaru: Strength",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

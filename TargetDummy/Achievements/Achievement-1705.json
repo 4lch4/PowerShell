@@ -1,0 +1,30 @@
+{
+  "id": 1705,
+  "title": "Clockwork Rocket Bot",
+  "points": 0,
+  "description": "Proud owner of the 2007 Vintage Winter Veil gift, the Clockwork Rocket Bot.",
+  "rewardItems": [],
+  "icon": "inv_holiday_christmas_present_01",
+  "criteria": [
+    {
+      "id": 6250,
+      "description": "Clockwork Rocket Bot",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 6349,
+      "description": "Clockwork Rocket Bot",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6350,
+      "description": "Clockwork Rocket Bot",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

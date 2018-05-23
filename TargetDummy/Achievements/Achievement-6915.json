@@ -1,0 +1,18 @@
+{
+  "id": 6915,
+  "title": "Scholomance: Silver",
+  "points": 0,
+  "description": "Complete the Scholomance Challenge Mode with a rating of Silver or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_scholomance_silver",
+  "criteria": [
+    {
+      "id": 20729,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

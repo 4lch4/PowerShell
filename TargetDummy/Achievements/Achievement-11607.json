@@ -1,0 +1,18 @@
+{
+  "id": 11607,
+  "title": "They See Me Rolling",
+  "points": 10,
+  "description": "Successfully deliver a Barrel of Storm Brew without taking any damage.",
+  "rewardItems": [],
+  "icon": "ability_vehicle_liquidpyrite_blue",
+  "criteria": [
+    {
+      "id": 35625,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

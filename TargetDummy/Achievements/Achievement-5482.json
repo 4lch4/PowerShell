@@ -1,0 +1,48 @@
+{
+  "id": 5482,
+  "title": "Dragonmaw Tour of Duty",
+  "points": 10,
+  "description": "Explore all the nooks and crannies of the Thundermar Ruins in Twilight Highlands and impress your Dragonmaw allies by killing the following.",
+  "rewardItems": [],
+  "icon": "inv_misc_tabard_dragonmawclan",
+  "criteria": [
+    {
+      "id": 15952,
+      "description": "High Shaman MacKilligan",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15953,
+      "description": "Dillan MacHurley",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15954,
+      "description": "Gunwald Greybeard",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15955,
+      "description": "Cliff Thundermar",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15950,
+      "description": "The Black Recluse spider",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 15951,
+      "description": "Korthalon the Black",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

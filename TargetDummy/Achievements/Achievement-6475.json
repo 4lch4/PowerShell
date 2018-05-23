@@ -1,0 +1,18 @@
+{
+  "id": 6475,
+  "title": "Cleaning Up",
+  "points": 10,
+  "description": "Defeat the Sha of Doubt in Temple of the Jade Serpent while under the effects of Purified Water.",
+  "rewardItems": [],
+  "icon": "achievement_jadeserpent_1",
+  "criteria": [
+    {
+      "id": 19130,
+      "description": "Kill the Sha of Doubt while under the effects of Purified Water",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,54 @@
+{
+  "id": 283,
+  "title": "The Masquerade",
+  "points": 10,
+  "description": "Get transformed by the Hallowed Wands listed below.",
+  "rewardItems": [],
+  "icon": "achievement_halloween_ghost_01",
+  "criteria": [
+    {
+      "id": 3209,
+      "description": "Transformed by Hallowed Wand - Bat",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3210,
+      "description": "Transformed by Hallowed Wand - Ghost",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3211,
+      "description": "Transformed by Hallowed Wand - Leper Gnome",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3212,
+      "description": "Transformed by Hallowed Wand - Ninja",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3213,
+      "description": "Transformed by Hallowed Wand - Pirate",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3214,
+      "description": "Transformed by Hallowed Wand - Skeleton",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3215,
+      "description": "Transformed by Hallowed Wand - Wisp",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

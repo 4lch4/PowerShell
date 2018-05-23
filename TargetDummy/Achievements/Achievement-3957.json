@@ -1,0 +1,79 @@
+{
+  "id": 3957,
+  "title": "Master of Isle of Conquest",
+  "points": 25,
+  "description": "Complete the Isle of Conquest achievements listed below.",
+  "reward": "Reward: Tabard of Conquest",
+  "rewardItems": [],
+  "icon": "achievement_bg_winwsg",
+  "criteria": [
+    {
+      "id": 11749,
+      "description": "Isle of Conquest Veteran",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11750,
+      "description": "Mine",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 11751,
+      "description": "Four Car Garage",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 11752,
+      "description": "A-bomb-inable",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 11753,
+      "description": "A-bomb-ination",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 11754,
+      "description": "Mowed Down",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 11755,
+      "description": "Cut the Blue Wire... No the Red Wire!",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 11756,
+      "description": "All Over the Isle",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 11757,
+      "description": "Back Door Job",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 11758,
+      "description": "Demolition Derby",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 11759,
+      "description": "Glaive Grave",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

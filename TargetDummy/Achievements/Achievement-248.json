@@ -1,0 +1,24 @@
+{
+  "id": 248,
+  "title": "Sunday's Finest",
+  "points": 10,
+  "description": "Discover the White Tuxedo Shirt and Black Tuxedo Pants by opening Brightly Colored Eggs during the Noblegarden celebration.",
+  "rewardItems": [],
+  "icon": "inv_shirt_08",
+  "criteria": [
+    {
+      "id": 3221,
+      "description": "White Tuxedo Shirt",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3222,
+      "description": "Black Tuxedo Pants",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

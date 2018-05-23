@@ -1,0 +1,168 @@
+﻿<ControlTemplate version="3.0" dpi="120" scaleMode="Font" scaleDimensions="8, 17">
+  <Description>Inserts a ComboBox that can save and restore its history.</Description>
+  <Creator>David Corrales</Creator>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAKRSURBVDhPpdPtS1NRHAfw9b7/xIQyBDOCIsuCSmXYnOG2gkjacMuH0JtzkzkfltiUZi1dmimUik63u7mWezCdtcLsAc10ii+yXkQg9EBzO9/uObrSst504QOXc7jfc87vd67ov5/k5JQDYqmCy5HIuKy/oHNURpaES8vI4dKpTErMiXLyz1V3j74iwelFEni+vfW5CCls6CX7z9eTssYuUnK1i2QWW4goSyLXh2ZXECf4p5igvtuHXXkGdPbx6BBkqFshyjurNDUNPIPONgLO6tyWto2H3sbj6CULRGlFSJHXYq/ciJ3HKiHak5p6WKox+hWGHlLZ5kKVzc1o2ykXo2xyQFJth7zOhTPV/Thd1QtFwwjyjXbQOu7Izi0o908tkBgR9ol1RHiPxePM/Lso7I+/oH/sE5TlLVBdsaAv+BGdD5dZgChbUlD+6OUS4XkearUapaUlcLvdiEajQhgQeR/D8JOvKNbbcOSkDCdyC1FR1/MrgLYoOL1EfD4/9Ho9jEYjwuEw+5g+C0KA8+l3cA330dgeQHPXJGqu8+j0bgoICK2amAjBbDYzJpMJBoMBoYlxvF5exY3hWdhGFjdE0OFZQsvg9NaA0VEf2wGl0+mg1WoxPhZkAa3DMyzE6nzD3OLn0DywKYAeIVEDSqPRwOv1sjrMr6zBPvkZl2t7YLS4YGoTFjLbcVvYxZYAh8MBpVLJqFQqeDweVoP5lRiGhC4Uaa3Yd/AUDh2XoqzmDjoSNaD3nV7Xtfifty8mjC18ELoQ/sZCLpRdw0WhlYOh1U1dkMq4uw+m4r6Ne5/gn4owfYE50jo0Q2465kjTvTBjdb4lzYMvCAtIStqdnp0nq6BH+f1PpOj4T8JiCWKpgvsBiD5887lv4rUAAAAASUVORK5CYII=</Icon>
+  <Identifiers>
+    <ID id="1" name="comboboxHistory" type="object" />
+    <ID id="2" name="comboboxHistory_VisibleChanged" type="event" shared="True" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="AutoCompleteMode">SuggestAppend</Property>
+      <Property name="AutoCompleteSource">ListItems</Property>
+      <Property name="FormattingEnabled">True</Property>
+      <Property name="Location">97, 12</Property>
+      <Property name="Margin">4, 4, 4, 4</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="Size">160, 25</Property>
+      <Property name="TabIndex">2</Property>
+      <Event name="VisibleChanged">%ID:2%</Event>
+    </Object>
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%={
+	#TODO: Place custom script here
+	
+	if ($this.Visible -and -not $this.Tag)
+	{
+		#Flag that we loaded the history
+		$this.Tag = $true
+		#Restore the history
+		Restore-ComboBoxHistory $this 
+	}
+}]]></Event>
+  </Events>
+  <Functions>
+    <Function name="Restore-ComboBoxHistory" region="ComboBox History Functions"><![CDATA[function Restore-ComboBoxHistory
+{
+<#
+	.SYNOPSIS
+		Restores the combobox's history from a file.
+	
+	.PARAMETER ComboBox
+		The combobox control to load the history into.
+	
+	.PARAMETER Path
+		The path to the history file.
+		If the path is not set, the function will generate a path using the combobox name in the AppData folder.
+	
+	.EXAMPLE
+		PS C:\> Restore-ComboBoxHistory -ComboBox $comboBox1 -Path 'C:\History.txt'
+#>
+	
+	[CmdletBinding()]
+	param
+	(
+		[Parameter(Mandatory = $true)]
+		[ValidateNotNull()]
+		[System.Windows.Forms.ComboBox]
+		$ComboBox,
+		[string]
+		$Path
+	)
+	
+	if (-not $Path)
+	{
+		if ($null -ne $HostInvocation)
+		{
+			#We are running in a packager engine, use the Application information instead
+			$Path = '{0}\\{1}\\{2}\\{3}.history' -f [System.Environment]::GetFolderPath('ApplicationData'), [System.Windows.Forms.Application]::CompanyName, [System.Windows.Forms.Application]::ProductName, $ComboBox.Name
+		}
+		else
+		{
+			$Path = '{0}\\{1}.history' -f [System.Environment]::GetFolderPath('ApplicationData'), $ComboBox.Name
+		}
+	}
+	
+	#clear the combobox
+	$ComboBox.Items.Clear()
+	
+	#load the file, if it exists
+	if ([System.IO.File]::Exists($Path))
+	{
+		$lines = Get-Content -Path $Path #| Select-Object -Unique
+		$ComboBox.Items.AddRange($lines)
+	}
+}]]></Function>
+    <Function name="Save-ComboBoxHistory" region="ComboBox History Functions"><![CDATA[function Save-ComboBoxHistory
+{
+<#
+	.SYNOPSIS
+		Save the contents of the combobox in a history file.
+	
+	.PARAMETER ComboBox
+		The combobox from which the history is pulled.
+	
+	.PARAMETER Limit
+		Limits the size of the history of the combobox.
+	
+	.PARAMETER Value
+		The value to insert and persist in the combobox.
+	
+	.PARAMETER Path
+		The filepath of the history file. 
+	    If the path is not set, the function will generate a path using the combobox name in the AppData folder.
+	
+	.EXAMPLE
+		PS C:\> Save-ComboBoxHistory -ComboBox $comboboxComputer -Value $comboboxComputer.Text -Limit 10
+	
+	.NOTES
+		Invoke this function whenever the contents of the combobox is used or
+	    before the form closes.
+#>
+	
+	param
+	(
+		[Parameter(Mandatory = $true)]
+		[ValidateNotNull()]
+		[System.Windows.Forms.ComboBox]
+		$ComboBox,
+		[int]
+		$Limit = 10,
+		$Value,
+		[string]
+		$Path
+	)
+	
+	#Generate a path using the combobox name.
+	if (-not $Path)
+	{
+		if ($null -ne $HostInvocation)
+		{
+			#We are running in a packager engine, use the Application information instead
+			$Path = '{0}\\{1}\\{2}\\{3}.history' -f [System.Environment]::GetFolderPath('ApplicationData'), [System.Windows.Forms.Application]::CompanyName, [System.Windows.Forms.Application]::ProductName,  $ComboBox.Name
+		}
+		else
+		{
+			$Path = '{0}\\{1}.history' -f [System.Environment]::GetFolderPath('ApplicationData'), $ComboBox.Name
+		}
+	}
+	
+	if ($Value)
+	{
+		#remove the item from the list
+		$ComboBox.Items.Remove($Value)
+		
+		#Insert the item at the start of the list
+		$ComboBox.Items.Insert(0, $Value)
+	}
+	
+	#Remove any excess items
+	while ($ComboBox.Items.Count -gt $Limit)
+	{
+		$ComboBox.Items.RemoveAt($ComboBox.Items.Count - 1)
+	}
+	
+	#Create the parent folder if necessary
+	$folder = [System.IO.Path]::GetDirectoryName($Path)
+	if (-not [System.IO.Directory]::Exists($folder))
+	{
+		[System.IO.Directory]::CreateDirectory($folder)
+	}
+	
+	
+	#Save the list to the file
+	Set-Content -Path $Path -Value $ComboBox.Items
+}]]></Function>
+  </Functions>
+</ControlTemplate>

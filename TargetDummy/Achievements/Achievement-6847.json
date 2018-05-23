@@ -1,0 +1,55 @@
+{
+  "id": 6847,
+  "title": "The Song of the Yaungol",
+  "points": 10,
+  "description": "Discover each of the Yaungol lore objects in Pandaria.",
+  "rewardItems": [
+    {
+      "id": 83777,
+      "name": "The Song of the Yaungol",
+      "icon": "trade_archaeology_silverscrollcase",
+      "quality": 1,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_faction_lorewalkers",
+  "criteria": [
+    {
+      "id": 19773,
+      "description": "Yaungol Tactics",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19774,
+      "description": "Dominance",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19775,
+      "description": "Yaungoil",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19776,
+      "description": "Trapped in a Strange Land",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

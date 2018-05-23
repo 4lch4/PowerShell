@@ -1,0 +1,31 @@
+{
+  "id": 714,
+  "title": "The Conqueror",
+  "points": 20,
+  "description": "Raise your reputation values in Warsong Gulch, Arathi Basin and Alterac Valley to Exalted.",
+  "reward": "Title Reward: Conqueror",
+  "rewardItems": [],
+  "icon": "inv_misc_tabardpvp_04",
+  "criteria": [
+    {
+      "id": 5320,
+      "description": "Hero of the Frostwolf Clan",
+      "orderIndex": 0,
+      "max": 42000
+    },
+    {
+      "id": 5318,
+      "description": "The Defiler",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 5319,
+      "description": "Warsong Outrider",
+      "orderIndex": 2,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

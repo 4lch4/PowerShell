@@ -1,0 +1,6 @@
+<Template version="1.0" type="Project" tags="Collection, PowerShell">
+	<Description>Creates a project that allows you to group files.</Description>
+	<Files>
+	</Files>
+ 	<ProjectType>2</ProjectType>
+</Template>

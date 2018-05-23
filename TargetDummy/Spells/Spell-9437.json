@@ -1,0 +1,8 @@
+{
+  "id": 9437,
+  "name": "Placing Bear Trap",
+  "icon": "trade_engineering",
+  "description": "Used to capture a rabid thistle bear.",
+  "range": "5 yd range",
+  "castTime": "2 sec cast"
+}

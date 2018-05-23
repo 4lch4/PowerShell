@@ -1,0 +1,85 @@
+{
+  "id": 1693,
+  "title": "Fool For Love",
+  "points": 10,
+  "description": "Complete the Love is in the Air achievements listed below.",
+  "reward": "Title Reward: The Love Fool",
+  "rewardItems": [],
+  "icon": "achievement_worldevent_valentine",
+  "criteria": [
+    {
+      "id": 6351,
+      "description": "Charming",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 6352,
+      "description": "Shafted!",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Flirt With Disaster",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6354,
+      "description": "Lonely?",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6356,
+      "description": "Dangerous Love",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6357,
+      "description": "The Rocket's Pink Glare",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Nation of Adoration",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6359,
+      "description": "Fistful of Love",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6361,
+      "description": "Sweet Tooth",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 6362,
+      "description": "Be Mine!",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 6363,
+      "description": "My Love is Like a Red, Red Rose",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 6364,
+      "description": "I Pitied The Fool",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1404,
+  "title": "Realm First! Level 80 Gnome",
+  "points": 0,
+  "description": "First gnome on the realm to achieve level 80.",
+  "rewardItems": [],
+  "icon": "achievement_character_gnome_male",
+  "criteria": [
+    {
+      "id": 5229,
+      "description": "Level to 80",
+      "orderIndex": 1,
+      "max": 80
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

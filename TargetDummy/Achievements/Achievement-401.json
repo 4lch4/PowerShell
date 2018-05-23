@@ -1,0 +1,18 @@
+{
+  "id": 401,
+  "title": "Just the Two of Us: 2000",
+  "points": 10,
+  "description": "Earn a 2000 personal rating in the 2v2 bracket of the arena.",
+  "rewardItems": [],
+  "icon": "achievement_arena_2v2_5",
+  "criteria": [
+    {
+      "id": 451,
+      "description": "2000 rating",
+      "orderIndex": 1,
+      "max": 2000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

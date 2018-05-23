@@ -1,0 +1,18 @@
+{
+  "id": 11219,
+  "title": "Need Backup",
+  "points": 5,
+  "description": "Complete a Class Hall Mission that rewards a Raid Quest.",
+  "rewardItems": [],
+  "icon": "achievement_garrison_alliance_pve",
+  "criteria": [
+    {
+      "id": 32930,
+      "description": "Complete a Class Order Hall mission which rewards a Raid Quest.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8922,
+  "title": "Welcome to Draenor",
+  "points": 10,
+  "description": "Complete the Assault on the Dark Portal.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_outland_dungeonmaster",
+  "criteria": [
+    {
+      "id": 25507,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

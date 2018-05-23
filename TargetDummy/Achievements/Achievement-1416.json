@@ -1,0 +1,18 @@
+{
+  "id": 1416,
+  "title": "Realm First! Grand Master Cook",
+  "points": 0,
+  "description": "First person on the realm to achieve 450 skill in cooking.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_15",
+  "criteria": [
+    {
+      "id": 5701,
+      "description": "Skill to 450",
+      "orderIndex": 1,
+      "max": 450
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

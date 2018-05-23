@@ -1,0 +1,9 @@
+{
+  "id": 7248,
+  "name": "Holy Protection",
+  "subtext": "Rank 4",
+  "icon": "spell_holy_blessingofprotection",
+  "description": "Absorbs 1,300 holy damage.  Lasts 2 min.",
+  "castTime": "Instant",
+  "cooldown": "1 sec cooldown"
+}

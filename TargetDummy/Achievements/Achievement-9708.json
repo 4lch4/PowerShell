@@ -1,0 +1,102 @@
+{
+  "id": 9708,
+  "title": "Savagely Epic",
+  "points": 10,
+  "description": "Equip an epic item in every slot with a minimum item level of 640.",
+  "rewardItems": [],
+  "icon": "inv_glove_cloth_raidmagemythic_o_01",
+  "criteria": [
+    {
+      "id": 26658,
+      "description": "Head",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26659,
+      "description": "Neck",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26660,
+      "description": "Shoulder",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26661,
+      "description": "Chest",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 26662,
+      "description": "Waist",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26663,
+      "description": "Legs",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 26664,
+      "description": "Feet",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 26665,
+      "description": "Wrist",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 26666,
+      "description": "Hands",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 26667,
+      "description": "Left Ring",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 26668,
+      "description": "Right Ring",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 26669,
+      "description": "First Trinket",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 26670,
+      "description": "Second Trinket",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 26671,
+      "description": "Cloak",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 26672,
+      "description": "Weapon",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

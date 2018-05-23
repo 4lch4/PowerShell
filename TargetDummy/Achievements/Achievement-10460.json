@@ -1,0 +1,228 @@
+{
+  "id": 10460,
+  "title": "Hidden Potential",
+  "points": 10,
+  "description": "Locate and unlock a hidden appearance for your artifact.",
+  "rewardItems": [],
+  "icon": "achievement_bg_abshutout",
+  "criteria": [
+    {
+      "id": 31992,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 31993,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 31994,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 31995,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 31996,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 31997,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 31998,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 31999,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 32000,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 32001,
+      "description": "",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 32002,
+      "description": "",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 32003,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 32004,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 32005,
+      "description": "",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 32006,
+      "description": "",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 32007,
+      "description": "",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 32008,
+      "description": "",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 32009,
+      "description": "",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 32010,
+      "description": "",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 32011,
+      "description": "",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 32012,
+      "description": "",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 32013,
+      "description": "",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 32014,
+      "description": "",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 32015,
+      "description": "",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 32016,
+      "description": "",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 32017,
+      "description": "",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 32018,
+      "description": "",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 32019,
+      "description": "",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 32020,
+      "description": "",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 32021,
+      "description": "",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 32022,
+      "description": "",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 32023,
+      "description": "",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 32024,
+      "description": "",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 32025,
+      "description": "",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 32026,
+      "description": "",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 32027,
+      "description": "",
+      "orderIndex": 35,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

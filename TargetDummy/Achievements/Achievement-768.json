@@ -1,0 +1,108 @@
+{
+  "id": 768,
+  "title": "Explore Tirisfal Glades",
+  "points": 10,
+  "description": "Explore Tirisfal Glades, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_tirisfalglades_01",
+  "criteria": [
+    {
+      "id": 1037,
+      "description": "Deathknell",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1038,
+      "description": "Solliden Farmstead",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1039,
+      "description": "Agamand Mills",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1041,
+      "description": "Nightmare Vale",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1042,
+      "description": "Cold Hearth Manor",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1043,
+      "description": "Brill",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1044,
+      "description": "Garren's Haunt",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1046,
+      "description": "Brightwater Lake",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1047,
+      "description": "Balnir Farmstead",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1048,
+      "description": "Crusader Outpost",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1049,
+      "description": "Scarlet Watch Post",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1051,
+      "description": "Venomweb Vale",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1045,
+      "description": "Ruins of Lordaeron",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 14153,
+      "description": "Scarlet Monastery Entrance",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 14154,
+      "description": "The Bulwark",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 14155,
+      "description": "Calston Estate",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

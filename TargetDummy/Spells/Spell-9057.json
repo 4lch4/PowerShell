@@ -1,0 +1,9 @@
+{
+  "id": 9057,
+  "name": "Firebolt",
+  "subtext": "Rank 1",
+  "icon": "spell_fire_fireball",
+  "description": "Blasts the enemy for ^1.5380 Fire damage.",
+  "range": "20 yd range",
+  "castTime": "Instant"
+}

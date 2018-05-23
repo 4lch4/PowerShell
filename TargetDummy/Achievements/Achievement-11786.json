@@ -1,0 +1,36 @@
+{
+  "id": 11786,
+  "title": "Terrors of the Shore",
+  "points": 10,
+  "description": "Defeat all 4 of the following monstrous creatures in Broken Shore.",
+  "rewardItems": [],
+  "icon": "ability_warlock_demonicpower",
+  "criteria": [
+    {
+      "id": 36550,
+      "description": "Brutallus",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 36551,
+      "description": "Malificus",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 36552,
+      "description": "Si'vash",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 36553,
+      "description": "Apocron",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

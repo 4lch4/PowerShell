@@ -1,0 +1,127 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Creates a ElementHost control which allows you to host WPF controls inside WinForms.</Description>
+    <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAOvgAADr4B6kKxwAAAABp0RVh0U29mdHdhcmUAUGFpbnQuTkVUIHYzLjUuMTAw9HKhAAAB4UlEQVQ4T5VTO2+jQBDmt7l0SYncUbqkpKXcEtkNtmXLK/lFSUm75RaJRIlipbDCnU3j1/mRuZlZFqU45ZTis4Gd7zEz4AwGg9fhcPiCeJVSfiCq79DUMojr9Ho9cblc4Pl8/gjEIRFnNBqV1+sVHo/Ht4DPT4D7HeB2A1RgERaYzWbbOx78i/TA50JoiOMSokhDFBZMpHr6XywWlTOdTrc3VLUkrXYgZY2kHd8LUUCeA8PzZPNMQb+fwnK5/M0CNoHWJRMtIQw1BIHi6ywDTKDA9yWEQc51nAAnu23ddQGuq7hYKSNiyQQpL5AkJh1hs9kYgT9NC8fjEYkFuhgRIseihG43hm5HcDuWTMnSNDUC1IKUGYiIDkt0MW3QdYC9SllgcYEtpQgFEYqGONBW4Hw+o2KMDrs2OiUgZyLWhwNDSg2em+BGUDhoBObz+fZ0OqFiwgJfe+50IiNQ1yyQJCiAmyAyYb1eVw5O8p0SxLHEwxyR4gxyXiXFdV3BzkmimvXlTPZ9DavVqnLG4/EbCViXer/HoqydNq2SVkew5H6fktBsZMUfE73XBIoYRYqd7bSpX9uzdaYtUVp+lenHClBE309bMrmbl8mQrbPnZSxkBRb2k55MJhXi1/9AtQbDl7/S3h9gc2FNBAAAAABJRU5ErkJggg==</Icon>
+  <Identifiers>
+    <ID id="1" name="form1_Load" type="event" />
+    <ID id="2" name="elementHostPlaceholder" type="object" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:2%" children="Controls">
+      <Property name="Location">12, 12</Property>
+      <Property name="Name">%ID:2%</Property>
+      <Property name="Size">103, 102</Property>
+      <Property name="TabIndex">1</Property>
+      <Property name="TabStop">False</Property>
+    </Object>
+  </Objects>
+  <Container>
+    <Events>
+      <Event name="Load">%ID:1%</Event>
+    </Events>
+  </Container>
+  <Events>
+    <Event id="1"><![CDATA[$%ID:1%={
+	
+	#region Load Element Host
+	Add-Type -AssemblyName WindowsFormsIntegration
+	$script:elementhost = New-Object System.Windows.Forms.Integration.ElementHost
+	Replace-PlaceHolder -PlaceHolderControl $%ID:2% -ReplaceControl $elementhost
+#Sample XAML Code
+	$xaml = @"
+<?xml version="1.0" encoding="utf-16"?>
+	<Canvas Name="MyPanel"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            >
+            <Button Name="WPFButton" Canvas.Top="10">Embedded WPF Control
+            </Button>
+	</Canvas>
+"@
+	
+	$script:WPFControl = Update-ElementHost -Elementhost $elementhost -XAML $xaml
+	if($WPFControl)
+	{
+		$wpfButton = $WPFControl.FindName("WPFButton")
+		
+		if($wpfButton)
+		{
+			$wpfButton.Add_Click({Write-Host "WPF Button was clicked"})
+		}
+	}
+	#endregion
+}]]></Event>
+  </Events>
+  <Functions>
+    <Function name="Update-ElementHost" region="Control Helper Functions"><![CDATA[function Update-ElementHost
+{
+<#
+	.SYNOPSIS
+		Loads XAML into a ElementHost
+
+	.DESCRIPTION
+		Loads XAML into a ElementHost, which then displays the WPF control.
+
+	.RETURNS
+		Returns the WPF control
+	
+	.PARAMETER ElementHost
+		The ElementHost control to load the XAML.
+
+	.PARAMETER XAML
+		The XAML to create the WPF Control
+	
+	.EXAMPLE
+		Update-ElementHost -Elementhost $elementhost1 -XAML $xaml | Out-Null
+#>
+	Param(
+		[ValidateNotNull()]
+		[Parameter(Mandatory=$true)]
+		[System.Windows.Forms.Integration.ElementHost]$Elementhost,
+		[ValidateNotNull()]
+		[Parameter(Mandatory=$true)]
+		[Xml]$XAML)
+		
+	$reader = New-Object System.Xml.XmlNodeReader $XAML
+	
+	if(-not $reader)
+	{
+		return
+	}
+	
+	$WPFControl = [Windows.Markup.XamlReader]::Load( $reader )
+	$Elementhost.Child = $WPFControl
+	
+	return $WPFControl
+}]]></Function>
+    <Function name="Replace-PlaceHolder" region="Control Helper Functions"><![CDATA[function Replace-PlaceHolder 
+{
+	<#
+	.SYNOPSIS
+		Replaces the place holder control with another.
+
+	.DESCRIPTION
+		Replaces the place holder control with another.
+	
+	.PARAMETER PlaceHolderControl
+		The control you wish to replace.
+
+	.PARAMETER ReplaceControl
+		The control that replaces the place holder.
+	
+	.EXAMPLE
+		Replace-PlaceHolder -PlaceHolderControl $elementHostPlaceholder -ReplaceControl $elementhost
+#>
+	Param([System.Windows.Forms.Control]$PlaceHolderControl,
+		[System.Windows.Forms.Control]$ReplaceControl)
+	
+	$ReplaceControl.Location = $PlaceHolderControl.Location;
+	$ReplaceControl.Size = $PlaceHolderControl.Size;
+	$ReplaceControl.TabIndex = $PlaceHolderControl.TabIndex;
+	$ReplaceControl.Dock = $PlaceHolderControl.Dock 
+	$ReplaceControl.Anchor = $PlaceHolderControl.Anchor
+	$PlaceHolderControl.Parent.Controls.Add($ReplaceControl)
+	$PlaceHolderControl.Parent.Controls.Remove($PlaceHolderControl)
+	$PlaceHolderControl.Visible = $false
+}]]></Function>
+  </Functions>
+</ControlTemplate>

@@ -1,0 +1,18 @@
+{
+  "id": 8298,
+  "title": "Vengeful Pet Brawler",
+  "points": 10,
+  "description": "Win 50 PvP pet battles through Find Battle with a full team of level 25 pets.",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_02",
+  "criteria": [
+    {
+      "id": 23306,
+      "description": "PvP Pet Battles Won",
+      "orderIndex": 0,
+      "max": 50
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

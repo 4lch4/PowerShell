@@ -1,0 +1,18 @@
+{
+  "id": 1721,
+  "title": "Archavon the Stone Watcher (25 player)",
+  "points": 10,
+  "description": "Defeat Archavon the Stone Watcher in 25 player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_statue_07",
+  "criteria": [
+    {
+      "id": 8745,
+      "description": "Archavon the Stone Watcher",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

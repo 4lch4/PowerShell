@@ -1,0 +1,18 @@
+{
+  "id": 6479,
+  "title": "Bomberman",
+  "points": 10,
+  "description": "Trigger 15 explosions within 15 seconds during the Saboteur Kip'tilak encounter in Gate of the Setting Sun on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_bomb_04",
+  "criteria": [
+    {
+      "id": 19135,
+      "description": "Trigger 15 explosions within 15 seconds.",
+      "orderIndex": 0,
+      "max": 15
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

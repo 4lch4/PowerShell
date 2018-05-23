@@ -1,0 +1,18 @@
+{
+  "id": 11338,
+  "title": "Dine and Bash",
+  "points": 10,
+  "description": "Complete the Moroes encounter in Return to Karazhan on Mythic difficulty after defeating all 4 dinner guests within 10 seconds of each other.",
+  "rewardItems": [],
+  "icon": "inv_tradeskill_cooking_feastofblood",
+  "criteria": [
+    {
+      "id": 34629,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

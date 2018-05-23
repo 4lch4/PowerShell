@@ -1,0 +1,260 @@
+{
+  "id": 2136,
+  "title": "Glory of the Hero",
+  "points": 25,
+  "description": "Complete the Heroic dungeon achievements listed below.",
+  "reward": "Reward: Red Proto-Drake",
+  "rewardItems": [
+    {
+      "id": 44160,
+      "name": "Reins of the Red Proto-Drake",
+      "icon": "ability_mount_drake_proto",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_helmet_25",
+  "criteria": [
+    {
+      "id": 7496,
+      "description": "On The Rocks",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7580,
+      "description": "Split Personality",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7497,
+      "description": "Intense Cold",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7498,
+      "description": "Chaos Theory",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7499,
+      "description": "Watch Him Die",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7500,
+      "description": "Hadronox Denied",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7501,
+      "description": "Gotta Go!",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 7503,
+      "description": "Volazj's Quick Demise",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 7505,
+      "description": "Respect Your Elders",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 7506,
+      "description": "Volunteer Work",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 7581,
+      "description": "Consumption Junction",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 7507,
+      "description": "Better Off Dred",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 7508,
+      "description": "Oh Novos!",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 7509,
+      "description": "Defenseless",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 7510,
+      "description": "Lockdown!",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 7511,
+      "description": "Dehydration",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 7588,
+      "description": "A Void Dance",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 7512,
+      "description": "What the Eck?",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 7584,
+      "description": "Share The Love",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 7513,
+      "description": "Less-rabi",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 7514,
+      "description": "Snakes. Why'd It Have To Be Snakes?",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 7515,
+      "description": "Good Grief",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 7591,
+      "description": "Brann Spankin' New",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 7594,
+      "description": "Abuse the Ooze",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 7516,
+      "description": "Timely Death",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 7517,
+      "description": "Lightning Struck",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 7518,
+      "description": "Shatter Resistant",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 7519,
+      "description": "The Culling of Time",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 7520,
+      "description": "Zombiefest!",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 7521,
+      "description": "The Incredible Hulk",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 7522,
+      "description": "Lodi Dodi We Loves the Skadi",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 7596,
+      "description": "My Girl Loves to Skadi All the Time",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 7599,
+      "description": "King's Bane",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 7523,
+      "description": "Experienced Drake Rider",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 7524,
+      "description": "Make It Count",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 7525,
+      "description": "Ruby Void",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 7526,
+      "description": "Emerald Void",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 7527,
+      "description": "Amber Void",
+      "orderIndex": 38,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

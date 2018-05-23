@@ -1,0 +1,8 @@
+{
+  "id": 8092,
+  "name": "Mind Blast",
+  "icon": "spell_shadow_unholyfrenzy",
+  "description": "Blasts the target's mind for 18,619 Shadow damage.",
+  "range": "40 yd range",
+  "castTime": "1.5 sec cast"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 9915,
+  "name": "Frost Nova",
+  "subtext": "Rank 3",
+  "icon": "spell_frost_frostnova",
+  "description": "Inflicts 6,093 Frost damage to nearby enemies, immobilizing them for up to 10 sec.",
+  "powerCost": "115 Mana",
+  "castTime": "Instant"
+}

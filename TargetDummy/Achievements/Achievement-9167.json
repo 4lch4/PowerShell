@@ -1,0 +1,18 @@
+{
+  "id": 9167,
+  "title": "Invasion Specialist",
+  "points": 5,
+  "description": "Successfully complete 10 garrison invasions.",
+  "rewardItems": [],
+  "icon": "achievement_garrison_invasion_ten",
+  "criteria": [
+    {
+      "id": 25281,
+      "description": "Invasions completed",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

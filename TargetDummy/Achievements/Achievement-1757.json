@@ -1,0 +1,18 @@
+{
+  "id": 1757,
+  "title": "Defense of the Ancients",
+  "points": 10,
+  "description": "Defend the beach without losing any walls.",
+  "rewardItems": [],
+  "icon": "ability_warrior_defensivestance",
+  "criteria": [
+    {
+      "id": 7636,
+      "description": "Defend the beach without losing any walls",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

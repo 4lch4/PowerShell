@@ -1,0 +1,90 @@
+{
+  "id": 5838,
+  "title": "Tricks and Treats of the Cataclysm",
+  "points": 10,
+  "description": "Visit the Candy Buckets in Cataclysm zones.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_25",
+  "criteria": [
+    {
+      "id": 17704,
+      "description": "Deepholm, Temple of Earth",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17683,
+      "description": "Mount Hyjal, Grove of Aessina",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17684,
+      "description": "Mount Hyjal, Nordrassil",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17685,
+      "description": "Mount Hyjal, Shrine of Aviana",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17708,
+      "description": "Twilight Highlands, Bloodgulch",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 17709,
+      "description": "Twilight Highlands, Crushblow",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 17711,
+      "description": "Twilight Highlands, The Krazzworks",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 17690,
+      "description": "Uldum, Oasis of Vir'sar",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 17691,
+      "description": "Uldum, Ramkahen",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 17693,
+      "description": "Vashj'ir, Deepmist Grotto",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 17714,
+      "description": "Vashj'ir, Legion's Rest",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 17694,
+      "description": "Vashj'ir, Silver Tide Hollow",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 17717,
+      "description": "Vashj'ir, Tenebrous Cavern",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

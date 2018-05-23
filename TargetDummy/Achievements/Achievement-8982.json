@@ -1,0 +1,18 @@
+{
+  "id": 8982,
+  "title": "There's Always a Bigger Train",
+  "points": 10,
+  "description": "Engineer the ironic demise of an Exulting Wind-Up Train Wrecker in Blackrock Foundry on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "spell_fire_selfdestruct",
+  "criteria": [
+    {
+      "id": 24736,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

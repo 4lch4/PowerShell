@@ -1,0 +1,24 @@
+{
+  "id": 6003,
+  "title": "Vicious Gladiator's Twilight Drake",
+  "points": 0,
+  "description": "Obtain the Vicious Gladiator's Twilight Drake from Arena Season 9 of Cataclysm.",
+  "rewardItems": [],
+  "icon": "ability_mount_drake_twilight",
+  "criteria": [
+    {
+      "id": 18145,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18146,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

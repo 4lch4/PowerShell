@@ -1,0 +1,8 @@
+{
+  "id": 10672,
+  "name": "Strike of the Scorpok",
+  "icon": "spell_nature_forceofnature",
+  "description": "Increases Agility by 25 when consumed.  Battle Elixir.",
+  "range": "20 yd range",
+  "castTime": "Instant"
+}

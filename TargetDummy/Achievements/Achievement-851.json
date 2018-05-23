@@ -1,0 +1,108 @@
+{
+  "id": 851,
+  "title": "Explore Tanaris",
+  "points": 10,
+  "description": "Explore Tanaris, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_tanaris_01",
+  "criteria": [
+    {
+      "id": 1405,
+      "description": "Gadgetzan",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1406,
+      "description": "Sandsorrow Watch",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1407,
+      "description": "Valley of the Watchers",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1414,
+      "description": "Lost Rigger Cove",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1416,
+      "description": "Abyssal Sands",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1417,
+      "description": "Broken Pillar",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1418,
+      "description": "The Noxious Lair",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1419,
+      "description": "Dunemaul Compound",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1420,
+      "description": "Southbreak Shore",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1421,
+      "description": "The Gaping Chasm",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1422,
+      "description": "Eastmoon Ruins",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1423,
+      "description": "Land's End Beach",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1424,
+      "description": "Southmoon Ruins",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1426,
+      "description": "Thistleshrub Valley",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1427,
+      "description": "Zul'Farrak",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1428,
+      "description": "Caverns of Time",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 10177,
+  "title": "Set Sail!",
+  "points": 5,
+  "description": "Construct a shipyard for your garrison.",
+  "rewardItems": [],
+  "icon": "inv_garrison_cargoship",
+  "criteria": [
+    {
+      "id": 28564,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

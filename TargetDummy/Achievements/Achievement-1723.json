@@ -1,0 +1,42 @@
+{
+  "id": 1723,
+  "title": "Vehicular Gnomeslaughter",
+  "points": 10,
+  "description": "Kill 100 players in Wintergrasp using a vehicle or a cannon.",
+  "rewardItems": [],
+  "icon": "ability_mount_gyrocoptor",
+  "criteria": [
+    {
+      "id": 7704,
+      "description": "Vehicle",
+      "orderIndex": 1,
+      "max": 100
+    },
+    {
+      "id": 7705,
+      "description": "Cannon",
+      "orderIndex": 2,
+      "max": 100
+    },
+    {
+      "id": 7706,
+      "description": "Shredder",
+      "orderIndex": 3,
+      "max": 100
+    },
+    {
+      "id": 7707,
+      "description": "Fighter",
+      "orderIndex": 4,
+      "max": 100
+    },
+    {
+      "id": 7708,
+      "description": "Bomber",
+      "orderIndex": 5,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

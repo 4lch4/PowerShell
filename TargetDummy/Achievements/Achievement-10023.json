@@ -1,0 +1,30 @@
+{
+  "id": 10023,
+  "title": "Hellbreach",
+  "points": 10,
+  "description": "Defeat the following bosses at the entrance to Hellfire Citadel:",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_siegeworks",
+  "criteria": [
+    {
+      "id": 28075,
+      "description": "Hellfire Assault",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28076,
+      "description": "Iron Reaver",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28077,
+      "description": "Kormrok",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

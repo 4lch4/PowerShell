@@ -1,0 +1,18 @@
+{
+  "id": 9667,
+  "title": "Burn It to the Ground",
+  "points": 10,
+  "description": "Burn 100 trees in the Everbloom Wilds.",
+  "rewardItems": [],
+  "icon": "spell_fire_windsofwoe",
+  "criteria": [
+    {
+      "id": 26587,
+      "description": "Trees ignited",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

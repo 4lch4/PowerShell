@@ -1,0 +1,24 @@
+{
+  "id": 3896,
+  "title": "Onyx Panther",
+  "points": 0,
+  "description": "Proud owner of an Onyx Panther.",
+  "rewardItems": [],
+  "icon": "inv_misc_qirajicrystal_05",
+  "criteria": [
+    {
+      "id": 11638,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11639,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

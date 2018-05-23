@@ -1,0 +1,103 @@
+{
+  "id": 2091,
+  "title": "Gladiator",
+  "points": 10,
+  "description": "Earn the Gladiator title in an arena season.",
+  "reward": "Rewards: Custom Gladiator Mount",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_07",
+  "criteria": [
+    {
+      "id": 7412,
+      "description": "Gladiator",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 10881,
+      "description": "Deadly Gladiator",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 10898,
+      "description": "Furious Gladiator",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 11402,
+      "description": "Relentless Gladiator",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18114,
+      "description": "Vicious Gladiator",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 18843,
+      "description": "Ruthless Gladiator",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 18844,
+      "description": "Cataclysmic Gladiator",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 22938,
+      "description": "Malevolent Gladiator",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 23888,
+      "description": "Tyrannical Gladiator",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 23889,
+      "description": "Grievous Gladiator",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 23890,
+      "description": "Prideful Gladiator",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 36829,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 36830,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 37136,
+      "description": "",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 37137,
+      "description": "",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1022,
+  "title": "Flame Warden of Eastern Kingdoms",
+  "points": 10,
+  "description": "Honor the flames of Eastern Kingdoms.",
+  "rewardItems": [],
+  "icon": "inv_summerfest_firespirit",
+  "criteria": [
+    {
+      "id": 3063,
+      "description": "Arathi Highlands",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23509,
+      "description": "Badlands",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3064,
+      "description": "Blasted Lands",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3065,
+      "description": "Burning Steppes",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3066,
+      "description": "Dun Morogh",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3067,
+      "description": "Duskwood",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3068,
+      "description": "Elwynn Forest",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3070,
+      "description": "Loch Modan",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 17013,
+      "description": "Northern Stranglethorn",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 3071,
+      "description": "Redridge Mountains",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 23510,
+      "description": "Swamp of Sorrows",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3072,
+      "description": "The Cape of Stranglethorn",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 3073,
+      "description": "The Hinterlands",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 3074,
+      "description": "Western Plaguelands",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 3075,
+      "description": "Westfall",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 5078,
+      "description": "Wetlands",
+      "orderIndex": 15,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

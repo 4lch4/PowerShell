@@ -1,0 +1,18 @@
+{
+  "id": 5394,
+  "title": "Realm First! Illustrious Tailor",
+  "points": 0,
+  "description": "First person on the realm to achieve 525 skill in tailoring.",
+  "rewardItems": [],
+  "icon": "trade_tailoring",
+  "criteria": [
+    {
+      "id": 5575,
+      "description": "",
+      "orderIndex": 1,
+      "max": 525
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

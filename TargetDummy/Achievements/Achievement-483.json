@@ -1,0 +1,18 @@
+{
+  "id": 483,
+  "title": "The Violet Hold",
+  "points": 10,
+  "description": "Defeat Cyanigosa in The Violet Hold.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_theviolethold_normal",
+  "criteria": [
+    {
+      "id": 5447,
+      "description": "Cyanigosa",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

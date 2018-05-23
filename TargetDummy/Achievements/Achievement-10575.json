@@ -1,0 +1,18 @@
+{
+  "id": 10575,
+  "title": "Burning Bridges",
+  "points": 10,
+  "description": "Defeat Krosus in The Nighthold after quenching 15 Burning Embers on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "spell_volatilefiregreen",
+  "criteria": [
+    {
+      "id": 29785,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

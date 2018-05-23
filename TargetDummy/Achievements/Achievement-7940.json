@@ -1,0 +1,18 @@
+{
+  "id": 7940,
+  "title": "The Second Rule of Brawler's Guild (Season 1)",
+  "points": 0,
+  "description": "Reach Rank 7 with Bizmo's Brawlpub during the Pandaria campaign.",
+  "rewardItems": [],
+  "icon": "inv_misc_bandage_05",
+  "criteria": [
+    {
+      "id": 22550,
+      "description": "Reach Rank 7 with Bizmo's Brawlpub.",
+      "orderIndex": 0,
+      "max": 6000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

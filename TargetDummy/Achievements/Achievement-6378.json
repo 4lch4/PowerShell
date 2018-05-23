@@ -1,0 +1,67 @@
+{
+  "id": 6378,
+  "title": "Challenge Conqueror: Gold",
+  "points": 0,
+  "description": "Complete every Challenge Mode dungeon with a rating of Gold.",
+  "reward": "Reward: Full set of class-specific transmogrifiable armor",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_gold",
+  "criteria": [
+    {
+      "id": 19892,
+      "description": "Temple of the Jade Serpent",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19893,
+      "description": "Stormstout Brewery",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19894,
+      "description": "Mogu'shan Palace",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19895,
+      "description": "Shado-Pan Monastery",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 19896,
+      "description": "Gate of the Setting Sun",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 19897,
+      "description": "Scarlet Halls",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 19898,
+      "description": "Scarlet Monastery",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 19899,
+      "description": "Scholomance",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 19900,
+      "description": "Siege of Niuzao Temple",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 6980,
+  "title": "Temple of Kotmogu All-Star",
+  "points": 10,
+  "description": "Hold four Orbs of Power and kill four enemies who are holding an Orb of Power in a single Temple of Kotmogu match.",
+  "rewardItems": [],
+  "icon": "ability_wintergrasp_rank1",
+  "criteria": [
+    {
+      "id": 21027,
+      "description": "Kill four Orb carriers.",
+      "orderIndex": 0,
+      "max": 4
+    },
+    {
+      "id": 21028,
+      "description": "Four Orbs Controlled",
+      "orderIndex": 1,
+      "max": 4
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2358,
+  "title": "Charger",
+  "points": 0,
+  "description": "Completed the paladin quest to obtain a Charger.",
+  "rewardItems": [],
+  "icon": "ability_mount_charger",
+  "criteria": [
+    {
+      "id": 8906,
+      "description": "Judgment and Redemption",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 8907,
+      "description": "True Masters of the Light",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

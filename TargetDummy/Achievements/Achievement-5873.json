@@ -1,0 +1,42 @@
+{
+  "id": 5873,
+  "title": "Ready for Raiding II",
+  "points": 10,
+  "description": "Slay the following Lieutenants of Flame in Ragnaros' Reach without getting hit by their special attacks.",
+  "rewardItems": [],
+  "icon": "spell_fire_burnout",
+  "criteria": [
+    {
+      "id": 17840,
+      "description": "Ancient Charscale",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 17841,
+      "description": "Cinderweb Queen",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17842,
+      "description": "Ancient Smoldering Behemoth",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17843,
+      "description": "Devout Harbinger",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17844,
+      "description": "Ancient Firelord",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

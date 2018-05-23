@@ -1,0 +1,66 @@
+{
+  "id": 1006,
+  "title": "City Defender",
+  "points": 10,
+  "description": "Kill 50 enemy players in any of your home cities.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_h",
+  "criteria": [
+    {
+      "id": 5031,
+      "description": "Orgrimmar",
+      "orderIndex": 1,
+      "max": 50
+    },
+    {
+      "id": 5032,
+      "description": "Silvermoon City",
+      "orderIndex": 2,
+      "max": 50
+    },
+    {
+      "id": 5033,
+      "description": "Shepherd's Gate",
+      "orderIndex": 3,
+      "max": 50
+    },
+    {
+      "id": 5034,
+      "description": "Thunder Bluff",
+      "orderIndex": 4,
+      "max": 50
+    },
+    {
+      "id": 5035,
+      "description": "Elder Rise",
+      "orderIndex": 5,
+      "max": 50
+    },
+    {
+      "id": 5036,
+      "description": "Hunter Rise",
+      "orderIndex": 6,
+      "max": 50
+    },
+    {
+      "id": 5037,
+      "description": "Spirit Rise",
+      "orderIndex": 7,
+      "max": 50
+    },
+    {
+      "id": 5038,
+      "description": "The Pools of Vision",
+      "orderIndex": 8,
+      "max": 50
+    },
+    {
+      "id": 5039,
+      "description": "Undercity",
+      "orderIndex": 9,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

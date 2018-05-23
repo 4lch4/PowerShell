@@ -1,0 +1,8 @@
+{
+  "id": 11757,
+  "name": "Digging for Cobalt",
+  "icon": "trade_engineering",
+  "description": "Right-click to dig for Gordunni Cobalt.",
+  "range": "10 yd range",
+  "castTime": "1.5 sec cast"
+}

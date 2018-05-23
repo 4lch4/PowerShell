@@ -1,0 +1,18 @@
+{
+  "id": 8225,
+  "title": "Collector: Praying Mantids",
+  "points": 10,
+  "description": "Restore 20 Praying Mantids.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 22957,
+      "description": "",
+      "orderIndex": 0,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,108 @@
+{
+  "id": 848,
+  "title": "Explore Desolace",
+  "points": 10,
+  "description": "Explore Desolace, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_desolace",
+  "criteria": [
+    {
+      "id": 1365,
+      "description": "Tethris Aran",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14111,
+      "description": "Thargad's Camp",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1366,
+      "description": "Nijel's Point",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1367,
+      "description": "Sargeron",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1368,
+      "description": "Thunder Axe Fortress",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1373,
+      "description": "Cenarion Wildlands",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1374,
+      "description": "Magram Territory",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1375,
+      "description": "Ranazjar Isle",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1376,
+      "description": "Valley of Spears",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1377,
+      "description": "Kodo Graveyard",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1378,
+      "description": "Shadowprey Village",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1379,
+      "description": "Gelkis Village",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1380,
+      "description": "Mannoroc Coven",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1381,
+      "description": "Shok'Thokar",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1382,
+      "description": "Shadowbreak Ravine",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1383,
+      "description": "Slitherblade Shore",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

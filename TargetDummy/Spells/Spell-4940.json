@@ -1,0 +1,9 @@
+{
+  "id": 4940,
+  "name": "Spider Poison",
+  "icon": "spell_nature_corrosivebreath",
+  "description": "",
+  "range": "Melee Range",
+  "castTime": "Instant",
+  "cooldown": "30 sec cooldown"
+}

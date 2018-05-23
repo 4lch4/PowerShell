@@ -1,0 +1,72 @@
+{
+  "id": 775,
+  "title": "Explore Burning Steppes",
+  "points": 10,
+  "description": "Explore Burning Steppes, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_burningsteppes_01",
+  "criteria": [
+    {
+      "id": 1136,
+      "description": "Dreadmaul Rock",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1137,
+      "description": "Morgan's Vigil",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1138,
+      "description": "Terror Wing Path",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1139,
+      "description": "Blackrock Pass",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1140,
+      "description": "Ruins of Thaurissan",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1141,
+      "description": "Black Tooth Hovel",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1142,
+      "description": "Blackrock Stronghold",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1143,
+      "description": "The Whelping Downs",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1144,
+      "description": "Altar of Storms",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1145,
+      "description": "Blackrock Mountain",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

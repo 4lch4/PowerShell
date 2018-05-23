@@ -1,0 +1,18 @@
+{
+  "id": 2157,
+  "title": "King's Bane",
+  "points": 10,
+  "description": "Defeat King Ymiron in Utgarde Pinnacle on Heroic Difficulty without anyone in the party triggering Bane.",
+  "rewardItems": [],
+  "icon": "achievement_boss_kingymiron_03",
+  "criteria": [
+    {
+      "id": 7598,
+      "description": "King Ymiron",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

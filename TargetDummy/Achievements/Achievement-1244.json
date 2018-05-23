@@ -1,0 +1,264 @@
+{
+  "id": 1244,
+  "title": "Well Read",
+  "points": 10,
+  "description": "Read an original version of the books listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_book_04",
+  "criteria": [
+    {
+      "id": 3762,
+      "description": "Aegwynn and the Dragon Hunt",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3763,
+      "description": "Aftermath of the Second War",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3764,
+      "description": "Arathor and the Troll Wars",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3765,
+      "description": "Archimonde's Return and the Flight to Kalimdor",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3766,
+      "description": "Beyond the Dark Portal",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3767,
+      "description": "Charge of the Dragonflights",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3768,
+      "description": "Civil War in the Plaguelands",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 3769,
+      "description": "Empires' Fall",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 3770,
+      "description": "Exile of the High Elves",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3771,
+      "description": "Icecrown and the Frozen Throne",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3772,
+      "description": "Ironforge - the Awakening of the Dwarves",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 3773,
+      "description": "Kel'Thuzad and the Forming of the Scourge",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 3774,
+      "description": "Kil'jaeden and the Shadow Pact",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 3775,
+      "description": "Lethargy of the Orcs",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 3776,
+      "description": "Mount Hyjal and Illidan's Gift",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 3777,
+      "description": "Old Hatreds - The Colonization of Kalimdor",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 3778,
+      "description": "Rise of the Blood Elves",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 3779,
+      "description": "Rise of the Horde",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 3780,
+      "description": "Sargeras and the Betrayal",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 3781,
+      "description": "Sunwell - The Fall of Quel'Thalas",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 3782,
+      "description": "The Alliance of Lordaeron",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 3783,
+      "description": "The Battle of Grim Batol",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 3784,
+      "description": "The Betrayer Ascendant",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 3785,
+      "description": "The Birth of the Lich King",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 3786,
+      "description": "The Dark Portal and the Fall of Stormwind",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 3787,
+      "description": "The Founding of Quel'Thalas",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 3788,
+      "description": "The Guardians of Tirisfal",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 3789,
+      "description": "The Invasion of Draenor",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 3790,
+      "description": "The Kaldorei and the Well of Eternity",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 3791,
+      "description": "The Last Guardian",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 3792,
+      "description": "The Lich King Triumphant",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 3793,
+      "description": "The New Horde",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 3794,
+      "description": "The Old Gods and the Ordering of Azeroth",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 3795,
+      "description": "The Scourge of Lordaeron",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 3796,
+      "description": "The Sentinels and the Long Vigil",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 3797,
+      "description": "The Seven Kingdoms",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 3798,
+      "description": "The Twin Empires",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 3799,
+      "description": "The War of the Ancients",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 3800,
+      "description": "The World Tree and the Emerald Dream",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 3801,
+      "description": "War of the Spider",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 3802,
+      "description": "War of the Three Hammers",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 3803,
+      "description": "Wrath of Soulflayer",
+      "orderIndex": 42,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

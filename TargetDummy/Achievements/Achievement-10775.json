@@ -1,0 +1,18 @@
+{
+  "id": 10775,
+  "title": "Clean House",
+  "points": 10,
+  "description": "Defeat Corstilax without any pools of Nightwell Energy expiring in the Arcway on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_pet_broom",
+  "criteria": [
+    {
+      "id": 31371,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

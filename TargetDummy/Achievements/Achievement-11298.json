@@ -1,0 +1,60 @@
+{
+  "id": 11298,
+  "title": "A Classy Outfit",
+  "points": 10,
+  "description": "Earn all 8 pieces of your Class Hall Armor Set.",
+  "rewardItems": [],
+  "icon": "spell_magic_greaterblessingofkings",
+  "criteria": [
+    {
+      "id": 5212,
+      "description": "Class Hall Helm Earned",
+      "orderIndex": 0,
+      "max": 110
+    },
+    {
+      "id": 0,
+      "description": "Class Hall Bracers Earned",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 30499,
+      "description": "Class Hall Gloves Earned",
+      "orderIndex": 2,
+      "max": 9000
+    },
+    {
+      "id": 0,
+      "description": "Class Hall Leggings Earned",
+      "orderIndex": 3,
+      "max": 8
+    },
+    {
+      "id": 0,
+      "description": "Class Hall Chestpiece Earned",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Class Hall Boots Earned",
+      "orderIndex": 5,
+      "max": 2
+    },
+    {
+      "id": 30103,
+      "description": "Class Hall Belt Earned",
+      "orderIndex": 6,
+      "max": 100000
+    },
+    {
+      "id": 30499,
+      "description": "Class Hall Shoulders Earned",
+      "orderIndex": 7,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

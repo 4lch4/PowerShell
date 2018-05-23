@@ -1,0 +1,18 @@
+{
+  "id": 9461,
+  "title": "Sea Scorpion Angler",
+  "points": 5,
+  "description": "Catch 100 Enormous Sea Scorpion fish in Draenor.",
+  "rewardItems": [],
+  "icon": "inv_fishing_f_seascorpion3",
+  "criteria": [
+    {
+      "id": 25810,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

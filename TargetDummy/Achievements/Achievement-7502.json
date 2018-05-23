@@ -1,0 +1,24 @@
+{
+  "id": 7502,
+  "title": "Savior of Stoneplow",
+  "points": 10,
+  "description": "Defeat the Ik'thik Colossus.",
+  "rewardItems": [],
+  "icon": "inv_mushanbeastmount",
+  "criteria": [
+    {
+      "id": 21417,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21418,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

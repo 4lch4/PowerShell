@@ -1,0 +1,8 @@
+{
+  "id": 4979,
+  "name": "Quick Flame Ward",
+  "icon": "spell_fire_sealoffire",
+  "description": "Renders an ally immune to Fire spells for 10 sec.",
+  "range": "10 yd range",
+  "castTime": "1.5 sec cast"
+}

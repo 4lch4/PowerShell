@@ -1,0 +1,18 @@
+{
+  "id": 1421,
+  "title": "Realm First! Grand Master Herbalist",
+  "points": 0,
+  "description": "First person on the realm to achieve 450 skill in herbalism.",
+  "rewardItems": [],
+  "icon": "trade_herbalism",
+  "criteria": [
+    {
+      "id": 5569,
+      "description": "Skill to 450",
+      "orderIndex": 1,
+      "max": 450
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,19 @@
+{
+  "id": 978,
+  "title": "3000 Quests Completed",
+  "points": 50,
+  "description": "Complete 3000 quests.",
+  "reward": "Title Reward: The Seeker",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_08",
+  "criteria": [
+    {
+      "id": 3631,
+      "description": "",
+      "orderIndex": 0,
+      "max": 3000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8107,
+  "title": "Ready for RAAAAIIIIDDD?!?ing",
+  "points": 10,
+  "description": "Crush 200 Ihgaluk Roaches within 1 minute.",
+  "rewardItems": [],
+  "icon": "inv_pet_cockroach",
+  "criteria": [
+    {
+      "id": 22831,
+      "description": "Ihgaluk Roach",
+      "orderIndex": 0,
+      "max": 200
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

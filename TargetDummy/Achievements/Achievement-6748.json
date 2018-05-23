@@ -1,0 +1,18 @@
+{
+  "id": 6748,
+  "title": "Realm First! Level 90 Death Knight",
+  "points": 0,
+  "description": "First death knight on the realm to achieve level 90.",
+  "rewardItems": [],
+  "icon": "spell_deathknight_classicon",
+  "criteria": [
+    {
+      "id": 5219,
+      "description": "Level to 90",
+      "orderIndex": 0,
+      "max": 90
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

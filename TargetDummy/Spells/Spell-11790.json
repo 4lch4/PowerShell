@@ -1,0 +1,7 @@
+{
+  "id": 11790,
+  "name": "Poison Cloud",
+  "icon": "spell_nature_regenerate",
+  "description": "Deals ^0.3130 Nature damage every 5 sec to any enemy in an 8 yard radius around the caster for 15 sec.",
+  "castTime": "1 sec cast"
+}

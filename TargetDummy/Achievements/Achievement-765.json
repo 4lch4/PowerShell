@@ -1,0 +1,72 @@
+{
+  "id": 765,
+  "title": "Explore Badlands",
+  "points": 10,
+  "description": "Explore Badlands, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_badlands_01",
+  "criteria": [
+    {
+      "id": 1014,
+      "description": "Lethlor Ravine",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1016,
+      "description": "Agmond's End",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1017,
+      "description": "Uldaman",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1018,
+      "description": "Camp Cagg",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1020,
+      "description": "Scar of the Worldbreaker",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1021,
+      "description": "The Dustbowl",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1023,
+      "description": "Angor Fortress",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1027,
+      "description": "Camp Kosh",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 16092,
+      "description": "Bloodwatcher Point",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 16093,
+      "description": "New Kargath",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

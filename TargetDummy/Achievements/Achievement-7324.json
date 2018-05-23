@@ -1,0 +1,24 @@
+{
+  "id": 7324,
+  "title": "One Step at a Time",
+  "points": 10,
+  "description": "Complete The Crumbling Hall and The Thunder Below without taking damage from any source.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_mogupalace",
+  "criteria": [
+    {
+      "id": 20975,
+      "description": "Complete The Crumbling Hall without taking any damage.",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20979,
+      "description": "Complete The Thunder Below without taking any damage.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

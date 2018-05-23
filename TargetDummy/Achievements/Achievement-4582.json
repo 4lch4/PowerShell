@@ -1,0 +1,24 @@
+{
+  "id": 4582,
+  "title": "The Orb Whisperer (10 player)",
+  "points": 10,
+  "description": "Defeat the Blood Council without anyone in the raid taking more than 23,000 spell damage in a single hit in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_boss_princetaldaram",
+  "criteria": [
+    {
+      "id": 13033,
+      "description": "Prince Valanar",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13034,
+      "description": "Prince Valanar",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

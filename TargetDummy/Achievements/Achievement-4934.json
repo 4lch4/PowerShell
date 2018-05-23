@@ -1,0 +1,18 @@
+{
+  "id": 4934,
+  "title": "Silithus Quests",
+  "points": 10,
+  "description": "Complete 19 quests in Silithus.",
+  "rewardItems": [],
+  "icon": "achievement_zone_silithus_01",
+  "criteria": [
+    {
+      "id": 13844,
+      "description": "Silithus",
+      "orderIndex": 1,
+      "max": 19
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

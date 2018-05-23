@@ -1,0 +1,8 @@
+{
+  "id": 10669,
+  "name": "Strike of the Scorpok",
+  "icon": "spell_nature_forceofnature",
+  "description": "Increases Agility by 23 when consumed. Effect lasts for 60 minutes.  Battle Elixir.",
+  "castTime": "3 sec cast",
+  "cooldown": "3.5 min cooldown"
+}

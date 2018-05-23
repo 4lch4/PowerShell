@@ -1,0 +1,18 @@
+{
+  "id": 8527,
+  "title": "Giant Dinosaur vs. Mega Snail",
+  "points": 10,
+  "description": "Open the Thrice-Locked Cage during the Thok the Bloodthirsty encounter in Siege of Orgrimmar on Normal difficulty or higher, and then allow its inhabitant to feast upon Thok's corpse once you have defeated the encounter.",
+  "rewardItems": [],
+  "icon": "inv_misc_shell_04",
+  "criteria": [
+    {
+      "id": 23894,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

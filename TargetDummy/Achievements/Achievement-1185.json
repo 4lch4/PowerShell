@@ -1,0 +1,60 @@
+{
+  "id": 1185,
+  "title": "The Brewfest Diet",
+  "points": 10,
+  "description": "Eat 8 of the Brewfest foods listed below.",
+  "rewardItems": [],
+  "icon": "inv_holiday_beerfestpretzel01",
+  "criteria": [
+    {
+      "id": 18619,
+      "description": "Dried Sausage",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18622,
+      "description": "Pickled Sausage",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3544,
+      "description": "Savory Sausage",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18621,
+      "description": "Spiced Onion Cheese",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 18623,
+      "description": "Spicy Smoked Sausage",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 18620,
+      "description": "Succulent Sausage",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7987,
+      "description": "The Essential Brewfest Pretzel",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 18624,
+      "description": "The Golden Link",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1356,
+  "title": "I've Toured the Fjord",
+  "points": 10,
+  "description": "Complete 105 quests in Howling Fjord.",
+  "rewardItems": [],
+  "icon": "achievement_zone_howlingfjord_07",
+  "criteria": [
+    {
+      "id": 75,
+      "description": "Complete 105 quests in Howling Fjord",
+      "orderIndex": 1,
+      "max": 105
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

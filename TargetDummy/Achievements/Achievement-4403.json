@@ -1,0 +1,18 @@
+{
+  "id": 4403,
+  "title": "Many Whelps! Handle It! (10 player)",
+  "points": 10,
+  "description": "Cause 50 Onyxia Whelplings to hatch within 10 seconds of Onyxia's liftoff, and then defeat her in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_head_dragon_black",
+  "criteria": [
+    {
+      "id": 12565,
+      "description": "Onyxia",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

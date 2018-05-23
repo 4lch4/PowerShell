@@ -1,0 +1,7 @@
+{
+  "id": 6479,
+  "name": "Razormane Wolf",
+  "icon": "ability_druid_rake",
+  "description": "Summons 1 Razormane Wolf to accompany the caster until dismissed.",
+  "castTime": "Instant"
+}

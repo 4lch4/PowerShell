@@ -1,0 +1,18 @@
+{
+  "id": 1296,
+  "title": "Watch Him Die",
+  "points": 10,
+  "description": "Defeat Krik'thir the Gatewatcher in Azjol-Nerub on Heroic Difficulty while Watcher Gashra, Watcher Narji, and Watcher Silthik are still alive.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_azjoluppercity_25man",
+  "criteria": [
+    {
+      "id": 4240,
+      "description": "Krik'thir the Gatewatcher",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

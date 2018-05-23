@@ -1,0 +1,18 @@
+{
+  "id": 5309,
+  "title": "Full of Sound and Fury",
+  "points": 10,
+  "description": "Defeat Chimaeron in Blackwing Descent with no more than 2 raid member deaths.",
+  "rewardItems": [],
+  "icon": "warrior_talent_icon_furyintheblood",
+  "criteria": [
+    {
+      "id": 16002,
+      "description": "Chimaeron",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

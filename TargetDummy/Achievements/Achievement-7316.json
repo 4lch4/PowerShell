@@ -1,0 +1,102 @@
+{
+  "id": 7316,
+  "title": "Over Their Heads",
+  "points": 10,
+  "description": "Bomb the following targets during the daily quest, \"Dark Skies.\"",
+  "rewardItems": [],
+  "icon": "ability_mount_hordescorpionamber",
+  "criteria": [
+    {
+      "id": 20511,
+      "description": "Garalon",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20509,
+      "description": "Wind Lord Mel'jarak",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20508,
+      "description": "Blade Lord Ta'yak",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 20510,
+      "description": "Amber-Shaper Un'sok",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 20507,
+      "description": "Imperial Vizier Zor'lok",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21001,
+      "description": "Amber Earthshaker",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 20506,
+      "description": "Amber Rocktunneler",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 20505,
+      "description": "Amber Venomlancer",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21002,
+      "description": "Dread Ambercrusher",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 21003,
+      "description": "Dread Fearbringer",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 21004,
+      "description": "Essence of Dread",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 21005,
+      "description": "Essence of Fear",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 21006,
+      "description": "Essence of Horror",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 21007,
+      "description": "Essence of Panic",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 21008,
+      "description": "Essence of Terror",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

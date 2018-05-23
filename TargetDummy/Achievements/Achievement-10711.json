@@ -1,0 +1,18 @@
+{
+  "id": 10711,
+  "title": "Adds? More Like Bads",
+  "points": 10,
+  "description": "Defeat Illysanna Ravencrest without killing any of her allies in Black Rook Hold on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "thumbsdown",
+  "criteria": [
+    {
+      "id": 32384,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

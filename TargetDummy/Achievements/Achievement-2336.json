@@ -1,0 +1,55 @@
+{
+  "id": 2336,
+  "title": "Insane in the Membrane",
+  "points": 0,
+  "description": "Raise your reputation to Honored with the Bloodsail Buccaneers, and Exalted with Booty Bay, Everlook, Gadgetzan, Ratchet, Darkmoon Faire, and Ravenholdt.",
+  "reward": "Title Reward: The Insane",
+  "rewardItems": [],
+  "icon": "ability_mage_brainfreeze",
+  "criteria": [
+    {
+      "id": 24534,
+      "description": "Honored with Bloodsail Buccaneers",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 24535,
+      "description": "Exalted with Booty Bay",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 24536,
+      "description": "Exalted with Everlook",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 24537,
+      "description": "Exalted with Gadgetzan",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 24538,
+      "description": "Exalted with Ratchet",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 8823,
+      "description": "Exalted with Darkmoon Faire",
+      "orderIndex": 5,
+      "max": 42000
+    },
+    {
+      "id": 8824,
+      "description": "Exalted with Ravenholdt",
+      "orderIndex": 6,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

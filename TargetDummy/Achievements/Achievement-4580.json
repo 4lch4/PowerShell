@@ -1,0 +1,24 @@
+{
+  "id": 4580,
+  "title": "All You Can Eat (10 player)",
+  "points": 10,
+  "description": "Defeat Sindragosa in 10-player mode without any member of your raid receiving more than 5 stacks of Mystic Buffet.",
+  "rewardItems": [],
+  "icon": "achievement_boss_sindragosa",
+  "criteria": [
+    {
+      "id": 12822,
+      "description": "Sindragosa",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12996,
+      "description": "Sindragosa",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

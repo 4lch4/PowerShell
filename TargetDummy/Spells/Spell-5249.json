@@ -1,0 +1,8 @@
+{
+  "id": 5249,
+  "name": "Ice Lock",
+  "icon": "spell_frost_chainsofice",
+  "description": "",
+  "range": "50,000 yd range",
+  "castTime": "Instant"
+}

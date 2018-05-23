@@ -1,0 +1,60 @@
+{
+  "id": 774,
+  "title": "Explore Searing Gorge",
+  "points": 10,
+  "description": "Explore Searing Gorge, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_searinggorge_01",
+  "criteria": [
+    {
+      "id": 1129,
+      "description": "Firewatch Ridge",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1130,
+      "description": "The Cauldron",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1131,
+      "description": "Blackchar Cave",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1132,
+      "description": "The Sea of Cinders",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1134,
+      "description": "Grimesilt Dig Site",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1135,
+      "description": "Dustfire Valley",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 15120,
+      "description": "Thorium Point",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 15121,
+      "description": "Blackrock Mountain",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

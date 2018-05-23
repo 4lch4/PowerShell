@@ -1,0 +1,120 @@
+{
+  "id": 862,
+  "title": "Explore Hellfire Peninsula",
+  "points": 10,
+  "description": "Explore  Hellfire Peninsula, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_hellfirepeninsula_01",
+  "criteria": [
+    {
+      "id": 1631,
+      "description": "The Stair of Destiny",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1606,
+      "description": "Expedition Armory",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1607,
+      "description": "Falcon Watch",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1608,
+      "description": "Hellfire Citadel",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1609,
+      "description": "Honor Hold",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1626,
+      "description": "Mag'har Post",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1627,
+      "description": "Pools of Aggonar",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1628,
+      "description": "Ruins of Sha'naar",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1629,
+      "description": "Temple of Telhamat",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1630,
+      "description": "The Legion Front",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1632,
+      "description": "Thrallmar",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1633,
+      "description": "Throne of Kil'jaeden",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1634,
+      "description": "Zeth'Gor",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1635,
+      "description": "Den of Haal'esh",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1636,
+      "description": "Fallen Sky Ridge",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1638,
+      "description": "Void Ridge",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1639,
+      "description": "The Warp Fields",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1641,
+      "description": "Forge Camp: Mageddon",
+      "orderIndex": 18,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8873,
+  "title": "Skyreach: Silver",
+  "points": 0,
+  "description": "Complete the Skyreach Challenge Mode with a rating of Silver or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_seigeofniuzaotemple_silver",
+  "criteria": [
+    {
+      "id": 24465,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

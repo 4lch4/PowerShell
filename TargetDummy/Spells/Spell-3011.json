@@ -1,0 +1,9 @@
+{
+  "id": 3011,
+  "name": "Fire Shot",
+  "subtext": "Rank 1",
+  "icon": "ability_searingarrow",
+  "description": "Fires a flaming shot at the enemy, dealing Fire damage.",
+  "range": "5-30 yd range",
+  "castTime": "Instant"
+}

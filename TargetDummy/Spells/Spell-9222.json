@@ -1,0 +1,9 @@
+{
+  "id": 9222,
+  "name": "Summon Voidwalker",
+  "subtext": "Rank 1",
+  "icon": "spell_shadow_summonvoidwalker",
+  "description": "Call forth a voidwalker using the summoning circle.",
+  "range": "10 yd range",
+  "castTime": "10 sec cast"
+}

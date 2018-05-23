@@ -1,0 +1,42 @@
+{
+  "id": 11284,
+  "title": "Flame Keeper of Draenor",
+  "points": 10,
+  "description": "Honor the flames of Draenor.",
+  "rewardItems": [],
+  "icon": "inv_summerfest_firespirit",
+  "criteria": [
+    {
+      "id": 33638,
+      "description": "Spires of Arak",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 33639,
+      "description": "Talador",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 33640,
+      "description": "Nagrand",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 33641,
+      "description": "Gorgrond",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 33643,
+      "description": "Frostfire Ridge",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

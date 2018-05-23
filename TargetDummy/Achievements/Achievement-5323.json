@@ -1,0 +1,18 @@
+{
+  "id": 5323,
+  "title": "In Service of the Horde",
+  "points": 10,
+  "description": "Win 10 rated battlegrounds.",
+  "rewardItems": [],
+  "icon": "inv_bannerpvp_01",
+  "criteria": [
+    {
+      "id": 15289,
+      "description": "Win 10 rated battlegrounds",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

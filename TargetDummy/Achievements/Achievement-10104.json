@@ -1,0 +1,12 @@
+{
+  "id": 10104,
+  "title": "Soldier of the Alliance: Warlords Season 2",
+  "points": 0,
+  "description": "End Warlords PvP season 2 in the top 35% of the rated battleground ladder (requires 50 games won in Warlords Season 2).",
+  "reward": "Title Reward: Soldier of the Alliance",
+  "rewardItems": [],
+  "icon": "achievement_pvp_g_a",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 0
+}

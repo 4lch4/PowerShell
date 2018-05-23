@@ -1,0 +1,18 @@
+{
+  "id": 10820,
+  "title": "Rift of Aln",
+  "points": 10,
+  "description": "Defeat Xavius in The Emerald Nightmare.",
+  "rewardItems": [],
+  "icon": "achievement_emeraldnightmare_xavius",
+  "criteria": [
+    {
+      "id": 31434,
+      "description": "Xavius",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

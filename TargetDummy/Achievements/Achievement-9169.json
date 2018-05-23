@@ -1,0 +1,38 @@
+{
+  "id": 9169,
+  "title": "The Second Rule of Brawler's Guild (Season 2)",
+  "points": 0,
+  "description": "Reach Rank 4 with Bizmo's Brawlpub during the Draenor campaign.",
+  "reward": "Rewards: Brawler's Pass",
+  "rewardItems": [
+    {
+      "id": 93195,
+      "name": "Brawler's Pass",
+      "icon": "inv_scroll_12",
+      "quality": 1,
+      "itemLevel": 110,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_misc_bandage_05",
+  "criteria": [
+    {
+      "id": 25286,
+      "description": "Reach Rank 4 with Bizmo's Brawlpub.",
+      "orderIndex": 0,
+      "max": 3000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

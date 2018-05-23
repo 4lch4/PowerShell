@@ -1,0 +1,36 @@
+{
+  "id": 482,
+  "title": "Drak'Tharon Keep",
+  "points": 10,
+  "description": "Defeat the bosses in Drak'Tharon Keep.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_drak'tharon_normal",
+  "criteria": [
+    {
+      "id": 5443,
+      "description": "Trollgore",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5444,
+      "description": "Novos the Summoner",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5445,
+      "description": "King Dred",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9098,
+      "description": "The Prophet Tharon'ja",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

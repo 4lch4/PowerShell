@@ -1,0 +1,18 @@
+{
+  "id": 3776,
+  "title": "Isle of Conquest Victory",
+  "points": 10,
+  "description": "Win Isle of Conquest.",
+  "rewardItems": [],
+  "icon": "inv_shield_61",
+  "criteria": [
+    {
+      "id": 17904,
+      "description": "Win Isle of Conquest.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

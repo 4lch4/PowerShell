@@ -1,0 +1,24 @@
+{
+  "id": 8078,
+  "title": "Zul'Again",
+  "points": 10,
+  "description": "Kill 10 Zandalari Warscouts and 5 Zandalari Warbringers.",
+  "rewardItems": [],
+  "icon": "inv_misc_archaeology_trollgolem",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Zandalari Scouts Slain",
+      "orderIndex": 0,
+      "max": 10
+    },
+    {
+      "id": 0,
+      "description": "Zandalari Warbringers Slain",
+      "orderIndex": 1,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

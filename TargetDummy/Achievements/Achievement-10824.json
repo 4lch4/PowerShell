@@ -1,0 +1,18 @@
+{
+  "id": 10824,
+  "title": "Mythic: Ursoc",
+  "points": 10,
+  "description": "Defeat Ursoc in the Emerald Nightmare on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_emeraldnightmare_ursoc",
+  "criteria": [
+    {
+      "id": 31438,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

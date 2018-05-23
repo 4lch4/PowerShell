@@ -1,0 +1,18 @@
+{
+  "id": 219,
+  "title": "Alterac Valley Veteran",
+  "points": 10,
+  "description": "Complete 100 victories in Alterac Valley.",
+  "rewardItems": [],
+  "icon": "achievement_bg_win_av_x_times",
+  "criteria": [
+    {
+      "id": 17411,
+      "description": "Complete 100 victories in Alterac Valley",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

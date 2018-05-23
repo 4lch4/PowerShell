@@ -1,0 +1,9 @@
+{
+  "id": 8094,
+  "name": "Armor",
+  "subtext": "Rank 2",
+  "icon": "ability_warrior_defensivestance",
+  "description": "Increases the target's Armor by 3 for 30 min.  This effect counts as a Guardian Elixir.",
+  "range": "30 yd range",
+  "castTime": "Instant"
+}

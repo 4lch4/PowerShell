@@ -1,0 +1,9 @@
+{
+  "id": 7328,
+  "name": "Redemption",
+  "icon": "spell_holy_resurrection",
+  "description": "Brings a dead ally back to life with 35% of maximum health and mana. Cannot be cast when in combat.",
+  "range": "40 yd range",
+  "powerCost": "4% of base mana",
+  "castTime": "10 sec cast"
+}

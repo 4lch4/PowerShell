@@ -1,0 +1,18 @@
+{
+  "id": 446,
+  "title": "General",
+  "points": 0,
+  "description": "Earned the title, \"General\" at level 60.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_12",
+  "criteria": [
+    {
+      "id": 729,
+      "description": "General",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

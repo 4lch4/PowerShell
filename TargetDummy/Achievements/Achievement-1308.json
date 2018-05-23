@@ -1,0 +1,18 @@
+{
+  "id": 1308,
+  "title": "Strand of the Ancients Victory",
+  "points": 10,
+  "description": "Win Strand of the Ancients.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winsoa",
+  "criteria": [
+    {
+      "id": 5898,
+      "description": "Win Strand of the Ancients",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

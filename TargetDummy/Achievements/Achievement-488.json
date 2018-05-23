@@ -1,0 +1,36 @@
+{
+  "id": 488,
+  "title": "Utgarde Pinnacle",
+  "points": 10,
+  "description": "Defeat the bosses in Utgarde Pinnacle.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_utgardepinnacle_normal",
+  "criteria": [
+    {
+      "id": 5463,
+      "description": "Skadi the Ruthless",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5465,
+      "description": "Svala Sorrowgrave",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5466,
+      "description": "Gortok Palehoof",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5464,
+      "description": "King Ymiron",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

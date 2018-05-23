@@ -1,0 +1,18 @@
+{
+  "id": 10992,
+  "title": "Here We Go Again",
+  "points": 10,
+  "description": "Reach Prestige Level 2.",
+  "rewardItems": [],
+  "icon": "achievement_legionpvptier2",
+  "criteria": [
+    {
+      "id": 31784,
+      "description": "Reach Prestige Level 2",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 944,
+  "title": "They Love Me In That Tunnel",
+  "points": 15,
+  "description": "Earn Exalted status with Timbermaw Hold.",
+  "rewardItems": [],
+  "icon": "achievement_reputation_timbermaw",
+  "criteria": [
+    {
+      "id": 2011,
+      "description": "Timbermaw Exalted",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

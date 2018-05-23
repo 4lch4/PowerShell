@@ -1,0 +1,18 @@
+{
+  "id": 416,
+  "title": "Scarab Lord",
+  "points": 0,
+  "description": "Opened the gates of Ahn'Qiraj.",
+  "rewardItems": [],
+  "icon": "achievement_zone_silithus_01",
+  "criteria": [
+    {
+      "id": 328,
+      "description": "Scarab Lord",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

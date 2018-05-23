@@ -1,0 +1,24 @@
+{
+  "id": 6110,
+  "title": "Heroic: Warlord Zon'ozz",
+  "points": 10,
+  "description": "Defeat Warlord Zon'ozz in Dragon Soul on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievment_boss_zonozz",
+  "criteria": [
+    {
+      "id": 18573,
+      "description": "Warlord Zon'ozz (10H)",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18574,
+      "description": "Warlord Zon'ozz (25H)",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

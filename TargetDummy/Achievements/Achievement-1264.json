@@ -1,0 +1,90 @@
+{
+  "id": 1264,
+  "title": "Explore Borean Tundra",
+  "points": 10,
+  "description": "Explore Borean Tundra, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_boreantundra_01",
+  "criteria": [
+    {
+      "id": 4122,
+      "description": "Temple City of En'kilah",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4123,
+      "description": "Steeljaw's Caravan",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4124,
+      "description": "Riplash Strand",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4125,
+      "description": "Kaskala",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4126,
+      "description": "Garrosh's Landing",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4127,
+      "description": "Death's Stand",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4128,
+      "description": "Coldarra",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4129,
+      "description": "Bor'gorok Outpost",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4130,
+      "description": "Amber Ledge",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4131,
+      "description": "Warsong Hold",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4132,
+      "description": "Valiance Keep",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4134,
+      "description": "The Geyser Fields",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4135,
+      "description": "The Dens of the Dying",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

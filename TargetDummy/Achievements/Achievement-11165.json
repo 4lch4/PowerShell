@@ -1,0 +1,18 @@
+{
+  "id": 11165,
+  "title": "Crest of Heroism",
+  "points": 10,
+  "description": "Reach Prestige level 6 and earn a Crest of Heroism.",
+  "rewardItems": [],
+  "icon": "inv_60pvp_neck2c",
+  "criteria": [
+    {
+      "id": 32107,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,30 @@
+{
+  "id": 4521,
+  "title": "Heroic: The Halls of Reflection",
+  "points": 10,
+  "description": "Defeat the bosses in The Halls of Reflection on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_icecrown_hallsofreflection",
+  "criteria": [
+    {
+      "id": 13177,
+      "description": "Falric",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13179,
+      "description": "Marwyn",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 13181,
+      "description": "Survive the encounter with the Lich King",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

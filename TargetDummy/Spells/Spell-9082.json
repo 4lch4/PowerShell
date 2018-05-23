@@ -1,0 +1,8 @@
+{
+  "id": 9082,
+  "name": "Create Containment Coffer",
+  "icon": "trade_engineering",
+  "description": "Create a containment coffer on a stunned Rift Spawn",
+  "range": "20 yd range",
+  "castTime": "0.5 sec cast"
+}

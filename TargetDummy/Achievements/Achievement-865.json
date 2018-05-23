@@ -1,0 +1,168 @@
+{
+  "id": 865,
+  "title": "Explore Blade's Edge Mountains",
+  "points": 10,
+  "description": "Explore Blade's Edge Mountains, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_bladesedgemtns_01",
+  "criteria": [
+    {
+      "id": 1618,
+      "description": "Bash'ir Landing",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1619,
+      "description": "Bladed Gulch",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1620,
+      "description": "Bladespire Hold",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1621,
+      "description": "Bloodmaul Camp",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1688,
+      "description": "Bloodmaul Outpost",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1689,
+      "description": "Broken Wilds",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1690,
+      "description": "Circle of Blood",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1691,
+      "description": "Death's Door",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1692,
+      "description": "Forge Camp: Anger",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1693,
+      "description": "Forge Camp: Terror",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1694,
+      "description": "Forge Camp: Wrath",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1695,
+      "description": "Grishnath",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1696,
+      "description": "Gruul's Lair",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1697,
+      "description": "Jagged Ridge",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1698,
+      "description": "Mok'Nathal Village",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1699,
+      "description": "Raven's Wood",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1700,
+      "description": "Razor Ridge",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1701,
+      "description": "Ruuan Weald",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 1702,
+      "description": "Skald",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 1703,
+      "description": "Sylvanaar",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 1704,
+      "description": "Crystal Spine",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 1705,
+      "description": "Thunderlord Stronghold",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 1706,
+      "description": "Veil Lashh",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 2238,
+      "description": "Veil Ruuan",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 1707,
+      "description": "Vekhaar Stand",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 1708,
+      "description": "Vortex Summit",
+      "orderIndex": 26,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1786,
+  "title": "School of Hard Knocks",
+  "points": 10,
+  "description": "Take your orphan into the battlegrounds and complete the feats listed below.",
+  "rewardItems": [],
+  "icon": "ability_hunter_beastcall02",
+  "criteria": [
+    {
+      "id": 6641,
+      "description": "Capture the flag in Eye of the Storm",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6642,
+      "description": "Assault a tower in Alterac Valley",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6643,
+      "description": "Assault a flag in Arathi Basin",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6644,
+      "description": "Return a fallen flag in Warsong Gulch",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

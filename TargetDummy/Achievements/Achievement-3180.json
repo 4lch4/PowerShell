@@ -1,0 +1,18 @@
+{
+  "id": 3180,
+  "title": "Firefighter (10 player)",
+  "points": 10,
+  "description": "Defeat Mimiron after activating his Self-Destruct mechanism in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_bomb_04",
+  "criteria": [
+    {
+      "id": 10450,
+      "description": "Mimiron",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6928,
+  "title": "Burning Man",
+  "points": 10,
+  "description": "Cause Brother Korloff to light six nearby training dummies on fire, and then defeat him, in Scarlet Monastery on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "spell_burningsoul",
+  "criteria": [
+    {
+      "id": 20223,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 10586,
+  "title": "Mass Obliteration",
+  "points": 15,
+  "description": "Obliterate 50 crafted items in the Obliterum Forge.",
+  "rewardItems": [],
+  "icon": "inv_misc_dust",
+  "criteria": [
+    {
+      "id": 29874,
+      "description": "",
+      "orderIndex": 0,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 10084,
+  "title": "Mythic: Shadowmoon Burial Grounds",
+  "points": 10,
+  "description": "Defeat Ner'zhul in Shadowmoon Burial Grounds on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_shadowmoonhideout",
+  "criteria": [
+    {
+      "id": 28314,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

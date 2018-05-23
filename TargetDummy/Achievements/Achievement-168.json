@@ -1,0 +1,18 @@
+{
+  "id": 168,
+  "title": "Warsong Gulch Perfection",
+  "points": 10,
+  "description": "Win Warsong Gulch with a score of 3 to 0.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winwsg_3-0",
+  "criteria": [
+    {
+      "id": 1236,
+      "description": "Victory in Warsong Gulch with a shutout",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

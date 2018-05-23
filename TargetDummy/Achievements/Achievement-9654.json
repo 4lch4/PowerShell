@@ -1,0 +1,18 @@
+{
+  "id": 9654,
+  "title": "Mean and Green",
+  "points": 10,
+  "description": "Reach 10 stacks of Mutagen in the Everbloom Wilds.",
+  "rewardItems": [],
+  "icon": "ability_creature_poison_05",
+  "criteria": [
+    {
+      "id": 26541,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

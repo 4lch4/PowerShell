@@ -1,0 +1,3 @@
+﻿<Template version="1.0" type="File" tags="PowerShell, Module">
+  <Description>Creates a PowerShell module script file.</Description>
+</Template>

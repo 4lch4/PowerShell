@@ -1,0 +1,18 @@
+{
+  "id": 8972,
+  "title": "Mythic: Iron Maidens",
+  "points": 10,
+  "description": "Defeat the Iron Maidens in Blackrock Foundry on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_ironmaidens",
+  "criteria": [
+    {
+      "id": 25009,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

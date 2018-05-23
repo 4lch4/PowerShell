@@ -1,0 +1,96 @@
+{
+  "id": 2093,
+  "title": "Rival",
+  "points": 10,
+  "description": "Earn the Rival title in an arena season.",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_05",
+  "criteria": [
+    {
+      "id": 9719,
+      "description": "Rival",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 9720,
+      "description": "Duelist",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7412,
+      "description": "Gladiator",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 10881,
+      "description": "Deadly Gladiator",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 10898,
+      "description": "Furious Gladiator",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 11402,
+      "description": "Relentless Gladiator",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 18114,
+      "description": "Vicious Gladiator",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 18843,
+      "description": "Ruthless Gladiator",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 18844,
+      "description": "Cataclysmic Gladiator",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 22938,
+      "description": "Malevolent Gladiator",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 36833,
+      "description": "",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 36834,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 37138,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 37139,
+      "description": "",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

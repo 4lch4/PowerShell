@@ -1,0 +1,18 @@
+{
+  "id": 10816,
+  "title": "Mythic: Court of Stars",
+  "points": 10,
+  "description": "Defeat Advisor Melandrus in Court of Stars on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_courtofstars",
+  "criteria": [
+    {
+      "id": 31841,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1702,
+  "title": "Sweet Tooth",
+  "points": 10,
+  "description": "Sample the Love is in the Air candies listed below.",
+  "rewardItems": [],
+  "icon": "inv_valentineschocolate02",
+  "criteria": [
+    {
+      "id": 8705,
+      "description": "Buttermilk Delight",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 8706,
+      "description": "Dark Desire",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 8708,
+      "description": "Sweet Surprise",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 8707,
+      "description": "Very Berry Cream",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

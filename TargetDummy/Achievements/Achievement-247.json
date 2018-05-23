@@ -1,0 +1,18 @@
+{
+  "id": 247,
+  "title": "Make Love, Not Warcraft",
+  "points": 10,
+  "description": "Emote /hug on a dead enemy before they release corpse.",
+  "rewardItems": [],
+  "icon": "spell_brokenheart",
+  "criteria": [
+    {
+      "id": 2379,
+      "description": "Hug a dead enemy",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

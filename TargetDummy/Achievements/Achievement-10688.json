@@ -1,0 +1,18 @@
+{
+  "id": 10688,
+  "title": "Fashionista: Wrist",
+  "points": 5,
+  "description": "Collect 100 wrist slot appearances.",
+  "rewardItems": [],
+  "icon": "inv_bracer_06",
+  "criteria": [
+    {
+      "id": 30573,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

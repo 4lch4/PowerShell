@@ -1,0 +1,18 @@
+{
+  "id": 4922,
+  "title": "Grand Master Archaeologist",
+  "points": 10,
+  "description": "Obtain 450 skill points in archaeology.",
+  "rewardItems": [],
+  "icon": "trade_archaeology",
+  "criteria": [
+    {
+      "id": 13812,
+      "description": "Obtain 450 skill points in archaeology.",
+      "orderIndex": 1,
+      "max": 450
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 5376,
+  "name": "Hand Snap",
+  "icon": "spell_shadow_lifedrain",
+  "description": "Disarms a target as well as dealing 40 damage over 8 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

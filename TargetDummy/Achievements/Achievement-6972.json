@@ -1,0 +1,18 @@
+{
+  "id": 6972,
+  "title": "What is Best in Life?",
+  "points": 10,
+  "description": "Earn 8,000 Victory Points for your team in Temple of Kotmogu.",
+  "rewardItems": [],
+  "icon": "achievement_bg_kill_flag_carrier",
+  "criteria": [
+    {
+      "id": 20988,
+      "description": "",
+      "orderIndex": 0,
+      "max": 8000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

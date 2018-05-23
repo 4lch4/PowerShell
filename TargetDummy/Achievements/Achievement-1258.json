@@ -1,0 +1,24 @@
+{
+  "id": 1258,
+  "title": "Take a Chill Pill",
+  "points": 10,
+  "description": "In Eye of the Storm, kill a player who is under the effects of the Berserker power-up.",
+  "rewardItems": [],
+  "icon": "achievement_bg_killingblow_berserker",
+  "criteria": [
+    {
+      "id": 3879,
+      "description": "Killed a Berserking Player",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 37107,
+      "description": "Killed a Berserking Player",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

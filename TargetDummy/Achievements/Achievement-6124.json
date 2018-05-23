@@ -1,0 +1,18 @@
+{
+  "id": 6124,
+  "title": "Ruthless Gladiator",
+  "points": 0,
+  "description": "Achieved Ruthless Gladiator title.",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_10",
+  "criteria": [
+    {
+      "id": 18843,
+      "description": "Ruthless Gladiator",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

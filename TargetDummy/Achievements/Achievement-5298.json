@@ -1,0 +1,18 @@
+{
+  "id": 5298,
+  "title": "Don't Need to Break Eggs to Make an Omelet",
+  "points": 10,
+  "description": "Defeat Erudax without letting a Faceless Corruptor begin to cast Twilight Corruption on any of Alexstrasza's Eggs in Grim Batol on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_halloween_rottenegg_01",
+  "criteria": [
+    {
+      "id": 16001,
+      "description": "General Umbriss",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

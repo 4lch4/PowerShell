@@ -1,0 +1,68 @@
+{
+  "id": 9706,
+  "title": "The Stable Master",
+  "points": 10,
+  "description": "Defeat all mount-in-training targets in Nagrand while carrying the Garn-Tooth Necklace.",
+  "reward": "Title Reward: Stable Master",
+  "rewardItems": [
+    {
+      "id": 116781,
+      "name": "Armored Frostwolf",
+      "icon": "inv_wolfdraenormountfrost",
+      "quality": 3,
+      "itemLevel": 40,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "garrison_building_stables",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Maimclaw Killed",
+      "orderIndex": 0,
+      "max": 6
+    },
+    {
+      "id": 0,
+      "description": "Beast-Lasher Killed",
+      "orderIndex": 1,
+      "max": 6
+    },
+    {
+      "id": 0,
+      "description": "Moth of Wrath Killed",
+      "orderIndex": 2,
+      "max": 6
+    },
+    {
+      "id": 0,
+      "description": "Thundercall Killed",
+      "orderIndex": 3,
+      "max": 6
+    },
+    {
+      "id": 0,
+      "description": "Ironbore Killed",
+      "orderIndex": 4,
+      "max": 6
+    },
+    {
+      "id": 0,
+      "description": "Karak Killed",
+      "orderIndex": 5,
+      "max": 6
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

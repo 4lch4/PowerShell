@@ -1,0 +1,18 @@
+{
+  "id": 125,
+  "title": "Grand Master Cook",
+  "points": 10,
+  "description": "Obtain 450 skill points in cooking.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_15",
+  "criteria": [
+    {
+      "id": 5701,
+      "description": "Obtain 450 skill points in cooking.",
+      "orderIndex": 1,
+      "max": 450
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

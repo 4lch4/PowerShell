@@ -1,0 +1,18 @@
+{
+  "id": 6938,
+  "title": "Cataclysmic Gladiator",
+  "points": 0,
+  "description": "Achieved Cataclysmic Gladiator title.",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_10",
+  "criteria": [
+    {
+      "id": 20011,
+      "description": "Cataclysm Gladiator",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

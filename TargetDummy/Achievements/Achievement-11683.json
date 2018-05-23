@@ -1,0 +1,24 @@
+{
+  "id": 11683,
+  "title": "Bingo!",
+  "points": 10,
+  "description": "Defeat the Fallen Avatar in Tomb of Sargeras without breaking any floor segments in the following patterns on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "ability_bossfellord_felfissure",
+  "criteria": [
+    {
+      "id": 36173,
+      "description": "Unbroken Column",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 36174,
+      "description": "Unbroken Row",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

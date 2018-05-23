@@ -1,0 +1,19 @@
+{
+  "id": 9080,
+  "title": "Choppin' Even More Logs",
+  "points": 5,
+  "description": "Place 100 Work Orders at the Lumber Mill.",
+  "reward": "Title Reward: Timber Lord",
+  "rewardItems": [],
+  "icon": "garrison_building_lumbermill",
+  "criteria": [
+    {
+      "id": 25174,
+      "description": "Place 100 Work Orders at the Lumber Mill.",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

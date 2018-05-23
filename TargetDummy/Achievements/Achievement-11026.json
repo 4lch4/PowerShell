@@ -1,0 +1,12 @@
+{
+  "id": 11026,
+  "title": "Duelist: Legion Season 2",
+  "points": 0,
+  "description": "End Legion PvP season 2 in the top 3% of the arena ladder (requires 50 games won in Legion Season 2).",
+  "reward": "Title Reward: Duelist",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_04",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

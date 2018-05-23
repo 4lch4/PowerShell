@@ -1,0 +1,18 @@
+{
+  "id": 10054,
+  "title": "Don't Fear the Reaper",
+  "points": 10,
+  "description": "Defeat all 3 members of the Hellfire High Council in Hellfire Citadel within 10 seconds of each other on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "ability_bossfelorcs_necromancer_red",
+  "criteria": [
+    {
+      "id": 28189,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

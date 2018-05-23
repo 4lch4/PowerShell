@@ -1,0 +1,18 @@
+{
+  "id": 11717,
+  "title": "Why Male(volent) Models?",
+  "points": 10,
+  "description": "Collect any class armor set from PvP Season 12.",
+  "rewardItems": [],
+  "icon": "inv_axe_2h_pvppandarias1_d_01",
+  "criteria": [
+    {
+      "id": 36239,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 10013,
+  "title": "Waves Came Crashing Down All Around",
+  "points": 10,
+  "description": "Defeat Kormrok in Hellfire Citadel without taking damage from any of the waves on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "ability_bossfelmagnaron_waveempowered",
+  "criteria": [
+    {
+      "id": 28053,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

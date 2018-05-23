@@ -1,0 +1,72 @@
+{
+  "id": 5754,
+  "title": "Drown Your Sorrows",
+  "points": 10,
+  "description": "Drink the following Cataclysm beverages.",
+  "rewardItems": [],
+  "icon": "inv_misc_beer_04",
+  "criteria": [
+    {
+      "id": 17002,
+      "description": "Darkbrew Lager",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 16945,
+      "description": "Fresh Water",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 16946,
+      "description": "Fungus Squeezings",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 16947,
+      "description": "Greasy Whale Milk",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 16948,
+      "description": "Highland Spirits",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 16949,
+      "description": "Highland Spring Water",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 16950,
+      "description": "Murky Water",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 16951,
+      "description": "South Island Iced Tea",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 16952,
+      "description": "Sparkling Oasis Water",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 16953,
+      "description": "Starfire Espresso",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,42 @@
+{
+  "id": 5474,
+  "title": "Let's Do Lunch: Stormwind",
+  "points": 10,
+  "description": "Complete each of the Stormwind cooking daily quests.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_19",
+  "criteria": [
+    {
+      "id": 15802,
+      "description": "A Fisherman's Feast",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15803,
+      "description": "Feeling Crabby?",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15804,
+      "description": "Orphans Like Cookies Too!",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15805,
+      "description": "Penny's Pumpkin Pancakes",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15806,
+      "description": "The King's Cider",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

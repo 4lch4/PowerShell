@@ -1,0 +1,18 @@
+{
+  "id": 8956,
+  "title": "Mythic: Beastlord Darmac",
+  "points": 10,
+  "description": "Defeat Beastlord Darmac in Blackrock Foundry on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_breaker_darmac",
+  "criteria": [
+    {
+      "id": 24643,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

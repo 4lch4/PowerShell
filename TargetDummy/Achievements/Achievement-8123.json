@@ -1,0 +1,18 @@
+{
+  "id": 8123,
+  "title": "Millions of Years of Evolution vs. My Fist",
+  "points": 10,
+  "description": "Defeat Oondasta on the Isle of Giants.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_devilsaur",
+  "criteria": [
+    {
+      "id": 22819,
+      "description": "Nalak",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

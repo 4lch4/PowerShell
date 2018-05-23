@@ -1,0 +1,18 @@
+{
+  "id": 5290,
+  "title": "Kill It With Fire!",
+  "points": 10,
+  "description": "Defeat 3 Burning Souls during the High Prophet Barim encounter in Lost City of the Tol'vir on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_firedancer_01",
+  "criteria": [
+    {
+      "id": 15991,
+      "description": "Burning Souls Extinguished:",
+      "orderIndex": 1,
+      "max": 3
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

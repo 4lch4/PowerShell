@@ -1,0 +1,36 @@
+{
+  "id": 4177,
+  "title": "Mine",
+  "points": 10,
+  "description": "Win Isle of Conquest while controlling the Quarry, Oil Refinery, Shipyard, Siege Workshop and Hangar.",
+  "rewardItems": [],
+  "icon": "inv_ingot_cobalt",
+  "criteria": [
+    {
+      "id": 17849,
+      "description": "Win Isle of Conquest.",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12062,
+      "description": "Win Isle of Conquest.",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17850,
+      "description": "Win Isle of Conquest.",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 12063,
+      "description": "Win Isle of Conquest.",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

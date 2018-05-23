@@ -1,0 +1,18 @@
+{
+  "id": 10826,
+  "title": "Mythic: Cenarius",
+  "points": 10,
+  "description": "Defeat Cenarius in the Emerald Nightmare on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_emeraldnightmare_cenarius",
+  "criteria": [
+    {
+      "id": 31439,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5750,
+  "title": "Tunnel Vision",
+  "points": 10,
+  "description": "Defeat Halazzi in Zul'Aman on Heroic Difficulty without killing any of his totems.",
+  "rewardItems": [],
+  "icon": "spell_totem_wardofdraining",
+  "criteria": [
+    {
+      "id": 16818,
+      "description": "Halazzi (Lynx)",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

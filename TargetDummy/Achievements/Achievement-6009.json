@@ -1,0 +1,60 @@
+{
+  "id": 6009,
+  "title": "Flame Keeper of Northrend",
+  "points": 10,
+  "description": "Honor the flames of Northrend.",
+  "rewardItems": [],
+  "icon": "inv_summerfest_firespirit",
+  "criteria": [
+    {
+      "id": 18181,
+      "description": "Dragonblight",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18179,
+      "description": "Borean Tundra",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 18183,
+      "description": "Howling Fjord",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18184,
+      "description": "Sholazar Basin",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 18185,
+      "description": "Storm Peaks",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 18186,
+      "description": "Zul'Drak",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 18182,
+      "description": "Grizzly Hills",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 18180,
+      "description": "Crystalsong Forest",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

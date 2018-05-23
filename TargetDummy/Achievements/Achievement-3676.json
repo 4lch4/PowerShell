@@ -1,0 +1,25 @@
+{
+  "id": 3676,
+  "title": "A Silver Confidant",
+  "points": 10,
+  "description": "Earn both exalted status with The Silver Covenant and the right to represent a city in the Argent Tournament.",
+  "reward": "Unlocks Silver Covenant dailies at the Argent Tournament.",
+  "rewardItems": [],
+  "icon": "inv_elemental_primal_mana",
+  "criteria": [
+    {
+      "id": 4749,
+      "description": "Exalted with The Silver Covenant",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 11330,
+      "description": "Argent Tournament Rank: Champion",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

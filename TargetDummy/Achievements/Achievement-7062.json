@@ -1,0 +1,18 @@
+{
+  "id": 7062,
+  "title": "Mine Mine Mine!",
+  "points": 10,
+  "description": "Kill 250 enemies while you are defending a mine cart.",
+  "rewardItems": [],
+  "icon": "inv_pick_02",
+  "criteria": [
+    {
+      "id": 20989,
+      "description": "",
+      "orderIndex": 0,
+      "max": 250
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

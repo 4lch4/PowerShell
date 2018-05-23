@@ -1,0 +1,18 @@
+{
+  "id": 947,
+  "title": "The Argent Crusade",
+  "points": 15,
+  "description": "Earn Exalted status with the Argent Crusade.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_talisman_08",
+  "criteria": [
+    {
+      "id": 4737,
+      "description": "Argent Crusade exalted",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

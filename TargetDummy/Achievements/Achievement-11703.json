@@ -1,0 +1,18 @@
+{
+  "id": 11703,
+  "title": "Master of Shadows",
+  "points": 10,
+  "description": "Defeat Mephistroth within the Cathedral of Eternal Night after blocking 20 Shadow Blasts with the Aegis of Aggramar on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "spell_shadow_shadesofdarkness",
+  "criteria": [
+    {
+      "id": 36554,
+      "description": "Defeat Mephistroth in Cathedral of Eternal Night after blocking 20 Shadows Blasts with the Aegis of Aggrammar.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

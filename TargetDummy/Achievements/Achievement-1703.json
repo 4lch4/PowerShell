@@ -1,0 +1,24 @@
+{
+  "id": 1703,
+  "title": "My Love is Like a Red, Red Rose",
+  "points": 10,
+  "description": "Obtain a Bouquet of Red or Ebon Roses during the Love is in the Air celebration.",
+  "rewardItems": [],
+  "icon": "inv_rosebouquet01",
+  "criteria": [
+    {
+      "id": 6336,
+      "description": "Bouquet of Red Roses",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9338,
+      "description": "Bouquet of Ebon Roses",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

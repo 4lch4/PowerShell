@@ -1,0 +1,18 @@
+{
+  "id": 7988,
+  "title": "A Little Patience",
+  "points": 10,
+  "description": "Complete the scenario, A Little Patience.",
+  "rewardItems": [],
+  "icon": "achievement_character_orc_male",
+  "criteria": [
+    {
+      "id": 22461,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

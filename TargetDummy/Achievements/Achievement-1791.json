@@ -1,0 +1,30 @@
+{
+  "id": 1791,
+  "title": "Home Alone",
+  "points": 10,
+  "description": "Use your Hearthstone while your orphan is with you.",
+  "rewardItems": [],
+  "icon": "inv_misc_rune_01",
+  "criteria": [
+    {
+      "id": 10391,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28381,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28382,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

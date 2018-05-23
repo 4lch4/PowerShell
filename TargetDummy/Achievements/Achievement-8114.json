@@ -1,0 +1,18 @@
+{
+  "id": 8114,
+  "title": "Platform Hero",
+  "points": 10,
+  "description": "Survive for 90 seconds on the pillars in the Swollen Vault.",
+  "rewardItems": [],
+  "icon": "ability_heroicleap",
+  "criteria": [
+    {
+      "id": 22929,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

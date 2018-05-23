@@ -1,0 +1,49 @@
+{
+  "id": 1039,
+  "title": "The Flame Keeper",
+  "points": 20,
+  "description": "Complete the Midsummer achievements listed below.",
+  "reward": "Title Reward: Flame Keeper",
+  "rewardItems": [],
+  "icon": "inv_summerfest_symbol_low",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "The Fires of Azeroth",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Desecration of the Alliance/Horde",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7338,
+      "description": "Burning Hot Pole Dance",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7339,
+      "description": "Ice the Frost Lord",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7340,
+      "description": "King of the Fire Festival",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7341,
+      "description": "Torch Juggler ",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4525,
+  "title": "Don't Look Up",
+  "points": 10,
+  "description": "Clear the hallway before Scourgelord Tyrannus in The Pit of Saron on Heroic Difficulty without anyone taking icicle damage on the first try.",
+  "rewardItems": [],
+  "icon": "achievement_boss_scourgelordtyrannus",
+  "criteria": [
+    {
+      "id": 12994,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,198 @@
+{
+  "id": 8714,
+  "title": "Timeless Champion",
+  "points": 10,
+  "description": "Defeat all of the rare creatures of the Timeless Isle listed below.",
+  "rewardItems": [],
+  "icon": "ability_monk_touchofdeath",
+  "criteria": [
+    {
+      "id": 23967,
+      "description": "Emerald Gander",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23968,
+      "description": "Ironfur Steelhorn",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 23969,
+      "description": "Great Turtle Furyshell",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 23970,
+      "description": "Gu'chi the Swarmbringer",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 23971,
+      "description": "Zesqua",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 23972,
+      "description": "Zhu-Gon the Sour",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 23973,
+      "description": "Karkanos",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 23974,
+      "description": "Chelon",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 23975,
+      "description": "Spelurk",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 23976,
+      "description": "Cranegnasher",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 23977,
+      "description": "Rattleskew",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 23978,
+      "description": "Spirit of Jadefire",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 23979,
+      "description": "Leafmender",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 23986,
+      "description": "Bufo",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 23982,
+      "description": "Garnia",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 23983,
+      "description": "Tsavo'ka",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 23985,
+      "description": "Monstrous Spineclaw",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 23989,
+      "description": "Imperial Python",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 24144,
+      "description": "Stinkbraid",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 23980,
+      "description": "Rock Moss",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 23992,
+      "description": "Watcher Osu",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 23994,
+      "description": "Jakur of Ordon",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 23996,
+      "description": "Champion of the Black Flame",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 23981,
+      "description": "Cinderfall",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 23993,
+      "description": "Urdur the Cauterizer",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 23995,
+      "description": "Flintlord Gairan",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 23984,
+      "description": "Huolon",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 23988,
+      "description": "Golganarr",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 23990,
+      "description": "Evermaw",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 23987,
+      "description": "Dread Ship Vazuvius",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Archiereus of Flame",
+      "orderIndex": 30,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

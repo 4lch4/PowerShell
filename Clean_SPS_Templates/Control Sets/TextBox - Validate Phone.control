@@ -1,0 +1,44 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a MaskedTextBox that validates a US phone number.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABOSURBVDhPY2CgFNTP3fmfXAy2G6T5759/JGOQvkFoANBJYK/AaHxew/ACSBM6JskAZJsHlwtweWuQRiMpKRLFCxTlBUozIzD1QPIEuQAAxOKQS+F+hwEAAAAASUVORK5CYII=</Icon>
+  <Identifiers>
+    <ID id="1" name="maskedtextboxPhone" type="object" />
+    <ID id="2" name="maskedtextboxPhone_Validating" type="event" />
+    <ID id="3" name="control_Validated" type="event" />
+    <ID id="4" name="errorprovider1" type="object" useExistingType="True" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="Anchor">Top, Left, Right</Property>
+      <Property name="IconAlignment" extended="True" provider="%ID:4%">MiddleLeft</Property>
+      <Property name="IconPadding" extended="True" provider="%ID:4%">2</Property>
+      <Property name="Location">100, 90</Property>
+      <Property name="Mask">(999) 000-0000</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="ResetOnSpace">False</Property>
+      <Property name="Size">172, 20</Property>
+      <Property name="TabIndex">3</Property>
+      <Event name="Validating">%ID:2%</Event>
+      <Event name="Validated">%ID:3%</Event>
+    </Object>
+    <Object type="System.Windows.Forms.ErrorProvider, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:4%">
+      <Property name="ContainerControl">
+        <Reference name="%CONTAINER%" />
+      </Property>
+    </Object>
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%=[System.ComponentModel.CancelEventHandler]{
+#Event Argument: $_ = [System.ComponentModel.CancelEventArgs]
+	if(-not $%ID:1%.MaskFull)
+	{
+		$_.Cancel = $true
+		$%ID:4%.SetError($%ID:1%, "Please insert a valid phone number");
+	}
+}]]></Event>
+    <Event id="3"><![CDATA[$%ID:3%={
+	#Pass the calling control and clear error message
+	$%ID:4%.SetError($this, "");	
+}]]></Event>
+  </Events>
+</ControlTemplate>

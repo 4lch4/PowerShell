@@ -1,0 +1,29 @@
+000000.000| ALWAYS| Logging started at 2016-12-03T04:23:50.790
+000000.010|   OKAY| Riot::RADS::Reader::RadsMain::Initialize: RADS library initializing with specified working directory "D:\Google_Drive\Development\PowerShell\Scripts".
+000000.010|   OKAY| Riot::RADS::Reader::RuntimeEnvironment::Create: Creating RADS runtime environment: RADS root directory = "D:/Google_Drive/Development/PowerShell/Scripts"
+000000.010|   WARN| Riot::RADS::Reader::RuntimeEnvironment::GetProjectTypeNameAndVersion: Did not find keywords "projects" or "solutions" in path D:/Google_Drive/Development/PowerShell/Scripts
+000000.010|  ERROR| Riot::RADS::Reader::RuntimeEnvironment::Create: RADS runtime environment creation failed because it was unable to get the project information.
+000000.010|  ERROR| Riot::RADS::Reader::RadsMain::Initialize: RADS library initialization failed to create the runtime environment.
+000000.010|  ERROR| Failed to initialize Rads library.
+000000.011| ALWAYS| Riot::RADS::Reader::SignalSoftRepair: Wrote soft repair file to D:/Google_Drive/Development/PowerShell/SOFT_REPAIR. This will cause the patcher to repair your installation.
+000000.066|   OKAY| Unable to process data overlay file ./ToolsConfig.xml, defaulting to overlay now
+000000.066| ALWAYS| Data overlay start folder initialized to DATA, Content/Src
+000000.067| ALWAYS| Global logging level set to   WARN
+000000.067| ALWAYS| GameClock LockToSystemClock time: 0.000000 diff: 0.067387
+000000.068| ALWAYS| Build Version: Version 6.18.158.4172 (Sep 13 2016/16:30:53) [PUBLIC] <Releases/6.18> ChangeList: 1584172
+000003.074| ALWAYS| Current working directory: D:\Google_Drive\Development\PowerShell\Scripts
+000003.074| ALWAYS| Set current working directory to exe dir: C:\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.1.145\deploy
+000003.074| ALWAYS| Replay filepath: NA1-2348368119.rofl
+000003.075|  ERROR| Failed to load replay file
+000003.075| ALWAYS| Started System Init
+000003.075| ALWAYS| Maestro Init
+000003.190| ALWAYS| Maestro completed init
+000003.190| ALWAYS| zip manifest, 'ClientZips.txt', not found (expected).
+000003.190| ALWAYS| WadFile mount: DATA/FINAL/Global.wad (FAILED)
+000003.191| ALWAYS| Riot::RADS::Reader::SignalSoftRepair: Wrote soft repair file to C:/Riot Games/League of Legends/RADS/solutions/lol_game_client_sln/releases/0.0.1.145/SOFT_REPAIR. This will cause the patcher to repair your installation.
+000003.191|  ERROR| Assertion failed!
+
+Expression: ALE-18967997
+
+Description: FATAL ERROR - WadFile mount failed: Global.wad
+000003.739|  ERROR| Crash Occurred

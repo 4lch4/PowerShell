@@ -1,0 +1,78 @@
+{
+  "id": 1172,
+  "title": "Master of Warsong Gulch",
+  "points": 25,
+  "description": "Complete the Warsong Gulch achievements listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_rune_07",
+  "criteria": [
+    {
+      "id": 3461,
+      "description": "Warsong Gulch Veteran",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 3462,
+      "description": "Capture the Flag",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3463,
+      "description": "Persistent Defender",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3464,
+      "description": "Frenzied Defender",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3465,
+      "description": "Warsong Gulch Perfection",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3466,
+      "description": "Warsong Expedience",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3467,
+      "description": "Ironman",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Not In My House",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Quick Cap",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Supreme Defender",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3472,
+      "description": "Save The Day",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

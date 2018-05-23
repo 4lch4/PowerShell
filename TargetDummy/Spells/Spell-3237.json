@@ -1,0 +1,7 @@
+{
+  "id": 3237,
+  "name": "Curse of Thule",
+  "icon": "spell_shadow_shadowpact",
+  "description": "Reduces the Intellect of an enemy for 2 min.",
+  "castTime": "2 sec cast"
+}

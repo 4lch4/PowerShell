@@ -1,0 +1,18 @@
+{
+  "id": 10692,
+  "title": "Fashionista: Shoulder",
+  "points": 5,
+  "description": "Collect 100 shoulder slot appearances.",
+  "rewardItems": [],
+  "icon": "inv_shoulder_30",
+  "criteria": [
+    {
+      "id": 30578,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

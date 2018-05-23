@@ -1,0 +1,18 @@
+{
+  "id": 964,
+  "title": "Going Down?",
+  "points": 10,
+  "description": "Fall 65 yards without dying.",
+  "rewardItems": [],
+  "icon": "spell_shadow_twistedfaith",
+  "criteria": [
+    {
+      "id": 2072,
+      "description": "65 yards without dying",
+      "orderIndex": 1,
+      "max": 6500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

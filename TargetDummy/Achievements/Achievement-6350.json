@@ -1,0 +1,114 @@
+{
+  "id": 6350,
+  "title": "To All the Squirrels I Once Caressed?",
+  "points": 10,
+  "description": "There are even more critters in Pandaria. They also need /love.",
+  "rewardItems": [],
+  "icon": "inv_jewelcrafting_crimsonhare",
+  "criteria": [
+    {
+      "id": 20817,
+      "description": "Amethyst Spiderling",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Bandicoon",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20821,
+      "description": "Clouded Hedgehog",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Coral Adder",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Dancing Water Skimmer",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Emperor Crab",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Gilded Moth",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Golden Civet",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Leopard Tree Frog",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Luyu Moth",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Malayan Quillrat",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Marsh Fiddler",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Mongoose",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Resilient Roach",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Shrine Fly",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Sifang Otter",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Yakrat",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

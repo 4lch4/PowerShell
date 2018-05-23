@@ -1,0 +1,19 @@
+{
+  "id": 5337,
+  "title": "Knight-Captain",
+  "points": 10,
+  "description": "Earn a rated battleground rating of 1800.",
+  "reward": "Title Reward: Knight-Captain",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_08",
+  "criteria": [
+    {
+      "id": 15300,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1800
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

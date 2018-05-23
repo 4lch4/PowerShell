@@ -1,0 +1,48 @@
+{
+  "id": 5301,
+  "title": "The Boy Who Would be King",
+  "points": 10,
+  "description": "Recover the following tol'vir artifacts that tell of the rise and fall of Emperor Ninjter.",
+  "rewardItems": [],
+  "icon": "inv_misc_tabard_tolvir",
+  "criteria": [
+    {
+      "id": 15100,
+      "description": "Cat Statue with Emerald Eyes",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15101,
+      "description": "Soapstone Scarab Necklace",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15102,
+      "description": "Tiny Oasis Mosaic",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15103,
+      "description": "Engraved Scimitar Hilt",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15104,
+      "description": "Sketch of a Desert Palace",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 15105,
+      "description": "Canopic Jar",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

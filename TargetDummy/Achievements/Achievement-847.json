@@ -1,0 +1,114 @@
+{
+  "id": 847,
+  "title": "Explore Stonetalon Mountains",
+  "points": 10,
+  "description": "Explore Stonetalon Mountains, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_stonetalon_01",
+  "criteria": [
+    {
+      "id": 1350,
+      "description": "Battlescar Valley",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14105,
+      "description": "Krom'gar Fortress",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14106,
+      "description": "Ruins of Eldre'thar",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 14107,
+      "description": "Thal'darah Overlook",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 14108,
+      "description": "Unearthed Grounds",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 14109,
+      "description": "Webwinder Hollow",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 14110,
+      "description": "Windshear Hold",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1351,
+      "description": "Cliffwalker Post",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1352,
+      "description": "Malaka'jin",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1353,
+      "description": "Webwinder Path",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1354,
+      "description": "Boulderslide Ravine",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1355,
+      "description": "Greatwood Vale",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1356,
+      "description": "Windshear Crag",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1357,
+      "description": "Sun Rock Retreat",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1358,
+      "description": "The Charred Vale",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1359,
+      "description": "Mirkfallon Lake",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1360,
+      "description": "Stonetalon Peak",
+      "orderIndex": 17,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

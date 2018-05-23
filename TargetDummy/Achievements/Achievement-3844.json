@@ -1,0 +1,42 @@
+{
+  "id": 3844,
+  "title": "1000 Dungeon & Raid Emblems",
+  "points": 0,
+  "description": "Loot 1000 Emblems of Heroism, Valor, Conquest, Triumph or Frost.",
+  "rewardItems": [],
+  "icon": "spell_holy_empowerchampion",
+  "criteria": [
+    {
+      "id": 6824,
+      "description": "Loot 1000 Emblems of Heroism",
+      "orderIndex": 1,
+      "max": 1000
+    },
+    {
+      "id": 6830,
+      "description": "1000 Emblems of Valor",
+      "orderIndex": 2,
+      "max": 1000
+    },
+    {
+      "id": 10041,
+      "description": "Emblem of Conquest",
+      "orderIndex": 3,
+      "max": 1000
+    },
+    {
+      "id": 11617,
+      "description": "Emblem of Triumph",
+      "orderIndex": 4,
+      "max": 1000
+    },
+    {
+      "id": 12504,
+      "description": "Emblem of Frost",
+      "orderIndex": 5,
+      "max": 1000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

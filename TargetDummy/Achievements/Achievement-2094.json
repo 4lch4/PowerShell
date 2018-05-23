@@ -1,0 +1,144 @@
+{
+  "id": 2094,
+  "title": "A Penny For Your Thoughts",
+  "points": 10,
+  "description": "Fish up the copper coins listed below from the Dalaran fountain.",
+  "rewardItems": [],
+  "icon": "inv_misc_coin_19",
+  "criteria": [
+    {
+      "id": 7441,
+      "description": "Alonsus Faol's Copper Coin",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7442,
+      "description": "Ansirem's Copper Coin",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7443,
+      "description": "Attumen's Copper Coin",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7444,
+      "description": "Danath's Copper Coin",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7445,
+      "description": "Dornaa's Shiny Copper Coin",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7446,
+      "description": "Eitrigg's Copper Coin",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7447,
+      "description": "Elling Trias' Copper Coin",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 7448,
+      "description": "Falstad Wildhammer's Copper Coin",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 7449,
+      "description": "Genn's Copper Coin",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 7450,
+      "description": "Inigo's Copper Coin",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 7451,
+      "description": "Krasus' Copper Coin",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 7452,
+      "description": "Kryll's Copper Coin",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 7453,
+      "description": "Landro Longshot's Copper Coin",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 7454,
+      "description": "Molok's Copper Coin",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 7455,
+      "description": "Murky's Copper Coin ",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 7456,
+      "description": "Princess Calia Menethil's Copper Coin",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 7457,
+      "description": "Private Marcus Jonathan's Copper Coin",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 7458,
+      "description": "Salandria's Shiny Copper Coin",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 7459,
+      "description": "Squire Rowe's Copper Coin",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 7460,
+      "description": "Stalvan's Copper Coin",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 7461,
+      "description": "Vareesa's Copper Coin",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 7462,
+      "description": "Vargoth's Copper Coin",
+      "orderIndex": 22,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

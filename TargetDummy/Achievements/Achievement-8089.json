@@ -1,0 +1,18 @@
+{
+  "id": 8089,
+  "title": "I Thought He Was Supposed to Be Hard?",
+  "points": 0,
+  "description": "Defeat Ra-den in Throne of Thunder on the first attempt without letting any raid members die.",
+  "rewardItems": [],
+  "icon": "achievement_boss_ra_den",
+  "criteria": [
+    {
+      "id": 22796,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

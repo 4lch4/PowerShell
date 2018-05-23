@@ -1,0 +1,72 @@
+{
+  "id": 6851,
+  "title": "Take 'Em All On!",
+  "points": 10,
+  "description": "Win a solo pet battle against a pet of every family.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_captureapetfromeachfamily_battle",
+  "criteria": [
+    {
+      "id": 19835,
+      "description": "Aquatic",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19836,
+      "description": "Beast",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19837,
+      "description": "Critter",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19838,
+      "description": "Dragonkin",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 19839,
+      "description": "Elemental",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 19840,
+      "description": "Flying",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 19841,
+      "description": "Humanoid",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 19842,
+      "description": "Magic",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 19843,
+      "description": "Mechanical",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 19844,
+      "description": "Undead",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,19 @@
+{
+  "id": 1021,
+  "title": "Twenty-Five Tabards",
+  "points": 10,
+  "description": "Collect 25 tabard slot appearances.",
+  "reward": "Reward: Tabard of the Achiever",
+  "rewardItems": [],
+  "icon": "inv_chest_cloth_30",
+  "criteria": [
+    {
+      "id": 30576,
+      "description": "",
+      "orderIndex": 0,
+      "max": 25
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

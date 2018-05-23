@@ -1,0 +1,60 @@
+{
+  "id": 1286,
+  "title": "Outland Raider",
+  "points": 20,
+  "description": "Complete the Burning Crusade raid achievements listed below.",
+  "rewardItems": [],
+  "icon": "inv_helmet_90",
+  "criteria": [
+    {
+      "id": 4014,
+      "description": "Karazhan",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4016,
+      "description": "Gruul's Lair",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4017,
+      "description": "Magtheridon's Lair",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4018,
+      "description": "Serpentshrine Cavern",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4019,
+      "description": "The Battle for Mount Hyjal",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4020,
+      "description": "Tempest Keep",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4021,
+      "description": "The Black Temple",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4022,
+      "description": "Sunwell Plateau",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

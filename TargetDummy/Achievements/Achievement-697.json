@@ -1,0 +1,210 @@
+{
+  "id": 697,
+  "title": "The Black Temple",
+  "points": 10,
+  "description": "Defeat Illidan Stormrage in The Black Temple.",
+  "rewardItems": [],
+  "icon": "achievement_boss_illidan",
+  "criteria": [
+    {
+      "id": 3260,
+      "description": "Illidan Stormrage",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4500,
+      "description": "The Fall of the Betrayer",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 325,
+      "description": "Warglaive of Azzinoth",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 326,
+      "description": "Warglaive of Azzinoth",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4791,
+      "description": "Black Bow of the Betrayer",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4792,
+      "description": "Bulwark of Azzinoth",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4793,
+      "description": "Cowl of the Illidari High Lord",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4794,
+      "description": "Crystal Spire of Karabor",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4795,
+      "description": "Cursed Vision of Sargeras",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4796,
+      "description": "Faceplate of the Impenetrable",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4797,
+      "description": "Memento of Tyrande",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4798,
+      "description": "Shard of Azzinoth",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4799,
+      "description": "Shroud of the Highborne",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4800,
+      "description": "Stormrage Signet Ring",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4801,
+      "description": "The Skull of Gul'dan",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4802,
+      "description": "Zhar'doom, Greatstaff of the Devourer",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4803,
+      "description": "Lightbringer Breastplate",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4804,
+      "description": "Lightbringer Chestguard",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4805,
+      "description": "Lightbringer Chestpiece",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4806,
+      "description": "Robe of the Malefic",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 4807,
+      "description": "Shroud of Absolution",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 4808,
+      "description": "Vestments of Absolution",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 4809,
+      "description": "Gronnstalker's Chestguard",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 4810,
+      "description": "Onslaught Breastplate",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 4811,
+      "description": "Onslaught Chestguard",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 4812,
+      "description": "Skyshatter Breastplate",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 4813,
+      "description": "Skyshatter Chestguard",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 4814,
+      "description": "Skyshatter Tunic",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 4815,
+      "description": "Robes of the Tempest",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 4816,
+      "description": "Slayer's Chestguard",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 4817,
+      "description": "Thunderheart Chestguard",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 4818,
+      "description": "Thunderheart Tunic",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 4819,
+      "description": "Thunderheart Vest",
+      "orderIndex": 33,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

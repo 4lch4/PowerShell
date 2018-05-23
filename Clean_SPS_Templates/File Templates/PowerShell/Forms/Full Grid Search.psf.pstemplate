@@ -1,0 +1,4 @@
+﻿<Template version="1.0" type="File" tags="PowerShell, Form, Grid, Search">
+  <Description>Creates a form with search capabilities and a grid that fills the window to display the results.</Description>
+  <TargetGrid>datagridviewResults</TargetGrid>
+</Template>

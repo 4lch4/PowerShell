@@ -1,0 +1,24 @@
+{
+  "id": 2456,
+  "title": "Vampire Hunter",
+  "points": 0,
+  "description": "Slew Prince Tenris Mirkblood and acquired his Vampiric Batling pet.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_bat",
+  "criteria": [
+    {
+      "id": 9158,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9159,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

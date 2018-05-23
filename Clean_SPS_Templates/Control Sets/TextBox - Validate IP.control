@@ -1,0 +1,132 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a masked textbox that validates an IP address.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABHSURBVDhPY6AY1M/d+Z9cDDfg759/JONBagCQi0LjwxgGgDShY3RNyHgIuQDERsYwcawGkIIHmQHkYrABFIP/4MAlFzAwAADE4pBLYIqvjwAAAABJRU5ErkJggg==</Icon>
+  <Identifiers>
+    <ID id="1" name="maskedtextboxIP" type="object" />
+    <ID id="2" name="maskedtextboxIP_KeyPress" type="event" shared="True"/>
+    <ID id="3" name="maskedtextboxIP_Validating" type="event" shared="True"/>
+    <ID id="4" name="maskedtextboxIP_Validated" type="event" shared="True"/>
+    <ID id="5" name="errorprovider1" type="object" useExistingType="True"/>
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="BorderStyle">FixedSingle</Property>
+      <Property name="Font">Consolas, 8.25pt</Property>
+      <Property name="InsertKeyMode">Overwrite</Property>
+      <Property name="Location">15, 64</Property>
+      <Property name="Mask">999.999.999.999</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="PromptChar" xml:space="preserve"> </Property>
+      <Property name="Size">98, 20</Property>
+      <Property name="TabIndex">2</Property>
+      <Event name="KeyPress">%ID:2%</Event>
+      <Event name="Validating">%ID:3%</Event>
+      <Event name="Validated">%ID:4%</Event>
+    </Object>
+    <Object type="System.Windows.Forms.ErrorProvider, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:5%">
+      <Property name="ContainerControl">
+        <Reference name="%CONTAINER%" />
+      </Property>
+    </Object>
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%=[System.Windows.Forms.KeyPressEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.KeyPressEventArgs]
+	if($_.KeyChar -eq '.')
+	{
+		#Go to next octet
+		if($this.SelectionStart -le 3)
+		{
+			$diff = 3 - $this.SelectionStart
+			if($diff -gt 0)
+			{
+				$this.Select($this.SelectionStart,$diff)
+				$this.SelectedText =  " "*$diff;
+			}
+			
+			$this.Select(4,3);
+		}
+		elseif($this.SelectionStart -le 7)
+		{
+			$diff = 7 - $this.SelectionStart
+			if($diff -gt 0)
+			{
+				$this.Select($this.SelectionStart,$diff)
+				$this.SelectedText =  " "*$diff;
+			}
+			$this.Select(8,3);
+		}
+		elseif($this.SelectionStart -le 11)
+		{
+			$diff = 11 - $this.SelectionStart
+			if($diff -gt 0)
+			{
+				$this.Select($this.SelectionStart,$diff)
+				$this.SelectedText = " " * $diff;
+			}
+			$this.Select(12,3);
+		}
+	}
+	elseif($_.KeyChar -eq 8)
+	{
+		$_.Handled = $true
+		$this.Select($this.SelectionStart, 1)
+		$this.SelectedText = " "
+	}
+	elseif($this.SelectionStart -gt 0)
+	{
+		$position = $this.SelectionStart - 1
+		while($position -ge 0 -and [Char]::IsWhiteSpace($this.Text[$position]))
+		{
+			$position--
+		}
+		$this.SelectionStart = $position + 1
+	}
+}]]></Event>
+    <Event id="3"><![CDATA[$%ID:3%=[System.ComponentModel.CancelEventHandler]{
+#Event Argument: $_ = [System.ComponentModel.CancelEventArgs]
+	
+	$IP = $null	
+	try
+	{
+		$IP = Get-IPAddressFromMaskedTextBox $this
+	}
+	catch
+	{
+		$errorprovider1.SetError($this, $_.Exception.Message)
+	}
+	
+	$_.Cancel = $IP -eq $null
+}]]></Event>
+    <Event id="4"><![CDATA[$%ID:4%={
+	$%ID:5%.SetError($this, "")
+	
+}]]></Event>
+  </Events>
+  <Functions>
+    <Function name="Get-IPAddressFromMaskedTextBox"><![CDATA[function Get-IPAddressFromMaskedTextBox
+{
+	[OutputType([System.Net.IPAddress])]
+	param(
+		[Parameter(Mandatory=$true)]
+		[ValidateNotNull()]
+		[System.Windows.Forms.MaskedTextBox]$MaskedTextbox)
+			
+	try{
+		return [System.Net.IPAddress]::Parse($MaskedTextbox.Text.Replace(" ",""))#Remove Whitespaces
+	}
+	catch {
+		if($_.Exception.InnerException -ne $null)
+		{
+			throw $_.Exception.InnerException	
+		}
+		else
+		{
+			throw $_.Exception	
+		}
+	}
+	
+	return $null
+}]]></Function>
+  </Functions>
+</ControlTemplate>

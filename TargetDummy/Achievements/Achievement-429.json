@@ -1,0 +1,24 @@
+{
+  "id": 429,
+  "title": "Sulfuras, Hand of Ragnaros",
+  "points": 0,
+  "description": "Wielder of Sulfuras, Hand of Ragnaros.",
+  "rewardItems": [],
+  "icon": "inv_hammer_unique_sulfuras",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Acquire and Equip",
+      "orderIndex": 0,
+      "max": 2
+    },
+    {
+      "id": 0,
+      "description": "Login check for appearance",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

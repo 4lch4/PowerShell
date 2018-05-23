@@ -1,0 +1,24 @@
+{
+  "id": 4614,
+  "title": "Dances with Oozes (25 player)",
+  "points": 10,
+  "description": "Defeat Rotface without a Big Ooze casting Unstable Ooze Explosion in 25-player mode.",
+  "rewardItems": [],
+  "icon": "spell_nature_acid_01",
+  "criteria": [
+    {
+      "id": 12966,
+      "description": "Rotface",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12983,
+      "description": "Rotface",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

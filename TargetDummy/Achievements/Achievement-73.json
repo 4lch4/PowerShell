@@ -1,0 +1,18 @@
+{
+  "id": 73,
+  "title": "Disgracin' The Basin",
+  "points": 10,
+  "description": "Assault 3 bases in a single Arathi Basin battle.",
+  "rewardItems": [],
+  "icon": "ability_warrior_battleshout",
+  "criteria": [
+    {
+      "id": 123,
+      "description": "Assault 3 bases in a single Arathi Basin battle",
+      "orderIndex": 1,
+      "max": 3
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

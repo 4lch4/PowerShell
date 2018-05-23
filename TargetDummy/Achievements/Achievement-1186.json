@@ -1,0 +1,24 @@
+{
+  "id": 1186,
+  "title": "Down With The Dark Iron",
+  "points": 10,
+  "description": "Defend the Brewfest camp from the Dark Iron attack and complete the quest, \"This One Time, When I Was Drunk...\"",
+  "rewardItems": [],
+  "icon": "inv_ore_mithril_01",
+  "criteria": [
+    {
+      "id": 3557,
+      "description": "Alliance",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3558,
+      "description": "Horde",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

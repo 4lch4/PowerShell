@@ -1,0 +1,18 @@
+{
+  "id": 973,
+  "title": "5 Daily Quests Completed",
+  "points": 10,
+  "description": "Complete 5 daily quests.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_daily_01",
+  "criteria": [
+    {
+      "id": 4984,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 157,
+  "title": "To The Rescue!",
+  "points": 10,
+  "description": "Come to the defense of a base in Arathi Basin 50 times by recapping the flag.",
+  "rewardItems": [],
+  "icon": "ability_warrior_victoryrush",
+  "criteria": [
+    {
+      "id": 414,
+      "description": "Defend 50 bases",
+      "orderIndex": 1,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

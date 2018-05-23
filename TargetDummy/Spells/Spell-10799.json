@@ -1,0 +1,7 @@
+{
+  "id": 10799,
+  "name": "Violet Raptor",
+  "icon": "ability_mount_raptor",
+  "description": "Summons and dismisses a rideable Violet Raptor.",
+  "castTime": "1.5 sec cast"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7318,
+  "title": "A Taste of History",
+  "points": 10,
+  "description": "Find a Guo-Lai Vault Key and open an Ancient Guo-Lai Cache.",
+  "rewardItems": [],
+  "icon": "inv_misc_key_15",
+  "criteria": [
+    {
+      "id": 20977,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9470,
+  "title": "Council of Exarchs",
+  "points": 10,
+  "description": "Earn Exalted status with the Council of Exarchs.",
+  "rewardItems": [],
+  "icon": "inv_tabard_a_81exarchs",
+  "criteria": [
+    {
+      "id": 25828,
+      "description": "Council of Exarchs",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,54 @@
+{
+  "id": 6974,
+  "title": "Pandaria Explorer",
+  "points": 25,
+  "description": "Explore the regions of Pandaria.",
+  "rewardItems": [],
+  "icon": "expansionicon_mistsofpandaria",
+  "criteria": [
+    {
+      "id": 20121,
+      "description": "Jade Forest",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20122,
+      "description": "Valley of the Four Winds",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20123,
+      "description": "Krasarang Wilds",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 20125,
+      "description": "Kun-Lai Summit",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 20126,
+      "description": "Townlong Steppes",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 20127,
+      "description": "Dread Wastes",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 20128,
+      "description": "Vale of Eternal Blossoms",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

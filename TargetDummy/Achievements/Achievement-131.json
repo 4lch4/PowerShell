@@ -1,0 +1,18 @@
+{
+  "id": 131,
+  "title": "Journeyman Medic",
+  "points": 10,
+  "description": "Obtain 150 skill points in first aid.",
+  "rewardItems": [],
+  "icon": "spell_holy_sealofsacrifice",
+  "criteria": [
+    {
+      "id": 5592,
+      "description": "Obtain 150 skill points in first aid.",
+      "orderIndex": 1,
+      "max": 150
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

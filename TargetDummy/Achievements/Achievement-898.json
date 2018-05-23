@@ -1,0 +1,18 @@
+{
+  "id": 898,
+  "title": "On Wings of Nether",
+  "points": 10,
+  "description": "Earn Exalted status with Netherwing.",
+  "rewardItems": [],
+  "icon": "ability_mount_netherdrakepurple",
+  "criteria": [
+    {
+      "id": 4755,
+      "description": "Exalted with Netherwing",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

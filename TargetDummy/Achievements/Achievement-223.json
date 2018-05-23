@@ -1,0 +1,18 @@
+{
+  "id": 223,
+  "title": "The Sickly Gazelle",
+  "points": 10,
+  "description": "In Alterac Valley, kill an enemy in the Field of Strife before they dismount.",
+  "rewardItems": [],
+  "icon": "achievement_bg_kill_on_mount",
+  "criteria": [
+    {
+      "id": 6800,
+      "description": "Kill someone in the Field of Strife before they dismount",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

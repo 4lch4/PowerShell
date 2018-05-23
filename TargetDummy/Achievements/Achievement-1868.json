@@ -1,0 +1,18 @@
+{
+  "id": 1868,
+  "title": "Make It Count",
+  "points": 10,
+  "description": "Defeat Ley-Guardian Eregos in The Oculus on Heroic Difficulty within 20 minutes of Drakos the Interrogator's death.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_nexus80_25man",
+  "criteria": [
+    {
+      "id": 7145,
+      "description": "Kill Ley-Guardian Eregos within 20 minutes of Drakos the Interrogator's death.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

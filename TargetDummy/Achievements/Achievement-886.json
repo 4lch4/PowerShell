@@ -1,0 +1,24 @@
+{
+  "id": 886,
+  "title": "Swift Nether Drake",
+  "points": 0,
+  "description": "Obtain the Swift Nether Drake from Arena Season 1 of The Burning Crusade.",
+  "rewardItems": [],
+  "icon": "ability_mount_netherdrakeelite",
+  "criteria": [
+    {
+      "id": 1867,
+      "description": "Swift Nether Drake",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6167,
+      "description": "Swift Nether Drake",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

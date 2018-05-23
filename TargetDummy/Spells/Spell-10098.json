@@ -1,0 +1,7 @@
+{
+  "id": 10098,
+  "name": "Smelt Truesilver",
+  "icon": "inv_ingot_08",
+  "description": "Allows the miner to smelt a chunk of truesilver ore into a truesilver bar.  Smelting truesilver requires a forge.",
+  "castTime": "1.5 sec cast"
+}

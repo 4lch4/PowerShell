@@ -1,0 +1,30 @@
+{
+  "id": 8986,
+  "title": "The Walled City",
+  "points": 10,
+  "description": "Defeat the bosses in the city section at the base of Highmaul.",
+  "rewardItems": [],
+  "icon": "achievement_boss_highmaul_earthenfury",
+  "criteria": [
+    {
+      "id": 25010,
+      "description": "Kargath Bladefist",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25012,
+      "description": "The Butcher",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25016,
+      "description": "Brackenspore",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

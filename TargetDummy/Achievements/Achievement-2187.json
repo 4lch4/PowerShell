@@ -1,0 +1,12 @@
+{
+  "id": 2187,
+  "title": "The Undying",
+  "points": 0,
+  "description": "Within one raid lockout period, defeat every boss in Naxxramas without allowing any raid member to die during any of the boss encounters in 10-player mode.",
+  "reward": "Title Reward: The Undying",
+  "rewardItems": [],
+  "icon": "spell_holy_sealofvengeance",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

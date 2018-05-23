@@ -1,0 +1,10 @@
+{
+  "id": 6725,
+  "name": "Flame Spike",
+  "icon": "spell_fire_selfdestruct",
+  "description": "Calls down a pillar of flame, burning all enemies in a selected area for 6,499 Fire damage and an additional 784 damage every 3 sec. for 9 sec.",
+  "range": "30 yd range",
+  "powerCost": "153 Mana",
+  "castTime": "3 sec cast",
+  "cooldown": "30 sec cooldown"
+}

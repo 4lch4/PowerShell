@@ -1,0 +1,42 @@
+{
+  "id": 905,
+  "title": "Old Man Barlowned",
+  "points": 10,
+  "description": "Complete each of Old Man Barlo's 5 fishing daily quests listed below.",
+  "rewardItems": [],
+  "icon": "achievement_profession_fishing_oldmanbarlowned",
+  "criteria": [
+    {
+      "id": 5706,
+      "description": "Crocolisks in the City",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5707,
+      "description": "Bait Bandits",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5708,
+      "description": "Felblood Fillet",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5709,
+      "description": "The One That Got Away",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 5710,
+      "description": "Shrimpin' Ain't Easy",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,9 @@
+{
+  "id": 6742,
+  "name": "Bloodlust",
+  "icon": "spell_nature_bloodlust",
+  "description": "Increases an ally's attack speed by 30% for 30 sec.",
+  "range": "30 yd range",
+  "powerCost": "10 Mana",
+  "castTime": "Instant"
+}

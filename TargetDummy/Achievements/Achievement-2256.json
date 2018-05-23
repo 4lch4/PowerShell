@@ -1,0 +1,150 @@
+{
+  "id": 2256,
+  "title": "Northern Exposure",
+  "points": 10,
+  "description": "Kill one of the extremely rare and hard to find Northrend creatures listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_stormpeaks_03",
+  "criteria": [
+    {
+      "id": 8100,
+      "description": "Loque'nahak",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 8101,
+      "description": "High Thane Jorfus",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 8102,
+      "description": "Hildana Deathstealer",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 8103,
+      "description": "Old Crystalbark",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 8104,
+      "description": "Fumblub Gearwind",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 8105,
+      "description": "Icehorn",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 8106,
+      "description": "Perobas the Bloodthirster",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 8107,
+      "description": "Vigdis the War Maiden",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 8108,
+      "description": "King Ping",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 8109,
+      "description": "Tukemuth",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 8110,
+      "description": "Crazed Indu'le Survivor",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 8111,
+      "description": "Scarlet Highlord Daion",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 8112,
+      "description": "Grocklar",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 8113,
+      "description": "Seething Hate",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 8114,
+      "description": "Syreian the Bonecarver",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 8115,
+      "description": "Zul'drak Sentinel",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 8116,
+      "description": "Griegen",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 8117,
+      "description": "Terror Spinner",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 8118,
+      "description": "Aotona",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 8119,
+      "description": "King Krush",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 8120,
+      "description": "Vyragosa",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 8121,
+      "description": "Dirkee",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 8122,
+      "description": "Putridus the Ancient",
+      "orderIndex": 23,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

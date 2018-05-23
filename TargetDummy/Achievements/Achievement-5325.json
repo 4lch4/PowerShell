@@ -1,0 +1,19 @@
+{
+  "id": 5325,
+  "title": "Veteran of the Horde",
+  "points": 10,
+  "description": "Win 75 rated battlegrounds.",
+  "reward": "Reward: Epic Wolf and Veteran of the Horde Title",
+  "rewardItems": [],
+  "icon": "inv_bannerpvp_01",
+  "criteria": [
+    {
+      "id": 15289,
+      "description": "Win 75 rated battlegrounds",
+      "orderIndex": 1,
+      "max": 75
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,19 @@
+{
+  "id": 5333,
+  "title": "Master Sergeant",
+  "points": 10,
+  "description": "Earn a rated battleground rating of 1400.",
+  "reward": "Title Reward: Master Sergeant",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_04",
+  "criteria": [
+    {
+      "id": 15300,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1400
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 6322,
+  "title": "Ruthless Gladiator's Twilight Drake",
+  "points": 0,
+  "description": "Obtain the Ruthless Gladiator's Twilight Drake from Arena Season 10 of Cataclysm.",
+  "rewardItems": [],
+  "icon": "ability_mount_drake_twilight",
+  "criteria": [
+    {
+      "id": 18874,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 18875,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

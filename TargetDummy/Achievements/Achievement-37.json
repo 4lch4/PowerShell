@@ -1,0 +1,18 @@
+{
+  "id": 37,
+  "title": "Fo' Grizzle My Shizzle",
+  "points": 10,
+  "description": "Complete 85 quests in Grizzly Hills.",
+  "rewardItems": [],
+  "icon": "achievement_zone_grizzlyhills_07",
+  "criteria": [
+    {
+      "id": 78,
+      "description": "Complete 85 quests in Grizzly Hills",
+      "orderIndex": 1,
+      "max": 85
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

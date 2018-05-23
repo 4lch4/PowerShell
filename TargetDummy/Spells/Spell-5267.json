@@ -1,0 +1,7 @@
+{
+  "id": 5267,
+  "name": "Dalaran Wizard Disguise",
+  "icon": "ability_rogue_disguise",
+  "description": "Disguise yourself as a Dalaran Wizard.",
+  "castTime": "3 sec cast"
+}

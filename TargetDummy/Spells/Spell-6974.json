@@ -1,0 +1,8 @@
+{
+  "id": 6974,
+  "name": "Gnome Camera Connection",
+  "icon": "trade_engineering",
+  "description": "Use on the Gnome Camera Terminal.",
+  "range": "5 yd range",
+  "castTime": "3 sec cast"
+}

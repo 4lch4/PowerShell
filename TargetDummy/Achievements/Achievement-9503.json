@@ -1,0 +1,18 @@
+{
+  "id": 9503,
+  "title": "Draenor Fisherman",
+  "points": 10,
+  "description": "Obtain 700 skill points in fishing.",
+  "rewardItems": [],
+  "icon": "trade_fishing",
+  "criteria": [
+    {
+      "id": 5696,
+      "description": "Obtain 700 skill points in fishing.",
+      "orderIndex": 0,
+      "max": 700
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9025,
+  "title": "Icky Ichors",
+  "points": 10,
+  "description": "Defeat Bonemaw after having fed him 25 Corpse Skitterlings in Shadowmoon Burial Grounds on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_monsterspidercarapace_01",
+  "criteria": [
+    {
+      "id": 24756,
+      "description": "Defeat Bonemaw on Heroic difficulty after having fed him 25 Corpse Skitterlings.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

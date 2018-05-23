@@ -1,0 +1,84 @@
+{
+  "id": 1183,
+  "title": "Brew of the Year",
+  "points": 10,
+  "description": "Sample 12 beers featured in the Brew of the Month club.",
+  "rewardItems": [],
+  "icon": "inv_holiday_brewfestbuff_01",
+  "criteria": [
+    {
+      "id": 3515,
+      "description": "Wild Winter Pilsner",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3516,
+      "description": "Stranglethorn Brew",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3517,
+      "description": "Springtime Stout",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3518,
+      "description": "Metok's Bubble Bock",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3519,
+      "description": "Lord of Frost's Private Label",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3520,
+      "description": "Izzard's Ever Flavor",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3521,
+      "description": "Draenic Pale Ale",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 3522,
+      "description": "Blackrock Lager",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 3523,
+      "description": "Binary Brew",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3524,
+      "description": "Bartlett's Bitter Brew",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3525,
+      "description": "Autumnal Acorn Ale",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 3526,
+      "description": "Aromatic Honey Brew",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 5226,
+  "title": "Cloud Nine",
+  "points": 10,
+  "description": "In a single Twin Peaks battle, capture and return a total of 9 flags.",
+  "rewardItems": [],
+  "icon": "achievement_cloudnine",
+  "criteria": [
+    {
+      "id": 14895,
+      "description": "Capture the flag",
+      "orderIndex": 1,
+      "max": 9
+    },
+    {
+      "id": 14896,
+      "description": "Return the flag",
+      "orderIndex": 2,
+      "max": 9
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

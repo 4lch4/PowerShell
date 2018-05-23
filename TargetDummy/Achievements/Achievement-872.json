@@ -1,0 +1,18 @@
+{
+  "id": 872,
+  "title": "Frenzied Defender",
+  "points": 10,
+  "description": "Return 5 flags in a single Warsong Gulch battle.",
+  "rewardItems": [],
+  "icon": "achievement_bg_returnxflags_def_wsg",
+  "criteria": [
+    {
+      "id": 1801,
+      "description": "Return 5 flags in a single battle",
+      "orderIndex": 1,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

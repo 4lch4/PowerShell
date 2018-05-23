@@ -1,0 +1,18 @@
+{
+  "id": 10697,
+  "title": "Grand Opening",
+  "points": 10,
+  "description": "Activate all the spotlights around the Nightwell and then defeat the Chronomatic Anomaly in The Nighthold, on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "inv_misc_tolbaradsearchlight",
+  "criteria": [
+    {
+      "id": 30629,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

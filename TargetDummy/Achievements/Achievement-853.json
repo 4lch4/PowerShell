@@ -1,0 +1,84 @@
+{
+  "id": 853,
+  "title": "Explore Felwood",
+  "points": 10,
+  "description": "Explore Felwood, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_felwood",
+  "criteria": [
+    {
+      "id": 1401,
+      "description": "Felpaw Village",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1402,
+      "description": "Talonbranch Glade",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1403,
+      "description": "Irontree Woods",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1404,
+      "description": "Jadefire Run",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1444,
+      "description": "Shatter Scar Vale",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1445,
+      "description": "Bloodvenom Falls",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1446,
+      "description": "Jaedenar",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1447,
+      "description": "Ruins of Constellas",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1448,
+      "description": "Jadefire Glen",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1449,
+      "description": "Emerald Sanctuary",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1450,
+      "description": "Deadwood Village",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1451,
+      "description": "Morlos'Aran",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

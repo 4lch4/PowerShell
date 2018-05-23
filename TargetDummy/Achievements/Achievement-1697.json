@@ -1,0 +1,36 @@
+{
+  "id": 1697,
+  "title": "Nation of Adoration",
+  "points": 10,
+  "description": "Complete the Lovely Charm Bracelet daily quest for each Alliance capital.",
+  "rewardItems": [],
+  "icon": "inv_valentinescard02",
+  "criteria": [
+    {
+      "id": 12838,
+      "description": "A Gift for the High Priestess of Elune",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12839,
+      "description": "A Gift for the Prophet",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 12840,
+      "description": "A Gift for the Lord of Ironforge",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 12841,
+      "description": "A Gift for the King of Stormwind",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

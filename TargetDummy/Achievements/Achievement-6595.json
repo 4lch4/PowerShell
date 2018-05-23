@@ -1,0 +1,18 @@
+{
+  "id": 6595,
+  "title": "Pet Brawler",
+  "points": 5,
+  "description": "Win 10 PvP pet battles.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_win10pvp",
+  "criteria": [
+    {
+      "id": 21525,
+      "description": "",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

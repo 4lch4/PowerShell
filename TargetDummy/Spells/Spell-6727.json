@@ -1,0 +1,8 @@
+{
+  "id": 6727,
+  "name": "Poison Mushroom",
+  "icon": "spell_nature_corrosivebreath",
+  "description": "Don't eat me.",
+  "range": "Melee Range",
+  "castTime": "3 sec cast"
+}

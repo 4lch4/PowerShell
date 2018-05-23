@@ -1,0 +1,25 @@
+{
+  "id": 945,
+  "title": "The Argent Champion",
+  "points": 25,
+  "description": "Earn Exalted status with the Argent Dawn and the Argent Crusade.",
+  "reward": "Title Reward: The Argent Champion",
+  "rewardItems": [],
+  "icon": "spell_holy_holyguidance",
+  "criteria": [
+    {
+      "id": 2020,
+      "description": "The Argent Dawn",
+      "orderIndex": 0,
+      "max": 42000
+    },
+    {
+      "id": 4737,
+      "description": "The Argent Crusade",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

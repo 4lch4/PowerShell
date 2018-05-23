@@ -1,0 +1,18 @@
+{
+  "id": 1151,
+  "title": "Loyal Defender",
+  "points": 10,
+  "description": "In Alterac Valley, kill 50 enemy players in the Hall of the Stormpike.",
+  "rewardItems": [],
+  "icon": "achievement_bg_killxenemies_generalsroom",
+  "criteria": [
+    {
+      "id": 3363,
+      "description": "50 honorable kills in the Hall of the Stormpike",
+      "orderIndex": 1,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

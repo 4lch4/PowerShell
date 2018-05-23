@@ -1,0 +1,18 @@
+{
+  "id": 7464,
+  "title": "Quality & Quantity",
+  "points": 10,
+  "description": "Capture 50 rare quality battle pets.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_catchrarepet_50",
+  "criteria": [
+    {
+      "id": 21238,
+      "description": "",
+      "orderIndex": 0,
+      "max": 50
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

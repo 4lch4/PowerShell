@@ -1,0 +1,357 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a Chart that displays the disk space.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVDhPtdMxaMJAGIbhGzNmzNhAhwY6VHCoY4UOFRwqOBhwkOJQxKGIQxG34CCdJJMEByEdClmEdBDSMQ6Ci5AOhXTokMHBMePXu4uXIYEWCw08S0he//yJhPzXEbzKELwZwVG/s1+rwGchsevhb4EPejOz66SBTVWF8ONE0UpFvNU4fN3BnRJgZqS8opR/pNLQhxAuFUQrDdE6CTgTgrhdTrkXmYC5iiGobYcuT0H4pnHxuw57TLBvlVK5gD4NIbDA5llBsFC5/VaHNSSIGoWUe56ZQJ9sIKhNG/5c5hEmWuswHwjCWzrRgXOWea21kQdBaZhwJzLdvMKFyxqe7gmCGzrRgZ0NVB4dCErVgDOSeIRhAaNN4F8pKfs0M0G5a0GQrwewhxKcscwFixoGTQLvkk51kAuUWgYE+bIDq094hNm8VNCrE7DNC9ZJZoJCfQBBKiZLs/oS58+TAFuckAto1Q4E9omaXUIjEscC7JxDn1s46o/128XfXoxp0q+56X4AAAAASUVORK5CYII=</Icon>
+  <Identifiers>
+    <ID id="1" name="chartDiskSpace" type="object" />
+    <ID id="2" name="chartDiskSpace_VisibleChanged" type="event" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.DataVisualization.Charting.Chart, System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" name="%ID:1%" children="Controls">
+      <Property name="BackGradientStyle">TopBottom</Property>
+      <Property name="ChartAreas">
+        <Item type="System.Windows.Forms.DataVisualization.Charting.ChartArea, System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+      </Property>
+      <Property name="Location">12, 12</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="Series">
+        <Item type="System.Windows.Forms.DataVisualization.Charting.Series, System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+      </Property>
+      <Property name="Size">259, 227</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="Text">chart1</Property>
+      <Property name="Titles">
+        <Item type="System.Windows.Forms.DataVisualization.Charting.Title, System.Windows.Forms.DataVisualization, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+      </Property>
+      <Event name="VisibleChanged">%ID:2%</Event>
+      <Serialize>
+        <Chart Size="259, 227" BackGradientStyle="TopBottom">
+          <Series>
+            <Series Name="Disk Space" Legend="Legend1" ChartType="Pie" ChartArea="ChartArea1" CustomProperties="DrawingStyle=Cylinder, PieDrawingStyle=Concave" IsVisibleInLegend="False" />
+          </Series>
+          <Titles>
+            <Title DockedToChartArea="ChartArea1" IsDockedInsideChartArea="False" Text="Disk Space" Alignment="TopCenter" Name="Title1" />
+          </Titles>
+          <ChartAreas>
+            <ChartArea Name="ChartArea1">
+              <AxisY Title="Disk Space (MB)" />
+              <AxisX Title="Disk" />
+              <Area3DStyle Enable3D="True" />
+            </ChartArea>
+          </ChartAreas>
+        </Chart>
+      </Serialize>
+    </Object>
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%={
+	if($this.Visible)
+	{
+		Update-DiskChart $this
+	}
+}]]></Event>
+  </Events>
+  <Functions>
+    <Function name="Update-DiskChart"><![CDATA[#Call Update-DiskChart function to load the chart
+function Update-DiskChart
+{
+	Param ( [Parameter(Position=1,Mandatory=$true)]
+			[System.Windows.Forms.DataVisualization.Charting.Chart]$Chart)
+	#Get Disk space using WMI and make sure it is an array
+	$Disks = @(Get-WMIObject Win32_LogicalDisk -filter "DriveType=3" )
+		
+	#Remove all the current charts
+	Clear-Chart $Chart 
+	
+	#Loop through each drive
+	foreach($disk in $Disks)
+	{	
+		$UsedSpace =(($disk.size - $disk.freespace)/1gb)
+		$FreeSpace = ($disk.freespace/1gb)
+
+		#Load a Chart for each Drive
+		Update-Chart $Chart -XPoints ("Used ({0:N1} GB)" -f $UsedSpace), ("Free Space ({0:N1} GB)" -f $FreeSpace) -YPoints $UsedSpace, $FreeSpace -ChartType "Pie" -Title ("Volume: {0} ({1:N1} GB)" -f $disk.VolumeName, ($disk.size/1gb) ) -Append	
+	}
+	
+	#Set Custom Style
+	foreach ($Series in $%ID:1%.Series)
+	{
+		$Series.CustomProperties = "PieDrawingStyle=Concave"
+	}
+}]]></Function>
+    <Function name="Clear-Chart"><![CDATA[function Clear-Chart
+{
+<#
+	.SYNOPSIS
+		This function clears the contents of the chart
+
+	.DESCRIPTION
+		Use the function to remove contents from the chart control
+
+	.PARAMETER  ChartControl
+		The Chart Control to clear
+
+	.PARAMETER  LeaveSingleChart
+		Leaves the first chart and removes all others from the control
+	
+	.LINK
+		http://www.sapien.com/blog/2011/05/05/primalforms-2011-designing-charts-for-powershell/
+#>
+	Param (		
+	[Parameter(Position=1,Mandatory=$true)]
+  	[System.Windows.Forms.DataVisualization.Charting.Chart]$ChartControl
+	,
+	[Parameter(Position=2, Mandatory=$false)]
+	[Switch]$LeaveSingleChart
+	)
+	
+	$count = 0	
+	if($LeaveSingleChart)
+	{
+		$count = 1
+	}
+	
+	while($ChartControl.Series.Count -gt $count)
+	{
+		$ChartControl.Series.RemoveAt($ChartControl.Series.Count - 1)
+	}
+	
+	while($ChartControl.ChartAreas.Count -gt $count)
+	{
+		$ChartControl.ChartAreas.RemoveAt($ChartControl.ChartAreas.Count - 1)
+	}
+	
+	while($ChartControl.Titles.Count -gt $count)
+	{
+		$ChartControl.Titles.RemoveAt($ChartControl.Titles.Count - 1)
+	}
+	
+	if($ChartControl.Series.Count -gt 0)
+	{
+		$ChartControl.Series[0].Points.Clear()
+	}
+}]]></Function>
+    <Function name="Update-Chart">
+      <![CDATA[function Update-Chart
+{
+<#
+	.SYNOPSIS
+		This functions helps you plot point on a chart
+
+	.DESCRIPTION
+		Use the function to plot points on a chart or add more charts to a chart control
+
+	.PARAMETER  ChartControl
+		The Chart Control you when to add points to
+
+	.PARAMETER  XPoints
+		Set the X Axis Points. These can be strings or numerical values.
+
+	.PARAMETER  YPoints
+		Set the Y Axis Points. These can be strings or numerical values.
+	
+	.PARAMETER  XTitle
+		Set the Title for the X Axis.
+
+	.PARAMETER  YTitle
+		Set the Title for the Y Axis.
+	
+	.PARAMETER  Title
+		Set the Title for the chart.
+	
+	.PARAMETER  ChartType
+		Set the Style of the chart. See System.Windows.Forms.DataVisualization.Charting.SeriesChartType Enum
+
+	.PARAMETER SeriesIndex
+		Set the settings of a particular Series and corresponding ChartArea
+
+	.PARAMETER TitleIndex
+		Set the settings of a particular Title
+	
+	.PARAMETER SeriesName
+		Set the settings of a particular Series using its name and corresponding ChartArea. 
+		The Series will be created if not found.
+		If SeriesIndex is set, it will replace the Series' name if the Series does not exist
+	
+	.PARAMETER Enable3D
+		The chart will be rendered in 3D.
+	
+	.PARAMETER Disable3D
+		The chart will be rendered in 2D.	
+	
+	.PARAMETER Append
+		When this switch is used, a new ChartArea is added to Chart Control.
+
+	.LINK
+		http://www.sapien.com/blog/2011/05/05/primalforms-2011-designing-charts-for-powershell/
+	
+#>
+	Param( #$XPoints, $YPoints, $XTitle, $YTitle, $Title, $ChartStyle)
+	 	[ValidateNotNull()]
+		[Parameter(Position=1,Mandatory=$true)]
+  		[System.Windows.Forms.DataVisualization.Charting.Chart]$ChartControl
+		,
+		[ValidateNotNull()]
+		[Parameter(Position=2,Mandatory=$true)]
+  		$XPoints
+		,
+		[Parameter(Position=3,Mandatory=$true)]
+  		$YPoints
+		,
+		[Parameter(Position=4,Mandatory=$false)]
+  		[string]$XTitle
+		,
+		[Parameter(Position=5,Mandatory=$false)]
+  		[string]$YTitle
+		,
+		[Parameter(Position=6,Mandatory=$false)]
+  		[string]$Title
+		,
+		[Parameter(Position=7,Mandatory=$false)]
+  		[System.Windows.Forms.DataVisualization.Charting.SeriesChartType]$ChartType
+		,
+		[Parameter(Position=8,Mandatory=$false)]
+  		$SeriesIndex = -1
+		,
+		[Parameter(Position=9,Mandatory=$false)]
+  		$TitleIndex = 0,
+		[Parameter(Mandatory=$false)]
+  		[string]$SeriesName = $null,
+		[switch]$Enable3D,
+		[switch]$Disable3D,
+		[switch]$Append)
+
+	$ChartAreaIndex = 0
+	if($Append)
+	{
+		$name = "ChartArea " + ($ChartControl.ChartAreas.Count + 1).ToString();
+		$ChartArea = $ChartControl.ChartAreas.Add($name)
+		$ChartAreaIndex = $ChartControl.ChartAreas.Count - 1
+		
+		$name = "Series " + ($ChartControl.Series.Count + 1).ToString();
+		$Series = $ChartControl.Series.Add($name) 
+		$SeriesIndex = $ChartControl.Series.Count - 1
+
+		$Series.ChartArea = $ChartArea.Name
+		
+		if($Title)
+		{
+			$name = "Title " + ($ChartControl.Titles.Count + 1).ToString();
+			$TitleObj = $ChartControl.Titles.Add($Title)
+			$TitleIndex = $ChartControl.Titles.Count - 1	
+			$TitleObj.DockedToChartArea = $ChartArea.Name
+			$TitleObj.IsDockedInsideChartArea = $false
+		}
+	}
+	else
+	{
+		if($ChartControl.ChartAreas.Count -eq  0)
+		{
+			$name = "ChartArea " + ($ChartControl.ChartAreas.Count + 1).ToString();
+			[void]$ChartControl.ChartAreas.Add($name)
+			$ChartAreaIndex = $ChartControl.ChartAreas.Count - 1
+		}	
+		
+		if($ChartControl.Series.Count -eq 0)
+		{
+			if(-not $SeriesName)
+			{
+				$SeriesName = "Series " + ($ChartControl.Series.Count + 1).ToString();
+			}
+			
+			$Series = $ChartControl.Series.Add($SeriesName) 
+			$SeriesIndex = $ChartControl.Series.Count - 1
+			$Series.ChartArea = $ChartControl.ChartAreas[$ChartAreaIndex].Name
+		}
+		elseif($SeriesName)
+		{
+			$Series = $ChartControl.Series.FindByName($SeriesName)
+				
+			if($null -eq $Series)
+			{
+				if(($SeriesIndex -gt -1) -and ($SeriesIndex -lt $ChartControl.Series.Count))
+				{
+					$Series = $ChartControl.Series[$SeriesIndex]
+					$Series.Name = $SeriesName
+				}
+				else
+				{
+					$Series = $ChartControl.Series.Add($SeriesName)
+					$SeriesIndex = $ChartControl.Series.Count - 1
+				}
+				
+				$Series.ChartArea = $ChartControl.ChartAreas[$ChartAreaIndex].Name
+			}
+			else
+			{
+				$SeriesIndex = $ChartControl.Series.IndexOf($Series)
+				$ChartAreaIndex = $ChartControl.ChartAreas.IndexOf($Series.ChartArea)
+			}		
+		}
+	}
+	
+	if(($SeriesIndex -lt 0) -or ($SeriesIndex -ge $ChartControl.Series.Count))
+	{
+		$SeriesIndex = 0
+	}
+	
+	$Series = $ChartControl.Series[$SeriesIndex]
+	$Series.Points.Clear()
+	$ChartArea = $ChartControl.ChartAreas[$Series.ChartArea]
+	
+	if($Enable3D)
+	{
+		$ChartArea.Area3DStyle.Enable3D = $true
+	}
+	elseif($Disable3D)
+	{
+		$ChartArea.Area3DStyle.Enable3D = $false
+	}
+	
+	if($Title)
+	{
+		if($ChartControl.Titles.Count -eq 0)
+		{
+			#$name = "Title " + ($ChartControl.Titles.Count + 1).ToString();
+			$TitleObj = $ChartControl.Titles.Add($Title)
+			$TitleIndex = $ChartControl.Titles.Count - 1
+			$TitleObj.DockedToChartArea = $ChartArea.Name
+			$TitleObj.IsDockedInsideChartArea = $false
+		}
+		
+		$ChartControl.Titles[$TitleIndex].Text = $Title
+	}
+	
+	if($ChartType)
+	{
+		$Series.ChartType = $ChartType
+	}
+	
+	if($XTitle)
+	{
+		$ChartArea.AxisX.Title = $XTitle
+	}
+	
+	if($YTitle)
+	{
+		$ChartArea.AxisY.Title = $YTitle
+	}
+	
+	if($XPoints -isnot [Array] -or $XPoints -isnot [System.Collections.IEnumerable])
+	{
+		$array = New-Object System.Collections.ArrayList
+		$array.Add($XPoints)
+		$XPoints = $array
+	}
+	
+	if($YPoints -isnot [Array] -or $YPoints -isnot [System.Collections.IEnumerable])
+	{
+		$array = New-Object System.Collections.ArrayList
+		$array.Add($YPoints)
+		$YPoints = $array
+	}
+	
+	$Series.Points.DataBindXY($XPoints, $YPoints)
+
+}]]></Function>
+  </Functions>
+</ControlTemplate>

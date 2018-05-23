@@ -1,0 +1,18 @@
+{
+  "id": 9044,
+  "title": "The Everbloom",
+  "points": 10,
+  "description": "Defeat Yalnu in The Everbloom.",
+  "rewardItems": [],
+  "icon": "inv_enchant_shaperessence",
+  "criteria": [
+    {
+      "id": 25276,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

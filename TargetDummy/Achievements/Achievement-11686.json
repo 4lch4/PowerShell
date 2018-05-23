@@ -1,0 +1,18 @@
+{
+  "id": 11686,
+  "title": "These Go To Eleven",
+  "points": 10,
+  "description": "Reach Prestige Level 11.",
+  "rewardItems": [],
+  "icon": "achievement_legionpvp3tier3",
+  "criteria": [
+    {
+      "id": 36184,
+      "description": "Reach Prestige Level 11.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

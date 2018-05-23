@@ -1,0 +1,18 @@
+{
+  "id": 8984,
+  "title": "Be Quick or Be Dead",
+  "points": 10,
+  "description": "Defeat the Iron Maidens within 10 seconds of each other in Blackrock Foundry on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "rogue_burstofspeed",
+  "criteria": [
+    {
+      "id": 25165,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

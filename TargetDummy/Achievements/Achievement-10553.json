@@ -1,0 +1,18 @@
+{
+  "id": 10553,
+  "title": "You're Just Making It WORSE!",
+  "points": 10,
+  "description": "Defeat Millificent Manastorm after she becomes very cross with you in Assault on Violet Hold on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "spell_misc_emotionafraid",
+  "criteria": [
+    {
+      "id": 29700,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

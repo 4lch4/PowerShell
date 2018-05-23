@@ -1,0 +1,9 @@
+{
+  "id": 11431,
+  "name": "Healing Touch",
+  "icon": "spell_nature_healingtouch",
+  "description": "Calls upon Nature magic to heal an ally.",
+  "range": "40 yd range",
+  "powerCost": "180 Mana",
+  "castTime": "3 sec cast"
+}

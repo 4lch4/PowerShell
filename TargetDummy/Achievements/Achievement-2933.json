@@ -1,0 +1,18 @@
+{
+  "id": 2933,
+  "title": "Nerf Scrapbots (10 player)",
+  "points": 10,
+  "description": "Defeat 20 XS-013 Scrapbots within 12 seconds using XE-321 Boombots in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_bomb_01",
+  "criteria": [
+    {
+      "id": 10401,
+      "description": "Kill 20 XS-013 Scrapbots with an XE-321 Boombot",
+      "orderIndex": 1,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

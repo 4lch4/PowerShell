@@ -1,0 +1,18 @@
+{
+  "id": 5313,
+  "title": "I Can't Hear You Over the Sound of How Awesome I Am",
+  "points": 0,
+  "description": "Defeat Sinestra in the Bastion of Twilight on Heroic Difficulty on the first attempt without letting any raid members die.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_bastionoftwilight_ladysinestra",
+  "criteria": [
+    {
+      "id": 15472,
+      "description": "Sinestra",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

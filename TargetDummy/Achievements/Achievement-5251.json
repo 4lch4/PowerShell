@@ -1,0 +1,18 @@
+{
+  "id": 5251,
+  "title": "Not Your Average PUG'er",
+  "points": 10,
+  "description": "Come to the defense of a base in the Battle for Gilneas 10 times by recapping the flag.",
+  "rewardItems": [],
+  "icon": "ability_warrior_victoryrush",
+  "criteria": [
+    {
+      "id": 14932,
+      "description": "Defend 10 bases",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

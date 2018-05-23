@@ -1,0 +1,18 @@
+{
+  "id": 9493,
+  "title": "They Burn, Burn, Burn",
+  "points": 10,
+  "description": "Successfully jump over 5 of Archmage Sol's Firebloom explosion rings within 5 seconds in The Everbloom on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_ring_65",
+  "criteria": [
+    {
+      "id": 25879,
+      "description": "Jump over 5 Firebloom explosions within 5 seconds.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

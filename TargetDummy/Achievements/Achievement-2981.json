@@ -1,0 +1,18 @@
+{
+  "id": 2981,
+  "title": "Con-speed-atory (25 player)",
+  "points": 10,
+  "description": "Defeat Freya within 20 minutes of the first creature you kill in the Conservatory of Life in 25-player mode.",
+  "rewardItems": [],
+  "icon": "ability_druid_flourish",
+  "criteria": [
+    {
+      "id": 10882,
+      "description": "Freya",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

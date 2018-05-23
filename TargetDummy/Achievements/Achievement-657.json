@@ -1,0 +1,48 @@
+{
+  "id": 657,
+  "title": "The Shattered Halls",
+  "points": 10,
+  "description": "Defeat Warchief Kargath Bladefist.",
+  "rewardItems": [],
+  "icon": "achievement_boss_kargathbladefist_01",
+  "criteria": [
+    {
+      "id": 3249,
+      "description": "Warchief Kargath Bladefist",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4475,
+      "description": "Turning the Tide ",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4476,
+      "description": "The Will of the Warchief",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4487,
+      "description": "Imprisoned in the Citadel",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4488,
+      "description": "Imprisoned in the Citadel",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4489,
+      "description": "Trial of the Naaru: Mercy",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

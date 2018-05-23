@@ -1,0 +1,283 @@
+{
+  "id": 11761,
+  "title": "Azeroth's Next Top Model",
+  "points": 20,
+  "description": "Unlock a class armor set from 10 different raid tiers or PvP seasons.",
+  "reward": "Title Reward: Stylist",
+  "rewardItems": [],
+  "icon": "achievement_transmog_collections",
+  "criteria": [
+    {
+      "id": 36380,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 36381,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 36382,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 36383,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 36384,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 36385,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 36386,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 36387,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 36388,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 36389,
+      "description": "",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 36390,
+      "description": "",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 36391,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 36392,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 36393,
+      "description": "",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 36394,
+      "description": "",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 36395,
+      "description": "",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 36396,
+      "description": "",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 36397,
+      "description": "",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 36398,
+      "description": "",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 36399,
+      "description": "",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 36400,
+      "description": "",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 36401,
+      "description": "",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 36402,
+      "description": "",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 36403,
+      "description": "",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 36404,
+      "description": "",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 36405,
+      "description": "",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 36406,
+      "description": "",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 36407,
+      "description": "",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 36408,
+      "description": "",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 36409,
+      "description": "",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 36410,
+      "description": "",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 36411,
+      "description": "",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 36412,
+      "description": "",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 36413,
+      "description": "",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 36414,
+      "description": "",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 36415,
+      "description": "",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 36416,
+      "description": "",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 36417,
+      "description": "",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 36418,
+      "description": "",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 36419,
+      "description": "",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 36420,
+      "description": "",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 36421,
+      "description": "",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 36422,
+      "description": "",
+      "orderIndex": 42,
+      "max": 1
+    },
+    {
+      "id": 37666,
+      "description": "",
+      "orderIndex": 43,
+      "max": 1
+    },
+    {
+      "id": 37667,
+      "description": "",
+      "orderIndex": 44,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,11 @@
+{
+  "id": 8697,
+  "title": "You're Doing it Wrong (Level 90)",
+  "points": 0,
+  "description": "Successfully complete any of the Basic (Silver) trials at the Proving Grounds, while in a specialization not suited for it.",
+  "rewardItems": [],
+  "icon": "ability_warrior_throwdown",
+  "criteria": [],
+  "accountWide": true,
+  "factionId": 2
+}

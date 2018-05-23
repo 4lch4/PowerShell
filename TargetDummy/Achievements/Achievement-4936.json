@@ -1,0 +1,18 @@
+{
+  "id": 4936,
+  "title": "Stonetalon Mountains Quests",
+  "points": 10,
+  "description": "Complete 55 quests in Stonetalon Mountains.",
+  "rewardItems": [],
+  "icon": "achievement_zone_stonetalon_01",
+  "criteria": [
+    {
+      "id": 13845,
+      "description": "Stonetalon Mountains",
+      "orderIndex": 1,
+      "max": 55
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

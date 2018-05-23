@@ -1,0 +1,19 @@
+{
+  "id": 9520,
+  "title": "Nemesis: Huojin's Fall",
+  "points": 5,
+  "description": "Complete the quest Nemesis: Huojin's Fall at the Gladiator's Sanctum.",
+  "reward": "Title Reward: Huojin's Fall",
+  "rewardItems": [],
+  "icon": "achievement_character_pandaren_female",
+  "criteria": [
+    {
+      "id": 25970,
+      "description": "Nemesis: Huojin's Fall",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

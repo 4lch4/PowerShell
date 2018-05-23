@@ -1,0 +1,8 @@
+{
+  "id": 4900,
+  "name": "Gun Mastery",
+  "subtext": "Rank 1",
+  "icon": "ability_golemstormbolt",
+  "description": "Increases your attack with Guns by 3.",
+  "castTime": "Passive"
+}

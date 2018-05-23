@@ -1,0 +1,7 @@
+{
+  "id": 7039,
+  "name": "Forsaken Ability: Armor",
+  "icon": "inv_shield_04",
+  "description": "A curse is placed upon the enemy target, reducing the armor of the enemy by 20% for 10 sec.",
+  "castTime": "Instant"
+}

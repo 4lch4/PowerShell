@@ -1,0 +1,24 @@
+{
+  "id": 2081,
+  "title": "Grand Black War Mammoth",
+  "points": 0,
+  "description": "Obtain a Grand Black War Mammoth.",
+  "rewardItems": [],
+  "icon": "ability_mount_mammoth_black",
+  "criteria": [
+    {
+      "id": 7391,
+      "description": "Grand Black War Mammoth",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7392,
+      "description": "Grand Black War Mammoth",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

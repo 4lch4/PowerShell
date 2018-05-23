@@ -1,0 +1,18 @@
+{
+  "id": 2931,
+  "title": "Nerf Engineering (10 player)",
+  "points": 10,
+  "description": "Defeat XT-002 Deconstructor without him recovering any health from XS-013 in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_enggizmos_14",
+  "criteria": [
+    {
+      "id": 10074,
+      "description": "Flame Leviathan",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

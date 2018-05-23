@@ -1,0 +1,38 @@
+{
+  "id": 7521,
+  "title": "Time to Open a Pet Store",
+  "points": 10,
+  "description": "Earn 400 pet battle achievement points.",
+  "reward": "Reward: Jade Tentacle",
+  "rewardItems": [
+    {
+      "id": 89686,
+      "name": "Jade Tentacle",
+      "icon": "achievement_boss_yoggsaron_01",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_pet_achievement_earn335achieve",
+  "criteria": [
+    {
+      "id": 21256,
+      "description": "",
+      "orderIndex": 0,
+      "max": 400
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

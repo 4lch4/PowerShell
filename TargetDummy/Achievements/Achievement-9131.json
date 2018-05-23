@@ -1,0 +1,24 @@
+{
+  "id": 9131,
+  "title": "An Epic Buddy",
+  "points": 5,
+  "description": "Recruit an Epic follower.",
+  "rewardItems": [],
+  "icon": "achievement_garrisonfollower_epic",
+  "criteria": [
+    {
+      "id": 28099,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27430,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

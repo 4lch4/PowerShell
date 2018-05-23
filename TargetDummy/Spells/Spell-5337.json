@@ -1,0 +1,8 @@
+{
+  "id": 5337,
+  "name": "Wither Strike",
+  "icon": "spell_nature_magicimmunity",
+  "description": "Target's health reduced by 10% for 8 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

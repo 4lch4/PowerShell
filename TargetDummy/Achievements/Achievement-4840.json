@@ -1,0 +1,18 @@
+{
+  "id": 4840,
+  "title": "Grim Batol",
+  "points": 10,
+  "description": "Defeat Erudax in Grim Batol.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_grimbatol",
+  "criteria": [
+    {
+      "id": 13529,
+      "description": "Erudax",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

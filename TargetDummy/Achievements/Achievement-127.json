@@ -1,0 +1,18 @@
+{
+  "id": 127,
+  "title": "Expert Fisherman",
+  "points": 10,
+  "description": "Obtain 225 skill points in fishing.",
+  "rewardItems": [],
+  "icon": "trade_fishing",
+  "criteria": [
+    {
+      "id": 5696,
+      "description": "Obtain 225 skill points in fishing.",
+      "orderIndex": 1,
+      "max": 225
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

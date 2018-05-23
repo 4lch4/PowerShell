@@ -1,0 +1,18 @@
+{
+  "id": 2149,
+  "title": "Denyin' the Scion (25 player)",
+  "points": 10,
+  "description": "Deliver a killing blow to a Scion of Eternity while riding on a hover disk in 25-player mode.",
+  "rewardItems": [],
+  "icon": "inv_elemental_mote_shadow01",
+  "criteria": [
+    {
+      "id": 7574,
+      "description": "Deliver a killing blow to a Scion of Eternity while riding on a hover disk",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

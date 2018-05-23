@@ -1,0 +1,18 @@
+{
+  "id": 6729,
+  "title": "Heroic: Amber-Shaper Un'sok",
+  "points": 10,
+  "description": "Defeat Amber-Shaper Un'sok in Heart of Fear on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_raid_mantidraid06",
+  "criteria": [
+    {
+      "id": 19645,
+      "description": "Amber-Shaper Un'sok",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

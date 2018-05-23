@@ -1,0 +1,12 @@
+{
+  "id": 11052,
+  "title": "Guardian of the Alliance: Legion Season 4",
+  "points": 0,
+  "description": "End Legion PvP season 4 in the top 3% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 4).",
+  "reward": "Title Reward: Guardian of the Alliance",
+  "rewardItems": [],
+  "icon": "achievement_pvp_p_a",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 0
+}

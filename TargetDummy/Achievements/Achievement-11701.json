@@ -1,0 +1,18 @@
+{
+  "id": 11701,
+  "title": "Heroic: Cathedral of Eternal Night",
+  "points": 10,
+  "description": "Defeat Mephistroth in Cathedral of Eternal Night on Heroic difficulty or higher.",
+  "rewardItems": [],
+  "icon": "spell_shadow_demonicfortitude",
+  "criteria": [
+    {
+      "id": 36215,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

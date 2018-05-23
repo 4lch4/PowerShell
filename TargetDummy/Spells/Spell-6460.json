@@ -1,0 +1,9 @@
+{
+  "id": 6460,
+  "name": "Lockpicking",
+  "subtext": "Expert",
+  "icon": "spell_nature_moonkey",
+  "description": "",
+  "range": "100 yd range",
+  "castTime": "Instant"
+}

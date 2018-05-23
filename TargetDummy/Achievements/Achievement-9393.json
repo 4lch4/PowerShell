@@ -1,0 +1,18 @@
+{
+  "id": 9393,
+  "title": "Beacon of Love",
+  "points": 10,
+  "description": "Have 25 Love Rays active on you simultaneously.",
+  "rewardItems": [],
+  "icon": "inv_staff_52",
+  "criteria": [
+    {
+      "id": 25540,
+      "description": "Have 25 Love Rays cast on you",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

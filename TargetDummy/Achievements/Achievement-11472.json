@@ -1,0 +1,18 @@
+{
+  "id": 11472,
+  "title": "Hell, It's About Nine",
+  "points": 10,
+  "description": "Reach Prestige Level 9.",
+  "rewardItems": [],
+  "icon": "achievement_legionpvp2tier5",
+  "criteria": [
+    {
+      "id": 35027,
+      "description": "Reach Prestige Level 9.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

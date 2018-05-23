@@ -1,0 +1,66 @@
+{
+  "id": 8531,
+  "title": "Now We are the Paragon",
+  "points": 10,
+  "description": "Defeat the Paragons after assuming the mantle of three different Paragons in Siege of Orgrimmar on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "achievement_boss_klaxxi_paragons",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Become the Wind-Reaver",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Become the Bloodseeker",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Become the Prime",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Become the Swarmkeeper",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Become the Dissector",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Become the Manipulator",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Become the Lucid",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Become the Poisoned Mind",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Become the Locust",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

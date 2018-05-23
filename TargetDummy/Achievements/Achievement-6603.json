@@ -1,0 +1,85 @@
+{
+  "id": 6603,
+  "title": "Taming Eastern Kingdoms",
+  "points": 5,
+  "description": "Defeat all of the Pet Tamers in Eastern Kingdoms listed below.",
+  "reward": "Quest Reward: Eastern Kingdoms Pet Battle Daily Quests",
+  "rewardItems": [],
+  "icon": "achievement_zone_easternkingdoms_01",
+  "criteria": [
+    {
+      "id": 21396,
+      "description": "Julia Stevens",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21397,
+      "description": "Old MacDonald",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21398,
+      "description": "Lindsay",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21399,
+      "description": "Eric Davidson",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 21400,
+      "description": "Steven Lisbane",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21401,
+      "description": "Bill Buckler",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 21598,
+      "description": "David Kosse",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21599,
+      "description": "Deiza Plaguehorn",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21600,
+      "description": "Kortas Darkhammer",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 21603,
+      "description": "Durin Darkhammer",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 21601,
+      "description": "Everessa",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 21602,
+      "description": "Lydia Accoste",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 0
+}

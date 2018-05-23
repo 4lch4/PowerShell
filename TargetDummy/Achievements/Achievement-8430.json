@@ -1,0 +1,24 @@
+{
+  "id": 8430,
+  "title": "Challenge Master: Temple of the Jade Serpent",
+  "points": 0,
+  "description": "Attain a realm-best time for the Temple of the Jade Serpent Challenge Mode.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_templeofthejadeserpent_platinum",
+  "criteria": [
+    {
+      "id": 23645,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23630,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

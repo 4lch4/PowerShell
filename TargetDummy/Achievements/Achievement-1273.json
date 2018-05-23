@@ -1,0 +1,18 @@
+{
+  "id": 1273,
+  "title": "Nagrand Slam",
+  "points": 10,
+  "description": "Complete 85 quests in Nagrand.",
+  "rewardItems": [],
+  "icon": "achievement_zone_nagrand_01",
+  "criteria": [
+    {
+      "id": 3586,
+      "description": "85 Nagrand quests",
+      "orderIndex": 1,
+      "max": 85
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

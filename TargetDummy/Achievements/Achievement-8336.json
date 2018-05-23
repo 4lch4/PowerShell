@@ -1,0 +1,18 @@
+{
+  "id": 8336,
+  "title": "I've Got the Biggest Brawls of Them All (Season 1)",
+  "points": 0,
+  "description": "Reach Rank 10 with Bizmo's Brawlpub during the Pandaria campaign.",
+  "rewardItems": [],
+  "icon": "pandarenracial_quiveringpain",
+  "criteria": [
+    {
+      "id": 22550,
+      "description": "Reach Rank 10 with Bizmo's Brawlpub.",
+      "orderIndex": 0,
+      "max": 9000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,10 @@
+<Template version="1.0" type="Project" tags="Form, PowerShell">
+	<Description>Creates a single form project. Used to create a script application.</Description>
+	<image/>
+	<Files>
+		<File>Startup.pss</File>
+		<File create="true">MainForm.psf</File>
+		<File>Globals.ps1</File>
+		<File rename="true">Form Project.psprojs</File>
+	</Files>
+</Template>

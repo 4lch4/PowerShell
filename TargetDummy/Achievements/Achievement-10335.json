@@ -1,0 +1,18 @@
+{
+  "id": 10335,
+  "title": "Did Someone Say...?",
+  "points": 0,
+  "description": "Wielded Inflatable Thunderfury, Blessed Blade of the Windseeker.",
+  "rewardItems": [],
+  "icon": "inv_sword_39",
+  "criteria": [
+    {
+      "id": 28904,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

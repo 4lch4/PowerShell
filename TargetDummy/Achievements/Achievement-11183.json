@@ -1,0 +1,18 @@
+{
+  "id": 11183,
+  "title": "Keystone Initiate",
+  "points": 10,
+  "description": "Complete a Level 2 or higher Mythic dungeon within the time limit.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_bronze",
+  "criteria": [
+    {
+      "id": 33096,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

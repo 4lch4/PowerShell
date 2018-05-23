@@ -1,0 +1,18 @@
+{
+  "id": 610,
+  "title": "Orgrimmar Offensive",
+  "points": 10,
+  "description": "Damage High Overlord Saurfang until he humors you by pretending to die.",
+  "rewardItems": [],
+  "icon": "ability_warrior_cleave",
+  "criteria": [
+    {
+      "id": 30612,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

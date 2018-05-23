@@ -1,0 +1,18 @@
+{
+  "id": 473,
+  "title": "Marshal",
+  "points": 0,
+  "description": "Earned the title, \"Marshal\" at level 60.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_12",
+  "criteria": [
+    {
+      "id": 729,
+      "description": "Marshal",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

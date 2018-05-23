@@ -1,0 +1,18 @@
+{
+  "id": 449,
+  "title": "Blood Guard",
+  "points": 0,
+  "description": "Earned the title, \"Blood Guard\" at level 60.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_07",
+  "criteria": [
+    {
+      "id": 714,
+      "description": "Blood Guard",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

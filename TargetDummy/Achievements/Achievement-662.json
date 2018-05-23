@@ -1,0 +1,30 @@
+{
+  "id": 662,
+  "title": "Collector's Edition: Mini-Diablo",
+  "points": 0,
+  "description": "Owner of the World of Warcraft Collector's Edition Mini-Diablo pet.",
+  "rewardItems": [],
+  "icon": "inv_diablostone",
+  "criteria": [
+    {
+      "id": 569,
+      "description": "Diablo Stone",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 6152,
+      "description": "Mini Diablo",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 34630,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

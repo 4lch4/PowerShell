@@ -1,0 +1,18 @@
+{
+  "id": 645,
+  "title": "Scholomance",
+  "points": 10,
+  "description": "Defeat Darkmaster Gandling.",
+  "rewardItems": [],
+  "icon": "spell_holy_senseundead",
+  "criteria": [
+    {
+      "id": 19263,
+      "description": "Darkmaster Gandling",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

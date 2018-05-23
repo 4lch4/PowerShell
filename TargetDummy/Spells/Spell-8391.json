@@ -1,0 +1,8 @@
+{
+  "id": 8391,
+  "name": "Ravage",
+  "icon": "ability_ghoulfrenzy",
+  "description": "Inflicts normal damage plus 44 to an enemy, stunning it for 3 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

@@ -1,0 +1,7 @@
+{
+  "id": 7486,
+  "name": "Butcher Drain",
+  "icon": "spell_shadow_siphonmana",
+  "description": "Drains 24 health from the target on every melee hit that does damage.",
+  "castTime": "Passive"
+}

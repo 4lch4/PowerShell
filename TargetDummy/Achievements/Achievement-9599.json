@@ -1,0 +1,38 @@
+{
+  "id": 9599,
+  "title": "Mountacular",
+  "points": 10,
+  "description": "Obtain 250 mounts (usable by a single character).",
+  "reward": "Reward: Felfire Hawk",
+  "rewardItems": [
+    {
+      "id": 69226,
+      "name": "Felfire Hawk",
+      "icon": "inv_misc_summerfest_braziergreen",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "ability_mount_fireravengodmountgreen",
+  "criteria": [
+    {
+      "id": 4787,
+      "description": "Obtain 250 mounts",
+      "orderIndex": 0,
+      "max": 250
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

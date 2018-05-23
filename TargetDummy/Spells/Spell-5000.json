@@ -1,0 +1,8 @@
+{
+  "id": 5000,
+  "name": "[PH] Teleport to Undercity",
+  "icon": "trade_engineering",
+  "description": "Sends player to Undercity",
+  "range": "20 yd range",
+  "castTime": "2 sec cast"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2041,
+  "title": "Dehydration",
+  "points": 10,
+  "description": "Defeat Ichoron in the Violet Hold on Heroic Difficulty without allowing any Ichor Globules to merge.",
+  "rewardItems": [],
+  "icon": "spell_frost_summonwaterelemental_2",
+  "criteria": [
+    {
+      "id": 7320,
+      "description": "Ichoron",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8720,
+  "title": "Kilnmaster",
+  "points": 10,
+  "description": "Obtain 1000 Bloody Coins as an Emissary of Ordos or Ordon Fire-Watcher.",
+  "rewardItems": [],
+  "icon": "timelesscoin-bloody",
+  "criteria": [
+    {
+      "id": 23999,
+      "description": "Bloody Coins",
+      "orderIndex": 0,
+      "max": 1000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

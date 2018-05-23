@@ -1,0 +1,192 @@
+{
+  "id": 695,
+  "title": "The Battle for Mount Hyjal",
+  "points": 10,
+  "description": "Defeat Archimonde in The Battle for Mount Hyjal.",
+  "rewardItems": [],
+  "icon": "achievement_boss_archimonde",
+  "criteria": [
+    {
+      "id": 18537,
+      "description": "Archimonde",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4618,
+      "description": "Antonidas's Aegis of Rapt Concentration",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4619,
+      "description": "Apostle of Argus",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4620,
+      "description": "Bristleblitz Striker",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4621,
+      "description": "Cataclysm's Edge",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4622,
+      "description": "Leggings of Eternity",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4623,
+      "description": "Legguards of Endless Rage",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4624,
+      "description": "Mail of Fevered Pursuit",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4625,
+      "description": "Midnight Chestguard",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4626,
+      "description": "Robes of Rhonin",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4627,
+      "description": "Savior's Grasp",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4628,
+      "description": "Scepter of Purification",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4629,
+      "description": "Tempest of Chaos",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4630,
+      "description": "Cowl of Absolution",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4631,
+      "description": "Hood of Absolution",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4632,
+      "description": "Hood of the Malefic",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4633,
+      "description": "Lightbringer Faceguard",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4634,
+      "description": "Lightbringer Greathelm",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4635,
+      "description": "Lightbringer War-Helm",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4636,
+      "description": "Gronnstalker's Helmet",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 4637,
+      "description": "Onslaught Battle-Helm",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 4638,
+      "description": "Onslaught Greathelm",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 4639,
+      "description": "Skyshatter Headguard",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 4640,
+      "description": "Skyshatter Helmet",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 4641,
+      "description": "Skyshatter Cover",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 4642,
+      "description": "Slayer's Helm",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 4643,
+      "description": "Cowl of the Tempest",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 4644,
+      "description": "Thunderheart Cover",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 4645,
+      "description": "Thunderheart Headguard",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 4646,
+      "description": "Thunderheart Helmet",
+      "orderIndex": 30,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

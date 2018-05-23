@@ -1,0 +1,18 @@
+{
+  "id": 159,
+  "title": "Let's Get This Done",
+  "points": 10,
+  "description": "Win Arathi Basin in 6 minutes.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winab_underxminutes",
+  "criteria": [
+    {
+      "id": 1237,
+      "description": "Win in 6 minutes",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

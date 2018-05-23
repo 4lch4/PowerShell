@@ -1,0 +1,18 @@
+{
+  "id": 11195,
+  "title": "Ahead of the Curve: Gul'dan",
+  "points": 0,
+  "description": "Defeat Gul'dan in The Nighthold on Heroic difficulty or higher, before the opening of the Tomb of Sargeras.",
+  "rewardItems": [],
+  "icon": "achievement_thenighthold_guldan",
+  "criteria": [
+    {
+      "id": 32456,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,60 @@
+{
+  "id": 7438,
+  "title": "Could We Find More Like That?",
+  "points": 10,
+  "description": "Defeat one of each type of Pandarian champion.",
+  "rewardItems": [],
+  "icon": "expansionicon_mistsofpandaria",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Hozen",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Jinyu",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Mantid",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Mogu Sorcerer",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Mogu Warrior",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Pandaren",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Saurok",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Yaungol",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

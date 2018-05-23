@@ -1,0 +1,49 @@
+{
+  "id": 10258,
+  "title": "Charting a Course",
+  "points": 10,
+  "description": "Complete three of the Rare Naval Missions listed below.",
+  "reward": "Reward: Fleet Commander's Hat",
+  "rewardItems": [],
+  "icon": "inv_icon_daily_mission_scroll",
+  "criteria": [
+    {
+      "id": 29701,
+      "description": "The House Always Wins",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 29703,
+      "description": "For Hate's Sake",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28543,
+      "description": "Black Market Journal",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 28544,
+      "description": "Orphaned Aquatic Animal Rescue",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 29702,
+      "description": "The Wave Mistress",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 29704,
+      "description": "It's a Boat, It's a Plane, It's... Just a Riverbeast",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

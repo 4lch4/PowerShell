@@ -1,0 +1,170 @@
+{
+  "id": 9396,
+  "title": "Glory of the Draenor Hero",
+  "points": 25,
+  "description": "Complete the Draenor Heroic dungeon achievements listed below.",
+  "reward": "Mount Reward: Frostplains Battleboar",
+  "rewardItems": [
+    {
+      "id": 116670,
+      "name": "Frostplains Battleboar",
+      "icon": "inv_giantboarmount_brown",
+      "quality": 3,
+      "itemLevel": 40,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_helmet_mail_panda_b_01",
+  "criteria": [
+    {
+      "id": 25543,
+      "description": "Draenor Dungeon Hero",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25544,
+      "description": "A Gift of Earth and Fire",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25545,
+      "description": "Come With Me If You Want to Live",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 25546,
+      "description": "Is Draenor on Fire?",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 25547,
+      "description": "Miltaristic, Expansionist",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 25548,
+      "description": "Expert Timing",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 25549,
+      "description": "Take Cover!",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 25550,
+      "description": "...They All Fall Down",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 25551,
+      "description": "Ready for Raiding IV",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 25552,
+      "description": "Magnify... Enhance",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 25553,
+      "description": "I Saw Solis",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 25554,
+      "description": "Monomania",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 25555,
+      "description": "This Is Why We Can't Have Nice Things",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 25556,
+      "description": "No Ticket",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 25557,
+      "description": "Water Management",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 25558,
+      "description": "Weed Whacker",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 25559,
+      "description": "What's Your Sign?",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 25560,
+      "description": "Icky Ichors",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 25561,
+      "description": "Souls of the Lost",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 25562,
+      "description": "Magnets, How Do They Work?",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 25563,
+      "description": "Leeeeeeeeeeeeeroy...?",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 25564,
+      "description": "Bridge Over Troubled Fire",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 25565,
+      "description": "Dragonmaw? More Like Dragonfall!",
+      "orderIndex": 22,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

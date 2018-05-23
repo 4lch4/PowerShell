@@ -1,0 +1,24 @@
+{
+  "id": 1358,
+  "title": "Nothing Boring About Borean",
+  "points": 10,
+  "description": "Complete 150 quests in Borean Tundra.",
+  "rewardItems": [],
+  "icon": "achievement_zone_boreantundra_07",
+  "criteria": [
+    {
+      "id": 74,
+      "description": "Complete 140 quests in Boren Tundra",
+      "orderIndex": 1,
+      "max": 150
+    },
+    {
+      "id": 5019,
+      "description": "Complete 140 quests in Borean Tundra",
+      "orderIndex": 2,
+      "max": 150
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11,
+  "title": "Level 60",
+  "points": 10,
+  "description": "Reach level 60.",
+  "rewardItems": [],
+  "icon": "achievement_level_60",
+  "criteria": [
+    {
+      "id": 5212,
+      "description": "Reach level 60",
+      "orderIndex": 1,
+      "max": 60
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

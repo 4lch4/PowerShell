@@ -1,0 +1,19 @@
+{
+  "id": 6942,
+  "title": "Hero of the Alliance",
+  "points": 10,
+  "description": "End a PvP season in the top 0.5% of the rated battleground ladder (requires 50 games won in the current season).",
+  "reward": "Title Reward: Hero of the Alliance",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_a",
+  "criteria": [
+    {
+      "id": 20020,
+      "description": "Hero of the Alliance",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

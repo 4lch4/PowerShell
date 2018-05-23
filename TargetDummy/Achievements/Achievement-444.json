@@ -1,0 +1,18 @@
+{
+  "id": 444,
+  "title": "Lieutenant General",
+  "points": 0,
+  "description": "Earned the title, \"Lieutenant General\" at level 60.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_11",
+  "criteria": [
+    {
+      "id": 710,
+      "description": "Lieutenant General",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

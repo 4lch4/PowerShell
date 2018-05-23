@@ -1,0 +1,18 @@
+{
+  "id": 9219,
+  "title": "Grand Theft, 2nd Degree",
+  "points": 10,
+  "description": "Loot 500 Artifact Fragments from enemy players.",
+  "rewardItems": [],
+  "icon": "inv_misc_coinbag_special",
+  "criteria": [
+    {
+      "id": 26471,
+      "description": "",
+      "orderIndex": 0,
+      "max": 500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

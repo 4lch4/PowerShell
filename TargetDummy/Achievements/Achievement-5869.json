@@ -1,0 +1,42 @@
+{
+  "id": 5869,
+  "title": "Infernal Ambassadors",
+  "points": 10,
+  "description": "Slay the elite invaders of Hyjal in the following ways.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_corehound",
+  "criteria": [
+    {
+      "id": 17829,
+      "description": "Slay Pyrachnis without using the Emerald of Aessina.",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 17831,
+      "description": "Slay Millagazor without taking damage from Gout of Flame.",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17832,
+      "description": "Slay Lylagar without taking damage from Lylagar Breath.",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17833,
+      "description": "Slay Galenges before he is weakened a second time.",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17834,
+      "description": "Slay Nemesis at Ashen Lake without taking damage from Molten Fury.",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

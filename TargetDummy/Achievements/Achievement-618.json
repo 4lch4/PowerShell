@@ -1,0 +1,18 @@
+{
+  "id": 618,
+  "title": "Putting Out the Light",
+  "points": 10,
+  "description": "Kill Prophet Velen.",
+  "rewardItems": [],
+  "icon": "achievement_leader_prophet_velen",
+  "criteria": [
+    {
+      "id": 491,
+      "description": "Prophet Velen",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

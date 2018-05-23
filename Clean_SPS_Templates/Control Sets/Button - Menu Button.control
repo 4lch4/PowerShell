@@ -1,0 +1,46 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a button that displays a menu when pressed.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFgSURBVDhPrZM7TsNAEIZ9CE7ABaCj4QiUtIiOE9DSUCBqroBEiYSEQoEi0yAkCkNDCgKKFBQwfqy9tnESv4aZsddxJBcmYqXP/+zszu+xtav9y7i4NWB99xi07cNOrO0cAdXUxVsHZ3D39A5dx8vI5Bo2oTfrxhsURfEndGNYdk0t5XnWuonAJlvzcRSUn0SP2WzKJnmWQYaakVaQAeXzPK80gyjwEW9hEMcRJGkCSZJwAZGm86W5yhHSs5mGQchdzBGlVEBxqXEjnoJwvpiGQcBdkJF6G6Hm8Q+uIWUcgv39wdQGUjoQhZI3kNZxpHL4zZFfr5uTEVMb+L4NgRQMbVK0zaV0YTIeIq8LA8f+BM+zwBMW+PhzPIGgljHmOaZ1ylswHg0YNqBjqT88gnBNxnVQFZSr1G3EAk16/T4faT7Km/uncH55DYPn+05c3fRgY+9k+T6sfJmA/8+qQ9N+AacomVOhhvRjAAAAAElFTkSuQmCC</Icon>
+  <Identifiers>
+    <ID id="1" name="menuButton1" type="object" />
+    <ID id="2" name="menuButton1_Click" type="event" />
+    <ID id="3" name="menuButtonContextmenustrip1" type="object" />
+    <ID id="4" name="menuItemToolStripMenuItem" type="object" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="Image">
+        <Binary>iVBORw0KGgoAAAANSUhEUgAAAAsAAAALCAYAAACprHcmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAAAadEVYdFNvZnR3YXJlAFBhaW50Lk5FVCB2My41LjEwMPRyoQAAAD9JREFUKFONikEOACAMwvb/T6Pj4tzAeGgChQDwjZQOKR1SOk7Y0THOLO2UXHstFObIrQtKcUyGeCGlQ0oNYgGovUnFO2IrEwAAAABJRU5ErkJggg==</Binary>
+      </Property>
+      <Property name="ImageAlign">MiddleRight</Property>
+      <Property name="Location">0, 0</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="Size">100, 23</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="Text">Menu Button</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">%ID:2%</Event>
+    </Object>
+    <Object type="System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:3%" children="Controls">
+      <Property name="Items">
+        <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="%ID:4%" />
+        </Item>
+      </Property>
+      <Property name="Name">%ID:3%</Property>
+      <Property name="Size">133, 26</Property>
+    </Object>
+    <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:4%">
+      <Property name="Name">%ID:4%</Property>
+      <Property name="Size">132, 22</Property>
+      <Property name="Text">Menu Item</Property>
+    </Object>
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%={
+	#Show the menu
+	$point = New-Object System.Drawing.Point ($%ID:1%.Location.X, $%ID:1%.Bottom)
+	$%ID:3%.Show($%CONTAINER%.PointToScreen($point));
+}]]></Event>
+  </Events>
+</ControlTemplate>

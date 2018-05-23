@@ -1,0 +1,168 @@
+{
+  "id": 967,
+  "title": "Tricks and Treats of Eastern Kingdoms",
+  "points": 10,
+  "description": "Visit the Candy Buckets in Eastern Kingdoms.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_27",
+  "criteria": [
+    {
+      "id": 2147,
+      "description": "Arathi Highlands, Hammerfall",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18429,
+      "description": "Badlands, Fuselight",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17626,
+      "description": "Badlands, New Kargath",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17627,
+      "description": "Blasted Lands, Dreadmaul Hold",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 2144,
+      "description": "The Cape of Stranglethorn, Booty Bay",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 17633,
+      "description": "The Cape of Stranglethorn, Hardwrench Hideaway",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 2143,
+      "description": "Eastern Plaguelands, Light's Hope Chapel",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 2149,
+      "description": "Eversong Woods, Fairbreeze Village",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 2150,
+      "description": "Eversong Woods, Falconwing Square",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 2151,
+      "description": "Ghostlands, Tranquillien",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 17628,
+      "description": "Hillsbrad Foothills, Eastpoint Tower",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 2152,
+      "description": "Hillsbrad Foothills, Tarren Mill",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 17629,
+      "description": "The Hinterlands, Hiri'watha Research Station",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 2153,
+      "description": "The Hinterlands, Revantusk Village",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 2157,
+      "description": "Northern Stranglethorn, Grom'gol Base Camp",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 18430,
+      "description": "Searing Gorge, Iron Summit",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 2154,
+      "description": "Silvermoon City, The Bazaar",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 2155,
+      "description": "Silvermoon City, The Royal Exchange",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 17631,
+      "description": "Silverpine Forest, Forsaken Rear Guard",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 2156,
+      "description": "Silverpine Forest, The Sepulcher",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 18431,
+      "description": "Swamp of Sorrows, Bogpaddle",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 2158,
+      "description": "Swamp of Sorrows, Stonard",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 2159,
+      "description": "Tirisfal Glades, Brill",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 17634,
+      "description": "Tirisfal Glades, The Bulwark",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 2160,
+      "description": "Undercity, The Trade Quarter",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 17635,
+      "description": "Western Plaguelands, Andorhal",
+      "orderIndex": 26,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

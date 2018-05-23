@@ -1,0 +1,144 @@
+{
+  "id": 5836,
+  "title": "Tricks and Treats of Northrend",
+  "points": 10,
+  "description": "Visit the Candy Buckets in Northrend.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_26",
+  "criteria": [
+    {
+      "id": 17660,
+      "description": "Borean Tundra, Fizzcrank Airstrip",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17661,
+      "description": "Borean Tundra, Unu'pe",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17662,
+      "description": "Borean Tundra, Valiance Keep",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17663,
+      "description": "Dalaran, The Legerdemain Lounge",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17664,
+      "description": "Dalaran, Silver Enclave",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 17665,
+      "description": "Dalaran, The Underbelly",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 17666,
+      "description": "Dragonblight, Moa'ki Harbor",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 17667,
+      "description": "Dragonblight, Stars' Rest",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 17668,
+      "description": "Dragonblight, Wintergarde Keep",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 17669,
+      "description": "Dragonblight, Wyrmrest Temple",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 17670,
+      "description": "Grizzly Hills, Amberpine Lodge",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 17671,
+      "description": "Grizzly Hills, Westfall Brigade",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 17672,
+      "description": "Howling Fjord, Fort Wildervar",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 17673,
+      "description": "Howling Fjord, Kamagua",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 17674,
+      "description": "Howling Fjord, Valgarde",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 17675,
+      "description": "Howling Fjord, Westguard Keep",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 17681,
+      "description": "Sholazar Basin, Nesingwary Base Camp",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 17676,
+      "description": "Storm Peaks, Bouldercrag's Refuge",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 17677,
+      "description": "Storm Peaks, Frosthold",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 17678,
+      "description": "Storm Peaks, K3",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 17679,
+      "description": "Zul'Drak, The Argent Stand",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 17680,
+      "description": "Zul'Drak, Zim'Torga",
+      "orderIndex": 22,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

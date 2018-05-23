@@ -1,0 +1,36 @@
+{
+  "id": 2083,
+  "title": "Grand Ice Mammoth",
+  "points": 10,
+  "description": "Obtain a Grand Ice Mammoth.",
+  "rewardItems": [],
+  "icon": "ability_mount_mammoth_white",
+  "criteria": [
+    {
+      "id": 7397,
+      "description": "Grand Ice Mammoth",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7398,
+      "description": "Grand Ice Mammoth",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7399,
+      "description": "Grand Ice Mammoth",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7400,
+      "description": "Grand Ice Mammoth",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

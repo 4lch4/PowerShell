@@ -1,0 +1,12 @@
+{
+  "id": 11028,
+  "title": "Challenger: Legion Season 2",
+  "points": 0,
+  "description": "End Legion PvP season 2 in the top 35% of the arena ladder (requires 50 games won in Legion Season 2).",
+  "reward": "Title Reward: Challenger",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_04",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

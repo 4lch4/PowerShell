@@ -1,0 +1,30 @@
+{
+  "id": 9257,
+  "title": "Rescue Operation",
+  "points": 10,
+  "description": "Release the following captured prisoners from the Alliance Prison:",
+  "rewardItems": [],
+  "icon": "inv_box_birdcage_01",
+  "criteria": [
+    {
+      "id": 25447,
+      "description": "Warlord Jugan",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25448,
+      "description": "General Lizzie Heartbane",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25449,
+      "description": "Marshal Lyrdrea Daybreaker",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

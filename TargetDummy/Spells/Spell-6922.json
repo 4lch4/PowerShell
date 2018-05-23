@@ -1,0 +1,8 @@
+{
+  "id": 6922,
+  "name": "Curse of the Shadowhorn",
+  "icon": "spell_nature_drowsy",
+  "description": "The spirits of the Shadowhorn curse the target, reducing all damage dealt and increasing damage taken for 5 min.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

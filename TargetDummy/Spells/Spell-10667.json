@@ -1,0 +1,8 @@
+{
+  "id": 10667,
+  "name": "Rage of Ages",
+  "icon": "spell_nature_strength",
+  "description": "Increases Strength by 23 when consumed. Effect lasts for 60 minutes.  Battle Elixir.",
+  "castTime": "3 sec cast",
+  "cooldown": "3.5 min cooldown"
+}

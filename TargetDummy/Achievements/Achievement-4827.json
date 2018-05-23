@@ -1,0 +1,90 @@
+{
+  "id": 4827,
+  "title": "Surveying the Damage",
+  "points": 10,
+  "description": "Explore the following areas in Kalimdor and the Eastern Kingdoms to see the changes wrought by the Cataclysm.",
+  "rewardItems": [],
+  "icon": "spell_fire_volcano",
+  "criteria": [
+    {
+      "id": 14068,
+      "description": "The Battlescar in Southern Barrens",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14060,
+      "description": "The Sundering in Stranglethorn",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1020,
+      "description": "The Scar of the Worldbreaker in Badlands",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1314,
+      "description": "The Ruins of Auberdine in Darkshore",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1407,
+      "description": "The Valley of the Watchers in Tanaris",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 14096,
+      "description": "Thunder Peak in Ashenvale",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 14087,
+      "description": "Southfury Watershed in Durotar",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1373,
+      "description": "Cenarion Wildlands in Desolace",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1347,
+      "description": "The Shimmering Deep in Thousand Needles",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 14046,
+      "description": "The Greymane Wall in Silverpine",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 14156,
+      "description": "The Raging Chasm in Westfall",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1174,
+      "description": "The Stonewrought Dam in Loch Modan",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 15114,
+      "description": "Ruins of Southshore in Hillsbrad Foothills",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

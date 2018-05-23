@@ -1,0 +1,19 @@
+{
+  "id": 3037,
+  "title": "Observed (25 player)",
+  "points": 10,
+  "description": "Defeat Algalon the Observer in 25-player mode.",
+  "reward": "Title Reward: The Astral Walker",
+  "rewardItems": [],
+  "icon": "achievement_boss_algalon_01",
+  "criteria": [
+    {
+      "id": 10566,
+      "description": "Algalon the Observer",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

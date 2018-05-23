@@ -1,0 +1,18 @@
+{
+  "id": 8533,
+  "title": "Ordos",
+  "points": 0,
+  "description": "Defeat Ordos, Fire-God of the Yaungol, atop the Timeless Isle.",
+  "rewardItems": [],
+  "icon": "inv_axe_1h_firelandsraid_d_02",
+  "criteria": [
+    {
+      "id": 23742,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

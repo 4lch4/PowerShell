@@ -1,0 +1,210 @@
+{
+  "id": 694,
+  "title": "Serpentshrine Cavern",
+  "points": 10,
+  "description": "Defeat Lady Vashj in Serpentshrine Cavern.",
+  "rewardItems": [],
+  "icon": "achievement_boss_ladyvashj",
+  "criteria": [
+    {
+      "id": 3258,
+      "description": "Lady Vashj",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 744,
+      "description": "The Vials of Eternity",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4850,
+      "description": "Cobra-Lash Boots",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4849,
+      "description": "Belt of One-Hundred Deaths",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4851,
+      "description": "Cobra-Lash Boots",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4852,
+      "description": "Coral Band of the Revived",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4853,
+      "description": "Fang of Vashj",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4854,
+      "description": "Glorious Gauntlets of Crestfall",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4855,
+      "description": "Krakken-Heart Breastplate",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4856,
+      "description": "Lightfathom Scepter",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4857,
+      "description": "Prism of Inner Calm",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4858,
+      "description": "Ring of Endless Coils",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4859,
+      "description": "Runetotem's Mantle",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4860,
+      "description": "Serpent Spine Longbow",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4861,
+      "description": "Vestments of the Sea-Witch",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4862,
+      "description": "Cataclysm Headguard",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4863,
+      "description": "Cataclysm Headpiece",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4864,
+      "description": "Cataclysm Helm",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4865,
+      "description": "Crystalforge Faceguard",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4866,
+      "description": "Crystalforge Greathelm",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4867,
+      "description": "Crystalforge War-Helm",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 4868,
+      "description": "Deathmantle Helm",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 4869,
+      "description": "Cowl of the Avatar",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 4870,
+      "description": "Destroyer Battle-Helm",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 4871,
+      "description": "Destroyer Greathelm",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 4872,
+      "description": "Hood of the Avatar",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 4873,
+      "description": "Hood of the Corruptor",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 4874,
+      "description": "Rift Stalker Helm",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 4875,
+      "description": "Nordrassil Headdress",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 4876,
+      "description": "Nordrassil Headguard",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 4877,
+      "description": "Nordrassil Headpiece",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 4878,
+      "description": "Cowl of Tirisfal",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 7871,
+      "description": "Vashj's Vial Remnant",
+      "orderIndex": 32,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

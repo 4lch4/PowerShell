@@ -1,0 +1,38 @@
+{
+  "id": 8820,
+  "title": "WoW's 10th Anniversary",
+  "points": 0,
+  "description": "Logged in during WoW's 10th Anniversary.",
+  "reward": "Pet Reward: Molten Corgi",
+  "rewardItems": [
+    {
+      "id": 115301,
+      "name": "Molten Corgi",
+      "icon": "inv_moltencorgi",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_misc_celebrationcake_01",
+  "criteria": [
+    {
+      "id": 24192,
+      "description": "Logged in during WoW's 10th Anniversary.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

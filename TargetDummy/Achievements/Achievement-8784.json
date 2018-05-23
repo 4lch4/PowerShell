@@ -1,0 +1,36 @@
+{
+  "id": 8784,
+  "title": "Timeless Legends",
+  "points": 10,
+  "description": "Find all of the lost pandaren artifacts on the Timeless Isle.",
+  "rewardItems": [],
+  "icon": "inv_staff_2h_pandarenmonk_c_01",
+  "criteria": [
+    {
+      "id": 24006,
+      "description": "Cloudstrike Family Helm",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 24140,
+      "description": "Flameheart Shawl",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 24141,
+      "description": "Riverspeaker's Trident",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 24142,
+      "description": "Snowdrift Tiger Talons",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

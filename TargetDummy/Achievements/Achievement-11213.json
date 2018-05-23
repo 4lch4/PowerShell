@@ -1,0 +1,18 @@
+{
+  "id": 11213,
+  "title": "Lead a Legion",
+  "points": 5,
+  "description": "Recruit 100 troops.",
+  "rewardItems": [],
+  "icon": "achievement_garrisonfollower_rare",
+  "criteria": [
+    {
+      "id": 30657,
+      "description": "Recruit 100 troops.",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

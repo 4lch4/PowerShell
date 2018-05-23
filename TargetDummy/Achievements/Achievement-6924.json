@@ -1,0 +1,18 @@
+{
+  "id": 6924,
+  "title": "100,000 Valor Points",
+  "points": 0,
+  "description": "Earn 100,000 Valor Points.",
+  "rewardItems": [],
+  "icon": "pvecurrency-valor",
+  "criteria": [
+    {
+      "id": 16305,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

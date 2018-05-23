@@ -1,0 +1,18 @@
+{
+  "id": 11707,
+  "title": "No Mercy",
+  "points": 10,
+  "description": "Collect any class armor set from PvP Season 2.",
+  "rewardItems": [],
+  "icon": "inv_mace_47",
+  "criteria": [
+    {
+      "id": 36229,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

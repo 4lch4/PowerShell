@@ -1,0 +1,24 @@
+{
+  "id": 5505,
+  "title": "Bullet Time",
+  "points": 10,
+  "description": "Defeat 12 Bloodthirsty Ghouls with Pistol Barrage and then defeat Lord Godfrey in Shadowfang Keep on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_ammo_bullet_05",
+  "criteria": [
+    {
+      "id": 16086,
+      "description": "Defeat Lord Godfrey",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 16544,
+      "description": "Bloodthirsty Ghouls killed by Pistol Barrage",
+      "orderIndex": 2,
+      "max": 12
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

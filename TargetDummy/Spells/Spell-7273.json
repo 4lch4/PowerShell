@@ -1,0 +1,9 @@
+{
+  "id": 7273,
+  "name": "Lightning Hide",
+  "subtext": "Rank 1",
+  "icon": "spell_nature_lightningshield",
+  "description": "Natural reservoirs in the turtle's shell store solar energy, dealing Nature damage to melee attackers.",
+  "castTime": "Passive",
+  "cooldown": "1 sec cooldown"
+}

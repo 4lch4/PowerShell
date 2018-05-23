@@ -1,0 +1,18 @@
+{
+  "id": 1309,
+  "title": "Strand of the Ancients Veteran",
+  "points": 10,
+  "description": "Complete 100 victories in Strand of the Ancients.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winsoa",
+  "criteria": [
+    {
+      "id": 5898,
+      "description": "Complete 100 victories in Strand of the Ancients",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

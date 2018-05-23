@@ -1,0 +1,18 @@
+{
+  "id": 5417,
+  "title": "Tol Barad Veteran",
+  "points": 10,
+  "description": "Win 25 battles for Tol Barad.",
+  "rewardItems": [],
+  "icon": "achievement_zone_tolbarad",
+  "criteria": [
+    {
+      "id": 15458,
+      "description": "Win Tol Barad 25 times",
+      "orderIndex": 1,
+      "max": 25
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

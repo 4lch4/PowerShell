@@ -1,0 +1,90 @@
+{
+  "id": 9900,
+  "title": "Exploration Mission Master",
+  "points": 10,
+  "description": "Complete all of the garrison exploration missions listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_map02",
+  "criteria": [
+    {
+      "id": 27777,
+      "description": "Exploration: Oshu'gun Dig Site",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27778,
+      "description": "Exploration: Razed Warsong Outpost Dig Site",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27779,
+      "description": "Exploration: Stonecrag Excavation Dig Site",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27780,
+      "description": "Exploration: Sethekk Hollow Dig Site",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27781,
+      "description": "Exploration: Apexis Excavation Dig Site",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27782,
+      "description": "Exploration: Ango'rosh Dig Site",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 27783,
+      "description": "Exploration: Veil Shadar Dig Site",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 27784,
+      "description": "Exploration: Overlook Ruins Dig Site",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 27785,
+      "description": "Exploration: The Broken Spine Dig Site",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 27786,
+      "description": "Exploration: Daggermaw Flows Dig Site",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 27787,
+      "description": "Exploration: Colossal's Fall Dig Site",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 27788,
+      "description": "Exploration: Burial Fields",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 27789,
+      "description": "Exploration: Umbrafen Dig Site",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,19 @@
+{
+  "id": 10609,
+  "title": "No Stone Unturned",
+  "points": 10,
+  "description": "Complete 250 Legion Digsites.",
+  "reward": "Title: The Groundbreaker",
+  "rewardItems": [],
+  "icon": "inv_misc_shovel_01",
+  "criteria": [
+    {
+      "id": 30010,
+      "description": "Legion Digsites Completed",
+      "orderIndex": 0,
+      "max": 250
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

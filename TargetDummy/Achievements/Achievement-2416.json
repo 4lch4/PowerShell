@@ -1,0 +1,18 @@
+{
+  "id": 2416,
+  "title": "Hard Boiled",
+  "points": 10,
+  "description": "Lay an egg in Un'Goro Crater's Golakka Hot Springs as a rabbit during the Noblegarden celebration.",
+  "rewardItems": [],
+  "icon": "inv_egg_07",
+  "criteria": [
+    {
+      "id": 9118,
+      "description": "Lay a Noblegarden Egg in the Golakka Hot Springs.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

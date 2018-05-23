@@ -1,0 +1,8 @@
+{
+  "id": 7462,
+  "name": "Not-So-Honorable Combat: Lady Nightswood to Possessed Iskalder",
+  "icon": "trade_engineering",
+  "description": "Teaches you how to temporarily imbue a piece of chest armor to give +3 Spirit for 60 min.",
+  "range": "50,000 yd range",
+  "castTime": "Instant"
+}

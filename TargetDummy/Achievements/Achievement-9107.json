@@ -1,0 +1,18 @@
+{
+  "id": 9107,
+  "title": "Follow the Leader",
+  "points": 5,
+  "description": "Recruit 5 followers.",
+  "rewardItems": [],
+  "icon": "achievement_garrisonfollower_recruit5",
+  "criteria": [
+    {
+      "id": 25256,
+      "description": "Recruit 5 followers.",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

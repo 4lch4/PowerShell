@@ -1,0 +1,120 @@
+{
+  "id": 863,
+  "title": "Explore Zangarmarsh",
+  "points": 10,
+  "description": "Explore Zangarmarsh, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_zangarmarsh",
+  "criteria": [
+    {
+      "id": 1611,
+      "description": "Cenarion Refuge",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1610,
+      "description": "Ango'rosh Grounds",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1612,
+      "description": "Feralfen Village",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1613,
+      "description": "Hewn Bog",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1647,
+      "description": "Marshlight Lake",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1648,
+      "description": "Quagg Ridge",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1649,
+      "description": "Telredor",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1650,
+      "description": "The Dead Mire",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1651,
+      "description": "The Lagoon",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1652,
+      "description": "Twin Spire Ruins",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1653,
+      "description": "Umbrafen Village",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1654,
+      "description": "Sporeggar",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1655,
+      "description": "Ango'rosh Stronghold",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1656,
+      "description": "Bloodscale Grounds",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1657,
+      "description": "Orebor Harborage",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1658,
+      "description": "The Spawning Glen",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1659,
+      "description": "Zabra'jin",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1667,
+      "description": "Darkcrest Shore",
+      "orderIndex": 18,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

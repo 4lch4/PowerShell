@@ -1,0 +1,18 @@
+{
+  "id": 975,
+  "title": "200 Daily Quests Completed",
+  "points": 10,
+  "description": "Complete 200 daily quests.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_daily_03",
+  "criteria": [
+    {
+      "id": 4984,
+      "description": "",
+      "orderIndex": 0,
+      "max": 200
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

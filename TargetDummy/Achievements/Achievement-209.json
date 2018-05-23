@@ -1,0 +1,24 @@
+{
+  "id": 209,
+  "title": "Eye of the Storm Veteran",
+  "points": 10,
+  "description": "Complete 100 victories in Eye of the Storm.",
+  "rewardItems": [],
+  "icon": "achievement_bg_win_eos_x_times",
+  "criteria": [
+    {
+      "id": 5897,
+      "description": "Complete 100 victories in Eye of the Storm",
+      "orderIndex": 0,
+      "max": 100
+    },
+    {
+      "id": 5745,
+      "description": "Complete 100 victories in Eye of the Storm",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

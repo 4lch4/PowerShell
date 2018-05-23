@@ -1,0 +1,18 @@
+{
+  "id": 8086,
+  "title": "From Dusk 'til Dawn",
+  "points": 10,
+  "description": "Defeat Lu'lin before Suen falls below 30% health, and then defeat Suen in Throne of Thunder on Normal or Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "spell_holy_pureofheart",
+  "criteria": [
+    {
+      "id": 22790,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

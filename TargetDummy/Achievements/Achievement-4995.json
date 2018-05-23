@@ -1,0 +1,72 @@
+{
+  "id": 4995,
+  "title": "Explore the Cape of Stranglethorn",
+  "points": 10,
+  "description": "Explore the Cape of Stranglethorn, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_stranglethorn_01",
+  "criteria": [
+    {
+      "id": 14050,
+      "description": "Booty Bay",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14051,
+      "description": "Crystalvein Mine",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14052,
+      "description": "Gurubashi Arena",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 14053,
+      "description": "Hardwrench Hideaway",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 14054,
+      "description": "Jaquero Isle",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 14055,
+      "description": "Mistvale Valley",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 14056,
+      "description": "Nek'mani Wellspring",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 14057,
+      "description": "Ruins of Aboraz",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 14058,
+      "description": "Ruins of Jubuwal",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 14061,
+      "description": "The Wild Shore",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

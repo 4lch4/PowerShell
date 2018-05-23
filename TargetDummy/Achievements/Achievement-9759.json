@@ -1,0 +1,18 @@
+{
+  "id": 9759,
+  "title": "Darkmoon Racer Jockey",
+  "points": 5,
+  "description": "Complete The Real Race with the Racing Strider within 20 tolls.",
+  "rewardItems": [],
+  "icon": "inv_checkered_flag",
+  "criteria": [
+    {
+      "id": 27480,
+      "description": "Complete the Darkmoon Race within 20 tolls.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

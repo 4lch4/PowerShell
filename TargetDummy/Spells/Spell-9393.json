@@ -1,0 +1,7 @@
+{
+  "id": 9393,
+  "name": "Increase Spell Dam 2",
+  "icon": "trade_engineering",
+  "description": "Increases spell power by 2.",
+  "castTime": "Passive"
+}

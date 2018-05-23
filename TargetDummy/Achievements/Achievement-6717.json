@@ -1,0 +1,30 @@
+{
+  "id": 6717,
+  "title": "Power Overwhelming",
+  "points": 10,
+  "description": "Defeat the Protectors of the Endless with each protector as the last member alive on Normal or Heroic difficulty in Terrace of Endless Spring.",
+  "rewardItems": [],
+  "icon": "ability_rogue_envelopingshadows",
+  "criteria": [
+    {
+      "id": 19624,
+      "description": "Protector Kaolan defeated last",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19625,
+      "description": "Elder Regail defeated last",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19626,
+      "description": "Elder Asani defeated last",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

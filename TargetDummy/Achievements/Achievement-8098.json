@@ -1,0 +1,18 @@
+{
+  "id": 8098,
+  "title": "You Said Crossing the Streams Was Bad",
+  "points": 10,
+  "description": "Reveal the Orange, Purple, and Green Fog Beasts while facing Durumu the Forgotten in Throne of Thunder on Normal or Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "spell_nature_elementalprecision_1",
+  "criteria": [
+    {
+      "id": 22801,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

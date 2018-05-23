@@ -1,0 +1,19 @@
+{
+  "id": 9725,
+  "title": "The Last of Us",
+  "points": 0,
+  "description": "Become the last gladiator standing at the Highmaul Coliseum.",
+  "reward": "Title Reward: Lord of War or Lady of War",
+  "rewardItems": [],
+  "icon": "inv_misc_trophy_argent",
+  "criteria": [
+    {
+      "id": 27022,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

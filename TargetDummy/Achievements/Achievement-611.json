@@ -1,0 +1,18 @@
+{
+  "id": 611,
+  "title": "Bleeding Bloodhoof",
+  "points": 10,
+  "description": "Kill Baine Bloodhoof.",
+  "rewardItems": [],
+  "icon": "achievement_leader_cairnebloodhoof",
+  "criteria": [
+    {
+      "id": 481,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

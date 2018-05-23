@@ -1,0 +1,18 @@
+{
+  "id": 11780,
+  "title": "Mythic: Fallen Avatar",
+  "points": 10,
+  "description": "Defeat the Fallen Avatar in Tomb of Sargeras on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_titanconstructshell",
+  "criteria": [
+    {
+      "id": 36531,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,54 @@
+{
+  "id": 7248,
+  "title": "Monkey See, Monkey Kill",
+  "points": 10,
+  "description": "Defeat all bosses of Unga Ingoo.",
+  "rewardItems": [],
+  "icon": "ability_hunter_aspectofthemonkey",
+  "criteria": [
+    {
+      "id": 20696,
+      "description": "Captain Ook",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19858,
+      "description": "Ba-Bam",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19823,
+      "description": "Ookie",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19857,
+      "description": "Chihozen Binono",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 19822,
+      "description": "Grooka Grooka",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 19821,
+      "description": "Rik Rik",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 20585,
+      "description": "Protected Unga Keg",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

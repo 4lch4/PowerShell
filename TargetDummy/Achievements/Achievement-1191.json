@@ -1,0 +1,18 @@
+{
+  "id": 1191,
+  "title": "Terror of Terokkar",
+  "points": 10,
+  "description": "Complete 63 quests in Terokkar Forest.",
+  "rewardItems": [],
+  "icon": "achievement_zone_terrokar",
+  "criteria": [
+    {
+      "id": 3585,
+      "description": "63 Terokkar Forest quests",
+      "orderIndex": 1,
+      "max": 63
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

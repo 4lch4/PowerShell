@@ -1,0 +1,11 @@
+{
+  "id": 3005,
+  "title": "He Feeds On Your Tears (25 player)",
+  "points": 0,
+  "description": "Defeat Algalon the Observer in 25-player mode without any raid member dying to Algalon at any point during that raid lockout period.",
+  "rewardItems": [],
+  "icon": "spell_misc_emotionsad",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

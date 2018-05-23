@@ -1,0 +1,8 @@
+{
+  "id": 7103,
+  "name": "Contagion of Rot",
+  "icon": "spell_shadow_callofbone",
+  "description": "Time between attacks increased by 25%.\n\nCasting speed reduced by 15%.\n\n10% chance to spread contagion to allies when hit.",
+  "range": "10 yd range",
+  "castTime": "Instant"
+}

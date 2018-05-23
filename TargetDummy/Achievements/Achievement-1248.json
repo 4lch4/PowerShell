@@ -1,0 +1,18 @@
+{
+  "id": 1248,
+  "title": "Plethora of Pets",
+  "points": 10,
+  "description": "Collect 25 unique pets.",
+  "rewardItems": [],
+  "icon": "inv_box_petcarrier_01",
+  "criteria": [
+    {
+      "id": 19598,
+      "description": "Obtain 25 unique companion pets",
+      "orderIndex": 0,
+      "max": 25
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

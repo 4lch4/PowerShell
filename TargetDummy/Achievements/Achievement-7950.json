@@ -1,0 +1,18 @@
+{
+  "id": 7950,
+  "title": "Rabble Rabble Rabble (Season 2)",
+  "points": 0,
+  "description": "Take Zippi Gallox's portal to Stormwind during the Draenor campaign.",
+  "rewardItems": [],
+  "icon": "ability_warrior_battleshout",
+  "criteria": [
+    {
+      "id": 22552,
+      "description": "Take Zippi Gallox's portal to Stormwind.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

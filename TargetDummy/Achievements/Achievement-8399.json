@@ -1,0 +1,44 @@
+{
+  "id": 8399,
+  "title": "Ahead of the Curve: Garrosh Hellscream (25 player)",
+  "points": 0,
+  "description": "Defeat Garrosh Hellscream on 25-Player Normal difficulty or higher, before the release of patch 6.0.",
+  "reward": "Mount Reward: Reins of the Kor'kron War Wolf",
+  "rewardItems": [
+    {
+      "id": 104246,
+      "name": "Reins of the Kor'kron War Wolf",
+      "icon": "inv_belt_45",
+      "quality": 4,
+      "itemLevel": 90,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_misc_tabard_hellscream",
+  "criteria": [
+    {
+      "id": 23919,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27179,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 613,
+  "title": "Killed in Quel'Thalas",
+  "points": 10,
+  "description": "Kill Lor'themar Theron.",
+  "rewardItems": [],
+  "icon": "achievement_leader_lorthemar_theron",
+  "criteria": [
+    {
+      "id": 483,
+      "description": "Lor'themar Theron",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

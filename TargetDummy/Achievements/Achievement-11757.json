@@ -1,0 +1,18 @@
+{
+  "id": 11757,
+  "title": "Sha of Fabulous",
+  "points": 10,
+  "description": "Collect any class armor set from the Heart of Fear and Terrace of Endless Spring.",
+  "rewardItems": [],
+  "icon": "ability_shawaterelemental_swirl",
+  "criteria": [
+    {
+      "id": 36356,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

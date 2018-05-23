@@ -1,0 +1,18 @@
+{
+  "id": 134,
+  "title": "Master Medic",
+  "points": 10,
+  "description": "Obtain 375 skill points in first aid.",
+  "rewardItems": [],
+  "icon": "spell_holy_sealofsacrifice",
+  "criteria": [
+    {
+      "id": 5592,
+      "description": "Obtain 375 skill points in first aid.",
+      "orderIndex": 1,
+      "max": 375
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

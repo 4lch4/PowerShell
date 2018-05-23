@@ -1,0 +1,18 @@
+{
+  "id": 224,
+  "title": "Loyal Defender",
+  "points": 10,
+  "description": "In Alterac Valley, kill 50 enemy players in the Hall of the Frostwolf.",
+  "rewardItems": [],
+  "icon": "achievement_bg_killxenemies_generalsroom",
+  "criteria": [
+    {
+      "id": 3362,
+      "description": "50 honorable kills in the Hall of the Frostwolf",
+      "orderIndex": 1,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

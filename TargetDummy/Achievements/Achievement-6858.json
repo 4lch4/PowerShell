@@ -1,0 +1,61 @@
+{
+  "id": 6858,
+  "title": "What Is Worth Fighting For",
+  "points": 10,
+  "description": "Discover each of the Monk lore objects in Pandaria.",
+  "rewardItems": [
+    {
+      "id": 83774,
+      "name": "What Is Worth Fighting For",
+      "icon": "trade_archaeology_silverscrollcase",
+      "quality": 1,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_faction_lorewalkers",
+  "criteria": [
+    {
+      "id": 19801,
+      "description": "Pandaren Fighting Tactics",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19802,
+      "description": "Always Remember",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19803,
+      "description": "The First Monks",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19804,
+      "description": "Together, We Are Strong",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 19809,
+      "description": "Victory in Kun-Lai",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

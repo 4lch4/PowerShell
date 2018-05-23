@@ -1,0 +1,24 @@
+{
+  "id": 784,
+  "title": "Eye of the Storm Domination",
+  "points": 10,
+  "description": "Win Eye of the Storm 10 times while holding 4 bases.",
+  "rewardItems": [],
+  "icon": "inv_brd_banner",
+  "criteria": [
+    {
+      "id": 1239,
+      "description": "Win Eye of the Storm 10 times while holding 4 bases",
+      "orderIndex": 0,
+      "max": 10
+    },
+    {
+      "id": 37105,
+      "description": "Win Eye of the Storm 10 times while holding 4 bases",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

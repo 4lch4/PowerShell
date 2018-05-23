@@ -1,0 +1,90 @@
+{
+  "id": 778,
+  "title": "Explore Duskwood",
+  "points": 10,
+  "description": "Explore Duskwood, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_duskwood",
+  "criteria": [
+    {
+      "id": 1161,
+      "description": "The Hushed Bank",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1162,
+      "description": "Addle's Stead",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1163,
+      "description": "Raven Hill",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1164,
+      "description": "Raven Hill Cemetery",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1165,
+      "description": "Vul'Gol Ogre Mound",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1166,
+      "description": "Twilight Grove",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1167,
+      "description": "The Yorgen Farmstead",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1168,
+      "description": "Brightwood Grove",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1169,
+      "description": "The Rotting Orchard",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1170,
+      "description": "Tranquil Gardens Cemetery",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1171,
+      "description": "Darkshire",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1172,
+      "description": "Manor Mistmantle",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1173,
+      "description": "The Darkened Bank",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

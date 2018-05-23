@@ -1,0 +1,18 @@
+{
+  "id": 1873,
+  "title": "Lodi Dodi We Loves the Skadi",
+  "points": 10,
+  "description": "Defeat Skadi the Ruthless in Utgarde Pinnacle on Heroic Difficulty within 3 minutes of starting the gauntlet event.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_utgardepinnacle_10man",
+  "criteria": [
+    {
+      "id": 7181,
+      "description": "Kill Skadi the Ruthless on Heroic Difficulty within 3 minutes of starting the guantlet event",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

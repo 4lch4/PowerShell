@@ -1,0 +1,18 @@
+{
+  "id": 222,
+  "title": "Tower Defense",
+  "points": 10,
+  "description": "Defend 50 towers in Alterac Valley.",
+  "rewardItems": [],
+  "icon": "achievement_bg_defendxtowers_av",
+  "criteria": [
+    {
+      "id": 436,
+      "description": "50 towers defended",
+      "orderIndex": 1,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

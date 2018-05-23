@@ -1,0 +1,18 @@
+{
+  "id": 8536,
+  "title": "No More Tears",
+  "points": 10,
+  "description": "Defeat Immerseus after killing 10 Tears of the Vale in Siege of Orgrimmar on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "spell_frost_summonwaterelemental_2",
+  "criteria": [
+    {
+      "id": 23891,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

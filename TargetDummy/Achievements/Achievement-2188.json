@@ -1,0 +1,19 @@
+{
+  "id": 2188,
+  "title": "Leeeeeeeeeeeeeroy!",
+  "points": 0,
+  "description": "Kill 50 rookery whelps within 15 seconds.",
+  "reward": "Title: Jenkins",
+  "rewardItems": [],
+  "icon": "ability_mount_drake_red",
+  "criteria": [
+    {
+      "id": 7622,
+      "description": "Kill 50 rookery whelps within 15 seconds",
+      "orderIndex": 1,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

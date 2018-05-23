@@ -1,0 +1,38 @@
+{
+  "id": 10356,
+  "title": "Lord of the Reins",
+  "points": 10,
+  "description": "Obtain 300 mounts (usable by a single character).",
+  "reward": "Reward: Heavenly Azure Cloud Serpent",
+  "rewardItems": [
+    {
+      "id": 87776,
+      "name": "Reins of the Heavenly Azure Cloud Serpent",
+      "icon": "inv_bluegodcloudserpent",
+      "quality": 4,
+      "itemLevel": 90,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_pandarenserpentmount_blue",
+  "criteria": [
+    {
+      "id": 4787,
+      "description": "Obtain 300 mounts",
+      "orderIndex": 0,
+      "max": 300
+    }
+  ],
+  "accountWide": true,
+  "factionId": 0
+}

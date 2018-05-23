@@ -1,0 +1,18 @@
+{
+  "id": 1178,
+  "title": "Got My Mind On My Money",
+  "points": 10,
+  "description": "Loot 5,000 gold.",
+  "rewardItems": [],
+  "icon": "inv_misc_coin_03",
+  "criteria": [
+    {
+      "id": 4093,
+      "description": "Loot 5,000 gold",
+      "orderIndex": 1,
+      "max": 50000000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

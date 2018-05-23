@@ -1,0 +1,30 @@
+{
+  "id": 2945,
+  "title": "But I'm On Your Side (10 player)",
+  "points": 10,
+  "description": "Defeat the Assembly of Iron while under the effect of an Iron Boot Flask in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_drink_01",
+  "criteria": [
+    {
+      "id": 10088,
+      "description": "Runemaster Molgeim",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 10418,
+      "description": "Stormcaller Brundir",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 10419,
+      "description": "Steelbreaker",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

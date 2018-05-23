@@ -1,0 +1,36 @@
+{
+  "id": 9105,
+  "title": "Tour of Duty",
+  "points": 10,
+  "description": "Complete each PvP Event at the following areas listed below.",
+  "rewardItems": [],
+  "icon": "achievement_ashran_tourofduty",
+  "criteria": [
+    {
+      "id": 25789,
+      "description": "Molten Quarry",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25215,
+      "description": "Brute's Rise",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25790,
+      "description": "Ashmaul Burial Grounds",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 25791,
+      "description": "Amphitheater of Annihilation",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

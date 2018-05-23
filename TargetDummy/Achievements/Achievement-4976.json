@@ -1,0 +1,18 @@
+{
+  "id": 4976,
+  "title": "Ashenvale Quests",
+  "points": 10,
+  "description": "Complete 62 quests in Ashenvale.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ashenvale_01",
+  "criteria": [
+    {
+      "id": 13836,
+      "description": "Ashenvale",
+      "orderIndex": 1,
+      "max": 62
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

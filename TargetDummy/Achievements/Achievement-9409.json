@@ -1,0 +1,18 @@
+{
+  "id": 9409,
+  "title": "Draenor Archaeologist",
+  "points": 10,
+  "description": "Obtain 700 skill points in archaeology.",
+  "rewardItems": [],
+  "icon": "trade_archaeology",
+  "criteria": [
+    {
+      "id": 13812,
+      "description": "Obtain 700 skill points in archaeology.",
+      "orderIndex": 0,
+      "max": 700
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

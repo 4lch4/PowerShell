@@ -1,0 +1,19 @@
+{
+  "id": 4477,
+  "title": "Looking For Many",
+  "points": 10,
+  "description": "Use the Dungeon Finder tool to finish random heroic dungeons until you have grouped with 50 random players total.",
+  "reward": "Title: the Patient",
+  "rewardItems": [],
+  "icon": "achievement_arena_3v3_4",
+  "criteria": [
+    {
+      "id": 13029,
+      "description": "",
+      "orderIndex": 1,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

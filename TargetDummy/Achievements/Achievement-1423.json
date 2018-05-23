@@ -1,0 +1,18 @@
+{
+  "id": 1423,
+  "title": "Realm First! Grand Master Jewelcrafter",
+  "points": 0,
+  "description": "First person on the realm to achieve 450 skill in jewelcrafting.",
+  "rewardItems": [],
+  "icon": "inv_misc_gem_01",
+  "criteria": [
+    {
+      "id": 5571,
+      "description": "Skill to 450",
+      "orderIndex": 1,
+      "max": 450
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

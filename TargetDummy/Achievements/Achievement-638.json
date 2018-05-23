@@ -1,0 +1,36 @@
+{
+  "id": 638,
+  "title": "Uldaman",
+  "points": 10,
+  "description": "Defeat Archaedas.",
+  "rewardItems": [],
+  "icon": "achievement_boss_archaedas",
+  "criteria": [
+    {
+      "id": 18531,
+      "description": "Archaedas",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4256,
+      "description": "The Platinum Discs ",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4257,
+      "description": "Find the Gems and Power Source",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4258,
+      "description": "Restoring the Necklace",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

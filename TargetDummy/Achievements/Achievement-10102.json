@@ -1,0 +1,11 @@
+{
+  "id": 10102,
+  "title": "Hero of the Alliance: Wild",
+  "points": 0,
+  "description": "End Warlords PvP season 2 in the top 0.5% of the rated battleground ladder (requires 50 games won in Warlords Season 2).",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_a",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 0
+}

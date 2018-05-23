@@ -1,0 +1,36 @@
+{
+  "id": 252,
+  "title": "With a Little Helper from My Friends",
+  "points": 10,
+  "description": "Earn 50 honorable kills as a Little Helper from the Winter Wondervolt machine.",
+  "rewardItems": [],
+  "icon": "achievement_worldevent_littlehelper",
+  "criteria": [
+    {
+      "id": 3826,
+      "description": "26157",
+      "orderIndex": 1,
+      "max": 50
+    },
+    {
+      "id": 3827,
+      "description": "26272",
+      "orderIndex": 2,
+      "max": 50
+    },
+    {
+      "id": 3828,
+      "description": "26273",
+      "orderIndex": 3,
+      "max": 50
+    },
+    {
+      "id": 3829,
+      "description": "26274",
+      "orderIndex": 4,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

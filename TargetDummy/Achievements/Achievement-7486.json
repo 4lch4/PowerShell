@@ -1,0 +1,18 @@
+{
+  "id": 7486,
+  "title": "Cutting Edge: Grand Empress Shek'zeer",
+  "points": 0,
+  "description": "Defeat Grand Empress Shek'zeer in Heart of Fear on Heroic difficulty, before the release of patch 5.2.",
+  "rewardItems": [],
+  "icon": "achievement_raid_mantidraid07",
+  "criteria": [
+    {
+      "id": 21346,
+      "description": "Grand Empress Shek'zeer",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

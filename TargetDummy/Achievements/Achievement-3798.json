@@ -1,0 +1,24 @@
+{
+  "id": 3798,
+  "title": "Resilience Will Fix It (10 player)",
+  "points": 10,
+  "description": "Kill all the enemy heroes within 60 seconds of the first one dying in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_arena_5v5_3",
+  "criteria": [
+    {
+      "id": 11803,
+      "description": "Faction Champions",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11804,
+      "description": "Faction Champions",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

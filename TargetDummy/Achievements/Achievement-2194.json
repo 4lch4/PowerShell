@@ -1,0 +1,90 @@
+{
+  "id": 2194,
+  "title": "Master of Strand of the Ancients",
+  "points": 25,
+  "description": "Complete the Strand of the Ancients achievements listed below.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winsoa",
+  "criteria": [
+    {
+      "id": 7654,
+      "description": "Strand of the Ancients Veteran",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 7655,
+      "description": "Storm the Beach",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7656,
+      "description": "Steady Hands",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7657,
+      "description": "The Dapper Sapper",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7658,
+      "description": "Explosives Expert",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Not Even a Scratch",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7660,
+      "description": "Artillery Veteran",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7661,
+      "description": "Artillery Expert",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 7662,
+      "description": "Drop it!",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 7663,
+      "description": "Drop it now!",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 7664,
+      "description": "Ancient Protector",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 7665,
+      "description": "Ancient Courtyard Protector",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Defense of the Ancients",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

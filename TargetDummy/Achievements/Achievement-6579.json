@@ -1,0 +1,18 @@
+{
+  "id": 6579,
+  "title": "Rookie Pet Group",
+  "points": 5,
+  "description": "Raise 15 pets to level 10.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_raise15petstolevel25",
+  "criteria": [
+    {
+      "id": 19853,
+      "description": "",
+      "orderIndex": 0,
+      "max": 15
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

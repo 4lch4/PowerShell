@@ -1,0 +1,18 @@
+{
+  "id": 11920,
+  "title": "Perfect Performance",
+  "points": 10,
+  "description": "Participate in a perfect performance of the Blight Boar concert.",
+  "rewardItems": [],
+  "icon": "inv_misc_gem_x4_uncommon_perfectcut_red",
+  "criteria": [
+    {
+      "id": 37030,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

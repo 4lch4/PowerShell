@@ -1,0 +1,8 @@
+{
+  "id": 8016,
+  "name": "Strength Decay",
+  "icon": "spell_holy_harmundeadaura",
+  "description": "Reduces an enemy's Strength for 15 sec.",
+  "range": "Melee Range",
+  "castTime": "2 sec cast"
+}

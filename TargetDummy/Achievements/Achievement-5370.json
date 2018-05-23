@@ -1,0 +1,18 @@
+{
+  "id": 5370,
+  "title": "I'm on a Diet",
+  "points": 10,
+  "description": "Do not gain more than one stack of Nauseated during the Cookie encounter in Deadmines on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_115_condorsoup",
+  "criteria": [
+    {
+      "id": 16212,
+      "description": "Captain Cookie",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

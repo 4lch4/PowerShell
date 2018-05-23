@@ -1,0 +1,30 @@
+{
+  "id": 5257,
+  "title": "Battle for Gilneas Assassin",
+  "points": 20,
+  "description": "Get 10 honorable kills at each of the bases in a single Battle for Gilneas.",
+  "rewardItems": [],
+  "icon": "ability_hunter_rapidkilling",
+  "criteria": [
+    {
+      "id": 14948,
+      "description": "Kill 10 enemies at the Lighthouse.",
+      "orderIndex": 1,
+      "max": 10
+    },
+    {
+      "id": 14949,
+      "description": "Kill 10 enemies at the Mines.",
+      "orderIndex": 2,
+      "max": 10
+    },
+    {
+      "id": 14950,
+      "description": "Kill 10 enemies at the Waterworks.",
+      "orderIndex": 3,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

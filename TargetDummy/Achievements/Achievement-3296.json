@@ -1,0 +1,18 @@
+{
+  "id": 3296,
+  "title": "Cooking with Style",
+  "points": 10,
+  "description": "Obtain a Chef's Hat.",
+  "rewardItems": [],
+  "icon": "achievement_profession_chefhat",
+  "criteria": [
+    {
+      "id": 10638,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

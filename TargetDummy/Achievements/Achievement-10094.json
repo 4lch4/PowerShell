@@ -1,0 +1,44 @@
+{
+  "id": 10094,
+  "title": "Warmongering Combatant",
+  "points": 0,
+  "description": "Win 100 Arena (3v3) or 40 Rated Battlegrounds in Warlords Season 3",
+  "reward": "Reward: Vicious Saddle",
+  "rewardItems": [
+    {
+      "id": 103533,
+      "name": "Vicious Saddle",
+      "icon": "achievement_bg_kill_on_mount",
+      "quality": 4,
+      "itemLevel": 90,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "pvpcurrency-conquest-horde",
+  "criteria": [
+    {
+      "id": 28389,
+      "description": "Win 100 Arena (3v3) matches in Warlords Season 3",
+      "orderIndex": 0,
+      "max": 100
+    },
+    {
+      "id": 28388,
+      "description": "Win 40 Rated Battleground Matches in Warlords Season 3",
+      "orderIndex": 1,
+      "max": 40
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

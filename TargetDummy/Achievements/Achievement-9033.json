@@ -1,0 +1,18 @@
+{
+  "id": 9033,
+  "title": "Ready for Raiding IV",
+  "points": 10,
+  "description": "Defeat Ranjit without taking damage from any of the following abilities in Skyreach on Heroic difficulty: Spinning Blade, Windwall, Four Winds, Lens Flare.",
+  "rewardItems": [],
+  "icon": "spell_misc_emotionhappy",
+  "criteria": [
+    {
+      "id": 24897,
+      "description": "Ready for Raiding Aura",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,25 @@
+{
+  "id": 953,
+  "title": "Guardian of Cenarius",
+  "points": 25,
+  "description": "Earn Exalted status with the Cenarion Circle and Cenarion Expedition.",
+  "reward": "Title Reward: Guardian of Cenarius",
+  "rewardItems": [],
+  "icon": "ability_racial_ultravision",
+  "criteria": [
+    {
+      "id": 2045,
+      "description": "Exalted with Cenarion Circle",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 4751,
+      "description": "Exalted with Cenarion Expedition",
+      "orderIndex": 2,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

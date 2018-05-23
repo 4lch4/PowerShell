@@ -1,0 +1,104 @@
+{
+  "id": 5828,
+  "title": "Glory of the Firelands Raider",
+  "points": 25,
+  "description": "Complete the Firelands raid achievements listed below.",
+  "reward": "Reward: Corrupted Egg of Millagazor",
+  "rewardItems": [
+    {
+      "id": 69230,
+      "name": "Corrupted Egg of Millagazor",
+      "icon": "inv_misc_orb_04",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_mace_1h_sulfuron_d_01",
+  "criteria": [
+    {
+      "id": 17552,
+      "description": "Heroic: Beth'tilac",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 17553,
+      "description": "Heroic: Lord Rhyolith",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17554,
+      "description": "Heroic: Shannox",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17551,
+      "description": "Heroic: Alysrazor",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17575,
+      "description": "Heroic: Baleroc",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17555,
+      "description": "Heroic: Majordomo Fandral Staghelm",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 17578,
+      "description": "Death from Above",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 17574,
+      "description": "Not an Ambi-Turner",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 17579,
+      "description": "Do a Barrel Roll!",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 17580,
+      "description": "Bucket List",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 17581,
+      "description": "Share the Pain",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 17582,
+      "description": "Only the Penitent...",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

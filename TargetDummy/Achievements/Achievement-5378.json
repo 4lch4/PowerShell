@@ -1,0 +1,30 @@
+{
+  "id": 5378,
+  "title": "Deathy",
+  "points": 0,
+  "description": "Proud owner of Deathy's Murloc Egg from the 2010 BlizzCon.",
+  "rewardItems": [],
+  "icon": "inv_misc_shadowegg",
+  "criteria": [
+    {
+      "id": 15367,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 15368,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 34644,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

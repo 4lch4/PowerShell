@@ -1,0 +1,7 @@
+{
+  "id": 9411,
+  "name": "Increase Nature Dam 14",
+  "icon": "trade_engineering",
+  "description": "Increases nature spell power by 14.",
+  "castTime": "Passive"
+}

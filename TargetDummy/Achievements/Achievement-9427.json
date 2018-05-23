@@ -1,0 +1,18 @@
+{
+  "id": 9427,
+  "title": "Vientos!",
+  "points": 5,
+  "description": "Defeat 20 contenders while wearing a contender's outfit purchased during Day of the Dead.",
+  "rewardItems": [],
+  "icon": "ability_mage_potentspirit",
+  "criteria": [
+    {
+      "id": 25730,
+      "description": "Contenders Defeated",
+      "orderIndex": 0,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

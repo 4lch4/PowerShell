@@ -1,0 +1,18 @@
+{
+  "id": 6485,
+  "title": "Return to Sender",
+  "points": 10,
+  "description": "Defeat General Pa'valak while he has 20 stacks of Detonate in the Siege of Niuzao Temple on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_bomb_02",
+  "criteria": [
+    {
+      "id": 19147,
+      "description": "Mantid General [PH]",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

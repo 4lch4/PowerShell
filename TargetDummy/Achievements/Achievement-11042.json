@@ -1,0 +1,11 @@
+{
+  "id": 11042,
+  "title": "Hero of the Horde: Cruel",
+  "points": 0,
+  "description": "End Legion PvP season 3 in the top 0.5% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 3).",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_h",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 1
+}

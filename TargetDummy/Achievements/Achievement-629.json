@@ -1,0 +1,18 @@
+{
+  "id": 629,
+  "title": "Ragefire Chasm",
+  "points": 10,
+  "description": "Defeat Lava Guard Gordoth.",
+  "rewardItems": [],
+  "icon": "racial_orc_berserkerstrength",
+  "criteria": [
+    {
+      "id": 19213,
+      "description": "Defeat Lava Guard Gordoth in Ragefire Chasm.",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

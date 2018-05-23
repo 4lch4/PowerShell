@@ -1,0 +1,54 @@
+{
+  "id": 10075,
+  "title": "Draenor's Last Stand",
+  "points": 10,
+  "description": "Complete the Tanaan Jungle daily objectives listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_tanaanjungle",
+  "criteria": [
+    {
+      "id": 28322,
+      "description": "Ironhold Harbor",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28323,
+      "description": "Ruins of Kra'nak",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28324,
+      "description": "Temple of Sha'naar",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 28325,
+      "description": "The Fel Forge",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 28326,
+      "description": "The Iron Front",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 28327,
+      "description": "Throne of Kil'jaeden",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 28328,
+      "description": "Zeth'gol",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

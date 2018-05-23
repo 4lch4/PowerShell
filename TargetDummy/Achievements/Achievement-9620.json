@@ -1,0 +1,24 @@
+{
+  "id": 9620,
+  "title": "Challenge Master: Bloodmaul Slag Mines",
+  "points": 0,
+  "description": "Attain a realm-best time for the Bloodmaul Slag Mines Challenge Mode.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_ogreslagmines_gold",
+  "criteria": [
+    {
+      "id": 26449,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26450,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

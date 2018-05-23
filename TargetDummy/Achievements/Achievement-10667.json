@@ -1,0 +1,96 @@
+{
+  "id": 10667,
+  "title": "Explore Highmountain",
+  "points": 10,
+  "description": "Explore Highmountain, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievements_zone_highmountain",
+  "criteria": [
+    {
+      "id": 32696,
+      "description": "Bloodhunt Highlands",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 32697,
+      "description": "Blind Marshlands",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 32698,
+      "description": "Highmountain Summit",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 32699,
+      "description": "Ironhorn Enclave",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 32700,
+      "description": "Nightwatcher's Perch",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 32701,
+      "description": "Pinerock Basin",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 32702,
+      "description": "Riverbend",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 32703,
+      "description": "Rockaway Shallows",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 32704,
+      "description": "Shipwreck Cove",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 32705,
+      "description": "Skyhorn",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 32706,
+      "description": "Stonehoof Watch",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 32707,
+      "description": "Sylvan Falls",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 32708,
+      "description": "Thunder Totem",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 32709,
+      "description": "Trueshot Lodge",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

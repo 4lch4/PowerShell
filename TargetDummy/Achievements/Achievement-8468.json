@@ -1,0 +1,18 @@
+{
+  "id": 8468,
+  "title": "Mythic: Galakras",
+  "points": 10,
+  "description": "Defeat Galakras in Siege of Orgrimmar on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_galakras",
+  "criteria": [
+    {
+      "id": 23671,
+      "description": "Galakras",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

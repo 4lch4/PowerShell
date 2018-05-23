@@ -1,0 +1,18 @@
+{
+  "id": 1636,
+  "title": "Competitor's Tabard",
+  "points": 0,
+  "description": "Proud owner of a Competitor's Tabard from the 2008 Spirit of Competition event.",
+  "rewardItems": [],
+  "icon": "achievement_general",
+  "criteria": [
+    {
+      "id": 5812,
+      "description": "Competitor's Tabard",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

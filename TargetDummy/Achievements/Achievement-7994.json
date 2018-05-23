@@ -1,0 +1,120 @@
+{
+  "id": 7994,
+  "title": "Treasure of Pandaria",
+  "points": 10,
+  "description": "Find a Treasure of Pandaria.",
+  "rewardItems": [],
+  "icon": "racial_dwarf_findtreasure",
+  "criteria": [
+    {
+      "id": 20895,
+      "description": "Ship's Storage",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20898,
+      "description": "Ancient Pandaren Tea Pot",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20899,
+      "description": "Lucky Pandaren Coin",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 20902,
+      "description": "Pandaren Ritual Stone",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 20903,
+      "description": "Virmen Treasure Cache",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 20906,
+      "description": "Saurok Stone Tablet",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 20912,
+      "description": "Hozen Treasure Cache",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 20913,
+      "description": "Stolen Sprite Treasure",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 20914,
+      "description": "Statue of Xuen",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 20916,
+      "description": "Lost Adventurer's Belongings",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 20917,
+      "description": "Rikktik's Tick Remover",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 20918,
+      "description": "Ancient Mogu Tablet",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 20920,
+      "description": "Terracotta Head",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 20921,
+      "description": "Fragment of Dread",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 20922,
+      "description": "Hardened Sap of Kri'vess",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 20924,
+      "description": "Amber Encased Moth",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 20925,
+      "description": "Abandoned Crate of Goods",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 20926,
+      "description": "Hammer of Folly",
+      "orderIndex": 17,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

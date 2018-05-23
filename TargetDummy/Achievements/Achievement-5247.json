@@ -1,0 +1,18 @@
+{
+  "id": 5247,
+  "title": "Battle for Gilneas Perfection",
+  "points": 20,
+  "description": "Win the Battle For Gilneas with a score of 1500 to 0.",
+  "rewardItems": [],
+  "icon": "achievement_bg_abshutout",
+  "criteria": [
+    {
+      "id": 14928,
+      "description": "Battle For Gilneas Shutout",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

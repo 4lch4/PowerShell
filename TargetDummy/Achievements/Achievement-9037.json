@@ -1,0 +1,18 @@
+{
+  "id": 9037,
+  "title": "Bloodmaul Slag Mines",
+  "points": 10,
+  "description": "Defeat Gug'rokk in the Bloodmaul Slag Mines.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_ogreslagmines",
+  "criteria": [
+    {
+      "id": 24989,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

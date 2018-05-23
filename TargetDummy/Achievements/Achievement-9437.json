@@ -1,0 +1,18 @@
+{
+  "id": 9437,
+  "title": "A Demidos of Reality",
+  "points": 10,
+  "description": "Defeat Demidos, Devourer of Lights in Socrethar's Rise.",
+  "rewardItems": [],
+  "icon": "spell_shadow_summonvoidwalker",
+  "criteria": [
+    {
+      "id": 25750,
+      "description": "Defeat Demidos, Devourer of Lights in Socrethar's Rise.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

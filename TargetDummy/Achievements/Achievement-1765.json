@@ -1,0 +1,18 @@
+{
+  "id": 1765,
+  "title": "Steady Hands",
+  "points": 10,
+  "description": "Disarm 2 seaforium charges in a single battle.",
+  "rewardItems": [],
+  "icon": "inv_misc_bomb_02",
+  "criteria": [
+    {
+      "id": 6447,
+      "description": "Disarm 2 seaforium charges in a single battle",
+      "orderIndex": 1,
+      "max": 2
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

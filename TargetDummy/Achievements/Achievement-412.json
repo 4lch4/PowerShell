@@ -1,0 +1,24 @@
+{
+  "id": 412,
+  "title": "Murloc Costume",
+  "points": 0,
+  "description": "Proud owner of the Murloc Costume from the 2007 BlizzCon in Anaheim, California.",
+  "rewardItems": [],
+  "icon": "inv_misc_head_murloc_01",
+  "criteria": [
+    {
+      "id": 350,
+      "description": "Murloc Costume",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9082,
+      "description": "Murloc Costume",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

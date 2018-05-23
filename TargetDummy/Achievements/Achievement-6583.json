@@ -1,0 +1,18 @@
+{
+  "id": 6583,
+  "title": "Rookie Pet Mob",
+  "points": 10,
+  "description": "Raise 75 pets to level 10.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_raise75petstolevel25",
+  "criteria": [
+    {
+      "id": 19853,
+      "description": "",
+      "orderIndex": 0,
+      "max": 75
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

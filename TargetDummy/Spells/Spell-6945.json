@@ -1,0 +1,7 @@
+{
+  "id": 6945,
+  "name": "Chest Pains",
+  "icon": "spell_shadow_animatedead",
+  "description": "Agonizing chest pains afflict the target, stunning it for 2 sec.",
+  "castTime": "Instant"
+}

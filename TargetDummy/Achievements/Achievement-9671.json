@@ -1,0 +1,18 @@
+{
+  "id": 9671,
+  "title": "Having a Ball",
+  "points": 10,
+  "description": "Collect 50 toys.",
+  "rewardItems": [],
+  "icon": "inv_misc_toy_09",
+  "criteria": [
+    {
+      "id": 26801,
+      "description": "Collect 50 Toys",
+      "orderIndex": 0,
+      "max": 50
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

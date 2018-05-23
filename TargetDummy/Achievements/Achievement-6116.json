@@ -1,0 +1,25 @@
+{
+  "id": 6116,
+  "title": "Heroic: Madness of Deathwing",
+  "points": 10,
+  "description": "Destroy Deathwing in Dragon Soul on Heroic Difficulty.",
+  "reward": "Title: Savior of Azeroth",
+  "rewardItems": [],
+  "icon": "achievment_boss_madnessofdeathwing",
+  "criteria": [
+    {
+      "id": 18561,
+      "description": "Madness of Deathwing (10H)",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18562,
+      "description": "Madness of Deathwing (25H)",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

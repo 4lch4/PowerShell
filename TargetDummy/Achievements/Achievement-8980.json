@@ -1,0 +1,18 @@
+{
+  "id": 8980,
+  "title": "Stamp Stamp Revolution",
+  "points": 10,
+  "description": "Defeat Hans'gar and Franzok in Blackrock Foundry without any raid member being crushed by a stamping press on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "inv_misc_pyriumbar",
+  "criteria": [
+    {
+      "id": 24681,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,42 @@
+{
+  "id": 764,
+  "title": "The Burning Crusader",
+  "points": 20,
+  "description": "Raise all of The Burning Crusade dungeon reputations to Exalted.",
+  "rewardItems": [],
+  "icon": "spell_fire_felfireward",
+  "criteria": [
+    {
+      "id": 5336,
+      "description": "Honor Hold",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 4764,
+      "description": "The Sha'tar",
+      "orderIndex": 2,
+      "max": 42000
+    },
+    {
+      "id": 4751,
+      "description": "Cenarion Expedition",
+      "orderIndex": 3,
+      "max": 42000
+    },
+    {
+      "id": 4759,
+      "description": "Lower City",
+      "orderIndex": 4,
+      "max": 42000
+    },
+    {
+      "id": 4765,
+      "description": "Keepers of Time",
+      "orderIndex": 5,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

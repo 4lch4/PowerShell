@@ -1,0 +1,18 @@
+{
+  "id": 9551,
+  "title": "Demon's Souls",
+  "points": 10,
+  "description": "Defeat Azzakel in Auchindoun on Heroic difficulty without killing any other demons during the encounter.",
+  "rewardItems": [],
+  "icon": "sha_spell_warlock_demonsoul",
+  "criteria": [
+    {
+      "id": 26154,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

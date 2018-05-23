@@ -1,0 +1,7 @@
+{
+  "id": 8980,
+  "name": "Skeletal Horse",
+  "icon": "ability_mount_undeadhorse",
+  "description": "Summons and dismisses a rideable skeletal horse.",
+  "castTime": "1.5 sec cast"
+}

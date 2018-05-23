@@ -1,0 +1,18 @@
+{
+  "id": 10036,
+  "title": "Naval Bonus Expert",
+  "points": 5,
+  "description": "Complete 25 Naval Bonus Missions.",
+  "rewardItems": [],
+  "icon": "inv_box_01",
+  "criteria": [
+    {
+      "id": 28513,
+      "description": "",
+      "orderIndex": 0,
+      "max": 25
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

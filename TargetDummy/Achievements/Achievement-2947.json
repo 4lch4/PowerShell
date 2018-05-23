@@ -1,0 +1,30 @@
+{
+  "id": 2947,
+  "title": "Can't Do That While Stunned (10 player)",
+  "points": 10,
+  "description": "Defeat the Assembly of Iron without allowing Stormcaller Brundir to damage anyone with Chain Lightning or Lightning Whirl in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_lightning_lightningbolt01",
+  "criteria": [
+    {
+      "id": 10090,
+      "description": "Flame Leviathan",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 10422,
+      "description": "Flame Leviathan",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 10423,
+      "description": "Flame Leviathan",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

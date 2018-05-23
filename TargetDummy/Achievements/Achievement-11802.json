@@ -1,0 +1,66 @@
+{
+  "id": 11802,
+  "title": "Bringing Home the Beacon",
+  "points": 10,
+  "description": "Use a Sentinax beacon in each of the following areas.",
+  "rewardItems": [],
+  "icon": "inv_jewelcrafting_starofelune_01",
+  "criteria": [
+    {
+      "id": 36652,
+      "description": "Shadow Fracture",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 36661,
+      "description": "Soul Ruin",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 36662,
+      "description": "Dark Stockades",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 36663,
+      "description": "Coast of Anguish",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 36664,
+      "description": "Garrison of the Fel",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 36665,
+      "description": "Felfire Pass",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 36666,
+      "description": "Felrage Strand",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 36667,
+      "description": "Crescent Ruins",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 36668,
+      "description": "The Creeping Grotto",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

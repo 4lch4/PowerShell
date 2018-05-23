@@ -1,0 +1,67 @@
+{
+  "id": 8926,
+  "title": "Between Arak and a Hard Place",
+  "points": 10,
+  "description": "Complete the Spires of Arak storylines listed below.",
+  "reward": "Reward: Unlocks \"Treasure Map: Spires of Arak\"",
+  "rewardItems": [],
+  "icon": "achievement_zone_spiresofarak",
+  "criteria": [
+    {
+      "id": 26023,
+      "description": "Shadows Gather",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26035,
+      "description": "Admiral Taylor's Garrison",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26024,
+      "description": "Secrets of the Talonpriests",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "The Gods of Arak",
+      "orderIndex": 3,
+      "max": 2
+    },
+    {
+      "id": 26027,
+      "description": "Legacy of the Apexis",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26028,
+      "description": "Terokk's Legend",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Establishing Axefall",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 26030,
+      "description": "Pinchwhistle Gearworks",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 26029,
+      "description": "When the Raven Swallows the Day",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

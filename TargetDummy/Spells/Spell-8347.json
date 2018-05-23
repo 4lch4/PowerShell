@@ -1,0 +1,8 @@
+{
+  "id": 8347,
+  "name": "Target Lock",
+  "icon": "inv_gizmo_01",
+  "description": "",
+  "range": "30 yd range",
+  "castTime": "Instant"
+}

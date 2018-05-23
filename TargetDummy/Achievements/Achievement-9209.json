@@ -1,0 +1,48 @@
+{
+  "id": 9209,
+  "title": "Master Defender",
+  "points": 10,
+  "description": "Earn a Gold rating in each max-level invasion.",
+  "rewardItems": [],
+  "icon": "achievement_garrison_invasion_border",
+  "criteria": [
+    {
+      "id": 27294,
+      "description": "Botani",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27295,
+      "description": "Goren",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27296,
+      "description": "Iron Horde",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27297,
+      "description": "Ogres",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27298,
+      "description": "Shadow Council",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27299,
+      "description": "Shadowmoon",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

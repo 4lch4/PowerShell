@@ -1,0 +1,18 @@
+{
+  "id": 408,
+  "title": "Hot Streak",
+  "points": 10,
+  "description": "Win ten ranked matches in a row.",
+  "rewardItems": [],
+  "icon": "spell_fire_fire",
+  "criteria": [
+    {
+      "id": 2408,
+      "description": "Win 10 arenas without losing",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

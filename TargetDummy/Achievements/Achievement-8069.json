@@ -1,0 +1,30 @@
+{
+  "id": 8069,
+  "title": "Last Stand of the Zandalari",
+  "points": 10,
+  "description": "Defeat the bosses occupying the ruins at the entrance to the Throne of Thunder.",
+  "rewardItems": [],
+  "icon": "archaeology_5_0_thunderkinginsignia",
+  "criteria": [
+    {
+      "id": 22912,
+      "description": "Jin'rokh the Breaker",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22984,
+      "description": "Horridon",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22963,
+      "description": "Council of Elders",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3357,
+  "title": "Venomhide Ravasaur",
+  "points": 0,
+  "description": "Obtain a Venomhide Ravasaur.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_raptor",
+  "criteria": [
+    {
+      "id": 10740,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 10741,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 201,
+  "title": "Warsong Expedience",
+  "points": 10,
+  "description": "Win Warsong Gulch in under 7 minutes.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winwsg_underxminutes",
+  "criteria": [
+    {
+      "id": 758,
+      "description": "Win Warsong Gulch in under 7 minutes",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,38 @@
+{
+  "id": 4156,
+  "title": "A Tribute to Immortality",
+  "points": 0,
+  "description": "In the Trial of the Grand Crusader, reach a Tribute Chest with 50 attempts remaining and without allowing any raid member to die during any of the boss encounters in 25-player mode.",
+  "reward": "Reward: Crusader's White Warhorse",
+  "rewardItems": [
+    {
+      "id": 49096,
+      "name": "Crusader's White Warhorse",
+      "icon": "ability_mount_ridinghorse",
+      "quality": 4,
+      "itemLevel": 40,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_reputation_argentchampion",
+  "criteria": [
+    {
+      "id": 12359,
+      "description": "Complete the Trial of the Grand Crusader",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

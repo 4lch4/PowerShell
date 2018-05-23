@@ -1,0 +1,18 @@
+{
+  "id": 11918,
+  "title": "Hey, You're a Rockstar!",
+  "points": 5,
+  "description": "Participate in the Blight Boar concert.",
+  "rewardItems": [],
+  "icon": "inv_jewelcrafting_emeraldboar",
+  "criteria": [
+    {
+      "id": 37023,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

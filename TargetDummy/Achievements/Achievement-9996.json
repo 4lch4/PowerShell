@@ -1,0 +1,12 @@
+{
+  "id": 9996,
+  "title": "Defender of the Alliance: Warlords Season 1",
+  "points": 0,
+  "description": "End Warlords PvP season 1 in the top 10% of the rated battleground ladder (requires 50 games won in Warlords Season 1).",
+  "reward": "Title Reward: Defender of the Alliance",
+  "rewardItems": [],
+  "icon": "achievement_pvp_o_a",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 0
+}

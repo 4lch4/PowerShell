@@ -1,0 +1,18 @@
+{
+  "id": 7340,
+  "title": "Collector: Twin Stein Sets of Brewfather Quan Tou Kuo",
+  "points": 10,
+  "description": "Restore 5 Twin Stein Sets of Brewfather Quan Tou Kuo.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20653,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5284,
+  "title": "Ascendant Descending",
+  "points": 10,
+  "description": "Defeat Ascendant Lord Obsidius without any party member reaching 4 stacks of Crepuscular Veil in Blackrock Caverns on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_blackrockcaverns_ascendantlordobsidius",
+  "criteria": [
+    {
+      "id": 15961,
+      "description": "Ascendant Lord Obsidius",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

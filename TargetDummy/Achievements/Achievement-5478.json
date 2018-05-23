@@ -1,0 +1,264 @@
+{
+  "id": 5478,
+  "title": "The Limnologist",
+  "points": 10,
+  "description": "Catch 42 different freshwater fish.",
+  "rewardItems": [],
+  "icon": "inv_misc_fish_30",
+  "criteria": [
+    {
+      "id": 15900,
+      "description": "Albino Cavefish",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15829,
+      "description": "Barbed Gill Trout",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15830,
+      "description": "Barrelhead Goby",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15904,
+      "description": "Blackbelly Mudfish",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15867,
+      "description": "Bloodfin Catfish",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 15868,
+      "description": "Bonescale Snapper",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 15885,
+      "description": "Brilliant Smallfish",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 15886,
+      "description": "Bristle Whisker Catfish",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 15828,
+      "description": "Crescent-Tail Skullfish",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 15827,
+      "description": "Deviate Fish",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 15869,
+      "description": "Dragonfin Angelfish",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 15870,
+      "description": "Fangtooth Herring",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 15871,
+      "description": "Felblood Snapper",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 15872,
+      "description": "Figluster's Mudfish",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 15873,
+      "description": "Fountain Goldfish",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 15874,
+      "description": "Furious Crawdad",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 15875,
+      "description": "Giant Darkwater Clam",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 15876,
+      "description": "Glacial Salmon",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 15877,
+      "description": "Glassfin Minnow",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 15878,
+      "description": "Golden Darter",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 15879,
+      "description": "Goldenscale Vendorfish",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 15887,
+      "description": "Greater Sagefish",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 15901,
+      "description": "Highland Guppy",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 15880,
+      "description": "Huge Spotted Feltail",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 15881,
+      "description": "Icefin Bluefish",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 15903,
+      "description": "Lavascale Catfish",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 15888,
+      "description": "Loch Frenzy",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 15889,
+      "description": "Longjaw Mud Snapper",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 15890,
+      "description": "Mithril Head Trout",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 15902,
+      "description": "Mountain Trout",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 15883,
+      "description": "Musselback Sculpin",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 15884,
+      "description": "Nettlefish",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 15891,
+      "description": "Nightfin Snapper",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 15892,
+      "description": "Sagefish",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 15893,
+      "description": "Sewer Carp",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 15905,
+      "description": "Sharptooth",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 15894,
+      "description": "Shimmering Minnow",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 15895,
+      "description": "Sickly Looking Fish",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 15896,
+      "description": "Slippery Eel",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 15897,
+      "description": "Spotted Feltail",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 15906,
+      "description": "Striped Lurker",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 15899,
+      "description": "Zangarian Sporefish",
+      "orderIndex": 42,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

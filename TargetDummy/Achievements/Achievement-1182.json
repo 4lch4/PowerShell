@@ -1,0 +1,18 @@
+{
+  "id": 1182,
+  "title": "The Bread Winner",
+  "points": 10,
+  "description": "Make 10,000 gold from quest rewards.",
+  "rewardItems": [],
+  "icon": "inv_misc_coin_16",
+  "criteria": [
+    {
+      "id": 4092,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100000000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

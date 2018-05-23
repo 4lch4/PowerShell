@@ -1,0 +1,42 @@
+{
+  "id": 3579,
+  "title": "\"FOOD FIGHT!\"",
+  "points": 10,
+  "description": "Bounce food off a fellow feaster's head at a Bountiful Table.",
+  "rewardItems": [],
+  "icon": "ability_warrior_battleshout",
+  "criteria": [
+    {
+      "id": 11168,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11178,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 11179,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 11180,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 11181,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 10086,
+  "title": "I'm a Soul Man",
+  "points": 10,
+  "description": "Defeat Socrethar the Eternal in Hellfire Citadel after killing 20 Haunting Souls within 10 seconds on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "inv_helmet_51",
+  "criteria": [
+    {
+      "id": 28379,
+      "description": "Haunting Souls Slain",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

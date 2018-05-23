@@ -1,0 +1,18 @@
+{
+  "id": 6839,
+  "title": "Zen Master Fisherman",
+  "points": 10,
+  "description": "Obtain 600 skill points in fishing.",
+  "rewardItems": [],
+  "icon": "trade_fishing",
+  "criteria": [
+    {
+      "id": 5696,
+      "description": "Obtain 600 skill points in fishing.",
+      "orderIndex": 0,
+      "max": 600
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

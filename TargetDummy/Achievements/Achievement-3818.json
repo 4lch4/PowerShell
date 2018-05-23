@@ -1,0 +1,11 @@
+{
+  "id": 3818,
+  "title": "A Tribute to Mad Skill (25 player)",
+  "points": 0,
+  "description": "In the Trial of the Grand Crusader, reach a Tribute Chest with at least 45 attempts remaining in 25-player mode.",
+  "rewardItems": [],
+  "icon": "inv_crown_15",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

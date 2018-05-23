@@ -1,0 +1,18 @@
+{
+  "id": 949,
+  "title": "Tuskarrmageddon",
+  "points": 15,
+  "description": "Earn Exalted status with The Kalu'ak.",
+  "rewardItems": [],
+  "icon": "achievement_reputation_tuskarr",
+  "criteria": [
+    {
+      "id": 4738,
+      "description": "The Kalu'ak exalted",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

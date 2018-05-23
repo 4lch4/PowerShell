@@ -1,0 +1,18 @@
+{
+  "id": 11723,
+  "title": "Cruel Intentions",
+  "points": 10,
+  "description": "Collect any class armor set from PvP Season 21 or 22.",
+  "rewardItems": [],
+  "icon": "inv_cape_leather_raiddemonhunter_r_01_long",
+  "criteria": [
+    {
+      "id": 36245,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

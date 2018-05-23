@@ -1,0 +1,18 @@
+{
+  "id": 709,
+  "title": "Hero of the Stormpike Guard",
+  "points": 10,
+  "description": "Gain exalted reputation with the Stormpike Guard.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_stormpiketrinket_05",
+  "criteria": [
+    {
+      "id": 5335,
+      "description": "Exalted with the Stormpike Guard",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

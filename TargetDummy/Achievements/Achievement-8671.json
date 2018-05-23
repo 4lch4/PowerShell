@@ -1,0 +1,49 @@
+{
+  "id": 8671,
+  "title": "You'll Get Caught Up In The... Frostfire!",
+  "points": 10,
+  "description": "Complete the Frostfire Ridge storylines listed below.",
+  "reward": "Reward: Unlocks \"Treasure Map: Frostfire Ridge\"",
+  "rewardItems": [],
+  "icon": "achievement_zone_frostfire",
+  "criteria": [
+    {
+      "id": 24706,
+      "description": "Foothold in a Savage Land",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 24370,
+      "description": "Siege of Bladespire Citadel",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 24371,
+      "description": "Defense of Wor'gol",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 24366,
+      "description": "Ga'nar's Vengeance",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 24705,
+      "description": "Thunder's Fall",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 24597,
+      "description": "The Battle of Thunder Pass",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

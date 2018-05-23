@@ -1,0 +1,18 @@
+{
+  "id": 1260,
+  "title": "Almost Blind Luck",
+  "points": 10,
+  "description": "Fall 65 yards without dying while wearing Synthebrew Goggles during the Brewfest Holiday.",
+  "rewardItems": [],
+  "icon": "inv_cask_02",
+  "criteria": [
+    {
+      "id": 3881,
+      "description": "Fall 65 yards without dying while wearing Synthebrew Goggles",
+      "orderIndex": 0,
+      "max": 6500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

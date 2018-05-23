@@ -1,0 +1,18 @@
+{
+  "id": 6687,
+  "title": "Getting Hot In Here",
+  "points": 10,
+  "description": "Have the entire raid dance with Subetai the Swift after being hit by Pillage.",
+  "rewardItems": [],
+  "icon": "thumbsup",
+  "criteria": [
+    {
+      "id": 20986,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

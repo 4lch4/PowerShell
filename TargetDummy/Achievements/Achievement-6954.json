@@ -1,0 +1,24 @@
+{
+  "id": 6954,
+  "title": "Ahead of the Curve: Will of the Emperor",
+  "points": 0,
+  "description": "Defeat the Will of the Emperor in Mogu'shan Vaults on Normal difficulty, before the release of patch 5.2.",
+  "rewardItems": [],
+  "icon": "achievement_moguraid_06",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Will Normal Fos (DO NOT LOCALIZE)",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23250,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

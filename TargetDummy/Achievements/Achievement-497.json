@@ -1,0 +1,36 @@
+{
+  "id": 497,
+  "title": "Heroic: Halls of Lightning",
+  "points": 10,
+  "description": "Defeat the Halls of Lightning bosses on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_ulduar80_heroic",
+  "criteria": [
+    {
+      "id": 6831,
+      "description": "General Bjarngrim",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6832,
+      "description": "Ionar",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6833,
+      "description": "Volkhan",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5616,
+      "description": "Loken",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,162 @@
+{
+  "id": 1800,
+  "title": "The Outland Gourmet",
+  "points": 10,
+  "description": "Cook each of the Outland cooking recipes listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_84_roastclefthoof",
+  "criteria": [
+    {
+      "id": 1832,
+      "description": "Delicious Chocolate Cake",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6759,
+      "description": "Blackened Trout",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6760,
+      "description": "Buzzard Bites",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6764,
+      "description": "Clam Bar",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6765,
+      "description": "Feltail Delight",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6766,
+      "description": "Ravager Dog",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6767,
+      "description": "Stormchops",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6768,
+      "description": "Blackened Sporefish",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 6770,
+      "description": "Blackened Basilisk",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 6771,
+      "description": "Grilled Mudfish",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 6772,
+      "description": "Poached Bluefish",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 6773,
+      "description": "Broiled Bloodfin",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 6774,
+      "description": "Golden Fish Sticks",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 6775,
+      "description": "Kibler's Bits",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 6776,
+      "description": "Roasted Clefthoof",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 6777,
+      "description": "Talbuk Steak",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 6778,
+      "description": "Warp Burger",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 6779,
+      "description": "Crunchy Serpent",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 6780,
+      "description": "Mok'Nathal Shortribs",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 6781,
+      "description": "Fisherman's Feast",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 6782,
+      "description": "Hot Buttered Trout",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 6783,
+      "description": "Skullfish Soup",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 6784,
+      "description": "Spicy Crawdad",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 6785,
+      "description": "Spicy Hot Talbuk",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 6786,
+      "description": "Stewed Trout",
+      "orderIndex": 25,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

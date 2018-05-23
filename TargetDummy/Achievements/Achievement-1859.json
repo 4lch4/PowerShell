@@ -1,0 +1,18 @@
+{
+  "id": 1859,
+  "title": "Arachnophobia (25 player)",
+  "points": 10,
+  "description": "Kill Maexxna in Naxxramas within 20 minutes of Anub'Rekhan's death in 25-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_halloween_spider_01",
+  "criteria": [
+    {
+      "id": 7129,
+      "description": "Kill Maexxna within 20 minutes of Anub'Rekhan's death.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

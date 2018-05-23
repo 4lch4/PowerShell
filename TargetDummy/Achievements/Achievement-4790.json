@@ -1,0 +1,18 @@
+{
+  "id": 4790,
+  "title": "Zalazane's Fall",
+  "points": 0,
+  "description": "You assisted Vol'jin in the final defeat of Zalazane, recapturing the Echo Isles for the Darkspear trolls.",
+  "rewardItems": [],
+  "icon": "inv_misc_head_troll_01",
+  "criteria": [
+    {
+      "id": 13421,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,84 @@
+{
+  "id": 7384,
+  "title": "Quintessential Quintet",
+  "points": 50,
+  "description": "Reach maximum level with five different classes.",
+  "rewardItems": [],
+  "icon": "achievement_guild_level5",
+  "criteria": [
+    {
+      "id": 5214,
+      "description": "Druid",
+      "orderIndex": 0,
+      "max": 110
+    },
+    {
+      "id": 5218,
+      "description": "Hunter",
+      "orderIndex": 1,
+      "max": 110
+    },
+    {
+      "id": 5018,
+      "description": "Mage",
+      "orderIndex": 2,
+      "max": 110
+    },
+    {
+      "id": 5215,
+      "description": "Paladin",
+      "orderIndex": 3,
+      "max": 110
+    },
+    {
+      "id": 5216,
+      "description": "Priest",
+      "orderIndex": 4,
+      "max": 110
+    },
+    {
+      "id": 5221,
+      "description": "Rogue",
+      "orderIndex": 5,
+      "max": 110
+    },
+    {
+      "id": 5213,
+      "description": "Shaman",
+      "orderIndex": 6,
+      "max": 110
+    },
+    {
+      "id": 5217,
+      "description": "Warlock",
+      "orderIndex": 7,
+      "max": 110
+    },
+    {
+      "id": 5220,
+      "description": "Warrior",
+      "orderIndex": 8,
+      "max": 110
+    },
+    {
+      "id": 5219,
+      "description": "Death Knight",
+      "orderIndex": 9,
+      "max": 110
+    },
+    {
+      "id": 19661,
+      "description": "Monk",
+      "orderIndex": 10,
+      "max": 110
+    },
+    {
+      "id": 32452,
+      "description": "Demon Hunter",
+      "orderIndex": 11,
+      "max": 110
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

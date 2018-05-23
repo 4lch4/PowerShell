@@ -1,0 +1,102 @@
+{
+  "id": 9689,
+  "title": "Dragons!",
+  "points": 5,
+  "description": "Defeat 12 Master Tamers in Broken Isles with all Dragonkin pets.",
+  "rewardItems": [],
+  "icon": "inv_inscription_trinket_dragon",
+  "criteria": [
+    {
+      "id": 32543,
+      "description": "Nightwatcher Merayl",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 32552,
+      "description": "Bodhi Sunwayver",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 32561,
+      "description": "Tiffany Nelson",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 32570,
+      "description": "Amalia",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 32579,
+      "description": "Sir Galveston",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 32588,
+      "description": "Bredda Tenderhide",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 32597,
+      "description": "Grixis Tinypop",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 32606,
+      "description": "Odrogg",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 32615,
+      "description": "Robert Craig",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 32624,
+      "description": "Trapper Jarrun",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 32633,
+      "description": "Aulier",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 32642,
+      "description": "Master Tamer Flummox",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 32651,
+      "description": "Varenne",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 32660,
+      "description": "Durian Strongfruit",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 32669,
+      "description": "Xorvasc",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

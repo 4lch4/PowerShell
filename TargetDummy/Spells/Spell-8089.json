@@ -1,0 +1,7 @@
+{
+  "id": 8089,
+  "name": "Aquadynamic Fish Attractor",
+  "icon": "inv_misc_orb_03",
+  "description": "When applied to your fishing pole, increases Fishing by 100 for 10 minutes.",
+  "castTime": "2 sec cast"
+}

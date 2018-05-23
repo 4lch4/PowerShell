@@ -1,0 +1,60 @@
+{
+  "id": 41,
+  "title": "Loremaster of Northrend",
+  "points": 10,
+  "description": "Complete the Northrend quest achievements listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_northrend_01",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Nothing Boring About Borean",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "I've Toured the Fjord",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Might of Dragonblight",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Fo' Grizzle My Shizzle",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 85,
+      "description": "The Empire of Zul'Drak",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 88,
+      "description": "Into the Basin",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 87,
+      "description": "The Summit of Storm Peaks",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 89,
+      "description": "Icecrown: The Final Goal",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

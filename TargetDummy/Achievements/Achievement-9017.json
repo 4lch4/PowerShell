@@ -1,0 +1,18 @@
+{
+  "id": 9017,
+  "title": "Water Management",
+  "points": 10,
+  "description": "Defeat Witherbark without allowing him to replenish any of his Aqueous Energy in The Everbloom on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_drink_20",
+  "criteria": [
+    {
+      "id": 24746,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

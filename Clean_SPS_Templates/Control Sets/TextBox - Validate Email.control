@@ -1,0 +1,69 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a TextBox that validates an email address. </Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABfSURBVDhPY2CgFNTP3fmfXAy2G6SZHADSR3sDgDZgOA4mRpQLSDYApAFZE4yPLgZyFoYLsCnCJ4bVC+g2kmQAzVyALVywhgGpiYmoaMRnKIoBFOUFSjMjMOVA8gS5AAD4b2xU6o/ZlwAAAABJRU5ErkJggg==</Icon>
+  <Identifiers>
+    <ID id="1" name="textboxEmail" type="object" />
+    <ID id="2" name="control_Validated" type="event" />
+    <ID id="3" name="textboxEmail_Validating" type="event" />
+    <ID id="4" name="errorprovider1" type="object" useExistingType="True" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="Anchor">Top, Left, Right</Property>
+      <Property name="IconAlignment" extended="True" provider="%ID:4%">MiddleLeft</Property>
+      <Property name="IconPadding" extended="True" provider="%ID:4%">2</Property>
+      <Property name="Location">100, 64</Property>
+      <Property name="MaxLength">200</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="Size">172, 20</Property>
+      <Property name="TabIndex">2</Property>
+      <Event name="Validated">%ID:2%</Event>
+      <Event name="Validating">%ID:3%</Event>
+    </Object>
+    <Object type="System.Windows.Forms.ErrorProvider, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:4%">
+      <Property name="ContainerControl">
+        <Reference name="%CONTAINER%" />
+      </Property>
+    </Object>
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%={
+	#Pass the calling control and clear error message
+	$%ID:4%.SetError($this, "");	
+}]]></Event>
+    <Event id="3"><![CDATA[$%ID:3%=[System.ComponentModel.CancelEventHandler]{
+#Event Argument: $_ = [System.ComponentModel.CancelEventArgs]
+	#TODO: Place custom script here
+	$result = -not (Test-IsEmail $%ID:1%.Text)
+
+	if($result -eq $true)
+	{
+		$_.Cancel = $true
+		$%ID:4%.SetError($this, "Invalid Email address");
+	}
+}]]></Event>
+  </Events>
+  <Functions>
+    <Function name="Test-IsEmail"><![CDATA[function Test-IsEmail ([string]$Email)
+{
+	<#
+		.SYNOPSIS
+			Validates if input is an Email
+	
+		.DESCRIPTION
+			Validates if input is an Email
+	
+		.PARAMETER  Email
+			A string containing an email address
+	
+		.INPUTS
+			System.String
+	
+		.OUTPUTS
+			System.Boolean
+	#>
+	
+	return $Email -match "^(?("")("".+?""@)|(([0-9a-zA-Z]((\.(?!\.))|[-!#\$%&'\*\+/=\?\^`\{\}\|~\w])*)(?<=[0-9a-zA-Z])@))(?(\[)(\[(\d{1,3}\.){3}\d{1,3}\])|(([0-9a-zA-Z][-\w]*[0-9a-zA-Z]\.)+[a-zA-Z]{2,6}))$"
+}]]></Function>
+  </Functions>
+</ControlTemplate>

@@ -1,0 +1,9 @@
+{
+  "id": 7252,
+  "name": "Nature Protection",
+  "subtext": "Rank 3",
+  "icon": "spell_nature_spiritarmor",
+  "description": "Absorbs 900 nature damage.  Lasts 2 min.",
+  "castTime": "Instant",
+  "cooldown": "1 sec cooldown"
+}

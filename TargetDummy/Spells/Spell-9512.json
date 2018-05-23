@@ -1,0 +1,7 @@
+{
+  "id": 9512,
+  "name": "Restore Energy",
+  "icon": "inv_drink_milk_05",
+  "description": "Restores 100 energy.",
+  "castTime": "Instant"
+}

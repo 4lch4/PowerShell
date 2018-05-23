@@ -1,0 +1,18 @@
+{
+  "id": 10679,
+  "title": "I Ain't Even Cold",
+  "points": 10,
+  "description": "Defeat Ash'Golm while all party members are Fired Up in the Vault of the Wardens on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_firedancer_01",
+  "criteria": [
+    {
+      "id": 30562,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

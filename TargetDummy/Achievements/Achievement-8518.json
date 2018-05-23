@@ -1,0 +1,90 @@
+{
+  "id": 8518,
+  "title": "Master of the Masters",
+  "points": 5,
+  "description": "Defeat all the trainers listed below from the Celestial Tournament.",
+  "rewardItems": [],
+  "icon": "inv_misc_summonable_boss_token",
+  "criteria": [
+    {
+      "id": 23620,
+      "description": "Blingtron 4000",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23610,
+      "description": "Wrathion",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 23611,
+      "description": "Lorewalker Cho",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 23616,
+      "description": "Chen Stormstout",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 23619,
+      "description": "Wise Mari",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 23607,
+      "description": "Shademaster Kiryn",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 23617,
+      "description": "Sully \"The Pickle\" McLeary",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 23618,
+      "description": "Taran Zhu",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 23621,
+      "description": "Dr. Ion Goldbloom",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 23612,
+      "description": "Xu-Fu, Cub of Xuen",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 23615,
+      "description": "Chi-Chi, Hatchling of Chi-Ji",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 23614,
+      "description": "Zao, Calfling of Niuzao",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 23613,
+      "description": "Yu'la, Broodling of Yu'lon",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

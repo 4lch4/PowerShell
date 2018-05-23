@@ -1,0 +1,18 @@
+{
+  "id": 558,
+  "title": "Greedy",
+  "points": 10,
+  "description": "Win a greed roll on a superior or better item above level 185 by rolling 100.",
+  "rewardItems": [],
+  "icon": "inv_misc_coin_04",
+  "criteria": [
+    {
+      "id": 2358,
+      "description": "Roll greed and get exactly 100 on an item over level 185.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,9 @@
+{
+  "id": 8997,
+  "name": "Shoot",
+  "subtext": "Rank 1",
+  "icon": "ability_marksmanship",
+  "description": "Fire at the target with a ranged weapon.",
+  "range": "30 yd range",
+  "castTime": "Instant"
+}

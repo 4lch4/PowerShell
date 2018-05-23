@@ -1,0 +1,10 @@
+{
+  "id": 8246,
+  "name": "Lightning Bolt",
+  "subtext": "Rank 4",
+  "icon": "spell_nature_lightning",
+  "description": "Blasts an enemy with lightning for 6,252 Nature damage.",
+  "range": "30 yd range",
+  "powerCost": "150 Mana",
+  "castTime": "3.5 sec cast"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8450,
+  "title": "Prideful Conquest",
+  "points": 0,
+  "description": "Earn 27,000 Conquest Points in Season 15.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winwsg",
+  "criteria": [
+    {
+      "id": 23902,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

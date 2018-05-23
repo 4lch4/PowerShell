@@ -1,0 +1,18 @@
+{
+  "id": 9203,
+  "title": "Shadow Council Invasion",
+  "points": 5,
+  "description": "Successfully complete a Shadow Council garrison invasion.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_grimbatol_drahgatheshadowburner",
+  "criteria": [
+    {
+      "id": 25323,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,114 @@
+{
+  "id": 852,
+  "title": "Explore Azshara",
+  "points": 10,
+  "description": "Explore Azshara, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_azshara_01",
+  "criteria": [
+    {
+      "id": 1409,
+      "description": "Gallywix Pleasure Palace",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1410,
+      "description": "The Shattered Strand",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1411,
+      "description": "Bilgewater Harbor",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1412,
+      "description": "Bitter Reaches",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1429,
+      "description": "Tower of Eldara",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1430,
+      "description": "Ruins of Arkkoran",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1432,
+      "description": "Darnassian Base Camp",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1433,
+      "description": "The Secret Lab",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1434,
+      "description": "Bear's Head",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1435,
+      "description": "Blackmaw Hold",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1436,
+      "description": "Orgrimmar Rear Gate",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1438,
+      "description": "Ruins of Eldarath",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1439,
+      "description": "Southridge Beach",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1440,
+      "description": "Ravencrest Monument",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1441,
+      "description": "Lake Mennar",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1442,
+      "description": "The Ruined Reaches",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1443,
+      "description": "Storm Cliffs",
+      "orderIndex": 17,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

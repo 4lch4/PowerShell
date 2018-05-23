@@ -1,0 +1,18 @@
+{
+  "id": 11846,
+  "title": "Champions of Legionfall",
+  "points": 10,
+  "description": "Recruit your Legionfall campaign follower by completing the quest \"Champions of Legionfall.\"",
+  "rewardItems": [],
+  "icon": "achievement_garrisonfollower_rare",
+  "criteria": [
+    {
+      "id": 36604,
+      "description": "Complete \"Champions of Legionfall\"",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

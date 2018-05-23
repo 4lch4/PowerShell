@@ -1,0 +1,18 @@
+{
+  "id": 11580,
+  "title": "Cutting Edge: Helya",
+  "points": 0,
+  "description": "Defeat Helya in Trial of Valor on Mythic difficulty, before the opening of the Tomb of Sargeras.",
+  "rewardItems": [],
+  "icon": "achievement_boss_helyra",
+  "criteria": [
+    {
+      "id": 35491,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

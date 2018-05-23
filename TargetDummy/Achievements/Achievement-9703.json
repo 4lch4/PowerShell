@@ -1,0 +1,133 @@
+{
+  "id": 9703,
+  "title": "Stay Awhile and Listen",
+  "points": 5,
+  "description": "Complete at least 10 of the Inn quests listed below.",
+  "reward": "Reward: Unlocks Inn/Tavern, Level 3 Blueprint",
+  "rewardItems": [],
+  "icon": "achievement_guildperk_hastyhearth",
+  "criteria": [
+    {
+      "id": 26607,
+      "description": "Cro's Revenge",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26608,
+      "description": "Time-Lost Vikings",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26609,
+      "description": "Feeling A Bit Morose",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26610,
+      "description": "The Brass Compass",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 26611,
+      "description": "The Soulcutter",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26612,
+      "description": "The Cure for Death",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 26613,
+      "description": "Gloriously Incandescent",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 26614,
+      "description": "Aviana's Request",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 26615,
+      "description": "Family Traditions",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 26616,
+      "description": "Damsels and Dragons",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 26617,
+      "description": "Shadowy Secrets",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 26618,
+      "description": "The Huntresses",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 26619,
+      "description": "Cenarion Concerns",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 26620,
+      "description": "Titanic Evolution",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 26621,
+      "description": "And No Maces!",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 26622,
+      "description": "Cleaving Time",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 26623,
+      "description": "Oralius' Adventure",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 26624,
+      "description": "The Void-Gate",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 26625,
+      "description": "For the Birds",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 26626,
+      "description": "Cold Steel",
+      "orderIndex": 19,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

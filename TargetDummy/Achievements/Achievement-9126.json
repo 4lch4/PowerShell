@@ -1,0 +1,18 @@
+{
+  "id": 9126,
+  "title": "Master Draftsman",
+  "points": 5,
+  "description": "Learn 40 garrison blueprints.",
+  "rewardItems": [],
+  "icon": "achievement_garrison_blueprint40",
+  "criteria": [
+    {
+      "id": 25259,
+      "description": "Learn 40 garrison blueprints.",
+      "orderIndex": 0,
+      "max": 40
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

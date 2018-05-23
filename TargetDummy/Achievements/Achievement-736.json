@@ -1,0 +1,90 @@
+{
+  "id": 736,
+  "title": "Explore Mulgore",
+  "points": 10,
+  "description": "Explore Mulgore, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_mulgore_01",
+  "criteria": [
+    {
+      "id": 903,
+      "description": "Red Cloud Mesa",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 904,
+      "description": "Palemane Rock",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 914,
+      "description": "Bloodhoof Village",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 905,
+      "description": "Winterhoof Water Well",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 906,
+      "description": "The Rolling Plains",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 907,
+      "description": "The Venture Co. Mine",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 908,
+      "description": "Ravaged Caravan",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 916,
+      "description": "The Golden Plains",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 909,
+      "description": "Thunderhorn Water Well",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 910,
+      "description": "Bael'dun Digsite",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 912,
+      "description": "Red Rocks",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 913,
+      "description": "Windfury Ridge",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 915,
+      "description": "Wildmane Water Well",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

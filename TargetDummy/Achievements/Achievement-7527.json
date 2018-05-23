@@ -1,0 +1,18 @@
+{
+  "id": 7527,
+  "title": "No Tank You",
+  "points": 10,
+  "description": "Destroy Gatecrusher without anyone being hit by its ram or stone-thrower.",
+  "rewardItems": [],
+  "icon": "ability_vehicle_demolisherflamecatapult",
+  "criteria": [
+    {
+      "id": 21866,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

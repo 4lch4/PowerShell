@@ -1,0 +1,24 @@
+{
+  "id": 2316,
+  "title": "Brutal Nether Drake",
+  "points": 0,
+  "description": "Obtain the Brutal Nether Drake from Arena Season 4 of The Burning Crusade.",
+  "rewardItems": [],
+  "icon": "ability_mount_netherdrakeelite",
+  "criteria": [
+    {
+      "id": 8778,
+      "description": "Brutal Nether Drake",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 8779,
+      "description": "Brutal Nether Drake",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

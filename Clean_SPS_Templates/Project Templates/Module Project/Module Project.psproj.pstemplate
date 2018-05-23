@@ -1,0 +1,10 @@
+<Template version="1.0" type="Project" tags="Module, PowerShell">
+	<Description>Creates a PowerShell script module.</Description>
+	<Files>
+		<File rename="true">Module.psd1</File>
+		<File rename="true">Module.psm1</File>
+		<File rename="true">Module Project.psprojs</File>
+		<File>Test-Module.ps1</File>
+	</Files>
+	<ProjectType>1</ProjectType>
+</Template>

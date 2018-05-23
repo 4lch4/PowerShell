@@ -1,0 +1,18 @@
+{
+  "id": 1790,
+  "title": "Hail To The King, Baby",
+  "points": 10,
+  "description": "Defeat King Ymiron in Utgarde Pinnacle with your orphan out.",
+  "rewardItems": [],
+  "icon": "achievement_boss_kingymiron_02",
+  "criteria": [
+    {
+      "id": 6659,
+      "description": "King Ymiron",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

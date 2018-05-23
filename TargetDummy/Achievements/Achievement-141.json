@@ -1,0 +1,48 @@
+{
+  "id": 141,
+  "title": "Ultimate Triage",
+  "points": 10,
+  "description": "Use a Heavy Frostweave Bandage, or any Embersilk or Windwool Bandage, to heal a player who has less than 5% health.",
+  "rewardItems": [],
+  "icon": "inv_misc_surgeonglove_01",
+  "criteria": [
+    {
+      "id": 6799,
+      "description": "First Aid Below 5%",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 15822,
+      "description": "First Aid Below 5%",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15823,
+      "description": "First Aid Below 5%",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15824,
+      "description": "First Aid Below 5%",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 20675,
+      "description": "First Aid Below 5%",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 20676,
+      "description": "First Aid Below 5%",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

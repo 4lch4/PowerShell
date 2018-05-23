@@ -1,0 +1,36 @@
+{
+  "id": 1010,
+  "title": "Northrend Vanguard",
+  "points": 20,
+  "description": "Gain Exalted reputation with the Argent Crusade, Wyrmrest Accord, Kirin Tor and Knights of the Ebon Blade.",
+  "rewardItems": [],
+  "icon": "spell_misc_hellifrepvpcombatmorale",
+  "criteria": [
+    {
+      "id": 4737,
+      "description": "The Argent Crusade",
+      "orderIndex": 0,
+      "max": 42000
+    },
+    {
+      "id": 4741,
+      "description": "The Wyrmrest Accord",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 4742,
+      "description": "The Kirin Tor",
+      "orderIndex": 2,
+      "max": 42000
+    },
+    {
+      "id": 4743,
+      "description": "Knights of the Ebon Blade",
+      "orderIndex": 3,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

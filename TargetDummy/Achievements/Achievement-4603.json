@@ -1,0 +1,134 @@
+{
+  "id": 4603,
+  "title": "Glory of the Icecrown Raider (25 player)",
+  "points": 25,
+  "description": "Complete the 25-player raid achievements listed below.",
+  "reward": "Reward: Icebound Frostbrood Vanquisher",
+  "rewardItems": [
+    {
+      "id": 51955,
+      "name": "Reins of the Icebound Frostbrood Vanquisher",
+      "icon": "ability_mount_redfrostwyrm_01",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_helmet_151",
+  "criteria": [
+    {
+      "id": 13075,
+      "description": "Heroic: Storming the Citadel (25 player)",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13076,
+      "description": "Heroic: The Plagueworks (25 player)",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 13077,
+      "description": "Heroic: The Crimson Hall (25 player)",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 13078,
+      "description": "Heroic: The Frostwing Halls (25 player)",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 13016,
+      "description": "Boned",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 13017,
+      "description": "Full House",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 13018,
+      "description": "I'm on a Boat",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 13019,
+      "description": "I've Gone and Made a Mess",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 13020,
+      "description": "Dances with Oozes",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 13021,
+      "description": "Flu Shot Shortage",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 13022,
+      "description": "Nausea, Heartburn, Indigestion...",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 13023,
+      "description": "The Orb Whisperer",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 13024,
+      "description": "Once Bitten, Twice Shy",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 13025,
+      "description": "Portal Jockey",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 13026,
+      "description": "All You Can Eat",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 13027,
+      "description": "Been Waiting a Long Time for This",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 13028,
+      "description": "Neck-Deep in Vile",
+      "orderIndex": 17,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

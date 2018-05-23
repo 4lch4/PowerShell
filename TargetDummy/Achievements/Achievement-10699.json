@@ -1,0 +1,18 @@
+{
+  "id": 10699,
+  "title": "Infinitesimal",
+  "points": 10,
+  "description": "Get betrayed by and then defeat an Infinite Whelpling during the Grand Magistrix Elisande encounter, then defeat Grand Magistrix Elisande in The Nighthold, on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "achievement_boss_infinitecorruptor",
+  "criteria": [
+    {
+      "id": 30643,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

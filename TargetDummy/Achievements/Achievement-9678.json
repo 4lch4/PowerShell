@@ -1,0 +1,66 @@
+{
+  "id": 9678,
+  "title": "Ancient No More",
+  "points": 10,
+  "description": "Defeat all of the rare creatures in the Everbloom Wilds listed below.",
+  "rewardItems": [],
+  "icon": "inv_pet_ancientprotector_fall",
+  "criteria": [
+    {
+      "id": 26593,
+      "description": "Swift Onyx Flayer",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26594,
+      "description": "Mogamago",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26595,
+      "description": "Protectors of the Grove",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26596,
+      "description": "Venolasix",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 26597,
+      "description": "Alkali",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26598,
+      "description": "Depthroot",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 26599,
+      "description": "Firestarter Grash",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 26600,
+      "description": "Grove Warden Yal",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 26606,
+      "description": "Hunter Bal'ra",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

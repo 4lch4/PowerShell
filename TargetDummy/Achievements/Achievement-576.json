@@ -1,0 +1,48 @@
+{
+  "id": 576,
+  "title": "The Fall of Naxxramas (10 player)",
+  "points": 25,
+  "description": "Defeat every boss in Naxxramas in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_naxxramas_normal",
+  "criteria": [
+    {
+      "id": 383,
+      "description": "The Arachnid Quarter",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 384,
+      "description": "The Construct Quarter",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 385,
+      "description": "The Plague Quarter",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 386,
+      "description": "The Military Quarter",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 387,
+      "description": "Sapphiron's Demise",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 388,
+      "description": "Kel'Thuzad's Defeat",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

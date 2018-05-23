@@ -1,0 +1,18 @@
+{
+  "id": 1017,
+  "title": "Can I Keep Him?",
+  "points": 10,
+  "description": "Obtain a pet.",
+  "rewardItems": [],
+  "icon": "inv_box_petcarrier_01",
+  "criteria": [
+    {
+      "id": 19598,
+      "description": "Obtain a companion pet",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

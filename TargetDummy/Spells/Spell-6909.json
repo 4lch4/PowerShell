@@ -1,0 +1,8 @@
+{
+  "id": 6909,
+  "name": "Curse of Thorns",
+  "icon": "spell_shadow_antishadow",
+  "description": "Curses an enemy for 10 sec., giving it a 50% chance to take damage on attack.",
+  "range": "Melee Range",
+  "castTime": "2 sec cast"
+}

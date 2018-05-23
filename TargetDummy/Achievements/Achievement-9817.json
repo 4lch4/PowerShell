@@ -1,0 +1,38 @@
+{
+  "id": 9817,
+  "title": "Big Powermonger: Gold",
+  "points": 5,
+  "description": "Complete The Real Big Race with the Powermonger within 20 tolls.",
+  "reward": "Rewards: Darkmoon Cannon",
+  "rewardItems": [
+    {
+      "id": 122124,
+      "name": "Darkmoon Cannon",
+      "icon": "creatureportrait_cannon03",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_checkered_flag",
+  "criteria": [
+    {
+      "id": 27541,
+      "description": "Complete The Real Big Race with the Powermonger within 26 tolls.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

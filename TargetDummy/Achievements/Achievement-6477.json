@@ -1,0 +1,18 @@
+{
+  "id": 6477,
+  "title": "Respect",
+  "points": 10,
+  "description": "Bow to the Shado-Pan Novices when they bow to you after being defeated during the Master Snowdrift event in Shado-Pan Monastery on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_shadowpan_hideout_1",
+  "criteria": [
+    {
+      "id": 19133,
+      "description": "Bow to 20 Shado-pan Initiates.",
+      "orderIndex": 1,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

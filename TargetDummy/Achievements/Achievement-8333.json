@@ -1,0 +1,18 @@
+{
+  "id": 8333,
+  "title": "Deepwind Gorge Perfection",
+  "points": 20,
+  "description": "Win Deepwind Gorge with a score of 1500 to 0.",
+  "rewardItems": [],
+  "icon": "achievement_bg_abshutout",
+  "criteria": [
+    {
+      "id": 23369,
+      "description": "Deepwind Gorge Shutout",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

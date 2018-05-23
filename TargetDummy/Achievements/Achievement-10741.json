@@ -1,0 +1,37 @@
+{
+  "id": 10741,
+  "title": "WoW's 12th Anniversary",
+  "points": 0,
+  "description": "Logged in during WoW's 12th Anniversary.",
+  "rewardItems": [
+    {
+      "id": 139284,
+      "name": "Anniversary Gift",
+      "icon": "inv_misc_gift_03",
+      "quality": 1,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_misc_celebrationcake_01",
+  "criteria": [
+    {
+      "id": 30977,
+      "description": "Logged in during WoW's 12th Anniversary.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

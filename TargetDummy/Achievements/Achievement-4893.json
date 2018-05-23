@@ -1,0 +1,18 @@
+{
+  "id": 4893,
+  "title": "Western Plaguelands Quests",
+  "points": 10,
+  "description": "Complete 45 quests in Western Plaguelands.",
+  "rewardItems": [],
+  "icon": "achievement_zone_westernplaguelands_01",
+  "criteria": [
+    {
+      "id": 13751,
+      "description": "Western Plaguelands",
+      "orderIndex": 1,
+      "max": 45
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

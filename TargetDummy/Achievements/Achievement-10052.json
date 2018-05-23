@@ -1,0 +1,102 @@
+{
+  "id": 10052,
+  "title": "Tiny Terrors in Tanaan",
+  "points": 10,
+  "description": "Defeat the following fel-corrupted pets in Tanaan Jungle.",
+  "rewardItems": [],
+  "icon": "spell_fel_elementaldevastation",
+  "criteria": [
+    {
+      "id": 28796,
+      "description": "Felsworn Sentry",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28797,
+      "description": "Corrupted Thundertail",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28798,
+      "description": "Chaos Pup",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 28799,
+      "description": "Cursed Spirit",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 28800,
+      "description": "Felfly",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 28801,
+      "description": "Tainted Maulclaw",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 28802,
+      "description": "Direflame",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 28803,
+      "description": "Mirecroak",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 28804,
+      "description": "Dark Gazer",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 28805,
+      "description": "Bleakclaw",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 28806,
+      "description": "Vile Blood of Draenor",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 28807,
+      "description": "Dreadwalker",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 28810,
+      "description": "Netherfist",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 28808,
+      "description": "Skrillix",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 28809,
+      "description": "Defiled Earth",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

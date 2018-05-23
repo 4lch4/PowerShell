@@ -1,0 +1,18 @@
+{
+  "id": 9039,
+  "title": "Auchindoun",
+  "points": 10,
+  "description": "Defeat Teron'gor in Auchindoun.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_auchindoun",
+  "criteria": [
+    {
+      "id": 26166,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

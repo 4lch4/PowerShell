@@ -1,0 +1,24 @@
+{
+  "id": 3757,
+  "title": "Relentless Gladiator's Frost Wyrm",
+  "points": 0,
+  "description": "Obtain the Relentless Gladiator's Frost Wyrm from Arena Season 7 of Wrath of the Lich King.",
+  "rewardItems": [],
+  "icon": "ability_mount_redfrostwyrm_01",
+  "criteria": [
+    {
+      "id": 11400,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11401,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

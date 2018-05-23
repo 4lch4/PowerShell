@@ -1,0 +1,30 @@
+{
+  "id": 9534,
+  "title": "Delectable Ogre Delicacies",
+  "points": 10,
+  "description": "Gain the well fed effects from Toasted Roach Crunchies, Pickled Rat Skewers, and Charred Boar Chops at the same time in the Bloodmaul Stronghold.",
+  "rewardItems": [],
+  "icon": "achievement_profession_chefhat",
+  "criteria": [
+    {
+      "id": 26575,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26577,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26578,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

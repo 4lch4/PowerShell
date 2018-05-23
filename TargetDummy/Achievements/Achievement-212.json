@@ -1,0 +1,24 @@
+{
+  "id": 212,
+  "title": "Storm Capper",
+  "points": 10,
+  "description": "Personally carry and capture the flag in Eye of the Storm.",
+  "rewardItems": [],
+  "icon": "achievement_bg_captureflag_eos",
+  "criteria": [
+    {
+      "id": 438,
+      "description": "Capture the flag",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 33092,
+      "description": "Capture the flag",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

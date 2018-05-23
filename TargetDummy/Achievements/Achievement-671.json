@@ -1,0 +1,18 @@
+{
+  "id": 671,
+  "title": "Heroic: Mana-Tombs",
+  "points": 10,
+  "description": "Defeat Nexus-Prince Shaffar on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_nexus_prince_shaffar",
+  "criteria": [
+    {
+      "id": 3713,
+      "description": "Nexus-Prince Shaffar",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

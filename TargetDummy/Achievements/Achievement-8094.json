@@ -1,0 +1,18 @@
+{
+  "id": 8094,
+  "title": "Lightning Overload",
+  "points": 10,
+  "description": "Cause two Focused Lightning Orbs to collide while fighting Jin'rokh the Breaker in Throne of Thunder on Normal or Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "ability_vehicle_electrocharge",
+  "criteria": [
+    {
+      "id": 22800,
+      "description": "Hit by a certain spell in the boss fight",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

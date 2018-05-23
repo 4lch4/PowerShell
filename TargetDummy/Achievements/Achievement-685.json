@@ -1,0 +1,162 @@
+{
+  "id": 685,
+  "title": "Blackwing Lair",
+  "points": 10,
+  "description": "Defeat Nefarian.",
+  "rewardItems": [],
+  "icon": "achievement_boss_nefarion",
+  "criteria": [
+    {
+      "id": 3273,
+      "description": "Nefarian",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4447,
+      "description": "The Lord of Blackrock",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4448,
+      "description": "The Lord of Blackrock",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4449,
+      "description": "Nefarius's Corruption",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4564,
+      "description": "Therazane's Link",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4565,
+      "description": "Archimtiros' Ring of Reckoning",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4566,
+      "description": "Ashkandi, Greatsword of the Brotherhood",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4567,
+      "description": "Boots of the Shadow Flame",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4568,
+      "description": "Cloak of the Brood Lord",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4569,
+      "description": "Crul'shorukh, Edge of Chaos",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4570,
+      "description": "Lok'amir il Romathis",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4571,
+      "description": "Mish'undare, Circlet of the Mind Flayer",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4572,
+      "description": "Neltharion's Tear",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4573,
+      "description": "Prestor's Talisman of Connivery",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4574,
+      "description": "Pure Elementium Band",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4575,
+      "description": "Staff of the Shadow Flame",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4576,
+      "description": "Bloodfang Chestpiece",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4577,
+      "description": "Breastplate of Ten Storms",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4578,
+      "description": "Breastplate of Wrath",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4579,
+      "description": "Dragonstalker's Breastplate",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 4580,
+      "description": "Judgement Breastplate",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 4581,
+      "description": "Stormrage Chestguard",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 4582,
+      "description": "Nemesis Robes",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 4583,
+      "description": "Netherwind Robes",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 4584,
+      "description": "Robes of Transcendence",
+      "orderIndex": 25,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

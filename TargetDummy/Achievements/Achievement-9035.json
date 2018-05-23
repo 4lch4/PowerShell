@@ -1,0 +1,18 @@
+{
+  "id": 9035,
+  "title": "I Saw Solis",
+  "points": 10,
+  "description": "Cause three Piles of Ash to form Solar Flares at the same time during the Rukhran encounter in Skyreach on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_jewelcrafting_livingruby_01",
+  "criteria": [
+    {
+      "id": 24903,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

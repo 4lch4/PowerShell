@@ -1,0 +1,18 @@
+{
+  "id": 9634,
+  "title": "Charged Up",
+  "points": 10,
+  "description": "Defeat 30 Shadow Council members while under the effects of Arkonite Empowerment in Shattrath City.",
+  "rewardItems": [],
+  "icon": "inv_misc_crystalepic2",
+  "criteria": [
+    {
+      "id": 26474,
+      "description": "Shadow Council members defeated",
+      "orderIndex": 0,
+      "max": 30
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

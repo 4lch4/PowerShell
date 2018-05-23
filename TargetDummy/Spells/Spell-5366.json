@@ -1,0 +1,8 @@
+{
+  "id": 5366,
+  "name": "Thick Skin",
+  "subtext": "Rank 3",
+  "icon": "ability_defend",
+  "description": "Increases armor by 99.",
+  "castTime": "Instant"
+}

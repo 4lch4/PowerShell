@@ -1,0 +1,18 @@
+{
+  "id": 3017,
+  "title": "They're Coming Out of the Walls (25 player)",
+  "points": 10,
+  "description": "Defeat 9 Guardians of Yogg-Saron within 12 seconds in 25-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_boss_heraldvolazj",
+  "criteria": [
+    {
+      "id": 10294,
+      "description": "Kill 9 Guardians of Yogg-Saron in 12 seconds..",
+      "orderIndex": 1,
+      "max": 9
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,414 @@
+{
+  "id": 6560,
+  "title": "World Pet Mauler",
+  "points": 10,
+  "description": "Win a pet battle in 60 different zones.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_catch60petsindifferentzones",
+  "criteria": [
+    {
+      "id": 21389,
+      "description": "Durotar",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21546,
+      "description": "Azuremyst Isle",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21545,
+      "description": "Teldrassil",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21543,
+      "description": "Mulgore",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 21547,
+      "description": "Bloodmyst Isle",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21390,
+      "description": "Northern Barrens",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 21537,
+      "description": "Azshara",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21536,
+      "description": "Darkshore",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21391,
+      "description": "Ashenvale",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 21529,
+      "description": "Stonetalon Mountains",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 21392,
+      "description": "Feralas",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 21532,
+      "description": "Thousand Needles",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 21533,
+      "description": "Tanaris",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 21535,
+      "description": "Southern Barrens",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 21539,
+      "description": "Felwood",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 21534,
+      "description": "Un'goro Crater",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 21544,
+      "description": "Dustwallow Marsh",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 21542,
+      "description": "Silithus",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 21540,
+      "description": "Winterspring",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 21538,
+      "description": "Mount Hyjal",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 21541,
+      "description": "Uldum",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 21548,
+      "description": "Elwynn Forest",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 21549,
+      "description": "Westfall",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 21550,
+      "description": "Redridge Mountains",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 21551,
+      "description": "Duskwood",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 21552,
+      "description": "Stranglethorn Vale",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 21553,
+      "description": "Swamp of Sorrows",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 21554,
+      "description": "Blasted Lands",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 21555,
+      "description": "Burning Steppes",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 21556,
+      "description": "Searing Gorge",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 21557,
+      "description": "Badlands",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 21558,
+      "description": "Dun Morogh",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 21559,
+      "description": "Loch Modan",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 21560,
+      "description": "Wetlands",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 21561,
+      "description": "Twilight Highlands",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 21562,
+      "description": "Arathi Highlands",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 21563,
+      "description": "Hillsbrad Foothills",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 21564,
+      "description": "The Hinterlands",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 21565,
+      "description": "Silverpine Forest",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 21566,
+      "description": "Tirisfal Glades",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 21567,
+      "description": "Eastern Plaguelands",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 21568,
+      "description": "Western Plaguelands",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 21569,
+      "description": "Ghostlands",
+      "orderIndex": 42,
+      "max": 1
+    },
+    {
+      "id": 21570,
+      "description": "Eversong Woods",
+      "orderIndex": 43,
+      "max": 1
+    },
+    {
+      "id": 21571,
+      "description": "Hellfire Peninsula",
+      "orderIndex": 44,
+      "max": 1
+    },
+    {
+      "id": 21572,
+      "description": "Zangarmarsh",
+      "orderIndex": 45,
+      "max": 1
+    },
+    {
+      "id": 21573,
+      "description": "Terokkar Forest",
+      "orderIndex": 46,
+      "max": 1
+    },
+    {
+      "id": 21574,
+      "description": "Nagrand",
+      "orderIndex": 47,
+      "max": 1
+    },
+    {
+      "id": 21575,
+      "description": "Blade's Edge Mountains",
+      "orderIndex": 48,
+      "max": 1
+    },
+    {
+      "id": 21576,
+      "description": "Netherstorm",
+      "orderIndex": 49,
+      "max": 1
+    },
+    {
+      "id": 21577,
+      "description": "Shadowmoon Valley",
+      "orderIndex": 50,
+      "max": 1
+    },
+    {
+      "id": 21578,
+      "description": "Borean Tundra",
+      "orderIndex": 51,
+      "max": 1
+    },
+    {
+      "id": 21579,
+      "description": "Howling Fjord",
+      "orderIndex": 52,
+      "max": 1
+    },
+    {
+      "id": 21580,
+      "description": "Dragonblight",
+      "orderIndex": 53,
+      "max": 1
+    },
+    {
+      "id": 21581,
+      "description": "Sholozar Basin",
+      "orderIndex": 54,
+      "max": 1
+    },
+    {
+      "id": 21582,
+      "description": "Grizzly Hills",
+      "orderIndex": 55,
+      "max": 1
+    },
+    {
+      "id": 21583,
+      "description": "Zul'Drak",
+      "orderIndex": 56,
+      "max": 1
+    },
+    {
+      "id": 21584,
+      "description": "The Storm Peaks",
+      "orderIndex": 57,
+      "max": 1
+    },
+    {
+      "id": 21585,
+      "description": "Icecrown",
+      "orderIndex": 58,
+      "max": 1
+    },
+    {
+      "id": 21586,
+      "description": "Deepholm",
+      "orderIndex": 59,
+      "max": 1
+    },
+    {
+      "id": 21587,
+      "description": "The Jade Forest",
+      "orderIndex": 60,
+      "max": 1
+    },
+    {
+      "id": 21588,
+      "description": "Valley of the Four Winds",
+      "orderIndex": 61,
+      "max": 1
+    },
+    {
+      "id": 21589,
+      "description": "Karasang Wilds",
+      "orderIndex": 62,
+      "max": 1
+    },
+    {
+      "id": 21590,
+      "description": "Kun-Lai Summit",
+      "orderIndex": 63,
+      "max": 1
+    },
+    {
+      "id": 21591,
+      "description": "Dread Wastes",
+      "orderIndex": 64,
+      "max": 1
+    },
+    {
+      "id": 21592,
+      "description": "Townlong Steppes",
+      "orderIndex": 65,
+      "max": 1
+    },
+    {
+      "id": 21593,
+      "description": "Vale of Eternal Blossoms",
+      "orderIndex": 66,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

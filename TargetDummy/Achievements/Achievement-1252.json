@@ -1,0 +1,18 @@
+{
+  "id": 1252,
+  "title": "Supreme Defender",
+  "points": 10,
+  "description": "Kill 100 flag carriers in Warsong Gulch.",
+  "rewardItems": [],
+  "icon": "achievement_bg_kill_flag_carrierwsg",
+  "criteria": [
+    {
+      "id": 3699,
+      "description": "Alliance Flag Carriers",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

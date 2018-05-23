@@ -1,0 +1,18 @@
+{
+  "id": 7252,
+  "title": "A Brewing Storm",
+  "points": 10,
+  "description": "Defeat Borokhula the Destroyer in A Brewing Storm.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_devilsaur",
+  "criteria": [
+    {
+      "id": 19565,
+      "description": "Defeat Borokhula the Destroyer",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

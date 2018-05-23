@@ -1,0 +1,18 @@
+{
+  "id": 1251,
+  "title": "Not In My House",
+  "points": 10,
+  "description": "In a single Warsong Gulch battle, kill 2 flag carriers before they leave the Warsong Flag Room.",
+  "rewardItems": [],
+  "icon": "achievement_bg_killflagcarriers_grabflag_capit",
+  "criteria": [
+    {
+      "id": 7021,
+      "description": "Kill 2 flag carriers before they leave the Warsong Flag Room",
+      "orderIndex": 1,
+      "max": 2
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

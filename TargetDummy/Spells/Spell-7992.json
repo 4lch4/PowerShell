@@ -1,0 +1,9 @@
+{
+  "id": 7992,
+  "name": "Slowing Poison",
+  "icon": "spell_nature_slowpoison",
+  "description": "Increases the time between an enemy's attacks and slows their movement for 10 sec.",
+  "range": "30 yd range",
+  "castTime": "1 sec cast",
+  "cooldown": "10 sec cooldown"
+}

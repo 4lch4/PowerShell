@@ -1,0 +1,10 @@
+{
+  "id": 6940,
+  "name": "Blessing of Sacrifice",
+  "icon": "spell_holy_sealofsacrifice",
+  "description": "Places a Blessing on a party or raid member, transferring 30% of damage taken to you for 12 sec, or until transferred damage would cause you to fall below 20% health.",
+  "range": "40 yd range",
+  "powerCost": "7% of base mana",
+  "castTime": "Instant",
+  "cooldown": "1 sec cooldown"
+}

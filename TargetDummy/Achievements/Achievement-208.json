@@ -1,0 +1,24 @@
+{
+  "id": 208,
+  "title": "Eye of the Storm Victory",
+  "points": 10,
+  "description": "Win Eye of the Storm.",
+  "rewardItems": [],
+  "icon": "achievement_bg_wineos",
+  "criteria": [
+    {
+      "id": 5897,
+      "description": "Win Eye of the Storm.",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 5745,
+      "description": "Win Eye of the Storm.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

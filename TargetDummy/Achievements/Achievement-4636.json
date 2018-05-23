@@ -1,0 +1,42 @@
+{
+  "id": 4636,
+  "title": "Heroic: Fall of the Lich King (10 player)",
+  "points": 25,
+  "description": "Defeat every boss in Icecrown Citadel in 10-player Heroic mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_icecrown_frostmourne",
+  "criteria": [
+    {
+      "id": 13071,
+      "description": "Storming the Citadel",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13072,
+      "description": "The Plagueworks",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 13073,
+      "description": "The Crimson Hall",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 13074,
+      "description": "The Frostwing Halls",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 13065,
+      "description": "Bane of the Fallen King",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

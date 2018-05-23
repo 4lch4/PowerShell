@@ -1,0 +1,18 @@
+{
+  "id": 8063,
+  "title": "Heroic: Primordius",
+  "points": 10,
+  "description": "Defeat Primordius in Throne of Thunder on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_primordius",
+  "criteria": [
+    {
+      "id": 22919,
+      "description": "Primordius",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

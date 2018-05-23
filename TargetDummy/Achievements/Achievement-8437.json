@@ -1,0 +1,24 @@
+{
+  "id": 8437,
+  "title": "Challenge Master: Scarlet Monastery",
+  "points": 0,
+  "description": "Attain a realm-best time for the Scarlet Monastery Challenge Mode.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_scarletmonastery_platinum",
+  "criteria": [
+    {
+      "id": 23635,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23636,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 621,
+  "title": "Represent",
+  "points": 10,
+  "description": "Collect a tabard slot appearance.",
+  "rewardItems": [],
+  "icon": "inv_shirt_guildtabard_01",
+  "criteria": [
+    {
+      "id": 30576,
+      "description": "",
+      "orderIndex": 0,
+      "max": 2
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

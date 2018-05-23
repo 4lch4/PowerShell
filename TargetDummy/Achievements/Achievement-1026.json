@@ -1,0 +1,96 @@
+{
+  "id": 1026,
+  "title": "Flame Keeper of Kalimdor",
+  "points": 10,
+  "description": "Honor the flames of Kalimdor.",
+  "rewardItems": [],
+  "icon": "inv_summerfest_firespirit",
+  "criteria": [
+    {
+      "id": 3112,
+      "description": "Ashenvale",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23471,
+      "description": "Azshara",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3113,
+      "description": "Desolace",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3114,
+      "description": "Durotar",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3115,
+      "description": "Dustwallow Marsh",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3116,
+      "description": "Feralas",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3117,
+      "description": "Mulgore",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3121,
+      "description": "Northern Barrens",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 3118,
+      "description": "Silithus",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 17015,
+      "description": "Southern Barrens",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3119,
+      "description": "Stonetalon Mountains",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3120,
+      "description": "Tanaris",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 23474,
+      "description": "Un'Goro Crater",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 3123,
+      "description": "Winterspring",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

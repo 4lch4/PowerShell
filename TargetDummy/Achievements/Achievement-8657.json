@@ -1,0 +1,18 @@
+{
+  "id": 8657,
+  "title": "Hero of the Horde: Grievous",
+  "points": 0,
+  "description": "End PvP season 14 in the top .5% of the rated battleground ladder.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_h",
+  "criteria": [
+    {
+      "id": 15308,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

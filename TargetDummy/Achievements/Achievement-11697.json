@@ -1,0 +1,30 @@
+{
+  "id": 11697,
+  "title": "Cruel Elite",
+  "points": 0,
+  "description": "Reach 2000 in any Rated PvP Bracket during Legion Season 3",
+  "rewardItems": [],
+  "icon": "achievement_pvp_legion03",
+  "criteria": [
+    {
+      "id": 36210,
+      "description": "Earn a personal rating of 2000 in the 2v2 bracket.",
+      "orderIndex": 0,
+      "max": 2000
+    },
+    {
+      "id": 31899,
+      "description": "Earn a personal rating of 2000 in the 3v3 bracket.",
+      "orderIndex": 1,
+      "max": 2000
+    },
+    {
+      "id": 31903,
+      "description": "Earn a personal rating of 2000 in the 10v10 bracket.",
+      "orderIndex": 2,
+      "max": 2000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

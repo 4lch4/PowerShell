@@ -1,0 +1,18 @@
+{
+  "id": 6945,
+  "title": "Mantid Swarm",
+  "points": 10,
+  "description": "Defeat Raigonn without killing any of the Mantid reinforcements.",
+  "rewardItems": [],
+  "icon": "spell_nature_insectswarm",
+  "criteria": [
+    {
+      "id": 20062,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 6905,
+  "name": "Summon Illusionary Nightmare",
+  "icon": "spell_fire_sealoffire",
+  "description": "Summons 1 Illusionary Nightmare to aid the caster in battle for 1 min.",
+  "powerCost": "50 Mana",
+  "castTime": "2 sec cast"
+}

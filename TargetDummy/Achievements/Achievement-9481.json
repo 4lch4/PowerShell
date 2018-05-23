@@ -1,0 +1,18 @@
+{
+  "id": 9481,
+  "title": "You Have Been Rylakinated!",
+  "points": 10,
+  "description": "Defeat 10 Darkwing Adolescents within 3 minutes while driving a Rylakinator-3000 in Darktide Roost.",
+  "rewardItems": [],
+  "icon": "ability_mount_shreddermount",
+  "criteria": [
+    {
+      "id": 25833,
+      "description": "Darkwing Adolescents defeated whithin 3 minutes while driving a Rylakinator-3000 in Darktide Roost.",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

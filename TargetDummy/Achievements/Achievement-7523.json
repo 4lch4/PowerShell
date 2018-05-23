@@ -1,0 +1,18 @@
+{
+  "id": 7523,
+  "title": "Theramore's Fall",
+  "points": 10,
+  "description": "Complete the Theramore's Fall scenario.",
+  "rewardItems": [],
+  "icon": "spell_arcane_teleporttheramore",
+  "criteria": [
+    {
+      "id": 21818,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

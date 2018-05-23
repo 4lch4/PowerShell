@@ -1,0 +1,84 @@
+{
+  "id": 291,
+  "title": "Check Your Head",
+  "points": 10,
+  "description": "Use Weighted Jack-o'-Lanterns to put pumpkin heads on each of the races listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_bag_28_halloween",
+  "criteria": [
+    {
+      "id": 5774,
+      "description": "Blood Elf",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5775,
+      "description": "Draenei",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5776,
+      "description": "Dwarf",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5772,
+      "description": "Gnome",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17855,
+      "description": "Goblin",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 5777,
+      "description": "Human",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 5778,
+      "description": "Night Elf",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 5779,
+      "description": "Orc",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 5780,
+      "description": "Tauren",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 5781,
+      "description": "Troll",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 5782,
+      "description": "Undead",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 17854,
+      "description": "Worgen",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

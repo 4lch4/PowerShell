@@ -1,0 +1,60 @@
+{
+  "id": 1701,
+  "title": "Be Mine!",
+  "points": 10,
+  "description": "Eat the eight \"Bag of Candies\" heart candies listed below.",
+  "rewardItems": [],
+  "icon": "inv_valentinescandy",
+  "criteria": [
+    {
+      "id": 6324,
+      "description": "Be Mine!",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6325,
+      "description": "I'll follow you all around Azeroth.",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6326,
+      "description": "All yours.",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6327,
+      "description": "I'm all yours!",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6328,
+      "description": "Hot Lips.",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6329,
+      "description": "You're Mine!",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6330,
+      "description": "You're the best!",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6331,
+      "description": "I LOVE YOU",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

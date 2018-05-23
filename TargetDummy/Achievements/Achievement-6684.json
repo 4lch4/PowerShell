@@ -1,0 +1,18 @@
+{
+  "id": 6684,
+  "title": "Humane Society",
+  "points": 10,
+  "description": "Defeat Houndmaster Braun without killing any hounds in Scarlet Halls on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_halloween_smiley_01",
+  "criteria": [
+    {
+      "id": 20983,
+      "description": "Defeat Houndmaster Braun without killing any hounds in Scarlet Halls on Heroic Difficulty.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

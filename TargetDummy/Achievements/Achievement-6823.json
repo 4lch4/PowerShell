@@ -1,0 +1,18 @@
+{
+  "id": 6823,
+  "title": "Must Love Dogs",
+  "points": 10,
+  "description": "Defeat the Stone Guard in Mogu'shan Vaults on Normal or Heroic difficulty while every member of your raid is accompanied by a canine companion pet.",
+  "rewardItems": [],
+  "icon": "ability_hunter_beasttraining",
+  "criteria": [
+    {
+      "id": 19935,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

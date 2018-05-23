@@ -1,0 +1,36 @@
+{
+  "id": 486,
+  "title": "Halls of Lightning",
+  "points": 10,
+  "description": "Defeat the bosses in Halls of Lightning.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_ulduar80_normal",
+  "criteria": [
+    {
+      "id": 5455,
+      "description": "General Bjarngrim",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5456,
+      "description": "Ionar",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5457,
+      "description": "Volkhan",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5458,
+      "description": "Loken",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

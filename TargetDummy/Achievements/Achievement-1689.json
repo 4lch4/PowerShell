@@ -1,0 +1,66 @@
+{
+  "id": 1689,
+  "title": "He Knows If You've Been Naughty",
+  "points": 10,
+  "description": "Open one of the presents underneath the Winter Veil tree once they are available.",
+  "rewardItems": [],
+  "icon": "inv_holiday_christmas_present_01",
+  "criteria": [
+    {
+      "id": 6250,
+      "description": "Unique Toy",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6251,
+      "description": "A Carefully Wrapped Present",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6252,
+      "description": "A Gently Shaken Gift",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6253,
+      "description": "A Gently Shaken Gift",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6254,
+      "description": "A Festive Gift",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6255,
+      "description": "A Gaily Wrapped Present",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6256,
+      "description": "A Ticking Present",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 8739,
+      "description": "Winter Veil Gift",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 13256,
+      "description": "Winter Veil Gift",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

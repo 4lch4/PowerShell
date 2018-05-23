@@ -1,0 +1,9 @@
+{
+  "id": 8100,
+  "name": "Stamina",
+  "subtext": "Level 2",
+  "icon": "spell_nature_unyeildingstamina",
+  "description": "Increases the target's Stamina by 5 for 30 min.  This effect counts as a Guardian Elixir.",
+  "range": "30 yd range",
+  "castTime": "Instant"
+}

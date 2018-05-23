@@ -1,0 +1,18 @@
+{
+  "id": 6599,
+  "title": "Legendary Pet Brawler",
+  "points": 10,
+  "description": "Win 5000 PvP pet battles.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_win5000pvp",
+  "criteria": [
+    {
+      "id": 21525,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,108 @@
+{
+  "id": 2138,
+  "title": "Glory of the Raider (25 player)",
+  "points": 25,
+  "description": "Complete the 25-player raid achievements listed below.",
+  "rewardItems": [],
+  "icon": "inv_helmet_06",
+  "criteria": [
+    {
+      "id": 7538,
+      "description": "The Dedicated Few (25 player)",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7539,
+      "description": "Arachnophobia (25 player)",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7540,
+      "description": "Make Quick Werk Of Him (25 player)",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7541,
+      "description": "The Safety Dance (25 player)",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7542,
+      "description": "Momma Said Knock You Out (25 player)",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7607,
+      "description": "Shocking! (25 player)",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7619,
+      "description": "And They Would All Go Down Together (25 player)",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 7611,
+      "description": "Subtraction (25 player)",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 7543,
+      "description": "The Spellweaver's Downfall (25 player)",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 7544,
+      "description": "You Don't Have An Eternity (25 player)",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 7545,
+      "description": "A Poke In The Eye (25 player)",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 7546,
+      "description": "Gonna Go When the Volcano Blows (25 player)",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 7575,
+      "description": "Denyin' the Scion (25 player)",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 7547,
+      "description": "The Twilight Zone (25 player)",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 7569,
+      "description": "The Hundred Club (25 player)",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 7621,
+      "description": "Just Can't Get Enough (25 player)",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

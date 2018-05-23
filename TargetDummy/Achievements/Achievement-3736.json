@@ -1,0 +1,18 @@
+{
+  "id": 3736,
+  "title": "Pony Up!",
+  "points": 10,
+  "description": "Purchase and use an Argent Pony from Dame Evniki Kapsalis, the Crusader's Quartermaster.",
+  "rewardItems": [],
+  "icon": "ability_mount_ridinghorse",
+  "criteria": [
+    {
+      "id": 11358,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

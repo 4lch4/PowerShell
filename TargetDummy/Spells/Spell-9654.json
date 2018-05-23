@@ -1,0 +1,9 @@
+{
+  "id": 9654,
+  "name": "Jumping Lightning",
+  "icon": "spell_nature_lightning",
+  "description": "Hurls a lightning bolt that inflicts Nature damage to an enemy and its nearest ally.",
+  "range": "40 yd range",
+  "powerCost": "90 Mana",
+  "castTime": "3 sec cast"
+}

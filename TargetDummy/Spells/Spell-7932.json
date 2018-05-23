@@ -1,0 +1,9 @@
+{
+  "id": 7932,
+  "name": "Anti-Venom",
+  "subtext": "Rank 1",
+  "icon": "spell_nature_nullifypoison_02",
+  "description": "Target is cured of poisons up to level 25.",
+  "range": "30 yd range",
+  "castTime": "Instant"
+}

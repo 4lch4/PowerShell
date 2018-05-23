@@ -1,0 +1,18 @@
+{
+  "id": 8210,
+  "title": "Shado-Pan Assault",
+  "points": 10,
+  "description": "Earn Exalted status with the Shado-Pan Assault.",
+  "rewardItems": [],
+  "icon": "achievement_faction_shadopan",
+  "criteria": [
+    {
+      "id": 22928,
+      "description": "Shado-Pan Assault exalted",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

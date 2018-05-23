@@ -1,0 +1,12 @@
+{
+  "id": 11034,
+  "title": "Defender of the Alliance: Legion Season 2",
+  "points": 0,
+  "description": "End Legion PvP season 2 in the top 10% of the rated battleground ladder (requires 50 games won in Legion Season 2).",
+  "reward": "Title Reward: Defender of the Alliance",
+  "rewardItems": [],
+  "icon": "achievement_pvp_o_a",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 0
+}

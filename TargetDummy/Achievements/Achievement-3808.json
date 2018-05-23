@@ -1,0 +1,11 @@
+{
+  "id": 3808,
+  "title": "A Tribute to Skill (10 player)",
+  "points": 0,
+  "description": "In the Trial of the Grand Crusader, reach a Tribute Chest with at least 25 attempts remaining in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_crown_14",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

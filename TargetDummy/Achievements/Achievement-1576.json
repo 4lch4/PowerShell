@@ -1,0 +1,24 @@
+{
+  "id": 1576,
+  "title": "Of Blood and Anguish",
+  "points": 10,
+  "description": "Complete the Ring of Blood quests in Nagrand and the Ampitheater of Anguish quests in Zul'Drak.",
+  "rewardItems": [],
+  "icon": "inv_helmet_08",
+  "criteria": [
+    {
+      "id": 5798,
+      "description": "The Ring of Blood: The Final Challenge",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5799,
+      "description": "The Champion of Anguish",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

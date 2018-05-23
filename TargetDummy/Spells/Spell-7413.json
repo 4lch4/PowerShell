@@ -1,0 +1,7 @@
+{
+  "id": 7413,
+  "name": "Enchanting",
+  "icon": "trade_engraving",
+  "description": "Allows an enchanter to put masterful enchantments on weapons and armor up to a maximum potential skill of 225.",
+  "castTime": "Instant"
+}

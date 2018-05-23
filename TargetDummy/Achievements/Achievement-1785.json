@@ -1,0 +1,42 @@
+{
+  "id": 1785,
+  "title": "Dinner Impossible",
+  "points": 10,
+  "description": "Present a Great Feast in each of the battlegrounds listed below.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_boar",
+  "criteria": [
+    {
+      "id": 6626,
+      "description": "Alterac Valley",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6627,
+      "description": "Arathi Basin",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6628,
+      "description": "Warsong Gulch",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6629,
+      "description": "Strand of the Ancients",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6630,
+      "description": "Eye of the Storm",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

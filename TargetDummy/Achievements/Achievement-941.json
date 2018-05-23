@@ -1,0 +1,30 @@
+{
+  "id": 941,
+  "title": "Hemet Nesingwary: The Collected Quests",
+  "points": 10,
+  "description": "Complete the Green Hills of Stranglethorn, Hills Like White Elekk and Snows of Northrend achievements.",
+  "rewardItems": [],
+  "icon": "inv_weapon_rifle_05",
+  "criteria": [
+    {
+      "id": 2008,
+      "description": "The Green Hills of Stranglethorn",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 2009,
+      "description": "Hills Like White Elekk",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2010,
+      "description": "The Snows of Northrend",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11688,
+  "title": "Floor Thirteen",
+  "points": 10,
+  "description": "Reach Prestige Level 13.",
+  "rewardItems": [],
+  "icon": "achievement_legionpvp3tier5",
+  "criteria": [
+    {
+      "id": 36186,
+      "description": "Reach Prestige Level 13.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

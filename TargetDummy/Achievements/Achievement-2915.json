@@ -1,0 +1,18 @@
+{
+  "id": 2915,
+  "title": "Nuked from Orbit (10 player)",
+  "points": 10,
+  "description": "Defeat Flame Leviathan with at least 3 Orbital Defense Systems active in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_orb_05",
+  "criteria": [
+    {
+      "id": 10058,
+      "description": "Flame Leviathan",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

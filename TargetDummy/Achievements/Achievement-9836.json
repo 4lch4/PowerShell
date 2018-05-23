@@ -1,0 +1,48 @@
+{
+  "id": 9836,
+  "title": "Master Relic Hunter",
+  "points": 10,
+  "description": "Complete all 6 Relic Hunter Quests offered by Harrison Jones in your Garrison.",
+  "rewardItems": [],
+  "icon": "trade_archaeology_gemmeddrinkingcup",
+  "criteria": [
+    {
+      "id": 27600,
+      "description": "The Blessing of Beasts",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27601,
+      "description": "Breaching the Barrier",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27602,
+      "description": "The Apexis Device",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27603,
+      "description": "The Spirit Forge",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27604,
+      "description": "Taking from the Taker",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27605,
+      "description": "The Crystal Reborn",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

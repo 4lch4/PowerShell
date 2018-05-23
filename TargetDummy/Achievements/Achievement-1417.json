@@ -1,0 +1,18 @@
+{
+  "id": 1417,
+  "title": "Realm First! Grand Master Enchanter",
+  "points": 0,
+  "description": "First person on the realm to achieve 450 skill in enchanting.",
+  "rewardItems": [],
+  "icon": "trade_engraving",
+  "criteria": [
+    {
+      "id": 5567,
+      "description": "Skill to 450",
+      "orderIndex": 1,
+      "max": 450
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

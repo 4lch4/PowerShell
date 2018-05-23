@@ -1,0 +1,18 @@
+{
+  "id": 6837,
+  "title": "Zen Master Archaeologist",
+  "points": 10,
+  "description": "Obtain 600 skill points in archaeology.",
+  "rewardItems": [],
+  "icon": "trade_archaeology",
+  "criteria": [
+    {
+      "id": 13812,
+      "description": "Obtain 600 skill points in archaeology.",
+      "orderIndex": 0,
+      "max": 600
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

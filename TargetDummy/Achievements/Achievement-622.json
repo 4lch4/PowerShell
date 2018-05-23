@@ -1,0 +1,18 @@
+{
+  "id": 622,
+  "title": "The Spellweaver's Downfall (10 player)",
+  "points": 10,
+  "description": "Defeat Malygos in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_nexusraid",
+  "criteria": [
+    {
+      "id": 5137,
+      "description": "Malygos",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

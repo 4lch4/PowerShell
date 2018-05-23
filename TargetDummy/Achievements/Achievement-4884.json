@@ -1,0 +1,18 @@
+{
+  "id": 4884,
+  "title": "Ramkahen",
+  "points": 10,
+  "description": "Earn Exalted status with the Ramkahen Tol'vir.",
+  "rewardItems": [],
+  "icon": "inv_misc_tabard_tolvir",
+  "criteria": [
+    {
+      "id": 14518,
+      "description": "Ramkahen Exalted",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 677,
+  "title": "Heroic: The Steamvault",
+  "points": 10,
+  "description": "Defeat Warlord Kalithresh on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_warlord_kalithresh",
+  "criteria": [
+    {
+      "id": 3718,
+      "description": "Warlord Kalithresh",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4474,
+      "description": "Trial of the Naaru: Strength",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

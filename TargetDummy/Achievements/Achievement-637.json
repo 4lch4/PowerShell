@@ -1,0 +1,18 @@
+{
+  "id": 637,
+  "title": "Scarlet Monastery",
+  "points": 10,
+  "description": "Defeat High Inquisitor Whitemane in Scarlet Monastery.",
+  "rewardItems": [],
+  "icon": "spell_holy_resurrection",
+  "criteria": [
+    {
+      "id": 533,
+      "description": "High Inquisitor Whitemane",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

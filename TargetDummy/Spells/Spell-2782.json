@@ -1,0 +1,10 @@
+{
+  "id": 2782,
+  "name": "Remove Corruption",
+  "icon": "spell_holy_removecurse",
+  "description": "Nullifies corrupting effects on the friendly target, removing all Curse and Poison effects.",
+  "range": "40 yd range",
+  "powerCost": "13% of base mana",
+  "castTime": "Instant",
+  "cooldown": "8 sec cooldown"
+}

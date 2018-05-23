@@ -1,0 +1,18 @@
+{
+  "id": 9531,
+  "title": "Writing in the Snow",
+  "points": 10,
+  "description": "Find Shadow Hunter Bwu'ja's tattered journal page in the Bloodmaul Stronghold.",
+  "rewardItems": [],
+  "icon": "inv_misc_bandage_10",
+  "criteria": [
+    {
+      "id": 26227,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

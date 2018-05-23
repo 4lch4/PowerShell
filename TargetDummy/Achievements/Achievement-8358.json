@@ -1,0 +1,36 @@
+{
+  "id": 8358,
+  "title": "Deepwind Gorge All-Star",
+  "points": 20,
+  "description": "Assault a mine, Defend a mine, Capture a mine cart and Return a mine cart in a single Deepwind Gorge match.",
+  "rewardItems": [],
+  "icon": "ability_warrior_intensifyrage",
+  "criteria": [
+    {
+      "id": 23425,
+      "description": "Assault 1 mine",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23426,
+      "description": "Defend 1 mine",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 23427,
+      "description": "Capture 1 mine cart",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 23428,
+      "description": "Return 1 mine cart",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

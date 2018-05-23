@@ -1,0 +1,24 @@
+{
+  "id": 414,
+  "title": "Tyrael's Hilt",
+  "points": 0,
+  "description": "Proud owner of Tyrael's Hilt from the 2008 World Wide Invitational in Paris, France.",
+  "rewardItems": [],
+  "icon": "inv_sword_07",
+  "criteria": [
+    {
+      "id": 2430,
+      "description": "Tyrael's Hilt",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6158,
+      "description": "Tyrael",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

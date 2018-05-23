@@ -1,0 +1,30 @@
+{
+  "id": 915,
+  "title": "Elders of the Alliance",
+  "points": 10,
+  "description": "Honor the Elders which are located in the Alliance capital cities.",
+  "rewardItems": [],
+  "icon": "spell_holy_symbolofhope",
+  "criteria": [
+    {
+      "id": 1999,
+      "description": "Elder Bladeswift in Darnassus",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1997,
+      "description": "Elder Bronzebeard in Ironforge",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1998,
+      "description": "Elder Hammershout in Stormwind",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,48 @@
+{
+  "id": 699,
+  "title": "World Wide Winner",
+  "points": 10,
+  "description": "Win a ranked arena match in Blade's Edge, Nagrand, Dalaran Sewers, the Ruins of Lordaeron, Tol'Viron Arena and the Tiger's Peak.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pathfinding",
+  "criteria": [
+    {
+      "id": 8589,
+      "description": "Ruins of Lordaeron",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 8587,
+      "description": "Dalaran Sewers",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21042,
+      "description": "Tol'Viron Arena",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 23502,
+      "description": "The Tiger's Peak",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Blade's Edge Arena",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Nagrand Arena",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

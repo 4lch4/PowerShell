@@ -1,0 +1,9 @@
+{
+  "id": 11426,
+  "name": "Ice Barrier",
+  "icon": "spell_ice_lament",
+  "description": "Shields you for 1 min, absorbing 60,060 damage. Melee attacks against you reduce the attacker's movement speed by 50%.",
+  "powerCost": "3% of base mana",
+  "castTime": "Instant",
+  "cooldown": "25 sec cooldown"
+}

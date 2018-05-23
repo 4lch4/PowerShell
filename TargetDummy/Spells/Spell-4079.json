@@ -1,0 +1,8 @@
+{
+  "id": 4079,
+  "name": "Cloaking",
+  "icon": "spell_nature_invisibilty",
+  "description": "Gives invisibility for 10 sec.",
+  "castTime": "Instant",
+  "cooldown": "10 min cooldown"
+}

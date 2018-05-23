@@ -1,0 +1,3 @@
+﻿<Template version="1.0" type="File" tags="PowerShell, Form">
+	<Description>Creates a form with a Tab Control and navigation buttons.</Description>
+</Template>

@@ -1,0 +1,18 @@
+{
+  "id": 3142,
+  "title": "Val'anyr, Hammer of Ancient Kings",
+  "points": 0,
+  "description": "Wielder of Val'anyr, Hammer of Ancient Kings.",
+  "rewardItems": [],
+  "icon": "inv_mace_99",
+  "criteria": [
+    {
+      "id": 10838,
+      "description": "Val'anyr, Hammer of Ancient Kings",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

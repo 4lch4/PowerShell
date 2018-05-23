@@ -1,0 +1,18 @@
+{
+  "id": 10042,
+  "title": "Mythic: Mannoroth",
+  "points": 10,
+  "description": "Defeat Mannoroth in Hellfire Citadel on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_mannorothreanimated",
+  "criteria": [
+    {
+      "id": 28105,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6760,
+  "title": "Heroic: Scarlet Halls",
+  "points": 10,
+  "description": "Defeat Flameweaver Koegler in Scarlet Halls on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "inv_helmet_52",
+  "criteria": [
+    {
+      "id": 19670,
+      "description": "Flameweaver Koegler",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

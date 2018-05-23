@@ -1,0 +1,86 @@
+{
+  "id": 11763,
+  "title": "Glory of the Tomb Raider",
+  "points": 25,
+  "description": "Complete the Tomb of Sargeras raid achievements listed below.",
+  "reward": "Title Reward: The Tomb Raider",
+  "rewardItems": [
+    {
+      "id": 101426,
+      "name": "Micronax Controller",
+      "icon": "inv_legionadventure",
+      "quality": 3,
+      "itemLevel": 110,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_helm_cloth_raidpriest_o_01",
+  "criteria": [
+    {
+      "id": 36460,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 36461,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 36462,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 36463,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 36464,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 36465,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 36543,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 36544,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 36545,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

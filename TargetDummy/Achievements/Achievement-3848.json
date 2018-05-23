@@ -1,0 +1,18 @@
+{
+  "id": 3848,
+  "title": "A-bomb-inable",
+  "points": 10,
+  "description": "In a single Isle of Conquest battle, use 5 Seaforium Bombs on the enemy gates.",
+  "rewardItems": [],
+  "icon": "inv_misc_bomb_01",
+  "criteria": [
+    {
+      "id": 12066,
+      "description": "Bombs used on enemy gates",
+      "orderIndex": 1,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

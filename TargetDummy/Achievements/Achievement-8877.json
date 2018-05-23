@@ -1,0 +1,18 @@
+{
+  "id": 8877,
+  "title": "Bloodmaul Slag Mines: Silver",
+  "points": 0,
+  "description": "Complete the Bloodmaul Slag Mines Challenge Mode with a rating of Silver or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_ogreslagmines_silver",
+  "criteria": [
+    {
+      "id": 24469,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

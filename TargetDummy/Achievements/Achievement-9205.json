@@ -1,0 +1,18 @@
+{
+  "id": 9205,
+  "title": "Iron Horde Invasion",
+  "points": 5,
+  "description": "Successfully complete an Iron Horde garrison invasion.",
+  "rewardItems": [],
+  "icon": "inv_tabard_a_03ironhorde",
+  "criteria": [
+    {
+      "id": 25325,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

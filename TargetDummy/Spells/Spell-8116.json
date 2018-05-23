@@ -1,0 +1,9 @@
+{
+  "id": 8116,
+  "name": "Agility",
+  "subtext": "Rank 2",
+  "icon": "spell_holy_blessingofagility",
+  "description": "Increases the target's Agility by 5 for 30 min.  This effect counts as a Battle Elixir.",
+  "range": "30 yd range",
+  "castTime": "Instant"
+}

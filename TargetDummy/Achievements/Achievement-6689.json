@@ -1,0 +1,36 @@
+{
+  "id": 6689,
+  "title": "Terrace of Endless Spring",
+  "points": 10,
+  "description": "Defeat the bosses in Terrace of Endless Spring.",
+  "rewardItems": [],
+  "icon": "achievement_raid_terraceofendlessspring04",
+  "criteria": [
+    {
+      "id": 19518,
+      "description": "Protectors of the Endless",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19519,
+      "description": "Tsulong",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19520,
+      "description": "Lei Shi",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19521,
+      "description": "Sha of Fear",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

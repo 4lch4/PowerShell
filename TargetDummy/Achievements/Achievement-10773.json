@@ -1,0 +1,18 @@
+{
+  "id": 10773,
+  "title": "Arcanic Cling",
+  "points": 10,
+  "description": "Defeat Ivanyr without taking any damage from Charged Bolt in The Arcway on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "spell_arcane_starfire",
+  "criteria": [
+    {
+      "id": 31372,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

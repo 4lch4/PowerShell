@@ -1,0 +1,10 @@
+{
+  "id": 5323,
+  "name": "Speed of Owatanka",
+  "subtext": "Rank 1",
+  "icon": "spell_nature_purge",
+  "description": "",
+  "range": "30 yd range",
+  "castTime": "Instant",
+  "cooldown": "1 sec cooldown"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 440,
+  "title": "Sergeant Major",
+  "points": 0,
+  "description": "Earned the title, \"Sergeant Major\" at level 60.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_05",
+  "criteria": [
+    {
+      "id": 736,
+      "description": "Sergeant Major",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

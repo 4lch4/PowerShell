@@ -1,0 +1,24 @@
+{
+  "id": 10168,
+  "title": "Naval Armada",
+  "points": 5,
+  "description": "Upgrade your shipyard to level 3.",
+  "rewardItems": [],
+  "icon": "inv_garrison_dreadnaught",
+  "criteria": [
+    {
+      "id": 28566,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28736,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

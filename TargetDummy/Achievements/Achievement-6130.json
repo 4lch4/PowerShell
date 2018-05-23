@@ -1,0 +1,18 @@
+{
+  "id": 6130,
+  "title": "Severed Ties",
+  "points": 10,
+  "description": "Defeat two Risen Ghouls during Echo of Sylvanas' Calling of the Highborne phase, then defeat the Echo of Sylvanas in End Time on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_leader_sylvanas",
+  "criteria": [
+    {
+      "id": 18499,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

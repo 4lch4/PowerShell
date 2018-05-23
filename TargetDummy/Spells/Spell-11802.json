@@ -1,0 +1,8 @@
+{
+  "id": 11802,
+  "name": "Dark Iron Land Mine",
+  "icon": "spell_shadow_metamorphosis",
+  "description": "Places a Dark Iron Land Mine on the ground. The next hostile creature to pass near the mine will cause it to explode, inflicting 675 damage on nearby enemies. Mines are unstable and only last for 30 sec.",
+  "range": "5 yd range",
+  "castTime": "1 sec cast"
+}

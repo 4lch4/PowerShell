@@ -1,0 +1,9 @@
+{
+  "id": 7342,
+  "name": "Wide Slash",
+  "subtext": "Rank 1",
+  "icon": "ability_warrior_cleave",
+  "description": "Inflicts normal damage plus additional damage to enemies in a cone in front of the caster.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

@@ -1,0 +1,61 @@
+{
+  "id": 8928,
+  "title": "Nagrandeur",
+  "points": 10,
+  "description": "Complete the Nagrand storylines listed below.",
+  "reward": "Reward: Unlocks \"Treasure Map: Nagrand\"",
+  "rewardItems": [],
+  "icon": "achievement_zone_nagrand_02",
+  "criteria": [
+    {
+      "id": 25368,
+      "description": "The Might of Steel and Blood",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25362,
+      "description": "The Ring of Trials",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25363,
+      "description": "The Shadow of the Void",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 25371,
+      "description": "The Dark Heart of Oshu'gun",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 25370,
+      "description": "Remains of Telaar",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26006,
+      "description": "Trouble at the Overwatch",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 25369,
+      "description": "The Taking of Lok-rath",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 25372,
+      "description": "The Legacy of Garrosh Hellscream",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11377,
+  "title": "Patient Zero",
+  "points": 10,
+  "description": "Defeat Helya while all raid members but one are afflicted with Fetid Rot, in Trial of Valor on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "inv_pet_diseasedsquirrel",
+  "criteria": [
+    {
+      "id": 34755,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

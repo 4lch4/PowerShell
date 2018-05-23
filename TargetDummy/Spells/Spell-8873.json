@@ -1,0 +1,8 @@
+{
+  "id": 8873,
+  "name": "Flame Breath",
+  "icon": "spell_fire_fire",
+  "description": "Inflicts Fire damage to enemies in a cone in front of the caster.",
+  "range": "Melee Range",
+  "castTime": "1.7 sec cast"
+}

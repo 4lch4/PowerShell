@@ -1,0 +1,7 @@
+{
+  "id": 9906,
+  "name": "Reflection",
+  "icon": "spell_shadow_teleport",
+  "description": "Gives the caster 100% chance to reflect harmful spells for 5 sec.",
+  "castTime": "Instant"
+}

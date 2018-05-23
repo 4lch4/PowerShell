@@ -1,0 +1,18 @@
+{
+  "id": 8354,
+  "title": "Puddle Jumper",
+  "points": 10,
+  "description": "Fall 25 yards without dying in Deepwind Gorge.",
+  "rewardItems": [],
+  "icon": "spell_magic_featherfall",
+  "criteria": [
+    {
+      "id": 23423,
+      "description": "25 yards without dying in Deepwind Gorge",
+      "orderIndex": 0,
+      "max": 2500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

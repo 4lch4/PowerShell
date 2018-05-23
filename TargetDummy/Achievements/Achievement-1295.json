@@ -1,0 +1,18 @@
+{
+  "id": 1295,
+  "title": "Crashin' & Thrashin'",
+  "points": 10,
+  "description": "Gain 25 crashes with your Crashin' Thrashin' Racer during the Feast of Winter Veil.",
+  "rewardItems": [],
+  "icon": "inv_gizmo_goblingtonkcontroller",
+  "criteria": [
+    {
+      "id": 4090,
+      "description": "Gain 25 crashes with your Crashin' Thrashin' Racer",
+      "orderIndex": 1,
+      "max": 25
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

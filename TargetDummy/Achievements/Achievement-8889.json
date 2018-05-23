@@ -1,0 +1,18 @@
+{
+  "id": 8889,
+  "title": "Grimrail Depot: Silver",
+  "points": 0,
+  "description": "Complete the Grimrail Depot Challenge Mode with a rating of Silver or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_blackrockdepot_silver",
+  "criteria": [
+    {
+      "id": 24481,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

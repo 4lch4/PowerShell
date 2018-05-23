@@ -1,0 +1,18 @@
+{
+  "id": 1864,
+  "title": "What the Eck?",
+  "points": 10,
+  "description": "Defeat Gal'darah in Gundrak on Heroic Difficulty while under the effects of Eck Residue.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_gundrak_25man",
+  "criteria": [
+    {
+      "id": 7136,
+      "description": "Kill Gal'darah while under the effects of Eck Residue.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

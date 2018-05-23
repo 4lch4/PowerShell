@@ -1,0 +1,18 @@
+{
+  "id": 707,
+  "title": "Stormpike Battle Charger",
+  "points": 10,
+  "description": "Obtain a Stormpike Battle Charger.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_stormpiketrinket_01",
+  "criteria": [
+    {
+      "id": 6212,
+      "description": "Stormpike Battle Charger",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 0
+}

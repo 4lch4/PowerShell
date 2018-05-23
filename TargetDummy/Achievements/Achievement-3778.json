@@ -1,0 +1,60 @@
+{
+  "id": 3778,
+  "title": "Trial of the Champion",
+  "points": 10,
+  "description": "Defeat the bosses in the Trial of the Champion.",
+  "rewardItems": [],
+  "icon": "inv_spear_05",
+  "criteria": [
+    {
+      "id": 11420,
+      "description": "Marshal Jacob Alerius",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12298,
+      "description": "Lana Stouthammer",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 12299,
+      "description": "Colosos",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 12300,
+      "description": "Ambrose Boltspark",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 12301,
+      "description": "Jaelyne Evensong",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 13312,
+      "description": "Argent Confessor Paletress",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 13313,
+      "description": "Eadric the Pure",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 13314,
+      "description": "The Black Knight",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

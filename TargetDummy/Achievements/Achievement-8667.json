@@ -1,0 +1,12 @@
+{
+  "id": 8667,
+  "title": "Gladiator: Season 15",
+  "points": 0,
+  "description": "End a PvP season in the top 0.5% of the arena ladder (requires 50 games won in Season 15).",
+  "reward": "Title Reward: Gladiator",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_06",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

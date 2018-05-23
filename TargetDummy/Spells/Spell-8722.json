@@ -1,0 +1,8 @@
+{
+  "id": 8722,
+  "name": "Summon Succubus",
+  "icon": "spell_shadow_summonsuccubus",
+  "description": "Summons 1 Succubus to accompany the caster until dismissed.",
+  "powerCost": "100% of base mana",
+  "castTime": "Instant"
+}

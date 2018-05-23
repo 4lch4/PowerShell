@@ -1,0 +1,60 @@
+{
+  "id": 856,
+  "title": "Explore Silithus",
+  "points": 10,
+  "description": "Explore Silithus, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_silithus_01",
+  "criteria": [
+    {
+      "id": 1460,
+      "description": "The Crystal Vale",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1462,
+      "description": "Southwind Village",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1463,
+      "description": "Cenarion Hold",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1468,
+      "description": "Hive'Zora",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1469,
+      "description": "Hive'Regal",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1470,
+      "description": "The Scarab Wall",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1472,
+      "description": "Hive'Ashi",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 15122,
+      "description": "Valor's Rest",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

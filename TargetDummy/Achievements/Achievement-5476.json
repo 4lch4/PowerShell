@@ -1,0 +1,42 @@
+{
+  "id": 5476,
+  "title": "Fish or Cut Bait: Stormwind",
+  "points": 10,
+  "description": "Complete each of the Stormwind fishing daily quests.",
+  "rewardItems": [],
+  "icon": "inv_fishingpole_03",
+  "criteria": [
+    {
+      "id": 15812,
+      "description": "Hitting a Walleye",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15813,
+      "description": "Diggin' for Worms",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15814,
+      "description": "Rock Lobster",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15815,
+      "description": "Big Gulp",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15816,
+      "description": "Thunder Falls",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

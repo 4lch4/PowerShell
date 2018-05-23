@@ -1,0 +1,18 @@
+{
+  "id": 6175,
+  "title": "Holding Hands",
+  "points": 10,
+  "description": "Destroy the final Crystal Conductor during Hagara's lightning phase on Normal or Heroic Difficulty, while all players present are part of the final Lightning Conduit.",
+  "rewardItems": [],
+  "icon": "achievement_general_dungeondiplomat",
+  "criteria": [
+    {
+      "id": 18608,
+      "description": "Holding Hands",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

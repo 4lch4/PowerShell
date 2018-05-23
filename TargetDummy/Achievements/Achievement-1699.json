@@ -1,0 +1,78 @@
+{
+  "id": 1699,
+  "title": "Fistful of Love",
+  "points": 10,
+  "description": "Use a Handful of Rose Petals on each of the race/class combinations listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_dust_04",
+  "criteria": [
+    {
+      "id": 6312,
+      "description": "Gnome Warlock",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6302,
+      "description": "Orc Death Knight",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6313,
+      "description": "Human Death Knight",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6314,
+      "description": "Night Elf Priest",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6315,
+      "description": "Orc Shaman",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6316,
+      "description": "Tauren Druid",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6318,
+      "description": "Undead Warrior",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6317,
+      "description": "Troll Rogue",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 6319,
+      "description": "Blood Elf Mage",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 6320,
+      "description": "Draenei Paladin",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 6321,
+      "description": "Dwarf Hunter",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

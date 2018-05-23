@@ -1,0 +1,25 @@
+{
+  "id": 2761,
+  "title": "Exalted Champion of the Exodar",
+  "points": 10,
+  "description": "Earn exalted status with and the right to represent the Exodar in the Argent Tournament.",
+  "reward": "Title Reward: of the Exodar",
+  "rewardItems": [],
+  "icon": "inv_misc_tournaments_symbol_draenei",
+  "criteria": [
+    {
+      "id": 5332,
+      "description": "Exalted with Exodar",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 11321,
+      "description": "Champion of the Exodar",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

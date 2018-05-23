@@ -1,0 +1,18 @@
+{
+  "id": 2919,
+  "title": "A Quick Shave (10 player)",
+  "points": 10,
+  "description": "Defeat Razorscale without allowing her to fly into the air more than once in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_boss_razorscale",
+  "criteria": [
+    {
+      "id": 10062,
+      "description": "Razorscale",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,12 @@
+{
+  "id": 11048,
+  "title": "Soldier of the Horde: Legion Season 3",
+  "points": 0,
+  "description": "End Legion PvP season 3 in the top 35% of the rated battleground ladder (requires 50 games won your current faction in Legion Season 3).",
+  "reward": "Title Reward: Soldier of the Horde",
+  "rewardItems": [],
+  "icon": "achievement_pvp_g_h",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 1
+}

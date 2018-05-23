@@ -1,0 +1,18 @@
+{
+  "id": 7100,
+  "title": "My Diamonds and Your Rust",
+  "points": 10,
+  "description": "Win a Silvershard Mines battle without letting the enemy team capture a mine cart.",
+  "rewardItems": [],
+  "icon": "trade_archaeology_rustedsteakknife",
+  "criteria": [
+    {
+      "id": 20991,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

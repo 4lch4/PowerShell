@@ -1,0 +1,24 @@
+{
+  "id": 11631,
+  "title": "Extreme Makeover: Fel Edition",
+  "points": 10,
+  "description": "Collect any class armor set from Hellfire Citadel.",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_zone",
+  "criteria": [
+    {
+      "id": 35745,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 36379,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 10054,
+  "name": "zzOldConjure Mana Gem",
+  "subtext": "Rank 4",
+  "icon": "inv_misc_gem_ruby_01",
+  "description": "Conjures a mana ruby that can be used to instantly restore 12103 mana.",
+  "castTime": "Instant"
+}

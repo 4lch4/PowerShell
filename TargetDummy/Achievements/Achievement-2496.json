@@ -1,0 +1,18 @@
+{
+  "id": 2496,
+  "title": "The Fifth Element",
+  "points": 0,
+  "description": "Obtain an Aqual Quintessence.",
+  "rewardItems": [],
+  "icon": "spell_frost_summonwaterelemental_2",
+  "criteria": [
+    {
+      "id": 9198,
+      "description": "Complete Hyrdaxis' Tasks",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

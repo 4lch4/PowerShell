@@ -1,0 +1,8 @@
+{
+  "id": 8990,
+  "name": "Retribution Aura",
+  "subtext": "Rank 1",
+  "icon": "spell_holy_auraoflight",
+  "description": "Causes Holy damage to any creature that strikes a nearby party member. Players may only have one aura on them per paladin at any one time. The aura lasts until canceled.",
+  "castTime": "Instant"
+}

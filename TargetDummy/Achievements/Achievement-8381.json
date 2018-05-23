@@ -1,0 +1,18 @@
+{
+  "id": 8381,
+  "title": "Grievous Conquest",
+  "points": 0,
+  "description": "Earn 27,000 Conquest Points in Season 14.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winwsg",
+  "criteria": [
+    {
+      "id": 23540,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

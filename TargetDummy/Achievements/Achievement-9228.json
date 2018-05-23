@@ -1,0 +1,18 @@
+{
+  "id": 9228,
+  "title": "Down Goes Van Rook",
+  "points": 10,
+  "description": "Kill Elliott Van Rook before he remembers how to use Ice Block.",
+  "rewardItems": [],
+  "icon": "creatureportrait_creature_iceblock",
+  "criteria": [
+    {
+      "id": 25350,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

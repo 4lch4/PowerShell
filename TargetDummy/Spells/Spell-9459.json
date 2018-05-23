@@ -1,0 +1,8 @@
+{
+  "id": 9459,
+  "name": "Corrosive Ooze",
+  "icon": "spell_shadow_animatedead",
+  "description": "Reduces the physical damage dealt by the target.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

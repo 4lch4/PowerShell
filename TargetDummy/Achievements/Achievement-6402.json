@@ -1,0 +1,38 @@
+{
+  "id": 6402,
+  "title": "Ling-Ting's Herbal Journey",
+  "points": 10,
+  "description": "Collect all 30 Golden Hoplings hidden around the Stormstout Brewery on any difficulty.",
+  "reward": "Reward: Hopling",
+  "rewardItems": [
+    {
+      "id": 86562,
+      "name": "Hopling",
+      "icon": "achievement_brewery_1",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_brewery_1",
+  "criteria": [
+    {
+      "id": 19015,
+      "description": "Golden Verming",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

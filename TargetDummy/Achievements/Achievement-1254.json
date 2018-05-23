@@ -1,0 +1,18 @@
+{
+  "id": 1254,
+  "title": "Friend or Fowl?",
+  "points": 10,
+  "description": "Slay 15 turkeys in 3 minutes.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_15",
+  "criteria": [
+    {
+      "id": 3821,
+      "description": "15 Turkeys in 3 minutes",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

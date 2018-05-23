@@ -1,0 +1,18 @@
+{
+  "id": 10805,
+  "title": "Heroic: Black Rook Hold",
+  "points": 10,
+  "description": "Defeat Lord Kur'talos Ravencrest in Black Rook Hold on Heroic difficulty or higher.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_blackrookhold",
+  "criteria": [
+    {
+      "id": 34552,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

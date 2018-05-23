@@ -1,0 +1,90 @@
+{
+  "id": 9562,
+  "title": "Securing Draenor",
+  "points": 10,
+  "description": "Complete the Draenor bonus objectives listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_map08",
+  "criteria": [
+    {
+      "id": 26225,
+      "description": "Assault on the Iron Siegeworks",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26226,
+      "description": "Assault on Stonefury Cliffs",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26228,
+      "description": "Assault on Magnarok",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26229,
+      "description": "Assault on the Pit",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 26232,
+      "description": "Assault on the Everbloom Wilds",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26233,
+      "description": "Assault on the Broken Precipice",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 26242,
+      "description": "Assault on Shattrath Harbor",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 26237,
+      "description": "Assault on Mok'gol Watchpost",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 26238,
+      "description": "Assault on Socrethar's Rise",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 26239,
+      "description": "Assault on Darktide Roost",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 26240,
+      "description": "Assault on Pillars of Fate",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 26243,
+      "description": "Assault on Skettis",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 23250,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

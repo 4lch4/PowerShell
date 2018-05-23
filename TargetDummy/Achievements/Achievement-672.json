@@ -1,0 +1,18 @@
+{
+  "id": 672,
+  "title": "Heroic: Auchenai Crypts",
+  "points": 10,
+  "description": "Defeat Exarch Maladaar on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_exarch_maladaar",
+  "criteria": [
+    {
+      "id": 3714,
+      "description": "Exarch Maladaar",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 4534,
+  "title": "Boned (10 player)",
+  "points": 10,
+  "description": "Defeat Lord Marrowgar without any raid member remaining impaled for more than 8 seconds in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_boss_lordmarrowgar",
+  "criteria": [
+    {
+      "id": 12775,
+      "description": "Lord Marrowgar slain",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13393,
+      "description": "Lord Marrowgar slain",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

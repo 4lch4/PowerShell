@@ -1,0 +1,78 @@
+{
+  "id": 10166,
+  "title": "Naval Mechanics",
+  "points": 5,
+  "description": "Obtain all of the naval equipment blueprints listed below.",
+  "rewardItems": [],
+  "icon": "inv_garrison_blueprints3",
+  "criteria": [
+    {
+      "id": 28536,
+      "description": "Tuskarr Fishing Net",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28529,
+      "description": "Felsmoke Launchers",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28537,
+      "description": "Unsinkable",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 28538,
+      "description": "High Intensity Fog Lights",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 28535,
+      "description": "True Iron Rudder",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 28539,
+      "description": "Trained Shark Tank",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 28530,
+      "description": "Ghostly Spyglass",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 28532,
+      "description": "Ice Cutter",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 28531,
+      "description": "Gyroscopic Internal Stabilizer",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 28540,
+      "description": "Bilge Pump",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 28527,
+      "description": "Blast Furnace",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

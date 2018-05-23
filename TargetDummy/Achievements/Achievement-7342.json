@@ -1,0 +1,18 @@
+{
+  "id": 7342,
+  "title": "Collector: Empty Kegs of Brewfather Xin Wo Yin",
+  "points": 10,
+  "description": "Restore 5 Empty Kegs of Brewfather Xin Wo Yin.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20655,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

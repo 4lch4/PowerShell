@@ -1,0 +1,18 @@
+{
+  "id": 11769,
+  "title": "A Steamy Romance Saga",
+  "points": 10,
+  "description": "Defeat Thrashbite the Scornful after all party members have read the entire Steamy Romance saga within Cathedral of Eternal Night on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_book_09",
+  "criteria": [
+    {
+      "id": 36762,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

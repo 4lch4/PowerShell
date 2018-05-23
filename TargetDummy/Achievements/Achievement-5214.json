@@ -1,0 +1,18 @@
+{
+  "id": 5214,
+  "title": "Soaring Spirits",
+  "points": 10,
+  "description": "Kill 100 flag carriers in Twin Peaks.",
+  "rewardItems": [],
+  "icon": "achievement_bg_kill_flag_carrierwsg",
+  "criteria": [
+    {
+      "id": 14821,
+      "description": "Alliance Flag Carriers",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

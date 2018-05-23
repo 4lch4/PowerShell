@@ -1,0 +1,348 @@
+{
+  "id": 8728,
+  "title": "Going To Need A Bigger Bag",
+  "points": 10,
+  "description": "Obtain all of the rare items from the Timeless Isle listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_bag_16",
+  "criteria": [
+    {
+      "id": 24024,
+      "description": "Cursed Swabby Helmet",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 24080,
+      "description": "Warped Warning Sign",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 24079,
+      "description": "Giant Purse of Timeless Coins",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 24078,
+      "description": "Crystal of Insanity",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 24077,
+      "description": "Battle Horn",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 24075,
+      "description": "Forager's Gloves",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 24074,
+      "description": "Big Bag of Herbs",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 24073,
+      "description": "Overgrown Lilypad",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 24072,
+      "description": "Hardened Shell",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 24071,
+      "description": "Bubbling Pi'jiu Brew",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 24070,
+      "description": "Thick Pi'jiu Brew",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 24069,
+      "description": "Misty Pi'jiu Brew",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 24068,
+      "description": "Warning Sign",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 24067,
+      "description": "Ash-Covered Horn",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 24066,
+      "description": "Cauterizing Core",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 24065,
+      "description": "Captain Zvezdan's Lost Leg",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 24064,
+      "description": "Cursed Talisman",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 24063,
+      "description": "Golden Moss",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 24062,
+      "description": "Strange Glowing Mushroom",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 24061,
+      "description": "Eternal Kiln",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 24060,
+      "description": "Jadefire Spirit",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 24059,
+      "description": "Sunset Stone",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 24058,
+      "description": "Ashen Stone",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 24057,
+      "description": "Blizzard Stone",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 24056,
+      "description": "Rain Stone",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 24055,
+      "description": "Blackflame Daggers",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 24054,
+      "description": "Falling Flame",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 24053,
+      "description": "Ordon Death Chime",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 24052,
+      "description": "Blazing Sigil of Ordos",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 24051,
+      "description": "Ordon Ceremonial Robes",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 24050,
+      "description": "Rime of the Time-Lost Mariner",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 24049,
+      "description": "Scuttler's Shell",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 24048,
+      "description": "Partially-Digested Meal",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 24047,
+      "description": "Swarmling of Gu'chi",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 24046,
+      "description": "Sticky Silkworm Goo",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 24045,
+      "description": "Faintly-Glowing Herb",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 24044,
+      "description": "Condensed Jademist",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 24043,
+      "description": "Windfeather Plume",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 24042,
+      "description": "Quivering Firestorm Egg",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 24081,
+      "description": "Reins of the Thundering Onyx Cloud Serpent",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 24041,
+      "description": "Pristine Stalker Hide",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 24040,
+      "description": "Glinting Pile of Stone",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 24039,
+      "description": "Odd Polished Stone",
+      "orderIndex": 42,
+      "max": 1
+    },
+    {
+      "id": 24038,
+      "description": "Glowing Blue Ash",
+      "orderIndex": 43,
+      "max": 1
+    },
+    {
+      "id": 24037,
+      "description": "Glowing Green Ash",
+      "orderIndex": 44,
+      "max": 1
+    },
+    {
+      "id": 24035,
+      "description": "Bonkers",
+      "orderIndex": 45,
+      "max": 1
+    },
+    {
+      "id": 24034,
+      "description": "Gulp Froglet",
+      "orderIndex": 46,
+      "max": 1
+    },
+    {
+      "id": 24033,
+      "description": "Spineclaw Crab",
+      "orderIndex": 47,
+      "max": 1
+    },
+    {
+      "id": 24032,
+      "description": "Skunky Alemental",
+      "orderIndex": 48,
+      "max": 1
+    },
+    {
+      "id": 24031,
+      "description": "Ominous Flame",
+      "orderIndex": 49,
+      "max": 1
+    },
+    {
+      "id": 24030,
+      "description": "Jademist Dancer",
+      "orderIndex": 50,
+      "max": 1
+    },
+    {
+      "id": 24029,
+      "description": "Death Adder Hatchling",
+      "orderIndex": 51,
+      "max": 1
+    },
+    {
+      "id": 24028,
+      "description": "Dandelion Frolicker",
+      "orderIndex": 52,
+      "max": 1
+    },
+    {
+      "id": 24027,
+      "description": "Ruby Droplet",
+      "orderIndex": 53,
+      "max": 1
+    },
+    {
+      "id": 24026,
+      "description": "Azure Crane Chick",
+      "orderIndex": 54,
+      "max": 1
+    },
+    {
+      "id": 24025,
+      "description": "Ashleaf Spriteling",
+      "orderIndex": 55,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

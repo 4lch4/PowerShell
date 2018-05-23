@@ -1,0 +1,84 @@
+{
+  "id": 6300,
+  "title": "Upjade Complete",
+  "points": 10,
+  "description": "Complete the Jade Forest storylines listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_jadeforest_loremaster",
+  "criteria": [
+    {
+      "id": 19352,
+      "description": "Paw'don Village",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19353,
+      "description": "The Waterspeaking Ceremony",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19354,
+      "description": "The White Pawn",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Pearlfin Village",
+      "orderIndex": 3,
+      "max": 2
+    },
+    {
+      "id": 0,
+      "description": "Dawn's Blossom",
+      "orderIndex": 4,
+      "max": 5
+    },
+    {
+      "id": 19348,
+      "description": "Greenstone Quarry",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Tian Monastery",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 19206,
+      "description": "Terrace of Ten Thunders",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 19349,
+      "description": "The Temple of the Jade Serpent",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 19331,
+      "description": "Nectarbreeze Orchard",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 22195,
+      "description": "The Battle for the Forest",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 22194,
+      "description": "Overcoming Doubt",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

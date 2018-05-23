@@ -1,0 +1,126 @@
+{
+  "id": 866,
+  "title": "Explore Nagrand",
+  "points": 10,
+  "description": "Explore Nagrand, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_nagrand_01",
+  "criteria": [
+    {
+      "id": 1622,
+      "description": "Forge Camp: Fear",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1623,
+      "description": "Garadar",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1624,
+      "description": "Halaa",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1625,
+      "description": "Kil'sorrow Fortress",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1713,
+      "description": "Laughing Skull Ruins",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1714,
+      "description": "Spirit Fields",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1715,
+      "description": "Sunspring Post",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1716,
+      "description": "Telaar",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1717,
+      "description": "The Ring of Trials",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1718,
+      "description": "Throne of the Elements",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1719,
+      "description": "Warmaul Hill",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1720,
+      "description": "Burning Blade Ruins",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1721,
+      "description": "Clan Watch",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1722,
+      "description": "Forge Camp: Hate",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1723,
+      "description": "Southwind Cleft",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1724,
+      "description": "The Twilight Ridge",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1725,
+      "description": "Windyreed Pass",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1726,
+      "description": "Windyreed Village",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 1727,
+      "description": "Zangar Ridge",
+      "orderIndex": 19,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

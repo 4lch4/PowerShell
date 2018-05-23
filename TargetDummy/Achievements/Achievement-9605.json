@@ -1,0 +1,36 @@
+{
+  "id": 9605,
+  "title": "Arak Star",
+  "points": 10,
+  "description": "Complete the Spires of Arak bonus objectives listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_spiresofarak",
+  "criteria": [
+    {
+      "id": 26384,
+      "description": "The Howling Crag",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26385,
+      "description": "Bloodmane Pridelands",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26386,
+      "description": "The Writhing Mire",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26387,
+      "description": "Bladefist Hold",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

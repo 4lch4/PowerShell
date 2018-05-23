@@ -1,0 +1,18 @@
+{
+  "id": 980,
+  "title": "The Horseman's Reins",
+  "points": 0,
+  "description": "Obtain The Horseman's Reins from The Headless Horseman in the Scarlet Monastery during Hallow's End.",
+  "rewardItems": [],
+  "icon": "inv_belt_12",
+  "criteria": [
+    {
+      "id": 6160,
+      "description": "Headless Horseman's Mount",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

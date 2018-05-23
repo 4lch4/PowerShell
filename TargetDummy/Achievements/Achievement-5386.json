@@ -1,0 +1,18 @@
+{
+  "id": 5386,
+  "title": "Realm First! Illustrious Medic",
+  "points": 0,
+  "description": "First person on the realm to achieve 525 skill in first aid.",
+  "rewardItems": [],
+  "icon": "spell_holy_sealofsacrifice",
+  "criteria": [
+    {
+      "id": 5592,
+      "description": "",
+      "orderIndex": 1,
+      "max": 525
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

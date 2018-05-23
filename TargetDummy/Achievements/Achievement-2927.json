@@ -1,0 +1,18 @@
+{
+  "id": 2927,
+  "title": "Hot Pocket (10 player)",
+  "points": 10,
+  "description": "Survive being thrown into Ignis the Furnace Master's Slag Pot in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_fire_immolation",
+  "criteria": [
+    {
+      "id": 10430,
+      "description": "Slag Pot",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

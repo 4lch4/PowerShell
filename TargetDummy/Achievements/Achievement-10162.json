@@ -1,0 +1,18 @@
+{
+  "id": 10162,
+  "title": "Naval Training Specialist",
+  "points": 5,
+  "description": "Complete 10 Naval Training Missions.",
+  "rewardItems": [],
+  "icon": "inv_misc_map02",
+  "criteria": [
+    {
+      "id": 28057,
+      "description": "",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

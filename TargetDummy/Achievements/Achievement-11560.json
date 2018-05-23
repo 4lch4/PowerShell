@@ -1,0 +1,18 @@
+{
+  "id": 11560,
+  "title": "You Are Not Your $#*@! Legplates",
+  "points": 5,
+  "description": "Win a brawl.",
+  "rewardItems": [],
+  "icon": "inv_pants_plate_05",
+  "criteria": [
+    {
+      "id": 35620,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

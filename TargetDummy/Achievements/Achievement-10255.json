@@ -1,0 +1,19 @@
+{
+  "id": 10255,
+  "title": "Petty Officer",
+  "points": 5,
+  "description": "Complete 100 Naval Missions.",
+  "reward": "Reward: Captain's Hat",
+  "rewardItems": [],
+  "icon": "achievement_garrisonquests_0100",
+  "criteria": [
+    {
+      "id": 28567,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

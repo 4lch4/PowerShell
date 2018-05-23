@@ -1,0 +1,18 @@
+{
+  "id": 397,
+  "title": "Step Into The Arena",
+  "points": 10,
+  "description": "Win a ranked arena match.",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_10",
+  "criteria": [
+    {
+      "id": 306,
+      "description": "Win 1 ranked arena match",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

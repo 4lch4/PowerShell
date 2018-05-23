@@ -1,0 +1,7 @@
+{
+  "id": 10790,
+  "name": "Tiger",
+  "icon": "ability_mount_jungletiger",
+  "description": "Summons and dismisses a rideable Bengal Tiger.",
+  "castTime": "1.5 sec cast"
+}

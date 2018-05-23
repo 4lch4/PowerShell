@@ -1,0 +1,90 @@
+{
+  "id": 10603,
+  "title": "A Keen Eye",
+  "points": 10,
+  "description": "Obtain all of the rare archaeological finds below.",
+  "rewardItems": [],
+  "icon": "trade_archaeology",
+  "criteria": [
+    {
+      "id": 29966,
+      "description": "Crystalline Eye of Undravius",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 29967,
+      "description": "Starlight Beacon",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 29968,
+      "description": "Spear of Rethu",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 29969,
+      "description": "Crown Jewels of Suramar",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 29970,
+      "description": "Imp Generator",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 29971,
+      "description": "Black Rook Key",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 29972,
+      "description": "Wyrmy Tunkins",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 29973,
+      "description": "Shard of Sciallax",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 29974,
+      "description": "Prizerock Neckband",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 29975,
+      "description": "Blood of Young Mannoroth",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 29976,
+      "description": "Key to Nar'thalas Academy",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 29977,
+      "description": "Purple Hills of Mac'Aree",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 29978,
+      "description": "Spirit of Eche'ro",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

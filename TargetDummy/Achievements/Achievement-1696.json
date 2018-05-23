@@ -1,0 +1,18 @@
+{
+  "id": 1696,
+  "title": "The Rocket's Pink Glare",
+  "points": 10,
+  "description": "Shoot off 10 Love Rockets in 20 seconds or less.",
+  "rewardItems": [],
+  "icon": "inv_valentinepinkrocket",
+  "criteria": [
+    {
+      "id": 6295,
+      "description": "Shoot off 10 Love Rockets in 20 seconds or less",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 2078,
+  "title": "Traveler's Tundra Mammoth",
+  "points": 10,
+  "description": "Obtain a Traveler's Tundra Mammoth from Mei Francis in Dalaran.",
+  "rewardItems": [],
+  "icon": "ability_mount_mammoth_brown",
+  "criteria": [
+    {
+      "id": 7380,
+      "description": "Traveler's Tundra Mammoth",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7381,
+      "description": "Traveler's Tundra Mammoth",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

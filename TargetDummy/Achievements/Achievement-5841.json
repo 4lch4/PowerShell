@@ -1,0 +1,42 @@
+{
+  "id": 5841,
+  "title": "Let's Do Lunch: Ironforge",
+  "points": 10,
+  "description": "Complete each of the Ironforge cooking daily quests.",
+  "rewardItems": [],
+  "icon": "inv_cask_04",
+  "criteria": [
+    {
+      "id": 17723,
+      "description": "A Round for the Guards",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17724,
+      "description": "A Fowl Shortage",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17725,
+      "description": "Keepin' the Haggis Flowin'",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17726,
+      "description": "Can't Get Enough Spice Bread",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17727,
+      "description": "I Need to Cask a Favor",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

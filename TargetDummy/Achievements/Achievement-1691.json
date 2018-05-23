@@ -1,0 +1,79 @@
+{
+  "id": 1691,
+  "title": "Merrymaker",
+  "points": 10,
+  "description": "Complete the Winter Veil achievements listed below.",
+  "reward": "Title Reward: Merrymaker",
+  "rewardItems": [],
+  "icon": "achievement_worldevent_merrymaker",
+  "criteria": [
+    {
+      "id": 6262,
+      "description": "On Metzen!",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 6263,
+      "description": "With a Little Helper from My Friends",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Scrooge",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6265,
+      "description": "Fa-la-la-la-Ogri'la",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6266,
+      "description": "'Tis the Season",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6268,
+      "description": "Simply Abominable",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6269,
+      "description": "Let It Snow",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Bros. Before Ho Ho Ho's",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6271,
+      "description": "The Winter Veil Gourmet",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 6272,
+      "description": "He Knows If You've Been Naughty",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 6273,
+      "description": "A Frosty Shake",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

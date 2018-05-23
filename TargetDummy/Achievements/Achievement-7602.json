@@ -1,0 +1,156 @@
+{
+  "id": 7602,
+  "title": "Tricks and Treats of Pandaria",
+  "points": 10,
+  "description": "Visit the Candy Buckets in Pandaria.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_168_ricecake01",
+  "criteria": [
+    {
+      "id": 21927,
+      "description": "Dread Wastes, Klaxxi'vess",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21928,
+      "description": "Dread Wastes, Soggy's Gamble",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21929,
+      "description": "Jade Forest, Dawn's Blossom",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21930,
+      "description": "Jade Forest, Greenstone Village",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 21946,
+      "description": "Jade Forest, Grookin Hill",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21947,
+      "description": "Jade Forest, Honeydew Village",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 21931,
+      "description": "Jade Forest, Jade Temple Grounds",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21932,
+      "description": "Jade Forest, Sri-La Village",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21933,
+      "description": "Jade Forest, Tian Monastery",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 21948,
+      "description": "Krasarang Wilds, Dawnchaser Retreat",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 21934,
+      "description": "Krasarang Wilds, Marista",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 21951,
+      "description": "Krasarang Wilds, Thunder Cleft",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 21935,
+      "description": "Krasarang Wilds, Zhu's Watch",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 21936,
+      "description": "Kun-Lai Summit, Binan Village",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 21949,
+      "description": "Kun-Lai Summit, Eastwind Rest",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 21938,
+      "description": "Kun-Lai Summit, The Grummle Bazaar",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 21937,
+      "description": "Kun-Lai Summit, One Keg",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 21939,
+      "description": "Kun-Lai Summit, Zouchin Village",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 21940,
+      "description": "The Veiled Stair, Tavern in the Mists",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 21941,
+      "description": "Townlong Steppes, Longying Outpost",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 21942,
+      "description": "Vale of Eternal Blossoms, Mistfall Village",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 21950,
+      "description": "Vale of Eternal Blossoms, Shrine of Two Moons",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 21943,
+      "description": "Valley of the Four Winds, Pang's Stead",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 21945,
+      "description": "Valley of the Four Winds, Stoneplow",
+      "orderIndex": 23,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

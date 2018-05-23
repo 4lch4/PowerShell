@@ -1,0 +1,18 @@
+{
+  "id": 706,
+  "title": "Frostwolf Howler",
+  "points": 10,
+  "description": "Obtain a Frostwolf Howler.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_frostwolftrinket_01",
+  "criteria": [
+    {
+      "id": 6211,
+      "description": "Frostwolf Howler",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

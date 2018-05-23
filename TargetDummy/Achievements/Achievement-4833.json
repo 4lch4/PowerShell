@@ -1,0 +1,18 @@
+{
+  "id": 4833,
+  "title": "Blackrock Caverns",
+  "points": 10,
+  "description": "Defeat Ascendant Lord Obsidius in Blackrock Caverns.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_blackrockcaverns",
+  "criteria": [
+    {
+      "id": 13521,
+      "description": "Ascendant Lord Obsidius",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

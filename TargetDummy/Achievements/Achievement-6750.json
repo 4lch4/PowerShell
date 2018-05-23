@@ -1,0 +1,18 @@
+{
+  "id": 6750,
+  "title": "Realm First! Level 90 Warrior",
+  "points": 0,
+  "description": "First warrior on the realm to achieve level 90.",
+  "rewardItems": [],
+  "icon": "inv_sword_27",
+  "criteria": [
+    {
+      "id": 5220,
+      "description": "Level to 90",
+      "orderIndex": 0,
+      "max": 90
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

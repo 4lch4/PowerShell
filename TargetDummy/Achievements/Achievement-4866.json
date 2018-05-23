@@ -1,0 +1,174 @@
+{
+  "id": 4866,
+  "title": "Explore Twilight Highlands",
+  "points": 10,
+  "description": "Explore Twilight Highlands, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_twilighthighlands",
+  "criteria": [
+    {
+      "id": 15139,
+      "description": "Bloodgulch",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15140,
+      "description": "Crucible of Carnage",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15141,
+      "description": "Crushblow",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15142,
+      "description": "Dragonmaw Pass",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15143,
+      "description": "Dragonmaw Port",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 15144,
+      "description": "Dunwald Ruins",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 15145,
+      "description": "Firebeard's Patrol",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 15146,
+      "description": "Glopgut's Hollow",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 15147,
+      "description": "Gorshak War Camp",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 15148,
+      "description": "Grim Batol",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 15149,
+      "description": "Highbank",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 15150,
+      "description": "Highland Forest",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 15151,
+      "description": "Humboldt Conflagration",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 15152,
+      "description": "Kirthaven",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 15153,
+      "description": "Obsidian Forest",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 15154,
+      "description": "Ruins of Drakgor",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 15155,
+      "description": "Slithering Cove",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 15156,
+      "description": "The Black Breach",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 15157,
+      "description": "The Gullet",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 15158,
+      "description": "The Krazzworks",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 15159,
+      "description": "The Twilight Breach",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 15160,
+      "description": "Thundermar",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 15161,
+      "description": "Twilight Shore",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 15162,
+      "description": "Vermillion Redoubt",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 15163,
+      "description": "Victor's Point",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 15164,
+      "description": "Wyrms' Bend",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 15165,
+      "description": "The Maw of Madness",
+      "orderIndex": 27,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

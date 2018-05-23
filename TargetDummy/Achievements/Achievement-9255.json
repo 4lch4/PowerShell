@@ -1,0 +1,115 @@
+{
+  "id": 9255,
+  "title": "Mythic Draenor Raider",
+  "points": 10,
+  "description": "Complete the Mythic raiding achievements listed below.",
+  "reward": "Reward: Garrison Monument",
+  "rewardItems": [],
+  "icon": "achievement_garrison_monument_horde_raid",
+  "criteria": [
+    {
+      "id": 25399,
+      "description": "Mythic: Gruul",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25395,
+      "description": "Mythic: Oregorger",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25398,
+      "description": "Mythic: Hans'gar and Franzok",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 25401,
+      "description": "Mythic: Beastlord Darmac",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 25400,
+      "description": "Mythic: Flamebender Ka'graz",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 25396,
+      "description": "Mythic: Operator Thogar",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 25402,
+      "description": "Mythic: Blast Furnace",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 25397,
+      "description": "Mythic: Kromog",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 25393,
+      "description": "Mythic: Iron Maidens",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 25394,
+      "description": "Mythic: Blackhand's Crucible",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 25403,
+      "description": "Mythic: Kargath Bladefist",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 25404,
+      "description": "Mythic: The Butcher",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 25405,
+      "description": "Mythic: Tectus",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 25406,
+      "description": "Mythic: Brackenspore",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 25407,
+      "description": "Mythic: Twin Ogron",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 25408,
+      "description": "Mythic: Ko'ragh",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 25409,
+      "description": "Mythic: Imperator's Fall",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

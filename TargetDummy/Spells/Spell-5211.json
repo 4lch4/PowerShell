@@ -1,0 +1,9 @@
+{
+  "id": 5211,
+  "name": "Mighty Bash",
+  "icon": "ability_druid_bash",
+  "description": "Invokes the spirit of Ursoc to stun the target for 5 sec. Usable in all shapeshift forms.",
+  "range": "Melee Range",
+  "castTime": "Instant",
+  "cooldown": "50 sec cooldown"
+}

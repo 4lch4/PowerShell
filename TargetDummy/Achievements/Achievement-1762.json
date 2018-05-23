@@ -1,0 +1,18 @@
+{
+  "id": 1762,
+  "title": "Not Even a Scratch",
+  "points": 10,
+  "description": "Win a Strand of the Ancients battle without losing any siege vehicles.",
+  "rewardItems": [],
+  "icon": "ability_warrior_charge",
+  "criteria": [
+    {
+      "id": 7626,
+      "description": "Win a Strand of the Ancients battle without losing any siege vehicles",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

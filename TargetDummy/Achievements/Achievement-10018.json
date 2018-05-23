@@ -1,0 +1,62 @@
+{
+  "id": 10018,
+  "title": "Draenor Pathfinder",
+  "points": 25,
+  "description": "Complete the Draenor achievements listed below:",
+  "reward": "Rewards: Soaring Skyterror and Draenor Flying",
+  "rewardItems": [
+    {
+      "id": 128706,
+      "name": "Soaring Skyterror",
+      "icon": "spell_beastmaster_rylak",
+      "quality": 4,
+      "itemLevel": 20,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_zone_draenor_01",
+  "criteria": [
+    {
+      "id": 28066,
+      "description": "Explore Draenor",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Loremaster of Draenor",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Securing Draenor",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 28977,
+      "description": "Master Treasure Hunter",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Tanaan Diplomat",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

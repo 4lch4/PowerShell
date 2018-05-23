@@ -1,0 +1,61 @@
+{
+  "id": 46,
+  "title": "Universal Explorer",
+  "points": 50,
+  "description": "Explore Eastern Kingdoms, Kalimdor, Outland, Northrend, the areas revealed by the Cataclysm, Pandaria, Draenor, and the Broken Isles.",
+  "reward": "Title Reward: The Explorer",
+  "rewardItems": [],
+  "icon": "inv_misc_map02",
+  "criteria": [
+    {
+      "id": 94,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 95,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 96,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 97,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 13600,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 20129,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 28066,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 32415,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

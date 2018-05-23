@@ -1,0 +1,102 @@
+{
+  "id": 1270,
+  "title": "Explore Icecrown",
+  "points": 10,
+  "description": "Explore Icecrown, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_icecrown_01",
+  "criteria": [
+    {
+      "id": 5859,
+      "description": "The Bombardment",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5860,
+      "description": "Icecrown Citadel",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5861,
+      "description": "Onslaught Harbor",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5862,
+      "description": "The Broken Front",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 5863,
+      "description": "The Fleshwerks",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 5864,
+      "description": "Aldur'thar: The Desolation Gate",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 5865,
+      "description": "Sindragosa's Fall",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 5866,
+      "description": "Valhalas",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 5867,
+      "description": "Valley of Echoes",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 5868,
+      "description": "Ymirheim",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 5869,
+      "description": "The Conflagration",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 5871,
+      "description": "Corp'rethar: The Horror Gate",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 5872,
+      "description": "Jotunheim",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 5873,
+      "description": "Scourgeholme",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 5874,
+      "description": "The Shadow Vault",
+      "orderIndex": 15,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

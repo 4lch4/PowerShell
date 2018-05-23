@@ -1,0 +1,126 @@
+{
+  "id": 1283,
+  "title": "Classic Dungeonmaster",
+  "points": 10,
+  "description": "Complete the classic dungeon achievements listed below.",
+  "rewardItems": [],
+  "icon": "spell_holy_revivechampion",
+  "criteria": [
+    {
+      "id": 3939,
+      "description": "Deadmines",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3940,
+      "description": "Ragefire Chasm",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3941,
+      "description": "Wailing Caverns",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3942,
+      "description": "Shadowfang Keep",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3943,
+      "description": "Blackfathom Deeps",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3944,
+      "description": "Stormwind Stockade",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3945,
+      "description": "Gnomeregan",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 3946,
+      "description": "Razorfen Kraul",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 3947,
+      "description": "Razorfen Downs",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3948,
+      "description": "Scarlet Monastery",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3949,
+      "description": "Uldaman",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 3950,
+      "description": "Zul'Farrak",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 3951,
+      "description": "Maraudon",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 3952,
+      "description": "Sunken Temple",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 3953,
+      "description": "Blackrock Depths",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 3954,
+      "description": "Blackrock Spire",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 3955,
+      "description": "King of Dire Maul",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 3956,
+      "description": "Scholomance",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 3957,
+      "description": "Stratholme",
+      "orderIndex": 19,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

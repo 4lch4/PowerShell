@@ -1,0 +1,10 @@
+{
+  "id": 9257,
+  "name": "Lay on Hands",
+  "subtext": "Rank 2",
+  "icon": "spell_holy_layonhands",
+  "description": "Heals a friendly target to full health.",
+  "range": "50,000 yd range",
+  "castTime": "Instant",
+  "cooldown": "60 min cooldown"
+}

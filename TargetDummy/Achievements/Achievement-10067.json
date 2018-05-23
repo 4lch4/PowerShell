@@ -1,0 +1,48 @@
+{
+  "id": 10067,
+  "title": "In Pursuit of Gul'dan",
+  "points": 10,
+  "description": "Complete the Garrison Campaign chapters listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_tanaanjungle",
+  "criteria": [
+    {
+      "id": 28291,
+      "description": "All Hands On Deck",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28292,
+      "description": "The Invasion of Tanaan",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28293,
+      "description": "Bane of the Bleeding Hollow",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 28295,
+      "description": "Dark Ascension",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 28296,
+      "description": "The Fate of Teron'gor",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 28408,
+      "description": "The Cipher of Damnation",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

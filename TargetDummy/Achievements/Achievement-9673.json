@@ -1,0 +1,38 @@
+{
+  "id": 9673,
+  "title": "The Toymaster",
+  "points": 10,
+  "description": "Collect 150 toys.",
+  "reward": "Reward: Robo-Gnomebulator",
+  "rewardItems": [
+    {
+      "id": 119215,
+      "name": "Robo-Gnomebulator",
+      "icon": "ability_siege_engineer_magnetic_crush",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_misc_toy_10",
+  "criteria": [
+    {
+      "id": 26801,
+      "description": "Collect 150 Toys",
+      "orderIndex": 0,
+      "max": 150
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

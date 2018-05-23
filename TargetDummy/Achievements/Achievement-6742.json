@@ -1,0 +1,19 @@
+{
+  "id": 6742,
+  "title": "60 Exalted Reputations",
+  "points": 10,
+  "description": "Raise 60 reputations to Exalted.",
+  "reward": "Title Reward: The Beloved",
+  "rewardItems": [],
+  "icon": "achievement_reputation_08",
+  "criteria": [
+    {
+      "id": 982,
+      "description": "",
+      "orderIndex": 0,
+      "max": 60
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

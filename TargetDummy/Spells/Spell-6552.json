@@ -1,0 +1,9 @@
+{
+  "id": 6552,
+  "name": "Pummel",
+  "icon": "inv_gauntlets_04",
+  "description": "Pummels the target, interrupting spellcasting and preventing any spell in that school from being cast for 4 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant",
+  "cooldown": "15 sec cooldown"
+}

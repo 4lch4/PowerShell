@@ -1,0 +1,18 @@
+{
+  "id": 959,
+  "title": "The Scale of the Sands",
+  "points": 10,
+  "description": "Earn Exalted status with The Scale of the Sands.",
+  "rewardItems": [],
+  "icon": "inv_enchant_dustillusion",
+  "criteria": [
+    {
+      "id": 4766,
+      "description": "Exalted with The Scale of the Sands",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

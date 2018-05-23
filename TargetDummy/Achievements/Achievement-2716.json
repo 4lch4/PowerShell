@@ -1,0 +1,11 @@
+{
+  "id": 2716,
+  "title": "Dual Talent Specialization",
+  "points": 0,
+  "description": "Visit your class trainer when you are at least level 30 and activate your Dual Talent Specialization.",
+  "rewardItems": [],
+  "icon": "achievement_general",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

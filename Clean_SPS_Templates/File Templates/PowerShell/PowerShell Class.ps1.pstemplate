@@ -1,0 +1,8 @@
+﻿<Template version="1.0" type="File" tags="PowerShell, Class">
+  <Description>Creates a PowerShell script file with a class declaration.</Description>
+   <Variables>
+	<Variable name="CLASSNAME" default="className">
+		<Value>%FILETITLE:Object%</Value>
+	</Variable>
+  </Variables>
+</Template>

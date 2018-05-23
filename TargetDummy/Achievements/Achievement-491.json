@@ -1,0 +1,30 @@
+{
+  "id": 491,
+  "title": "Heroic: Azjol-Nerub",
+  "points": 10,
+  "description": "Defeat the Azjol-Nerub bosses on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_azjoluppercity_heroic",
+  "criteria": [
+    {
+      "id": 6848,
+      "description": "Krik'thir the Gatewatcher",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6849,
+      "description": "Hadronox",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5610,
+      "description": "Anub'arak",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

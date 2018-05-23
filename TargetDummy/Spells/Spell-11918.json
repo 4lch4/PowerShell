@@ -1,0 +1,8 @@
+{
+  "id": 11918,
+  "name": "Poison",
+  "icon": "spell_nature_corrosivebreath",
+  "description": "Inflicts Nature damage to an enemy every 3 sec. for 15 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

@@ -1,0 +1,78 @@
+{
+  "id": 4924,
+  "title": "Professional Illustrious Grand Master",
+  "points": 10,
+  "description": "Obtain 525 skill points in a profession.",
+  "rewardItems": [],
+  "icon": "inv_misc_note_01",
+  "criteria": [
+    {
+      "id": 5565,
+      "description": "Alchemy",
+      "orderIndex": 1,
+      "max": 525
+    },
+    {
+      "id": 5566,
+      "description": "Alchemy",
+      "orderIndex": 2,
+      "max": 525
+    },
+    {
+      "id": 5567,
+      "description": "Alchemy",
+      "orderIndex": 3,
+      "max": 525
+    },
+    {
+      "id": 5722,
+      "description": "Alchemy",
+      "orderIndex": 4,
+      "max": 525
+    },
+    {
+      "id": 5569,
+      "description": "Alchemy",
+      "orderIndex": 5,
+      "max": 525
+    },
+    {
+      "id": 5716,
+      "description": "Alchemy",
+      "orderIndex": 6,
+      "max": 525
+    },
+    {
+      "id": 5571,
+      "description": "Alchemy",
+      "orderIndex": 7,
+      "max": 525
+    },
+    {
+      "id": 5718,
+      "description": "Alchemy",
+      "orderIndex": 8,
+      "max": 525
+    },
+    {
+      "id": 5573,
+      "description": "Alchemy",
+      "orderIndex": 9,
+      "max": 525
+    },
+    {
+      "id": 5720,
+      "description": "Alchemy",
+      "orderIndex": 10,
+      "max": 525
+    },
+    {
+      "id": 5575,
+      "description": "Alchemy",
+      "orderIndex": 11,
+      "max": 525
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

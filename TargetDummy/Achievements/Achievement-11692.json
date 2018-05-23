@@ -1,0 +1,18 @@
+{
+  "id": 11692,
+  "title": "Going On Seventeen",
+  "points": 10,
+  "description": "Reach Prestige Level 17.",
+  "rewardItems": [],
+  "icon": "achievement_legionpvp4tier6",
+  "criteria": [
+    {
+      "id": 36190,
+      "description": "Reach Prestige Level 17.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

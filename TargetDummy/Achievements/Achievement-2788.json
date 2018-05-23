@@ -1,0 +1,42 @@
+{
+  "id": 2788,
+  "title": "Champion of the Horde",
+  "points": 10,
+  "description": "Earn the right to represent every Horde race's faction in the Argent Tournament.",
+  "rewardItems": [],
+  "icon": "inv_misc_tournaments_banner_orc",
+  "criteria": [
+    {
+      "id": 9788,
+      "description": "Champion of Orgrimmar",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9789,
+      "description": "Champion of Sen'jin",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 9790,
+      "description": "Champion of Silvermoon City",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9791,
+      "description": "Champion of the Undercity",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 9792,
+      "description": "Champion of Thunder Bluff",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

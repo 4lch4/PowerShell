@@ -1,0 +1,8 @@
+{
+  "id": 6316,
+  "name": "Pet Aggression",
+  "subtext": "Rank 4",
+  "icon": "ability_druid_maul",
+  "description": "Increases the damage done by the pet by 6.",
+  "castTime": "Passive"
+}

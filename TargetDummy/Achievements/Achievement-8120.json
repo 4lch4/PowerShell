@@ -1,0 +1,18 @@
+{
+  "id": 8120,
+  "title": "Direhorn in a China Shop",
+  "points": 10,
+  "description": "Destroy the Priceless Zandalari Vase using the Loa-Infused Bloodhorn's charge attack.",
+  "rewardItems": [],
+  "icon": "ability_mount_triceratopsmount",
+  "criteria": [
+    {
+      "id": 22868,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

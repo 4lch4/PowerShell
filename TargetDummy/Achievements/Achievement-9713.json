@@ -1,0 +1,86 @@
+{
+  "id": 9713,
+  "title": "Awake the Drakes",
+  "points": 5,
+  "description": "Collect the following drake mounts.",
+  "reward": "Reward: Emerald Drake",
+  "rewardItems": [
+    {
+      "id": 118676,
+      "name": "Reins of the Emerald Drake",
+      "icon": "ability_mount_drake_blue",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "ability_mount_drake_blue",
+  "criteria": [
+    {
+      "id": 26687,
+      "description": "Azure Drake",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26683,
+      "description": "Bronze Drake",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26686,
+      "description": "Black Drake",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26688,
+      "description": "Blazing Drake",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 26684,
+      "description": "Blue Drake",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26690,
+      "description": "Onyxian Drake",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 26800,
+      "description": "Purple Netherwing Drake",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 26685,
+      "description": "Red Drake",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 26689,
+      "description": "Twilight Drake",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

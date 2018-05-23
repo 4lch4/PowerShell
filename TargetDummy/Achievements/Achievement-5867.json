@@ -1,0 +1,18 @@
+{
+  "id": 5867,
+  "title": "Flawless Victory",
+  "points": 10,
+  "description": "Solo kill a Molten Behemoth in the Molten Front without taking any damage from Molten Stomp or Fiery Boulder.",
+  "rewardItems": [],
+  "icon": "spell_shaman_improvedfirenova",
+  "criteria": [
+    {
+      "id": 17830,
+      "description": "Solo kill a Molten Behemoth in the Molten Front without taking any damage.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

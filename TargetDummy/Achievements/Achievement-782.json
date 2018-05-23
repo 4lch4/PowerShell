@@ -1,0 +1,84 @@
+{
+  "id": 782,
+  "title": "Explore Swamp of Sorrows",
+  "points": 10,
+  "description": "Explore Swamp of Sorrows, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_swampsorrows_01",
+  "criteria": [
+    {
+      "id": 1224,
+      "description": "Misty Valley",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1225,
+      "description": "The Harborage",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1226,
+      "description": "Splinterspear Junction",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1227,
+      "description": "The Shifting Mire",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1228,
+      "description": "Stonard",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1229,
+      "description": "Pool of Tears",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1230,
+      "description": "Stagalbog",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1231,
+      "description": "Sorrowmurk",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1232,
+      "description": "Bogpaddle",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1233,
+      "description": "Misty Reed Strand",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 14163,
+      "description": "Purespring Cavern",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 14164,
+      "description": "Marshtide Watch",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

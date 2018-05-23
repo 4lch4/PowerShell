@@ -1,0 +1,9 @@
+{
+  "id": 8293,
+  "name": "Lightning Cloud",
+  "icon": "spell_nature_callstorm",
+  "description": "Creates a cloud of lightning that lasts 15 sec., blasting all enemies in a selected area for Nature damage and inflicting additional damage every 5 sec.",
+  "range": "30 yd range",
+  "powerCost": "100 Mana",
+  "castTime": "2.5 sec cast"
+}

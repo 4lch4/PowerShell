@@ -1,0 +1,25 @@
+{
+  "id": 9508,
+  "title": "Warlord of Draenor",
+  "points": 10,
+  "description": "Complete all of the Nemesis quests at the Gladiator's Sanctum and the quest Fight, Kill, Salute! at the Highmaul Coliseum.",
+  "reward": "Title Reward: Warlord of Draenor",
+  "rewardItems": [],
+  "icon": "warrior_talent_icon_furyintheblood",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Complete all of the Nemesis quests at the Gladiator's Sanctum (H)",
+      "orderIndex": 0,
+      "max": 7
+    },
+    {
+      "id": 0,
+      "description": "Complete Fight, Kill, Salute!",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2116,
+  "title": "Tabard of the Argent Dawn",
+  "points": 0,
+  "description": "Obtained a Tabard of the Argent Dawn from the Scourge Invasion event.",
+  "rewardItems": [],
+  "icon": "inv_shirt_guildtabard_01",
+  "criteria": [
+    {
+      "id": 7493,
+      "description": "Tabard of the Argent Dawn",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

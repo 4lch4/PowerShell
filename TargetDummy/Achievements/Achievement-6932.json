@@ -1,0 +1,206 @@
+{
+  "id": 6932,
+  "title": "Glory of the Pandaria Raider",
+  "points": 25,
+  "description": "Complete the Pandaria raid achievements listed below.",
+  "reward": "Reward: Reins of the Heavenly Crimson Cloud Serpent",
+  "rewardItems": [
+    {
+      "id": 87773,
+      "name": "Reins of the Heavenly Crimson Cloud Serpent",
+      "icon": "inv_pandarenserpentgodmount_red",
+      "quality": 4,
+      "itemLevel": 90,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_helmet_189",
+  "criteria": [
+    {
+      "id": 19945,
+      "description": "Must Love Dog",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19946,
+      "description": "Anything You Can Do, I Can Do Better...",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19951,
+      "description": "Sorry, Were You Looking for This?",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19948,
+      "description": "Straight Six",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 19950,
+      "description": "Clouds of Zeal",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 19952,
+      "description": "Candle in the Wind",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 19953,
+      "description": "Like an Arrow to the Face",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 19954,
+      "description": "Less Than Three",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 19955,
+      "description": "I Heard You Like Amber...",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 19956,
+      "description": "Timing is Everything",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 19958,
+      "description": "Power Overwhelming",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 19957,
+      "description": "Face Clutchers",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 19959,
+      "description": "Who's Got Two Green Thumbs",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 19960,
+      "description": "The Mind-Killer",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 19961,
+      "description": "Heroic: Stone Guard",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 19962,
+      "description": "Heroic: Feng the Accursed",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 19963,
+      "description": "Heroic: Gara'jal the Spiritbinder",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 19964,
+      "description": "Heroic: Four Kings",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 19965,
+      "description": "Heroic: Elegon",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 19966,
+      "description": "Heroic: Will of the Emperor",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 19967,
+      "description": "Heroic: Imperial Vizier Zor'lok",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 19968,
+      "description": "Heroic: Blade Lord Ta'yak",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 19969,
+      "description": "Heroic: Garalon",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 19970,
+      "description": "Heroic: Wind Lord Mel'jarak",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 19971,
+      "description": "Heroic: Amber-Shaper Un'sok",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 19972,
+      "description": "Heroic: Shek'zeer",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 19975,
+      "description": "Heroic: Protectors of the Endless",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 19973,
+      "description": "Heroic: Tsulong",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 19974,
+      "description": "Heroic: Lei Shi",
+      "orderIndex": 28,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

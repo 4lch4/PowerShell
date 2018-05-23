@@ -1,0 +1,108 @@
+{
+  "id": 2137,
+  "title": "Glory of the Raider (10 player)",
+  "points": 25,
+  "description": "Complete the 10-player raid achievements listed below.",
+  "rewardItems": [],
+  "icon": "inv_helmet_22",
+  "criteria": [
+    {
+      "id": 7528,
+      "description": "The Dedicated Few",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7529,
+      "description": "Arachnophobia",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7530,
+      "description": "Make Quick Werk Of Him",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7531,
+      "description": "The Safety Dance",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7532,
+      "description": "Momma Said Knock You Out",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7606,
+      "description": "Shocking!",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7610,
+      "description": "Subtraction",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 7533,
+      "description": "The Spellweaver's Downfall",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 7534,
+      "description": "You Don't Have An Eternity",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 7535,
+      "description": "A Poke In The Eye",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 7536,
+      "description": "Gonna Go When the Volcano Blows",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 7537,
+      "description": "The Twilight Zone",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 7570,
+      "description": "The Hundred Club",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 7602,
+      "description": "And They Would All Go Down Together",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 7576,
+      "description": "Denyin' the Scion",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 7620,
+      "description": "Just Can't Get Enough",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

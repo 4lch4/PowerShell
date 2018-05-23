@@ -1,0 +1,18 @@
+{
+  "id": 9597,
+  "title": "You're Really Doing It Wrong",
+  "points": 0,
+  "description": "Successfully complete any of the Basic (Gold) trials at the Proving Grounds, while in a specialization not suited for it.",
+  "rewardItems": [],
+  "icon": "spell_priest_divinestar_holy",
+  "criteria": [
+    {
+      "id": 27432,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

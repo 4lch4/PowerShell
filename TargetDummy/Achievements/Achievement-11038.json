@@ -1,0 +1,31 @@
+{
+  "id": 11038,
+  "title": "Gladiator: Legion Season 3",
+  "points": 0,
+  "description": "End Legion PvP season 3 in the top 0.5% of the arena ladder (requires 150 games won your current faction in Legion Season 3).",
+  "reward": "Title Reward: Gladiator",
+  "rewardItems": [
+    {
+      "id": 141845,
+      "name": "Cruel Gladiator's Storm Dragon",
+      "icon": "inv_stormdragonmount2dark",
+      "quality": 4,
+      "itemLevel": 110,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_featsofstrength_gladiator_07",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8092,
+  "title": "I've Got 9999 Problems but a Bone-White Primal Raptor Ain't One",
+  "points": 0,
+  "description": "Obtain the reins of the Bone-White Primal Raptor from Ku'ma, the Bone Collector.",
+  "rewardItems": [],
+  "icon": "inv_misc_bone_01",
+  "criteria": [
+    {
+      "id": 22798,
+      "description": "Bone-White Primal Raptor",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

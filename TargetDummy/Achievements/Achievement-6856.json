@@ -1,0 +1,55 @@
+{
+  "id": 6856,
+  "title": "Ballad of Liu Lang",
+  "points": 10,
+  "description": "Discover each of the lore objects in Pandaria that tell the tale of Liu Lang.",
+  "rewardItems": [
+    {
+      "id": 83780,
+      "name": "The Ballad of Liu Lang",
+      "icon": "trade_archaeology_silverscrollcase",
+      "quality": 1,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_faction_lorewalkers",
+  "criteria": [
+    {
+      "id": 19793,
+      "description": "The Birthplace of Liu Lang",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19794,
+      "description": "A Most Famous Bill of Sale",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19795,
+      "description": "The Wandering Widow",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19796,
+      "description": "Waiting for the Turtle",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

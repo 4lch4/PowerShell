@@ -1,0 +1,18 @@
+{
+  "id": 9476,
+  "title": "Sha'tari Defense",
+  "points": 10,
+  "description": "Earn Exalted status with Sha'tari Defense.",
+  "rewardItems": [],
+  "icon": "inv_tabard_a_shataridefense",
+  "criteria": [
+    {
+      "id": 25831,
+      "description": "Sha'tari Defense",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

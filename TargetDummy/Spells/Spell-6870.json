@@ -1,0 +1,8 @@
+{
+  "id": 6870,
+  "name": "Moss Covered Feet",
+  "icon": "spell_nature_magicimmunity",
+  "description": "Makes an enemy likely to fall down when hit. Lasts 15 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9003,
+  "title": "The Everbloom: Silver",
+  "points": 0,
+  "description": "Complete the Everbloom Challenge Mode with a rating of Silver or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_everbloom_silver",
+  "criteria": [
+    {
+      "id": 24593,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

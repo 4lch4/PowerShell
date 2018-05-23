@@ -1,0 +1,78 @@
+{
+  "id": 9087,
+  "title": "Grand Master of All",
+  "points": 50,
+  "description": "Raise all primary professions to 700 skill points.",
+  "rewardItems": [],
+  "icon": "inv_hammer_16",
+  "criteria": [
+    {
+      "id": 5565,
+      "description": "Alchemy",
+      "orderIndex": 0,
+      "max": 700
+    },
+    {
+      "id": 5566,
+      "description": "Blacksmithing",
+      "orderIndex": 1,
+      "max": 700
+    },
+    {
+      "id": 5567,
+      "description": "Enchanting",
+      "orderIndex": 2,
+      "max": 700
+    },
+    {
+      "id": 5722,
+      "description": "Engineering",
+      "orderIndex": 3,
+      "max": 700
+    },
+    {
+      "id": 5569,
+      "description": "Herbalism",
+      "orderIndex": 4,
+      "max": 700
+    },
+    {
+      "id": 5716,
+      "description": "Inscription",
+      "orderIndex": 5,
+      "max": 700
+    },
+    {
+      "id": 5571,
+      "description": "Jewelcrafting",
+      "orderIndex": 6,
+      "max": 700
+    },
+    {
+      "id": 5718,
+      "description": "Leatherworking",
+      "orderIndex": 7,
+      "max": 700
+    },
+    {
+      "id": 5573,
+      "description": "Mining",
+      "orderIndex": 8,
+      "max": 700
+    },
+    {
+      "id": 5720,
+      "description": "Skinning",
+      "orderIndex": 9,
+      "max": 700
+    },
+    {
+      "id": 5575,
+      "description": "Tailoring",
+      "orderIndex": 10,
+      "max": 700
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

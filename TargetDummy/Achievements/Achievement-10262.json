@@ -1,0 +1,324 @@
+{
+  "id": 10262,
+  "title": "Jungle Treasure Master",
+  "points": 5,
+  "description": "Discover all of the treasures in Tanaan Jungle.",
+  "rewardItems": [],
+  "icon": "icon_treasuremap",
+  "criteria": [
+    {
+      "id": 28675,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28676,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28677,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 28678,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 28679,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 28680,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 28681,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 28682,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 28683,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 28684,
+      "description": "",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 28685,
+      "description": "",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 28686,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 28687,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 28688,
+      "description": "",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 28689,
+      "description": "",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 28690,
+      "description": "",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 28691,
+      "description": "",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 28692,
+      "description": "",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 28693,
+      "description": "",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 28694,
+      "description": "",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 28695,
+      "description": "",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 28696,
+      "description": "",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 28697,
+      "description": "",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 28698,
+      "description": "",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 28699,
+      "description": "",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 28700,
+      "description": "",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 28701,
+      "description": "",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 28702,
+      "description": "",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 28703,
+      "description": "",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 28704,
+      "description": "",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 28705,
+      "description": "",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 28706,
+      "description": "",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 28707,
+      "description": "",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 28708,
+      "description": "",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 28709,
+      "description": "",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 28710,
+      "description": "",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 28711,
+      "description": "",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 28712,
+      "description": "",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 28713,
+      "description": "",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 28714,
+      "description": "",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 28738,
+      "description": "",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 28737,
+      "description": "",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 28890,
+      "description": "",
+      "orderIndex": 42,
+      "max": 1
+    },
+    {
+      "id": 28891,
+      "description": "",
+      "orderIndex": 43,
+      "max": 1
+    },
+    {
+      "id": 28892,
+      "description": "",
+      "orderIndex": 44,
+      "max": 1
+    },
+    {
+      "id": 28893,
+      "description": "",
+      "orderIndex": 45,
+      "max": 1
+    },
+    {
+      "id": 28894,
+      "description": "",
+      "orderIndex": 46,
+      "max": 1
+    },
+    {
+      "id": 28895,
+      "description": "",
+      "orderIndex": 47,
+      "max": 1
+    },
+    {
+      "id": 28896,
+      "description": "",
+      "orderIndex": 48,
+      "max": 1
+    },
+    {
+      "id": 28897,
+      "description": "",
+      "orderIndex": 49,
+      "max": 1
+    },
+    {
+      "id": 28898,
+      "description": "",
+      "orderIndex": 50,
+      "max": 1
+    },
+    {
+      "id": 28999,
+      "description": "",
+      "orderIndex": 51,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

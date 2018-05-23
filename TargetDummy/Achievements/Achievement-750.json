@@ -1,0 +1,96 @@
+{
+  "id": 750,
+  "title": "Explore Northern Barrens",
+  "points": 10,
+  "description": "Explore The Barrens, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_barrens_01",
+  "criteria": [
+    {
+      "id": 917,
+      "description": "Boulder Lode Mine",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14078,
+      "description": "Lushwater Oasis",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14079,
+      "description": "The Mor'shan Rampart",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 918,
+      "description": "The Sludge Fen",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 920,
+      "description": "Dreadmist Peak",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 921,
+      "description": "The Dry Hills",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 922,
+      "description": "The Forgotten Pools",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 924,
+      "description": "Grol'dom Farm",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 925,
+      "description": "Far Watch Post",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 926,
+      "description": "Thorn Hill",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 927,
+      "description": "The Crossroads",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 928,
+      "description": "The Stagnant Oasis",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 929,
+      "description": "Ratchet",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 930,
+      "description": "The Merchant Coast",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

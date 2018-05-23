@@ -1,0 +1,72 @@
+{
+  "id": 1752,
+  "title": "Master of Wintergrasp",
+  "points": 10,
+  "description": "Complete the Wintergrasp achievements listed below.",
+  "rewardItems": [],
+  "icon": "spell_frost_chillingblast",
+  "criteria": [
+    {
+      "id": 9758,
+      "description": "Wintergrasp Veteran",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 9759,
+      "description": "Within Our Grasp",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9760,
+      "description": "Wintergrasp Ranger",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 9761,
+      "description": "Black War Mammoth",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9765,
+      "description": "Archavon the Stone Watcher",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 9766,
+      "description": "Heroic: Archavon the Stone Watcher",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Destruction Derby",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 9769,
+      "description": "Vehicular Gnomeslaughter",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 9770,
+      "description": "Leaning Tower",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 9771,
+      "description": "Didn't Stand a Chance",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

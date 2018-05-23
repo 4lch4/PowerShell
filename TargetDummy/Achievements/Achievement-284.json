@@ -1,0 +1,156 @@
+{
+  "id": 284,
+  "title": "A Mask for All Occasions",
+  "points": 20,
+  "description": "Collect the 24 unique Masks listed below.",
+  "rewardItems": [],
+  "icon": "inv_mask_04",
+  "criteria": [
+    {
+      "id": 2260,
+      "description": "Blood Elf Female Mask",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 2270,
+      "description": "Blood Elf Male Mask",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2261,
+      "description": "Draenei Female Mask",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 2271,
+      "description": "Draenei Male Mask",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 2262,
+      "description": "Dwarf Female Mask",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 2272,
+      "description": "Dwarf Male Mask",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 2263,
+      "description": "Gnome Female Mask",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 2273,
+      "description": "Gnome Male Mask",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 17590,
+      "description": "Goblin Female Mask",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 17591,
+      "description": "Goblin Male Mask",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 2264,
+      "description": "Human Female Mask",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 2274,
+      "description": "Human Male Mask",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 2265,
+      "description": "Night Elf Female Mask",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 2275,
+      "description": "Night Elf Male Mask",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 2266,
+      "description": "Orc Female Mask",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 2276,
+      "description": "Orc Male Mask",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 2267,
+      "description": "Tauren Female Mask",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 2277,
+      "description": "Tauren Male Mask",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 2268,
+      "description": "Troll Female Mask",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 2278,
+      "description": "Troll Male Mask",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 2269,
+      "description": "Undead Female Mask",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 2279,
+      "description": "Undead Male Mask",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 17592,
+      "description": "Worgen Female Mask",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 17593,
+      "description": "Worgen Male Mask",
+      "orderIndex": 24,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

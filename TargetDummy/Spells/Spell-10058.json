@@ -1,0 +1,9 @@
+{
+  "id": 10058,
+  "name": "Replenish Mana",
+  "subtext": "Rank 4",
+  "icon": "inv_misc_gem_stone_01",
+  "description": "Restores 46,417 mana.",
+  "castTime": "Instant",
+  "cooldown": "1 min cooldown"
+}

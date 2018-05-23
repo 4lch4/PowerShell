@@ -1,0 +1,138 @@
+{
+  "id": 4825,
+  "title": "Explore Vashj'ir",
+  "points": 10,
+  "description": "Explore Vashj'ir, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_vashjir",
+  "criteria": [
+    {
+      "id": 14124,
+      "description": "Abandoned Reef",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14125,
+      "description": "Abyssal Breach",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14126,
+      "description": "Underlight Canyon",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 14127,
+      "description": "Deepfin Ridge",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 14129,
+      "description": "Korthun's End",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 14130,
+      "description": "L'ghorek",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 14131,
+      "description": "Seabrush",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 14132,
+      "description": "The Scalding Chasm",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 14133,
+      "description": "Glimmerdeep Gorge",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 14134,
+      "description": "Gnaws' Boneyard",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 14135,
+      "description": "Gurboggle's Ledge",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 14136,
+      "description": "The Clutch",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 14137,
+      "description": "Seafarer's Tomb",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 14138,
+      "description": "Legion's Fate",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 14139,
+      "description": "The Skeletal Reef",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 14140,
+      "description": "Beth'mora Ridge",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 14141,
+      "description": "Nespirah",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 14142,
+      "description": "Ruins of Thelserai Temple",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 14143,
+      "description": "Ruins of Vashj'ir",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 14144,
+      "description": "Shimmering Grotto",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 14145,
+      "description": "Silver Tide Hollow",
+      "orderIndex": 21,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

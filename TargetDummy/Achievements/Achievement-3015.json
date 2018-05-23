@@ -1,0 +1,30 @@
+{
+  "id": 3015,
+  "title": "In His House He Waits Dreaming (10 player)",
+  "points": 10,
+  "description": "Experience all 3 visions of Yogg-Saron's mind in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_shadow_brainwash",
+  "criteria": [
+    {
+      "id": 10324,
+      "description": "The Assassination of King Llane",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 10325,
+      "description": "The Forging of the Demon Soul",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 10326,
+      "description": "The Tortured Champion",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 126,
+  "title": "Journeyman Fisherman",
+  "points": 10,
+  "description": "Obtain 150 skill points in fishing.",
+  "rewardItems": [],
+  "icon": "trade_fishing",
+  "criteria": [
+    {
+      "id": 5696,
+      "description": "Obtain 150 skill points in fishing.",
+      "orderIndex": 1,
+      "max": 150
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

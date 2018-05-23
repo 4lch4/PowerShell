@@ -1,0 +1,19 @@
+{
+  "id": 9463,
+  "title": "Draenic Pet Battler",
+  "points": 5,
+  "description": "Win 150 pet battles in Draenor.",
+  "reward": "Reward: Unlocks Pet Menagerie, Level 3 Blueprint",
+  "rewardItems": [],
+  "icon": "achievement_zone_draenor_01",
+  "criteria": [
+    {
+      "id": 25818,
+      "description": "",
+      "orderIndex": 0,
+      "max": 150
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

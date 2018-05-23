@@ -1,0 +1,18 @@
+{
+  "id": 894,
+  "title": "Flying High Over Skettis",
+  "points": 10,
+  "description": "Earn Exalted status within the Sha'tari Skyguard.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_netherray",
+  "criteria": [
+    {
+      "id": 4760,
+      "description": "Exalted with Sha'tari Skyguard ",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

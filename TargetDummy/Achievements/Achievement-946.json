@@ -1,0 +1,18 @@
+{
+  "id": 946,
+  "title": "The Argent Dawn",
+  "points": 15,
+  "description": "Earn Exalted status with the Argent Dawn.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_talisman_07",
+  "criteria": [
+    {
+      "id": 2020,
+      "description": "Argent Dawn exalted",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

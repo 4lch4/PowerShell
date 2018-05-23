@@ -1,0 +1,9 @@
+{
+  "id": 9005,
+  "name": "zzOldPounce",
+  "icon": "ability_druid_supriseattack",
+  "description": "Pounce, stunning the target for 4 sec and causing 4,596 Bleed damage over 18 sec.  Must be prowling.  Awards 1 combo point.",
+  "range": "Melee Range",
+  "powerCost": "50 Energy",
+  "castTime": "Instant"
+}

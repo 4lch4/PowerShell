@@ -1,0 +1,18 @@
+{
+  "id": 5541,
+  "title": "5000 Conquest Points",
+  "points": 0,
+  "description": "Earn 5000 Conquest Points",
+  "rewardItems": [],
+  "icon": "achievement_bg_winwsg",
+  "criteria": [
+    {
+      "id": 16309,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 11610,
+  "name": "Gammerita Turtle Camera",
+  "icon": "trade_engineering",
+  "description": "Target and click to take a snapshot.",
+  "range": "30 yd range",
+  "castTime": "Instant"
+}

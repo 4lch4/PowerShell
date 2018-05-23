@@ -1,0 +1,38 @@
+{
+  "id": 7500,
+  "title": "Going to Need More Leashes",
+  "points": 10,
+  "description": "Collect 250 unique pets.",
+  "reward": "Reward: Feral Vermling",
+  "rewardItems": [
+    {
+      "id": 85578,
+      "name": "Feral Vermling",
+      "icon": "inv_pet_vermin",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_box_petcarrier_01",
+  "criteria": [
+    {
+      "id": 19598,
+      "description": "Collect 250 unique pets.",
+      "orderIndex": 0,
+      "max": 250
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

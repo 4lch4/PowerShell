@@ -1,0 +1,8 @@
+{
+  "id": 2983,
+  "name": "Sprint",
+  "icon": "ability_rogue_sprint",
+  "description": "Increases your movement speed by 70% for 8 sec. Usable while stealthed.",
+  "castTime": "Instant",
+  "cooldown": "2 min cooldown"
+}

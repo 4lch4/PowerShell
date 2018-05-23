@@ -1,0 +1,102 @@
+{
+  "id": 556,
+  "title": "Epic",
+  "points": 10,
+  "description": "Equip an epic item in every slot with a minimum item level of 213.",
+  "rewardItems": [],
+  "icon": "inv_enchant_voidcrystal",
+  "criteria": [
+    {
+      "id": 2342,
+      "description": "Head",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 2343,
+      "description": "Neck",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2344,
+      "description": "Shoulder",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 2345,
+      "description": "Chest",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 2346,
+      "description": "Waist",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 2347,
+      "description": "Legs",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 2348,
+      "description": "Feet",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 2349,
+      "description": "Wrist",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 2350,
+      "description": "Hands",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 2351,
+      "description": "Left Ring",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 5816,
+      "description": "Right Ring",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 2353,
+      "description": "First Trinket",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 5817,
+      "description": "Second Trinket",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 2355,
+      "description": "Cloak",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 2356,
+      "description": "Weapon",
+      "orderIndex": 15,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

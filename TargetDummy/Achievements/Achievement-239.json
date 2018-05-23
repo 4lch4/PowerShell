@@ -1,0 +1,18 @@
+{
+  "id": 239,
+  "title": "25000 Honorable Kills",
+  "points": 10,
+  "description": "Get 25000 honorable kills.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_p_11",
+  "criteria": [
+    {
+      "id": 13253,
+      "description": "Get 25000 honorable kills",
+      "orderIndex": 1,
+      "max": 25000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

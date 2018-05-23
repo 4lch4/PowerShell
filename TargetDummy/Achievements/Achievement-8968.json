@@ -1,0 +1,18 @@
+{
+  "id": 8968,
+  "title": "Mythic: Hans'gar and Franzok",
+  "points": 10,
+  "description": "Defeat Hans'gar and Franzok in Blackrock Foundry on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_twinorcbrutes",
+  "criteria": [
+    {
+      "id": 25008,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

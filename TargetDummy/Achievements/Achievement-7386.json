@@ -1,0 +1,18 @@
+{
+  "id": 7386,
+  "title": "Grand Expedition Yak",
+  "points": 10,
+  "description": "Obtain a Grand Expedition Yak from Uncle Bigpocket in Kun-Lai Summit.",
+  "rewardItems": [],
+  "icon": "ability_mount_travellersyakmount",
+  "criteria": [
+    {
+      "id": 20695,
+      "description": "Grand Expedition Yak",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

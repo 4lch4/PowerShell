@@ -1,0 +1,8 @@
+{
+  "id": 11020,
+  "name": "Petrify",
+  "icon": "ability_golemthunderclap",
+  "description": "Stuns an enemy, but increases its armor by 30% for 3 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

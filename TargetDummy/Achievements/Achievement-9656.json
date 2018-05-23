@@ -1,0 +1,18 @@
+{
+  "id": 9656,
+  "title": "In Plain Sight",
+  "points": 10,
+  "description": "Find the Iron Horde Attack Plans in The Pit.",
+  "rewardItems": [],
+  "icon": "inv_misc_enchantedscroll",
+  "criteria": [
+    {
+      "id": 27301,
+      "description": "Find the Iron Horde Attack Plans in The Pit.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

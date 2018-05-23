@@ -1,0 +1,150 @@
+{
+  "id": 771,
+  "title": "Explore Eastern Plaguelands",
+  "points": 10,
+  "description": "Explore Eastern Plaguelands, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_easternplaguelands",
+  "criteria": [
+    {
+      "id": 1081,
+      "description": "Thondroril River",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1082,
+      "description": "The Marris Stead",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1083,
+      "description": "The Undercroft",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1084,
+      "description": "Crown Guard Tower",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1085,
+      "description": "The Fungal Vale",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1086,
+      "description": "Darrowshire",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1087,
+      "description": "Pestilent Scar",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1088,
+      "description": "Corin's Crossing",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1089,
+      "description": "Lake Mereldar",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1090,
+      "description": "Tyr's Hand",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1091,
+      "description": "Light's Hope Chapel",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1092,
+      "description": "The Infectis Scar",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1093,
+      "description": "The Noxious Glade",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1094,
+      "description": "Eastwall Tower",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1095,
+      "description": "Blackwood Lake",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1096,
+      "description": "Northdale",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1097,
+      "description": "Zul'Mashar",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1098,
+      "description": "Northpass Tower",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 1099,
+      "description": "Quel'Lithien Lodge",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 1100,
+      "description": "Terrordale",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 1101,
+      "description": "Plaguewood",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 1102,
+      "description": "Stratholme",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 8749,
+      "description": "Ruins of the Scarlet Enclave",
+      "orderIndex": 23,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

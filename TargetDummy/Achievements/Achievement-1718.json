@@ -1,0 +1,18 @@
+{
+  "id": 1718,
+  "title": "Wintergrasp Veteran",
+  "points": 10,
+  "description": "Win 100 battles for Wintergrasp.",
+  "rewardItems": [],
+  "icon": "spell_frost_chillingblast",
+  "criteria": [
+    {
+      "id": 6436,
+      "description": "Win Wintergrasp 100 times",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

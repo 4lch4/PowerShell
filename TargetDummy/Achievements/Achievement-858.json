@@ -1,0 +1,108 @@
+{
+  "id": 858,
+  "title": "Explore Ghostlands",
+  "points": 10,
+  "description": "Explore Ghostlands, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ghostlands",
+  "criteria": [
+    {
+      "id": 1504,
+      "description": "Tranquillien",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1505,
+      "description": "Suncrown Village",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1506,
+      "description": "Goldenmist Village",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1507,
+      "description": "Windrunner Village",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1536,
+      "description": "Sanctum of the Moon",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1537,
+      "description": "Sanctum of the Sun",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1538,
+      "description": "Dawnstar Spire",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1539,
+      "description": "Farstrider Enclave",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1540,
+      "description": "Howling Ziggurat",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1541,
+      "description": "Deatholme",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1542,
+      "description": "Zeb'Nowa",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1543,
+      "description": "Amani Pass",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1544,
+      "description": "Windrunner Spire",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1545,
+      "description": "Bleeding Ziggurat",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1546,
+      "description": "Elrendar Crossing",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1548,
+      "description": "Thalassian Pass",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

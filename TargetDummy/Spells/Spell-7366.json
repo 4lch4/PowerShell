@@ -1,0 +1,8 @@
+{
+  "id": 7366,
+  "name": "Berserker Stance",
+  "subtext": "Rank 1",
+  "icon": "ability_racial_avatar",
+  "description": "Assumes an aggressive stance that generates rage when the warrior strikes an opponent. Lasts 4 min.",
+  "castTime": "Instant"
+}

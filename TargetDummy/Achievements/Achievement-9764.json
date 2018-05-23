@@ -1,0 +1,38 @@
+{
+  "id": 9764,
+  "title": "Rocketeer: Gold",
+  "points": 5,
+  "description": "Complete The Real Race with the Rocketeer within 11 tolls.",
+  "reward": "Rewards: Everlasting Darkmoon Firework",
+  "rewardItems": [
+    {
+      "id": 122119,
+      "name": "Everlasting Darkmoon Firework",
+      "icon": "inv_misc_missilelarge_purple",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_checkered_flag",
+  "criteria": [
+    {
+      "id": 27489,
+      "description": "Complete the Darkmoon Race with the Rocketeer within 11 tolls.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

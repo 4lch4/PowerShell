@@ -1,0 +1,11 @@
+{
+  "id": 7269,
+  "title": "Stay Off the Grass",
+  "points": 10,
+  "description": "Don't aggro any Zhun'ji Maulers or Ancestral Horrors in the Temple of Kotmogu scenario.",
+  "rewardItems": [],
+  "icon": "inv_misc_herb_05",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 10797,
+  "title": "Mythic: Neltharion's Lair",
+  "points": 10,
+  "description": "Defeat Dargrul in Neltharion's Lair on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_neltharionslair",
+  "criteria": [
+    {
+      "id": 31407,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11719,
+  "title": "It's Not Fashion Unless It Hurts",
+  "points": 10,
+  "description": "Collect any class armor set from PvP Season 14.",
+  "rewardItems": [],
+  "icon": "inv_axe_2h_pvppandarias3_c_01",
+  "criteria": [
+    {
+      "id": 36241,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

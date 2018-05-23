@@ -1,0 +1,36 @@
+{
+  "id": 9506,
+  "title": "Savage Skills to Pay the Bills",
+  "points": 10,
+  "description": "Obtain 700 skill points in Fishing, First Aid, Cooking, and Archaeology.",
+  "rewardItems": [],
+  "icon": "inv_misc_note_02",
+  "criteria": [
+    {
+      "id": 5696,
+      "description": "Draenor Fisherman",
+      "orderIndex": 0,
+      "max": 700
+    },
+    {
+      "id": 5592,
+      "description": "Draenor Medic",
+      "orderIndex": 1,
+      "max": 700
+    },
+    {
+      "id": 5701,
+      "description": "Draenor Cook",
+      "orderIndex": 2,
+      "max": 700
+    },
+    {
+      "id": 13812,
+      "description": "Draenor Archaeologist",
+      "orderIndex": 3,
+      "max": 700
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

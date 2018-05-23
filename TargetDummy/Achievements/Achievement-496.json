@@ -1,0 +1,36 @@
+{
+  "id": 496,
+  "title": "Heroic: Halls of Stone",
+  "points": 10,
+  "description": "Defeat the boss encounters in the Halls of Stone on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_ulduar77_heroic",
+  "criteria": [
+    {
+      "id": 6856,
+      "description": "Maiden of Grief",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5615,
+      "description": "Sjonnir the Ironshaper",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6936,
+      "description": "The Tribunal of Ages",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6857,
+      "description": "Krystallus",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

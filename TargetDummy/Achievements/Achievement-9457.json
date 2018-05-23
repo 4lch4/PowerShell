@@ -1,0 +1,18 @@
+{
+  "id": 9457,
+  "title": "Blackwater Whiptail Angler",
+  "points": 5,
+  "description": "Catch 100 Enormous Blackwater Whiptail fish in Draenor.",
+  "rewardItems": [],
+  "icon": "inv_fishing_f_whiptail3",
+  "criteria": [
+    {
+      "id": 25806,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

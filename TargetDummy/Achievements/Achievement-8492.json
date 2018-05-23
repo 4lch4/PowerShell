@@ -1,0 +1,11 @@
+{
+  "id": 8492,
+  "title": "Proving Yourself: Silver Tank (Level 90)",
+  "points": 0,
+  "description": "Successfully complete the Basic Tank (Silver) trial at the Proving Grounds.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_silver",
+  "criteria": [],
+  "accountWide": true,
+  "factionId": 2
+}

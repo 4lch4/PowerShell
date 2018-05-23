@@ -1,0 +1,18 @@
+{
+  "id": 3816,
+  "title": "The Traitor King (25 player)",
+  "points": 10,
+  "description": "Kill 25 Swarm Scarabs within 30 seconds in 25-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_boss_anubarak",
+  "criteria": [
+    {
+      "id": 16246,
+      "description": "Swarm Scarabs Slain",
+      "orderIndex": 1,
+      "max": 25
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

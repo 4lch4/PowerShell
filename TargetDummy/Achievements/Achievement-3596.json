@@ -1,0 +1,42 @@
+{
+  "id": 3596,
+  "title": "Pilgrim's Progress",
+  "points": 10,
+  "description": "Complete each of the Pilgrim's Bounty dailies.",
+  "rewardItems": [],
+  "icon": "inv_helmet_65",
+  "criteria": [
+    {
+      "id": 11201,
+      "description": "Can't Get Enough Turkey",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11200,
+      "description": "Don't Forget The Stuffing!",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 11202,
+      "description": "Easy As Pie",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 11198,
+      "description": "She Says Potato",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 11199,
+      "description": "We're Out of Cranberry Chutney Again?",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,8 @@
+{
+  "id": 5480,
+  "name": "Cleave Armor",
+  "subtext": "Rank 2",
+  "icon": "ability_criticalstrike",
+  "description": "Decreases Armor by 200% for 15 sec.",
+  "castTime": "Instant"
+}

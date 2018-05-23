@@ -1,0 +1,18 @@
+{
+  "id": 11699,
+  "title": "Grand Fin-ale",
+  "points": 10,
+  "description": "Summon Elder Murk-Eye using a Mrgrglhjorn, then defeat him and Harjatan in Tomb of Sargeras on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "inv_misc_head_murloc_01",
+  "criteria": [
+    {
+      "id": 36211,
+      "description": "Elder Murk-Eye defeated.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

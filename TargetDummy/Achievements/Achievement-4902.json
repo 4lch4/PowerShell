@@ -1,0 +1,18 @@
+{
+  "id": 4902,
+  "title": "Redridge Mountains Quests",
+  "points": 10,
+  "description": "Complete 40 quests in Redridge Mountains.",
+  "rewardItems": [],
+  "icon": "achievement_zone_redridgemountains",
+  "criteria": [
+    {
+      "id": 13747,
+      "description": "Redridge Mountains",
+      "orderIndex": 1,
+      "max": 40
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

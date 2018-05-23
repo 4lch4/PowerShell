@@ -1,0 +1,42 @@
+{
+  "id": 3917,
+  "title": "Call of the Crusade (10 player)",
+  "points": 10,
+  "description": "Defeat every boss in the Trial of the Crusader in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_reputation_argentchampion",
+  "criteria": [
+    {
+      "id": 13326,
+      "description": "Defeat the Beasts of Northrend",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 13327,
+      "description": "Defeat Lord Jaraxxus",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12236,
+      "description": "Defeat the Faction Champions",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 12240,
+      "description": "Defeat the Twin Val'kyr",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 12244,
+      "description": "Complete the Trial of the Crusader",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8316,
+  "title": "Blood in the Snow",
+  "points": 10,
+  "description": "Complete the Blood in the Snow scenario.",
+  "rewardItems": [],
+  "icon": "achievement_zone_dunmorogh",
+  "criteria": [
+    {
+      "id": 23347,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

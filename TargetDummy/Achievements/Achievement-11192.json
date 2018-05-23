@@ -1,0 +1,18 @@
+{
+  "id": 11192,
+  "title": "Cutting Edge: Gul'dan",
+  "points": 0,
+  "description": "Defeat Gul'dan in The Nighthold on Mythic difficulty, before the opening of the Tomb of Sargeras.",
+  "rewardItems": [],
+  "icon": "achievement_thenighthold_guldan",
+  "criteria": [
+    {
+      "id": 32454,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

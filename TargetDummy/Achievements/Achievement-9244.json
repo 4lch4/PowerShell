@@ -1,0 +1,18 @@
+{
+  "id": 9244,
+  "title": "Invasions Are Better with Friends",
+  "points": 5,
+  "description": "Successfully complete a garrison invasion in a party of 3 players.",
+  "rewardItems": [],
+  "icon": "achievement_guildperk_everybodysfriend",
+  "criteria": [
+    {
+      "id": 27304,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 6746,
+  "name": "Wolf Riding",
+  "icon": "spell_nature_swiftness",
+  "description": "Allows the player to ride a wolf.",
+  "range": "100 yd range",
+  "castTime": "Instant"
+}

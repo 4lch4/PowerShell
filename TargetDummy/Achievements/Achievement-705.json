@@ -1,0 +1,102 @@
+{
+  "id": 705,
+  "title": "Master of Arms",
+  "points": 0,
+  "description": "Raise four weapon skills to 400.",
+  "rewardItems": [],
+  "icon": "ability_warrior_offensivestance",
+  "criteria": [
+    {
+      "id": 641,
+      "description": "Axes",
+      "orderIndex": 1,
+      "max": 400
+    },
+    {
+      "id": 651,
+      "description": "Bows",
+      "orderIndex": 2,
+      "max": 400
+    },
+    {
+      "id": 652,
+      "description": "Crossbows",
+      "orderIndex": 3,
+      "max": 400
+    },
+    {
+      "id": 653,
+      "description": "Daggers",
+      "orderIndex": 4,
+      "max": 400
+    },
+    {
+      "id": 654,
+      "description": "Guns",
+      "orderIndex": 5,
+      "max": 400
+    },
+    {
+      "id": 655,
+      "description": "Maces",
+      "orderIndex": 6,
+      "max": 400
+    },
+    {
+      "id": 656,
+      "description": "Polearms",
+      "orderIndex": 7,
+      "max": 400
+    },
+    {
+      "id": 657,
+      "description": "Staves",
+      "orderIndex": 8,
+      "max": 400
+    },
+    {
+      "id": 753,
+      "description": "Swords",
+      "orderIndex": 9,
+      "max": 400
+    },
+    {
+      "id": 754,
+      "description": "Two-Handed Axes",
+      "orderIndex": 10,
+      "max": 400
+    },
+    {
+      "id": 755,
+      "description": "Two-Handed Swords",
+      "orderIndex": 11,
+      "max": 400
+    },
+    {
+      "id": 834,
+      "description": "Two-Handed Maces",
+      "orderIndex": 12,
+      "max": 400
+    },
+    {
+      "id": 167,
+      "description": "Unarmed",
+      "orderIndex": 13,
+      "max": 400
+    },
+    {
+      "id": 757,
+      "description": "Wands",
+      "orderIndex": 14,
+      "max": 400
+    },
+    {
+      "id": 9378,
+      "description": "Thrown",
+      "orderIndex": 15,
+      "max": 400
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

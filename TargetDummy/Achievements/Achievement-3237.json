@@ -1,0 +1,30 @@
+{
+  "id": 3237,
+  "title": "Set Up Us the Bomb (25 player)",
+  "points": 10,
+  "description": "Defeat Mimiron without anyone in the raid being hit by the following in 25-player mode.",
+  "rewardItems": [],
+  "icon": "ability_mage_missilebarrage",
+  "criteria": [
+    {
+      "id": 10546,
+      "description": "A Proximity Mine",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 10547,
+      "description": "A Rocket Strike",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 10548,
+      "description": "A Bomb Bot",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

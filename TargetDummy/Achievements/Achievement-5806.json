@@ -1,0 +1,24 @@
+{
+  "id": 5806,
+  "title": "Heroic: Shannox",
+  "points": 10,
+  "description": "Defeat Shannox in Firelands on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_shannox",
+  "criteria": [
+    {
+      "id": 18058,
+      "description": "Shannox",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18059,
+      "description": "Shannox",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

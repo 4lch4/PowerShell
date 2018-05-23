@@ -1,0 +1,18 @@
+{
+  "id": 1755,
+  "title": "Within Our Grasp",
+  "points": 10,
+  "description": "Attack Wintergrasp and succeed in 10 minutes or less.",
+  "rewardItems": [],
+  "icon": "spell_frost_manaburn",
+  "criteria": [
+    {
+      "id": 7666,
+      "description": "Attack Wintergrasp and succeed in 10 minutes or less.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

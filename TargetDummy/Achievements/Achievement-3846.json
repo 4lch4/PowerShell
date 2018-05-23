@@ -1,0 +1,18 @@
+{
+  "id": 3846,
+  "title": "Resource Glut",
+  "points": 10,
+  "description": "Win Isle of Conquest while your team controls the Quarry and Oil Refinery.",
+  "rewardItems": [],
+  "icon": "inv_gizmo_pipe_03",
+  "criteria": [
+    {
+      "id": 12060,
+      "description": "Win Isle of Conquest.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

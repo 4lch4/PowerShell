@@ -1,0 +1,8 @@
+{
+  "id": 8716,
+  "name": "Low Swipe",
+  "icon": "ability_criticalstrike",
+  "description": "Deals Physical damage and stuns an enemy.  Also reduces movement speed by 50% for 12 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

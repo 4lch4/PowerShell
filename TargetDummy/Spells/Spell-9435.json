@@ -1,0 +1,9 @@
+{
+  "id": 9435,
+  "name": "Detonation",
+  "icon": "spell_fire_selfdestruct",
+  "description": "Fire erupts from Arcanist Doan, dealing Fire damage to all nearby enemies within 0 yds.",
+  "range": "30 yd range",
+  "powerCost": "153 Mana",
+  "castTime": "5 sec cast"
+}

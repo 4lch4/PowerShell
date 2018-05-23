@@ -1,0 +1,18 @@
+{
+  "id": 890,
+  "title": "Into The Wild Blue Yonder",
+  "points": 10,
+  "description": "Learn the expert riding skill.",
+  "rewardItems": [],
+  "icon": "ability_mount_gryphon_01",
+  "criteria": [
+    {
+      "id": 1872,
+      "description": "Expert Riding",
+      "orderIndex": 1,
+      "max": 3
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7944,
+  "title": "Bottle Service (Season 2)",
+  "points": 0,
+  "description": "Hit an angry spectator in the head with an Expired Blackout Brew during the Draenor campaign.",
+  "rewardItems": [],
+  "icon": "inv_drink_29_sunkissedwine",
+  "criteria": [
+    {
+      "id": 22556,
+      "description": "Hit an angry spectator in the head with an Expired Blackout Brew.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,60 @@
+{
+  "id": 962,
+  "title": "Savior of the Oracles",
+  "points": 10,
+  "description": "Complete the 8 daily quests for the Oracles listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_sholazar_11",
+  "criteria": [
+    {
+      "id": 2062,
+      "description": "Appeasing the Great Rain Stone",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 2063,
+      "description": "Will of the Titans",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2064,
+      "description": "Mastery of the Crystals",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 2065,
+      "description": "Power of the Great Ones",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 2066,
+      "description": "Song of Reflection",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 2067,
+      "description": "Song of Wind and Water",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 2068,
+      "description": "A Cleansing Song",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 2069,
+      "description": "Song of Fecundity",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

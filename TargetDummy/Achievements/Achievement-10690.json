@@ -1,0 +1,18 @@
+{
+  "id": 10690,
+  "title": "Fashionista: Tabard",
+  "points": 5,
+  "description": "Collect 15 tabard slot appearances.",
+  "rewardItems": [],
+  "icon": "inv_shirt_guildtabard_01",
+  "criteria": [
+    {
+      "id": 30576,
+      "description": "",
+      "orderIndex": 0,
+      "max": 15
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9042,
+  "title": "Upper Blackrock Spire",
+  "points": 10,
+  "description": "Defeat Warlord Zaela in Upper Blackrock Spire.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_upperblackrockspire",
+  "criteria": [
+    {
+      "id": 24981,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

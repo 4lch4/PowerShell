@@ -1,0 +1,18 @@
+{
+  "id": 6736,
+  "title": "What Does This Button Do?",
+  "points": 10,
+  "description": "Use Xin the Weaponmaster's secret defense mechanism against him in Mogu'shan Palace on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_enggizmos_27",
+  "criteria": [
+    {
+      "id": 19675,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

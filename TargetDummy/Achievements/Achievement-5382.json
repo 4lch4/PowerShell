@@ -1,0 +1,18 @@
+{
+  "id": 5382,
+  "title": "Realm First! Illustrious Blacksmith",
+  "points": 0,
+  "description": "First person on the realm to achieve 525 skill in blacksmithing.",
+  "rewardItems": [],
+  "icon": "trade_blacksmithing",
+  "criteria": [
+    {
+      "id": 5566,
+      "description": "",
+      "orderIndex": 1,
+      "max": 525
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 668,
+  "title": "Heroic: The Blood Furnace",
+  "points": 10,
+  "description": "Defeat Keli'dan the Breaker on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_kelidanthebreaker",
+  "criteria": [
+    {
+      "id": 3710,
+      "description": "Keli'dan the Breaker",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

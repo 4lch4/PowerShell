@@ -1,0 +1,19 @@
+{
+  "id": 5351,
+  "title": "Blood Guard",
+  "points": 10,
+  "description": "Earn a rated battleground rating of 1700.",
+  "reward": "Title Reward: Blood Guard",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_07",
+  "criteria": [
+    {
+      "id": 15300,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1700
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

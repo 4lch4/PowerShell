@@ -1,0 +1,8 @@
+{
+  "id": 8397,
+  "name": "Uther's Light",
+  "subtext": "Rank 1",
+  "icon": "spell_holy_healingaura",
+  "description": "Has a 2% chance when struck in combat of protecting you with a holy shield.",
+  "castTime": "Passive"
+}

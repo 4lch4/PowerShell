@@ -1,0 +1,18 @@
+{
+  "id": 7530,
+  "title": "No Tank You",
+  "points": 10,
+  "description": "Destroy Big Bessa without anyone being hit by its ram or cannon.",
+  "rewardItems": [],
+  "icon": "ability_vehicle_siegeenginecannon",
+  "criteria": [
+    {
+      "id": 21867,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

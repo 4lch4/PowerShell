@@ -1,0 +1,43 @@
+{
+  "id": 230,
+  "title": "Battlemaster",
+  "points": 50,
+  "description": "Complete the battleground achievements listed below.",
+  "reward": "Title Reward: Battlemaster",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_15",
+  "criteria": [
+    {
+      "id": 226,
+      "description": "Master of Alterac Valley",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 227,
+      "description": "Master of Arathi Basin",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 229,
+      "description": "Master of Warsong Gulch",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3503,
+      "description": "Master of Eye of the Storm",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7640,
+      "description": "Master of Strand of the Ancients",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 0
+}

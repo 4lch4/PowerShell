@@ -1,0 +1,54 @@
+{
+  "id": 1788,
+  "title": "Bad Example",
+  "points": 10,
+  "description": "Eat the sweets listed below while your orphan is watching.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_31",
+  "criteria": [
+    {
+      "id": 6651,
+      "description": "Tigule and Foror's Strawberry Ice Cream",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6652,
+      "description": "Tasty Cupcake",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6653,
+      "description": "Red Velvet Cupcake",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6654,
+      "description": "Delicious Chocolate Cake",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6655,
+      "description": "Lovely Cake Slice",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6656,
+      "description": "Dalaran Brownie",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6657,
+      "description": "Dalaran Doughnut",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

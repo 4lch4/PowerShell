@@ -1,0 +1,18 @@
+{
+  "id": 7285,
+  "title": "Every Day I'm Pand-a-ren",
+  "points": 10,
+  "description": "Complete 25 daily quests in Pandaria in a single daily reset period.",
+  "rewardItems": [],
+  "icon": "pandarenracial_innerpeace",
+  "criteria": [
+    {
+      "id": 20466,
+      "description": "",
+      "orderIndex": 0,
+      "max": 25
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

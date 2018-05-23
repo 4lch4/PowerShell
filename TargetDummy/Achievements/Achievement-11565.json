@@ -1,0 +1,19 @@
+{
+  "id": 11565,
+  "title": "King of the Guild",
+  "points": 5,
+  "description": "Reach Rank 8 with Bizmo's Brawlpub.",
+  "reward": "Rewards Title: Brawler",
+  "rewardItems": [],
+  "icon": "spell_holy_fistofjustice",
+  "criteria": [
+    {
+      "id": 35619,
+      "description": "Reach Rank 8 with Bizmo's Brawlpub.",
+      "orderIndex": 0,
+      "max": 7000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,7 @@
+{
+  "id": 6114,
+  "name": "Raptor Punch",
+  "icon": "inv_drink_07",
+  "description": "Increases your Intellect by 4 and decreases your Stamina by 5 for 5 min.",
+  "castTime": "3 sec cast"
+}

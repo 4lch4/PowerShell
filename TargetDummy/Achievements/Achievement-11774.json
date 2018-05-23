@@ -1,0 +1,18 @@
+{
+  "id": 11774,
+  "title": "Mythic: Demonic Inquisition",
+  "points": 10,
+  "description": "Defeat Demonic Inquisition in Tomb of Sargeras on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_jailers",
+  "criteria": [
+    {
+      "id": 36525,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

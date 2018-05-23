@@ -1,0 +1,144 @@
+{
+  "id": 843,
+  "title": "Explore Netherstorm",
+  "points": 10,
+  "description": "Explore Netherstorm, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_netherstorm_01",
+  "criteria": [
+    {
+      "id": 1310,
+      "description": "Area 52",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1311,
+      "description": "Manaforge B'naar",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1312,
+      "description": "Manaforge Coruu",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1313,
+      "description": "Manaforge Duro",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1762,
+      "description": "Manaforge Ara",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1763,
+      "description": "Manaforge Ultris",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1764,
+      "description": "Ruins of Farahlon",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1765,
+      "description": "Tempest Keep",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1766,
+      "description": "The Heap",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1767,
+      "description": "Arklon Ruins",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1768,
+      "description": "Celestial Ridge",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1770,
+      "description": "Kirin'Var Village",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1771,
+      "description": "Netherstone",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1772,
+      "description": "Ruins of Enkaat",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1773,
+      "description": "Sunfury Hold",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1775,
+      "description": "The Stormspire",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1776,
+      "description": "Gyro-Plank Bridge",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1777,
+      "description": "Eco-Dome Farfield",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 1778,
+      "description": "Ethereum Staging Grounds",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 1779,
+      "description": "Socrethar's Seat",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 1780,
+      "description": "Forge Base: Oblivion",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 1781,
+      "description": "Eco-Dome Midrealm",
+      "orderIndex": 22,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

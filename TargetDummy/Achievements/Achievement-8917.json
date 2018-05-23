@@ -1,0 +1,30 @@
+{
+  "id": 8917,
+  "title": "Collector's Edition: Dread Hatchling",
+  "points": 0,
+  "description": "Owner of the Warlords of Draenor Collector's Edition Dread Hatchling pet.",
+  "rewardItems": [],
+  "icon": "inv_ravenlordpet",
+  "criteria": [
+    {
+      "id": 24600,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 24601,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 24600,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

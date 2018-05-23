@@ -1,0 +1,18 @@
+{
+  "id": 1405,
+  "title": "Realm First! Level 80 Blood Elf",
+  "points": 0,
+  "description": "First blood elf on the realm to achieve level 80.",
+  "rewardItems": [],
+  "icon": "achievement_character_bloodelf_female",
+  "criteria": [
+    {
+      "id": 5230,
+      "description": "Level to 80",
+      "orderIndex": 1,
+      "max": 80
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

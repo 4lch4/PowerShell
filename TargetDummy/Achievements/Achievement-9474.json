@@ -1,0 +1,18 @@
+{
+  "id": 9474,
+  "title": "Wrynn's Vanguard",
+  "points": 10,
+  "description": "Earn Exalted status with Wrynn's Vanguard.",
+  "rewardItems": [],
+  "icon": "inv_tabard_a_78wrynnvanguard",
+  "criteria": [
+    {
+      "id": 25341,
+      "description": "Wrynn's Vanguard",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

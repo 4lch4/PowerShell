@@ -1,0 +1,18 @@
+{
+  "id": 4849,
+  "title": "Keeping it in the Family",
+  "points": 10,
+  "description": "Damage Nefarian below 50% health before he lands for the final confrontation and then defeat Nefarian in Blackwing Descent.",
+  "rewardItems": [],
+  "icon": "achievement_boss_onyxia",
+  "criteria": [
+    {
+      "id": 15671,
+      "description": "Nefarian",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

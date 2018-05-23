@@ -1,0 +1,18 @@
+{
+  "id": 8716,
+  "title": "Emissary of Ordos",
+  "points": 10,
+  "description": "Use the Censer of Eternal Agony obtained from Speaker Gulan on the Timeless Isle.",
+  "rewardItems": [],
+  "icon": "inv_offhand_1h_pvpcataclysms3_c_01",
+  "criteria": [
+    {
+      "id": 23998,
+      "description": "Emissary of Ordos",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

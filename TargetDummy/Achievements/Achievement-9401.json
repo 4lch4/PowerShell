@@ -1,0 +1,120 @@
+{
+  "id": 9401,
+  "title": "Shredder Maniac",
+  "points": 10,
+  "description": "Loot 12 or more Hardened Thornvines in Gorgrond.",
+  "rewardItems": [],
+  "icon": "garrison_building_lumbermill",
+  "criteria": [
+    {
+      "id": 25576,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25577,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25578,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 25579,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 25580,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 25581,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 25582,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 25583,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 25584,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 25585,
+      "description": "",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 25586,
+      "description": "",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 25587,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 25588,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 25589,
+      "description": "",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 25590,
+      "description": "",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 25591,
+      "description": "",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 25592,
+      "description": "",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 25593,
+      "description": "",
+      "orderIndex": 17,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

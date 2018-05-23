@@ -1,0 +1,18 @@
+{
+  "id": 6591,
+  "title": "Grand Master Pet Battler",
+  "points": 5,
+  "description": "Win 1000 pet battles.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_win1000",
+  "criteria": [
+    {
+      "id": 19724,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

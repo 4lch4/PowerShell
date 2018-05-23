@@ -1,0 +1,18 @@
+{
+  "id": 11572,
+  "title": "I Am Thrall's Complete Lack Of Surprise",
+  "points": 5,
+  "description": "Defeat 10 bosses using random brawl mode in the Brawler's Guild.",
+  "rewardItems": [],
+  "icon": "achievement_leader_thrall",
+  "criteria": [
+    {
+      "id": 35471,
+      "description": "",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

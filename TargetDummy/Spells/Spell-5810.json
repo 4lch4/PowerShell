@@ -1,0 +1,7 @@
+{
+  "id": 5810,
+  "name": "Stone Skin",
+  "icon": "ability_golemthunderclap",
+  "description": "Reduces damage taken for 6 sec, but reduces movement speed by 67%.",
+  "castTime": "Instant"
+}

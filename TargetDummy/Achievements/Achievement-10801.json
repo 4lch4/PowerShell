@@ -1,0 +1,18 @@
+{
+  "id": 10801,
+  "title": "Vault of the Wardens",
+  "points": 10,
+  "description": "Defeat Cordana Felsong in Vault of the Wardens.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_vaultofthewardens",
+  "criteria": [
+    {
+      "id": 31414,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7413,
+  "title": "Scarlet Halls",
+  "points": 10,
+  "description": "Defeat Flameweaver Koegler in Scarlet Halls.",
+  "rewardItems": [],
+  "icon": "inv_helmet_52",
+  "criteria": [
+    {
+      "id": 19269,
+      "description": "Flameweaver Koegler",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

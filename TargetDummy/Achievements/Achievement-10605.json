@@ -1,0 +1,102 @@
+{
+  "id": 10605,
+  "title": "Handle With Care",
+  "points": 10,
+  "description": "Restore one of each of the common Legion artifacts.",
+  "rewardItems": [],
+  "icon": "trade_archaeology",
+  "criteria": [
+    {
+      "id": 29994,
+      "description": "Imp's Cup",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 29995,
+      "description": "Flayed-Skin Chronicle",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 29996,
+      "description": "Malformed Abyssal",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 29997,
+      "description": "Orb of Inner Chaos",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 29998,
+      "description": "Houndstooth Hauberk",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 29999,
+      "description": "Violetglass Vessel",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 30000,
+      "description": "Inert Leystone Charm",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 30001,
+      "description": "Quietwine Vial",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 30002,
+      "description": "Pre-War Highborne Tapestry",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 30003,
+      "description": "Nobleman's Letter Opener",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 30004,
+      "description": "Trailhead Drum",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 30005,
+      "description": "Moosebone Fish-Hook",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 30006,
+      "description": "Hand-Smoothed Pyrestone",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 30007,
+      "description": "Drogbar Gem-Roller",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 30008,
+      "description": "Stonewood Bow",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

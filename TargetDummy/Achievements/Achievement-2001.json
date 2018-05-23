@@ -1,0 +1,42 @@
+{
+  "id": 2001,
+  "title": "50 Cooking Awards",
+  "points": 10,
+  "description": "Obtain 50 Cooking Awards.",
+  "rewardItems": [],
+  "icon": "inv_misc_ribbon_01",
+  "criteria": [
+    {
+      "id": 7262,
+      "description": "",
+      "orderIndex": 1,
+      "max": 50
+    },
+    {
+      "id": 16094,
+      "description": "",
+      "orderIndex": 2,
+      "max": 50
+    },
+    {
+      "id": 16095,
+      "description": "",
+      "orderIndex": 3,
+      "max": 50
+    },
+    {
+      "id": 16300,
+      "description": "",
+      "orderIndex": 4,
+      "max": 50
+    },
+    {
+      "id": 16313,
+      "description": "",
+      "orderIndex": 5,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

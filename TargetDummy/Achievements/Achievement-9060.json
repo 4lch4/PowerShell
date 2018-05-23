@@ -1,0 +1,18 @@
+{
+  "id": 9060,
+  "title": "Level 100",
+  "points": 10,
+  "description": "Reach level 100.",
+  "rewardItems": [],
+  "icon": "achievement_level_100",
+  "criteria": [
+    {
+      "id": 5212,
+      "description": "Reach level 100",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

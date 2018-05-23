@@ -1,0 +1,7 @@
+{
+  "id": 10795,
+  "name": "Ivory Raptor",
+  "icon": "ability_mount_raptor",
+  "description": "Summons and dismisses a rideable Ivory Raptor.",
+  "castTime": "1.5 sec cast"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2037,
+  "title": "Chaos Theory",
+  "points": 10,
+  "description": "Defeat Anomalus in The Nexus on Heroic Difficulty without destroying any Chaotic Rifts.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_nexus70_25man",
+  "criteria": [
+    {
+      "id": 7316,
+      "description": "Anomalus",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,42 @@
+{
+  "id": 10763,
+  "title": "Azsuna Matata",
+  "points": 10,
+  "description": "Complete the Azsuna storylines listed below.",
+  "rewardItems": [],
+  "icon": "achievements_zone_azsuna",
+  "criteria": [
+    {
+      "id": 31300,
+      "description": "Behind Legion Lines",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 31301,
+      "description": "Defending Azurewing Repose",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 31302,
+      "description": "Azsuna versus Azshara",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 31303,
+      "description": "Against the Giants",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Mak'rana and the Fate of the Queen's Reprisal",
+      "orderIndex": 4,
+      "max": 2
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

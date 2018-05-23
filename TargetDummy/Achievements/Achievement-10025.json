@@ -1,0 +1,30 @@
+{
+  "id": 10025,
+  "title": "Bastion of Shadows",
+  "points": 10,
+  "description": "Defeat the following bosses in the upper reaches of Hellfire Citadel:",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_antipaladin",
+  "criteria": [
+    {
+      "id": 28081,
+      "description": "Shadow-Lord Iskar",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28082,
+      "description": "Socrethar the Eternal",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28083,
+      "description": "Tyrant Velhari",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

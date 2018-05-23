@@ -1,0 +1,24 @@
+{
+  "id": 891,
+  "title": "Giddy Up!",
+  "points": 10,
+  "description": "Learn the apprentice riding skill.",
+  "rewardItems": [],
+  "icon": "ability_mount_ridinghorse",
+  "criteria": [
+    {
+      "id": 1872,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1872,
+      "description": "Added for DKs",
+      "orderIndex": 2,
+      "max": 2
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

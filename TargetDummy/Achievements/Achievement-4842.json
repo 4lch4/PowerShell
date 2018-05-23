@@ -1,0 +1,48 @@
+{
+  "id": 4842,
+  "title": "Blackwing Descent",
+  "points": 10,
+  "description": "Defeat the bosses in Blackwing Descent.",
+  "rewardItems": [],
+  "icon": "achievement_boss_nefarion",
+  "criteria": [
+    {
+      "id": 13537,
+      "description": "Magmaw",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13538,
+      "description": "Omnotron Defense System",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 13539,
+      "description": "Maloriak",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 13541,
+      "description": "Atramedes",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 13540,
+      "description": "Chimaeron",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 13542,
+      "description": "Nefarian",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

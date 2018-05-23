@@ -1,0 +1,54 @@
+{
+  "id": 1024,
+  "title": "Flame Warden of Outland",
+  "points": 10,
+  "description": "Honor the flames of Outland.",
+  "rewardItems": [],
+  "icon": "inv_summerfest_firespirit",
+  "criteria": [
+    {
+      "id": 3089,
+      "description": "Blade's Edge Mountains",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3090,
+      "description": "Hellfire Peninsula",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3091,
+      "description": "Nagrand",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3092,
+      "description": "Netherstorm",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3093,
+      "description": "Shadowmoon Valley",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3094,
+      "description": "Terokkar Forest",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3095,
+      "description": "Zangarmarsh",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

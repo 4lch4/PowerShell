@@ -1,0 +1,42 @@
+{
+  "id": 1035,
+  "title": "Desecration of the Horde",
+  "points": 10,
+  "description": "Complete all Extinguishing achievements.",
+  "rewardItems": [],
+  "icon": "spell_fire_masterofelements",
+  "criteria": [
+    {
+      "id": 18214,
+      "description": "Extinguishing the Cataclysm",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 3196,
+      "description": "Extinguishing Eastern Kingdoms",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3197,
+      "description": "Extinguishing Kalimdor",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 18215,
+      "description": "Extinguishing Northrend",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3198,
+      "description": "Extinguishing Outland",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 0
+}

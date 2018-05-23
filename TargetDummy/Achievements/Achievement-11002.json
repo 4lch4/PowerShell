@@ -1,0 +1,24 @@
+{
+  "id": 11002,
+  "title": "Ferocious Gladiator's Storm Dragon",
+  "points": 0,
+  "description": "Obtain the Ferocious Gladiator's Storm Dragon from Legion Arena Season 4.",
+  "rewardItems": [],
+  "icon": "inv_stormdragonmount2green",
+  "criteria": [
+    {
+      "id": 36517,
+      "description": "Ferocious Gladiator's Storm Dragon",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 31801,
+      "description": "Ferocious Gladiator's Storm Dragon",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

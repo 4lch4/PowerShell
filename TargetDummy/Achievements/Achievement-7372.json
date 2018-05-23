@@ -1,0 +1,18 @@
+{
+  "id": 7372,
+  "title": "Collector: Thunder King Insignias",
+  "points": 10,
+  "description": "Restore 20 Thunder King Insignias.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20665,
+      "description": "",
+      "orderIndex": 0,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

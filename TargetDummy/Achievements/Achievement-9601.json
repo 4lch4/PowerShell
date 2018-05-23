@@ -1,0 +1,42 @@
+{
+  "id": 9601,
+  "title": "King of the Monsters",
+  "points": 10,
+  "description": "Defeat each of the following creatures while evolved in the Lost Veil Anzu.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_devilsaur",
+  "criteria": [
+    {
+      "id": 26368,
+      "description": "Morphed Sentient",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27429,
+      "description": "Giga Sentinel",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27428,
+      "description": "Shadow Hulk",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27427,
+      "description": "Mecha Plunderer",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27426,
+      "description": "Gluttonous Giant",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

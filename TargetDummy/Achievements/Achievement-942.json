@@ -1,0 +1,31 @@
+{
+  "id": 942,
+  "title": "The Diplomat",
+  "points": 25,
+  "description": "Raise your reputation level from Unfriendly to Exalted with Timbermaw Hold, Sporeggar and the Kurenai.",
+  "reward": "Title Reward: The Diplomat",
+  "rewardItems": [],
+  "icon": "inv_helmet_44",
+  "criteria": [
+    {
+      "id": 2011,
+      "description": "Exalted with Timbermaw Hold",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 5337,
+      "description": "Exalted with the Kurenai",
+      "orderIndex": 2,
+      "max": 42000
+    },
+    {
+      "id": 4757,
+      "description": "Exalted with the Sporeggar",
+      "orderIndex": 3,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

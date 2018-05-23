@@ -1,0 +1,24 @@
+{
+  "id": 204,
+  "title": "Ironman",
+  "points": 10,
+  "description": "In a single Warsong Gulch battle, carry and capture the flag 3 times without dying.",
+  "rewardItems": [],
+  "icon": "achievement_bg_3flagcap_nodeaths",
+  "criteria": [
+    {
+      "id": 1802,
+      "description": "3 captures and no death",
+      "orderIndex": 1,
+      "max": 3
+    },
+    {
+      "id": 1824,
+      "description": "win warsong",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 708,
+  "title": "Hero of the Frostwolf Clan",
+  "points": 10,
+  "description": "Gain exalted reputation with the Frostwolf Clan.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_frostwolftrinket_05",
+  "criteria": [
+    {
+      "id": 5320,
+      "description": "Exalted with the Frostwolf Clan",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

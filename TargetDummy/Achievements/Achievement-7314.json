@@ -1,0 +1,18 @@
+{
+  "id": 7314,
+  "title": "Test Drive",
+  "points": 10,
+  "description": "Grow a Kunchong to full size and take it on a rampage.",
+  "rewardItems": [],
+  "icon": "achievement_raid_mantidraid05",
+  "criteria": [
+    {
+      "id": 21873,
+      "description": "Complete the daily once.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

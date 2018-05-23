@@ -1,0 +1,12 @@
+{
+  "id": 2186,
+  "title": "The Immortal",
+  "points": 0,
+  "description": "Within one raid lockout period, defeat every boss in Naxxramas without allowing any raid member to die during any of the boss encounters in 25-player mode.",
+  "reward": "Title Reward: The Immortal",
+  "rewardItems": [],
+  "icon": "spell_holy_weaponmastery",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

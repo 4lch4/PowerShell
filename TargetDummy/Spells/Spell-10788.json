@@ -1,0 +1,7 @@
+{
+  "id": 10788,
+  "name": "Leopard",
+  "icon": "ability_mount_jungletiger",
+  "description": "Summons and dismisses a rideable Sabre Cat.",
+  "castTime": "1.5 sec cast"
+}

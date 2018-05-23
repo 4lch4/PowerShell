@@ -1,0 +1,31 @@
+{
+  "id": 907,
+  "title": "The Justicar",
+  "points": 20,
+  "description": "Raise your reputation values in Warsong Gulch, Arathi Basin and Alterac Valley to Exalted.",
+  "reward": "Title Reward: Justicar",
+  "rewardItems": [],
+  "icon": "inv_misc_tabardpvp_03",
+  "criteria": [
+    {
+      "id": 5335,
+      "description": "Hero of the Stormpike Guard",
+      "orderIndex": 0,
+      "max": 42000
+    },
+    {
+      "id": 5333,
+      "description": "Knight of Arathor",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 5334,
+      "description": "Silverwing Sentinel",
+      "orderIndex": 2,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

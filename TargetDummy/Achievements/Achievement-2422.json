@@ -1,0 +1,84 @@
+{
+  "id": 2422,
+  "title": "Shake Your Bunny-Maker",
+  "points": 10,
+  "description": "Use Spring Flowers to place rabbit ears upon females of at least 18th level.",
+  "rewardItems": [],
+  "icon": "inv_misc_flower_02",
+  "criteria": [
+    {
+      "id": 9124,
+      "description": "Blood Elf",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9143,
+      "description": "Draenei",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 9145,
+      "description": "Dwarf",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9146,
+      "description": "Gnome",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17846,
+      "description": "Goblin",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 9144,
+      "description": "Human",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 9147,
+      "description": "Night Elf",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 9148,
+      "description": "Orc",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 9149,
+      "description": "Tauren",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 9150,
+      "description": "Troll",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 9151,
+      "description": "Undead",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 17845,
+      "description": "Worgen",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

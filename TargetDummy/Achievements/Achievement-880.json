@@ -1,0 +1,18 @@
+{
+  "id": 880,
+  "title": "Swift Zulian Tiger",
+  "points": 0,
+  "description": "Obtain the Swift Zulian Tiger from High Priest Thekal in Zul'Gurub.",
+  "rewardItems": [],
+  "icon": "ability_mount_jungletiger",
+  "criteria": [
+    {
+      "id": 6161,
+      "description": "Swift Zulian Tiger",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

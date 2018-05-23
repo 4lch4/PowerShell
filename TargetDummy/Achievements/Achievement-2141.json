@@ -1,0 +1,18 @@
+{
+  "id": 2141,
+  "title": "Stable Keeper",
+  "points": 10,
+  "description": "Obtain 10 mounts (usable by a single character).",
+  "rewardItems": [],
+  "icon": "ability_mount_ridingelekk",
+  "criteria": [
+    {
+      "id": 4787,
+      "description": "Obtain 10 mounts",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

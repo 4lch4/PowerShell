@@ -1,0 +1,18 @@
+{
+  "id": 2959,
+  "title": "Rubble and Roll (10 player)",
+  "points": 10,
+  "description": "Defeat Kologarn after causing at least 25 Rubble creatures to spawn in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_elemental_primal_earth",
+  "criteria": [
+    {
+      "id": 23417,
+      "description": "Kologarn",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

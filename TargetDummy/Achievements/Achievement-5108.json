@@ -1,0 +1,24 @@
+{
+  "id": 5108,
+  "title": "Heroic: Maloriak",
+  "points": 10,
+  "description": "Defeat Maloriak in Blackwing Descent on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_blackwingdescent_raid_maloriak",
+  "criteria": [
+    {
+      "id": 16262,
+      "description": "Maloriak",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 16263,
+      "description": "Maloriak",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

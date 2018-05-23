@@ -1,0 +1,156 @@
+{
+  "id": 8081,
+  "title": "Ritualist Who?",
+  "points": 10,
+  "description": "Defeat all 24 different Dark Ritualists on Normal or Heroic difficulty on separate visits to the Dark Animus chamber in Throne of Thunder.",
+  "rewardItems": [],
+  "icon": "ability_touchofanimus",
+  "criteria": [
+    {
+      "id": 22765,
+      "description": "Aridian",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22766,
+      "description": "Auton",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22767,
+      "description": "Bandril",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22768,
+      "description": "Drahvin",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 22769,
+      "description": "Drashig",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 22770,
+      "description": "Fendahl",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 22771,
+      "description": "Gond",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 22772,
+      "description": "Jagaroth",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 22773,
+      "description": "Kroll",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 22774,
+      "description": "Kitling",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 22775,
+      "description": "Malus",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 22776,
+      "description": "Mandrel",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 22777,
+      "description": "Megara",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 22778,
+      "description": "Morok",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 22779,
+      "description": "Ogri",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 22780,
+      "description": "Ogron",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 22781,
+      "description": "Rill",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 22782,
+      "description": "Rutan",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 22783,
+      "description": "Sirian",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 22784,
+      "description": "Tetrap",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 22785,
+      "description": "Thal",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 22786,
+      "description": "Voord",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 22787,
+      "description": "Wirrn",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 22788,
+      "description": "Xeron",
+      "orderIndex": 23,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

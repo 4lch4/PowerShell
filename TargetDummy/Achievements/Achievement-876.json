@@ -1,0 +1,19 @@
+{
+  "id": 876,
+  "title": "Brutally Dedicated",
+  "points": 10,
+  "description": "Win 300 ranked arena matches.",
+  "reward": "Reward: Tabard of Brute Force",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_03",
+  "criteria": [
+    {
+      "id": 306,
+      "description": "Win 300 ranked arena matches",
+      "orderIndex": 1,
+      "max": 300
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

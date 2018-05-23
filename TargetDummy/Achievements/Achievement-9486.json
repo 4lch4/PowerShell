@@ -1,0 +1,18 @@
+{
+  "id": 9486,
+  "title": "Goodness Gracious",
+  "points": 10,
+  "description": "Activate 12 different Fel Runes within 6 seconds and live to tell the tale in Shattrath City.",
+  "rewardItems": [],
+  "icon": "spell_fel_incinerate",
+  "criteria": [
+    {
+      "id": 25852,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

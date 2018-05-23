@@ -1,0 +1,40 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a Textbox that displays the Get-Process results when a button is pressed.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABfSURBVDhPY2CgFNTP3fmfXAy2G6SZHADSR3sDgDZgOA4mRpQLSDYApAFZE4yPLgZyFoYLsCnCJ4bVC+g2kmQAzVyALVywhgGpiYmoaMRnKIoBFOUFSjMjMOVA8gS5AAD4b2xU6o/ZlwAAAABJRU5ErkJggg==</Icon>
+  <Identifiers>
+    <ID id="1" name="textbox1" type="object" />
+    <ID id="2" name="buttonLoadProcess" type="object" />
+    <ID id="3" name="buttonLoadProcess_Click" type="event" />
+    <ID id="4" name="tooltip1" type="object" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="Font">Courier New, 8.25pt</Property>
+      <Property name="Location">13, 13</Property>
+      <Property name="Multiline">True</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="ScrollBars">Both</Property>
+      <Property name="Size">259, 208</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="ToolTip" extended="True" provider="%ID:4%">Process information.</Property>
+      <Property name="WordWrap">False</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:2%" children="Controls">
+      <Property name="Location">13, 227</Property>
+      <Property name="Name">%ID:2%</Property>
+      <Property name="Size">95, 23</Property>
+      <Property name="TabIndex">1</Property>
+      <Property name="Text">Load Process</Property>
+      <Property name="ToolTip" extended="True" provider="%ID:4%">Press to display the process in the textbox.</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">%ID:3%</Event>
+    </Object>
+    <Object type="System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:4%" />
+  </Objects>
+  <Events>
+    <Event id="3"><![CDATA[$%ID:3%={
+	#TODO: Place custom script here
+	$%ID:1%.Text = Get-Process | Out-String
+}]]></Event>
+  </Events>
+</ControlTemplate>

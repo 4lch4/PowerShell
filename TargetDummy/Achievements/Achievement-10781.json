@@ -1,0 +1,18 @@
+{
+  "id": 10781,
+  "title": "Heroic: Eye of Azshara",
+  "points": 10,
+  "description": "Defeat the Wrath of Azshara in Eye of Azshara on Heroic difficulty or higher.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_eyeofazshara",
+  "criteria": [
+    {
+      "id": 31380,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

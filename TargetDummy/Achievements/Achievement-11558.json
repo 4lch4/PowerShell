@@ -1,0 +1,18 @@
+{
+  "id": 11558,
+  "title": "The First Rule of Brawler's Guild",
+  "points": 5,
+  "description": "Get invited to brawl at Bizmo's Brawlpub in the Deeprun Tram.",
+  "rewardItems": [],
+  "icon": "spell_holy_silence",
+  "criteria": [
+    {
+      "id": 35431,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

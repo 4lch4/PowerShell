@@ -1,0 +1,24 @@
+{
+  "id": 1958,
+  "title": "I Smell A Giant Rat",
+  "points": 10,
+  "description": "Fish up the Giant Sewer Rat from The Underbelly in Dalaran.",
+  "rewardItems": [],
+  "icon": "inv_misc_monstertail_03",
+  "criteria": [
+    {
+      "id": 7260,
+      "description": "Giant Sewer Rat",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7261,
+      "description": "Giant Sewer Rat",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

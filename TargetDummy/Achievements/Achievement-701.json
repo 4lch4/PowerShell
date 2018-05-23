@@ -1,0 +1,438 @@
+{
+  "id": 701,
+  "title": "Freedom of the Alliance",
+  "points": 0,
+  "description": "Obtain an Insignia or Medallion of the Alliance.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_trinketpvp_01",
+  "criteria": [
+    {
+      "id": 779,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 780,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 781,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 782,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 783,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 784,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 785,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 786,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 787,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 788,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 789,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 790,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 791,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 792,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 793,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 794,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 795,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 796,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 797,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 798,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 7870,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 12638,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 13371,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 8741,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 16761,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 16762,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 16763,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 16794,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 16795,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 16796,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 18084,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 17425,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 17425,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 18086,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 18087,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 18088,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 18089,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 18121,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 18122,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 18123,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 19720,
+      "description": "",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 19721,
+      "description": "",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 19722,
+      "description": "",
+      "orderIndex": 42,
+      "max": 1
+    },
+    {
+      "id": 19721,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 43,
+      "max": 1
+    },
+    {
+      "id": 23291,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 44,
+      "max": 1
+    },
+    {
+      "id": 23295,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 45,
+      "max": 1
+    },
+    {
+      "id": 23296,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 46,
+      "max": 1
+    },
+    {
+      "id": 23293,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 47,
+      "max": 1
+    },
+    {
+      "id": 23294,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 48,
+      "max": 1
+    },
+    {
+      "id": 23292,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 49,
+      "max": 1
+    },
+    {
+      "id": 23297,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 50,
+      "max": 1
+    },
+    {
+      "id": 23298,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 51,
+      "max": 1
+    },
+    {
+      "id": 23299,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 52,
+      "max": 1
+    },
+    {
+      "id": 23302,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 53,
+      "max": 1
+    },
+    {
+      "id": 23300,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 54,
+      "max": 1
+    },
+    {
+      "id": 23301,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 55,
+      "max": 1
+    },
+    {
+      "id": 23303,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 56,
+      "max": 1
+    },
+    {
+      "id": 23304,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 57,
+      "max": 1
+    },
+    {
+      "id": 23305,
+      "description": "Insignia of the Alliance",
+      "orderIndex": 58,
+      "max": 1
+    },
+    {
+      "id": 23753,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 59,
+      "max": 1
+    },
+    {
+      "id": 23754,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 60,
+      "max": 1
+    },
+    {
+      "id": 23755,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 61,
+      "max": 1
+    },
+    {
+      "id": 23756,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 62,
+      "max": 1
+    },
+    {
+      "id": 23757,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 63,
+      "max": 1
+    },
+    {
+      "id": 23758,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 64,
+      "max": 1
+    },
+    {
+      "id": 23759,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 65,
+      "max": 1
+    },
+    {
+      "id": 23760,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 66,
+      "max": 1
+    },
+    {
+      "id": 23761,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 67,
+      "max": 1
+    },
+    {
+      "id": 23762,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 68,
+      "max": 1
+    },
+    {
+      "id": 23763,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 69,
+      "max": 1
+    },
+    {
+      "id": 23764,
+      "description": "Medallion of the Alliance",
+      "orderIndex": 70,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 653,
+  "title": "Sethekk Halls",
+  "points": 10,
+  "description": "Defeat Talon King Ikiss.",
+  "rewardItems": [],
+  "icon": "achievement_boss_talonkingikiss",
+  "criteria": [
+    {
+      "id": 3245,
+      "description": "Talon King Ikiss",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4468,
+      "description": "Terokk's Legacy",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

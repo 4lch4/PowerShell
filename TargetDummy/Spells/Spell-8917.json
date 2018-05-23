@@ -1,0 +1,8 @@
+{
+  "id": 8917,
+  "name": "Opening",
+  "icon": "trade_engineering",
+  "description": "Used to open Tazan's satchel.",
+  "range": "5 yd range",
+  "castTime": "5 sec cast"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11475,
+  "title": "Mission Accomplished",
+  "points": 10,
+  "description": "Complete Operation Murloc Freedom 20 times.",
+  "rewardItems": [],
+  "icon": "inv_babymurloc3_yellow",
+  "criteria": [
+    {
+      "id": 33658,
+      "description": "Complete Operation Murloc Freedom 20 times",
+      "orderIndex": 0,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6885,
+  "title": "Temple of the Jade Serpent: Bronze",
+  "points": 0,
+  "description": "Complete the Temple of the Jade Serpent Challenge Mode with a rating of Bronze or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_templeofthejadeserpent_bronze",
+  "criteria": [
+    {
+      "id": 20700,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6740,
+  "title": "Temple of Kotmogu Victory",
+  "points": 10,
+  "description": "Win Temple of Kotmogu.",
+  "rewardItems": [],
+  "icon": "achievement_battleground_templeofkotmogu",
+  "criteria": [
+    {
+      "id": 19660,
+      "description": "Win Temple of Kotmogu",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

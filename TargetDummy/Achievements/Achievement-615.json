@@ -1,0 +1,18 @@
+{
+  "id": 615,
+  "title": "Storming Stormwind",
+  "points": 10,
+  "description": "Kill King Anduin Wrynn.",
+  "rewardItems": [],
+  "icon": "achievement_leader_king_varian_wrynn",
+  "criteria": [
+    {
+      "id": 30610,
+      "description": "King Anduin Wrynn",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

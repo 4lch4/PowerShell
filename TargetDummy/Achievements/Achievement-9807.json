@@ -1,0 +1,18 @@
+{
+  "id": 9807,
+  "title": "Big Wanderluster: Bronze",
+  "points": 5,
+  "description": "Complete The Real Big Race with the Wanderluster within 30 tolls.",
+  "rewardItems": [],
+  "icon": "inv_checkered_flag",
+  "criteria": [
+    {
+      "id": 27530,
+      "description": "Complete The Real Big Race with the Wanderluster within 35 tolls.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

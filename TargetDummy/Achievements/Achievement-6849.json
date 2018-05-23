@@ -1,0 +1,24 @@
+{
+  "id": 6849,
+  "title": "Collector's Edition: Imperial Quilen",
+  "points": 0,
+  "description": "Owner of the Mists of Pandaria Collector's Edition Imperial Quilen mount.",
+  "rewardItems": [],
+  "icon": "ability_mount_quilenflyingmount",
+  "criteria": [
+    {
+      "id": 19778,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19777,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9109,
+  "title": "Fearless Leader",
+  "points": 5,
+  "description": "Recruit 25 followers.",
+  "rewardItems": [],
+  "icon": "achievement_garrisonfollower_recruit25",
+  "criteria": [
+    {
+      "id": 25256,
+      "description": "Recruit 25 followers.",
+      "orderIndex": 0,
+      "max": 25
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

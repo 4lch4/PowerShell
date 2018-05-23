@@ -1,0 +1,19 @@
+{
+  "id": 11856,
+  "title": "Pet Battle Challenge: Deadmines",
+  "points": 5,
+  "description": "Complete Pet Battle Challenge in Deadmines.",
+  "reward": "Reward: Mining Monkey",
+  "rewardItems": [],
+  "icon": "ability_rogue_cannonballbarrage",
+  "criteria": [
+    {
+      "id": 36841,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

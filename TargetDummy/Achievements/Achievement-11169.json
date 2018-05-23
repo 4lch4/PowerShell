@@ -1,0 +1,18 @@
+{
+  "id": 11169,
+  "title": "Crest of Devastation",
+  "points": 10,
+  "description": "Reach Prestige level 15 and earn a Crest of Devastation",
+  "rewardItems": [],
+  "icon": "inv_60pvp_neck2a",
+  "criteria": [
+    {
+      "id": 32109,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,7 @@
+{
+  "id": 9055,
+  "name": "Create Witherbark Totem Bundle",
+  "icon": "spell_lightning_lightningbolt01",
+  "description": "Gather 10 totem sticks, and use them at the Stone of Outer Binding.",
+  "castTime": "2 sec cast"
+}

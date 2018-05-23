@@ -1,0 +1,72 @@
+{
+  "id": 6538,
+  "title": "Slum It in the Summit",
+  "points": 10,
+  "description": "Complete the Kun-Lai Summit storylines listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_kunlaisummit_loremaster",
+  "criteria": [
+    {
+      "id": 19370,
+      "description": "Eastwind Rest",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19371,
+      "description": "The Yaungol Invasion",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19361,
+      "description": "Inkgill Mere",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19366,
+      "description": "The Yak Wash",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 19364,
+      "description": "The Burlap Trail",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 19365,
+      "description": "Kota Peak",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 19367,
+      "description": "The Thunder King",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21868,
+      "description": "Temple of the White Tiger",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 19369,
+      "description": "Zouchin Village",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 19363,
+      "description": "The Shado-Pan",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

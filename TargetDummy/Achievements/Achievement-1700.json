@@ -1,0 +1,24 @@
+{
+  "id": 1700,
+  "title": "Perma-Peddle",
+  "points": 10,
+  "description": "Obtain a permanent Peddlefeet pet by procuring a Truesilver Shafted Arrow.",
+  "rewardItems": [],
+  "icon": "inv_ammo_arrow_02",
+  "criteria": [
+    {
+      "id": 6322,
+      "description": "Peddlefeet",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6323,
+      "description": "Truesilver Shafted Arrow",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

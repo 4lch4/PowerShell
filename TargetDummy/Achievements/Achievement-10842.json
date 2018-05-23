@@ -1,0 +1,18 @@
+{
+  "id": 10842,
+  "title": "Mythic: Chronomatic Anomaly",
+  "points": 10,
+  "description": "Defeat Chronomatic Anomaly in The Nighthold on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_thenighthold_chromaticanomaly",
+  "criteria": [
+    {
+      "id": 31455,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

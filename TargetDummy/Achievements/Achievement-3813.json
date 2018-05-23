@@ -1,0 +1,24 @@
+{
+  "id": 3813,
+  "title": "Upper Back Pain (25 player)",
+  "points": 10,
+  "description": "Defeat Icehowl while at least 4 Snobolds remain alive in 25-player mode.",
+  "rewardItems": [],
+  "icon": "inv_ammo_snowball",
+  "criteria": [
+    {
+      "id": 11780,
+      "description": "Icehowl",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11801,
+      "description": "Icehowl",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

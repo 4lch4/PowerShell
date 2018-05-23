@@ -1,0 +1,12 @@
+{
+  "id": 8649,
+  "title": "Challenger: Season 14",
+  "points": 0,
+  "description": "End a PvP season in the top 35% of the arena ladder (requires 50 games won in Season 14).",
+  "reward": "Title Reward: Challenger",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_01",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,12 @@
+{
+  "id": 9729,
+  "title": "Victory in Hillsbrad",
+  "points": 0,
+  "description": "Win a battle in the 10th Anniversary battleground, Southshore vs. Tarren Mill.",
+  "reward": "Title Reward: Tarren Mill Terror",
+  "rewardItems": [],
+  "icon": "achievement_zone_hillsbradfoothills",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,132 @@
+{
+  "id": 1792,
+  "title": "Aw, Isn't It Cute?",
+  "points": 10,
+  "description": "Obtain one of the Children's Week reward pets through questing.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_turtle",
+  "criteria": [
+    {
+      "id": 6661,
+      "description": "Rat Cage",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6663,
+      "description": "Whiskers the Rat",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 9167,
+      "description": "Peanut",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6664,
+      "description": "Piglet's Collar",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6665,
+      "description": "Mr. Wiggles",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6666,
+      "description": "Speedy",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6667,
+      "description": "Speedy",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6669,
+      "description": "Egbert's Egg",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 6670,
+      "description": "Sleepy Willy",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 6671,
+      "description": "Elekk Training Collar",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 9169,
+      "description": "Egbert",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 9168,
+      "description": "Willy",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 12898,
+      "description": "Curious Oracle Hatchling",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 12899,
+      "description": "Curious Oracle Hatchling",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 12900,
+      "description": "Curious Wolvar Pup",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 12901,
+      "description": "Curious Wolvar Pup",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 16867,
+      "description": "Snail Shell",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 16868,
+      "description": "Scooter the Snail",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 16869,
+      "description": "Legs",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 16870,
+      "description": "Legs",
+      "orderIndex": 20,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

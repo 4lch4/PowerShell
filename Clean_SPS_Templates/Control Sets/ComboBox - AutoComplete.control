@@ -1,0 +1,19 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts an AutoCompleting ComboBox .</Description>
+  <Creator>David Corrales</Creator>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACLSURBVDhPY2CgFNTP3fmfWCwT2PAfHTOANBMLQJoPHDgAxyA+yQbADIG5BGwANqcRKwYOQkLe2HD8838Y7lt4BM4G6SPJAJBmoIb/MEMwDABJwjBywMJsB8mB2DCaZBcgewXExusCZJfgSyckhQHJLoCFA9XCgGAs4ErSRKUDYjMUujpgxEMSE7kAAO6fkDfBmkIcAAAAAElFTkSuQmCC</Icon>
+  <Identifiers>
+    <ID id="1" name="combobox1" type="object" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.ComboBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="AutoCompleteMode">SuggestAppend</Property>
+      <Property name="AutoCompleteSource">ListItems</Property>
+      <Property name="FormattingEnabled">True</Property>
+      <Property name="Location">13, 102</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="Size">150, 21</Property>
+      <Property name="TabIndex">0</Property>
+    </Object>
+  </Objects>
+</ControlTemplate>

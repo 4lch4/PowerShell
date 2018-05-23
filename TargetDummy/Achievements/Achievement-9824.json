@@ -1,0 +1,104 @@
+{
+  "id": 9824,
+  "title": "Raiding with Leashes III: Drinkin' From the Sunwell",
+  "points": 10,
+  "description": "Collect all of the battle pets listed below from Black Temple, Hyjal Summit, and the Sunwell.",
+  "reward": "Reward: K'ute",
+  "rewardItems": [
+    {
+      "id": 122116,
+      "name": "Holy Chime",
+      "icon": "inv_offhand_draenei_a_02",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_boss_kiljaedan",
+  "criteria": [
+    {
+      "id": 27567,
+      "description": "Grotesque",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27568,
+      "description": "Leviathan Hatchling",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27569,
+      "description": "Abyssius",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27570,
+      "description": "Fragment of Anger",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27571,
+      "description": "Fragment of Suffering",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27572,
+      "description": "Fragment of Desire",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 27573,
+      "description": "Sister of Temptation",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 27574,
+      "description": "Stinkrot",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 27575,
+      "description": "Hyjal Wisp",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 27576,
+      "description": "Sunblade Micro-Defender",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 27577,
+      "description": "Chaos Pup",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 27578,
+      "description": "Wretched Servant",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

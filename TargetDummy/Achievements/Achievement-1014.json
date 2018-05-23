@@ -1,0 +1,18 @@
+{
+  "id": 1014,
+  "title": "35 Exalted Reputations",
+  "points": 10,
+  "description": "Raise 35 reputations to Exalted.",
+  "rewardItems": [],
+  "icon": "achievement_reputation_07",
+  "criteria": [
+    {
+      "id": 982,
+      "description": "35 reputations to Exalted",
+      "orderIndex": 1,
+      "max": 35
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

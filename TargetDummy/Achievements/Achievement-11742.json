@@ -1,0 +1,18 @@
+{
+  "id": 11742,
+  "title": "Dress in Lairs",
+  "points": 10,
+  "description": "Collect any class armor set from Blackwing Lair.",
+  "rewardItems": [],
+  "icon": "achievement_boss_nefarion",
+  "criteria": [
+    {
+      "id": 36370,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

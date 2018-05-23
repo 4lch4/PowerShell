@@ -1,0 +1,48 @@
+{
+  "id": 5865,
+  "title": "Have... Have We Met?",
+  "points": 10,
+  "description": "Acknowledge your recognition by /waving at the following NPCs in Sethria's Roost.",
+  "rewardItems": [],
+  "icon": "inv_weapon_shortblade_10",
+  "criteria": [
+    {
+      "id": 17806,
+      "description": "Linken",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17807,
+      "description": "Hemet Nesingwary",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17808,
+      "description": "Nat Pagle",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17809,
+      "description": "Chromie",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17810,
+      "description": "Mankrik",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 17811,
+      "description": "Thassarian",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

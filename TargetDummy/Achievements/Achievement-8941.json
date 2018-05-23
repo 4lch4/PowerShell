@@ -1,0 +1,114 @@
+{
+  "id": 8941,
+  "title": "Explore Spires of Arak",
+  "points": 10,
+  "description": "Explore Spires of Arak, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_spiresofarak",
+  "criteria": [
+    {
+      "id": 26754,
+      "description": "Skettis",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26755,
+      "description": "The Howling Crag",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26756,
+      "description": "The Writhing Mire",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26757,
+      "description": "Pinchwhistle Point",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 26758,
+      "description": "Veil Zekk",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26759,
+      "description": "Veil Akraz",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 26760,
+      "description": "Southport",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 26762,
+      "description": "Windswept Terrace",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 26763,
+      "description": "Terrace of Dawn",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 26764,
+      "description": "Sethekk Hollow",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 26765,
+      "description": "Bladefist Hold",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 26766,
+      "description": "Admiral Taylor's Garrison",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 26767,
+      "description": "Lost Veil Anzu",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 26769,
+      "description": "Pinchwhistle Gearworks",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 26770,
+      "description": "Ravenskar",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 26771,
+      "description": "Bloodmane Valley",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 26772,
+      "description": "Axefall",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

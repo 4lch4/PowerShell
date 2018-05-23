@@ -1,0 +1,49 @@
+{
+  "id": 9468,
+  "title": "Salvaging Pays Off",
+  "points": 5,
+  "description": "Open 100 pieces of Salvage from missions.",
+  "reward": "Reward: Unlocks Salvage Yard, Level 3 Blueprint",
+  "rewardItems": [],
+  "icon": "garrison_building_salvageyard",
+  "criteria": [
+    {
+      "id": 25823,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25824,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25825,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 34683,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 34684,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 34685,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

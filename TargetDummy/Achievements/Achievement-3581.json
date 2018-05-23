@@ -1,0 +1,36 @@
+{
+  "id": 3581,
+  "title": "Pilgrim's Peril",
+  "points": 10,
+  "description": "While wearing either a Pilgrim's Dress, Robe, or Attire, take a seat at each enemy capital's Bountiful Table.",
+  "rewardItems": [],
+  "icon": "inv_bannerpvp_02",
+  "criteria": [
+    {
+      "id": 11139,
+      "description": "Darnassus",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11138,
+      "description": "The Exodar",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 11140,
+      "description": "Ironforge",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 11141,
+      "description": "Stormwind",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

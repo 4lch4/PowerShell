@@ -1,0 +1,108 @@
+{
+  "id": 1269,
+  "title": "Explore Storm Peaks",
+  "points": 10,
+  "description": "Explore Storm Peaks, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_stormpeaks_01",
+  "criteria": [
+    {
+      "id": 5843,
+      "description": "Brunnhildar Village",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5844,
+      "description": "Narvir's Cradle",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5845,
+      "description": "Dun Niffelem",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5846,
+      "description": "Bor's Breath",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 5847,
+      "description": "Valkyrion",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 5848,
+      "description": "Terrace of the Makers",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 5849,
+      "description": "Sparksocket Minefield",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 5850,
+      "description": "Engine of the Makers",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 5851,
+      "description": "Temple of Life",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 5852,
+      "description": "Ulduar",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 5853,
+      "description": "Thunderfall",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 5854,
+      "description": "Temple of Storms",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 5855,
+      "description": "Snowdrift Plains",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 5856,
+      "description": "Garm's Bane",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 5857,
+      "description": "Frosthold",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 5858,
+      "description": "Nidavelir",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

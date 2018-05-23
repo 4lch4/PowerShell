@@ -1,0 +1,12 @@
+{
+  "id": 11040,
+  "title": "Rival: Legion Season 3",
+  "points": 0,
+  "description": "End Legion PvP season 3 in the top 10% of the arena ladder (requires 50 games won your current faction in Legion Season 3).",
+  "reward": "Title Reward: Rival",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_07",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

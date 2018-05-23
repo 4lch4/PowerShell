@@ -1,0 +1,18 @@
+{
+  "id": 1281,
+  "title": "The Rocket's Red Glare",
+  "points": 10,
+  "description": "Shoot off 10 Red Rocket Clusters in 25 seconds or less.",
+  "rewardItems": [],
+  "icon": "inv_misc_missilelarge_red",
+  "criteria": [
+    {
+      "id": 3932,
+      "description": "Shoot off 10 Red Rocket Clusters in 25 seconds or less",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

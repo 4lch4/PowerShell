@@ -1,0 +1,24 @@
+{
+  "id": 10011,
+  "title": "Siege of Niuzao Temple",
+  "points": 10,
+  "description": "Defeat Wing Leader Ner'onok in Siege of Niuzao Temple.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_siegeofniuzaotemple",
+  "criteria": [
+    {
+      "id": 19674,
+      "description": "Wing Leader Ner'onok",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19252,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

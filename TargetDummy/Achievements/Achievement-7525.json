@@ -1,0 +1,37 @@
+{
+  "id": 7525,
+  "title": "Taming Cataclysm",
+  "points": 5,
+  "description": "Defeat all of the Pet Tamers in Cataclysm listed below.",
+  "reward": "Quest Reward: Cataclysm Pet Battle Daily Quests",
+  "rewardItems": [],
+  "icon": "achievement_zone_cataclysm",
+  "criteria": [
+    {
+      "id": 21858,
+      "description": "Brok",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21859,
+      "description": "Bordin Steadyfist",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21860,
+      "description": "Goz Banefury",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21861,
+      "description": "Obalis",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

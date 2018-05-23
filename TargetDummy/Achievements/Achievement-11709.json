@@ -1,0 +1,18 @@
+{
+  "id": 11709,
+  "title": "Tough Threads",
+  "points": 10,
+  "description": "Collect any class armor set from PvP Season 4.",
+  "rewardItems": [],
+  "icon": "inv_axe_73",
+  "criteria": [
+    {
+      "id": 36231,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

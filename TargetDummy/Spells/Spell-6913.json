@@ -1,0 +1,7 @@
+{
+  "id": 6913,
+  "name": "Force of Nature",
+  "icon": "spell_nature_forceofnature",
+  "description": "Summons 1 Force of Nature to aid the caster in battle for 30 sec.",
+  "castTime": "Instant"
+}

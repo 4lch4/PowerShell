@@ -1,0 +1,19 @@
+{
+  "id": 6556,
+  "title": "Going to Need More Traps",
+  "points": 5,
+  "description": "Capture 50 pets in a pet battle.",
+  "reward": "Reward: Strong Pet Trap",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_captureawildpet",
+  "criteria": [
+    {
+      "id": 19749,
+      "description": "",
+      "orderIndex": 0,
+      "max": 50
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

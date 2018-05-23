@@ -1,0 +1,18 @@
+{
+  "id": 9786,
+  "title": "Wayfarer",
+  "points": 5,
+  "description": "Complete The Real Race with the Wanderluster within 25 tolls.",
+  "rewardItems": [],
+  "icon": "inv_checkered_flag",
+  "criteria": [
+    {
+      "id": 27501,
+      "description": "Complete the Darkmoon Race with the Wanderluster within 20 tolls.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6547,
+  "title": "The Anglers",
+  "points": 10,
+  "description": "Earn Exalted status with the Anglers.",
+  "rewardItems": [],
+  "icon": "achievement_faction_anglers",
+  "criteria": [
+    {
+      "id": 19392,
+      "description": "The Anglers exalted",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

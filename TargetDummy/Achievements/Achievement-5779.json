@@ -1,0 +1,18 @@
+{
+  "id": 5779,
+  "title": "You'll Feel Right as Rain",
+  "points": 10,
+  "description": "Feel 1000% better by eating Chocolate Cookies.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_150_cookie",
+  "criteria": [
+    {
+      "id": 17003,
+      "description": "Gain 91 stacks of the Satisfied buff by eating Chocolate Cookies.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

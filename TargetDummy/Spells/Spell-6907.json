@@ -1,0 +1,8 @@
+{
+  "id": 6907,
+  "name": "Diseased Slime",
+  "icon": "spell_shadow_creepingplague",
+  "description": "Increases the time between an enemy's attacks by 54% and its movement by 25% for 10 sec.",
+  "range": "Melee Range",
+  "castTime": "2 sec cast"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6725,
+  "title": "Heroic: Imperial Vizier Zor'lok",
+  "points": 10,
+  "description": "Defeat Imperial Vizier Zor'lok in Heart of Fear on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_raid_mantidraid02",
+  "criteria": [
+    {
+      "id": 19641,
+      "description": "Imperial Vizier Zor'lok",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

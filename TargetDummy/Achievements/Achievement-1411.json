@@ -1,0 +1,18 @@
+{
+  "id": 1411,
+  "title": "Realm First! Level 80 Tauren",
+  "points": 0,
+  "description": "First tauren on the realm to achieve level 80.",
+  "rewardItems": [],
+  "icon": "achievement_character_tauren_female",
+  "criteria": [
+    {
+      "id": 5236,
+      "description": "Level to 80",
+      "orderIndex": 1,
+      "max": 80
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

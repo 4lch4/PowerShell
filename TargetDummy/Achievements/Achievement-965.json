@@ -1,0 +1,192 @@
+{
+  "id": 965,
+  "title": "Tricks and Treats of Kalimdor",
+  "points": 10,
+  "description": "Visit the Candy Buckets in Kalimdor.",
+  "rewardItems": [],
+  "icon": "achievement_halloween_candy_01",
+  "criteria": [
+    {
+      "id": 17610,
+      "description": "Ashenvale, Hellscream's Watch",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17611,
+      "description": "Ashenvale, Silverwind Refuge",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2105,
+      "description": "Ashenvale, Splintertree Post",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17612,
+      "description": "Ashenvale, Zoram'gar Outpost",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17613,
+      "description": "Azshara, Bilgewater Harbor",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 18396,
+      "description": "Desolace, Karnum's Glade",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 2108,
+      "description": "Desolace, Shadowprey Village",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 2109,
+      "description": "Durotar, Razor Hill",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 2110,
+      "description": "Dustwallow Marsh, Brackenwall Village",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 2084,
+      "description": "Dustwallow Marsh, Mudsprocket",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 18397,
+      "description": "Felwood, Whisperwind Grove",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 17616,
+      "description": "Feralas, Camp Ataya",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 2111,
+      "description": "Feralas, Camp Mojache",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 17617,
+      "description": "Feralas, Stonemaul Hold",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 2112,
+      "description": "Mulgore, Bloodhoof Village",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 2107,
+      "description": "Northern Barrens, The Crossroads",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 17618,
+      "description": "Northern Barrens, Grol'dom Farm",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 17619,
+      "description": "Northern Barrens, Nozzlepot's Outpost",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 2083,
+      "description": "Northern Barrens, Ratchet",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 2113,
+      "description": "Orgrimmar, Valley of Strength",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 2085,
+      "description": "Silithus, Cenarion Hold",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 17620,
+      "description": "Southern Barrens, Desolation Hold",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 17621,
+      "description": "Southern Barrens, Hunter's Hill",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 17622,
+      "description": "Stonetalon Mountains, Krom'gar Fortress",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 2114,
+      "description": "Stonetalon Mountains, Sun Rock Retreat",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 18415,
+      "description": "Tanaris, Bootlegger Outpost",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 2086,
+      "description": "Tanaris, Gadgetzan",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 2115,
+      "description": "Thunder Bluff, Lower Rise",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 18417,
+      "description": "Un'Goro Crater, Marshal's Stand",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 2087,
+      "description": "Winterspring, Everlook",
+      "orderIndex": 30,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

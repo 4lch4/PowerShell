@@ -1,0 +1,18 @@
+{
+  "id": 11740,
+  "title": "Make it W-orc W-orc",
+  "points": 10,
+  "description": "Collect any class armor set from Blackrock Foundry.",
+  "rewardItems": [],
+  "icon": "ability_foundryraid_heatregulators",
+  "criteria": [
+    {
+      "id": 36353,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

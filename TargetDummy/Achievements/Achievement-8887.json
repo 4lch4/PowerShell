@@ -1,0 +1,18 @@
+{
+  "id": 8887,
+  "title": "Grimrail Depot Challenger",
+  "points": 0,
+  "description": "Complete the Grimrail Depot Challenge Mode.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_blackrockdepot_hourglass",
+  "criteria": [
+    {
+      "id": 24479,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5211,
+  "title": "Top Defender",
+  "points": 10,
+  "description": "Return 50 flags as a defender in Twin Peaks.",
+  "rewardItems": [],
+  "icon": "achievement_bg_interruptx_flagcapture_attempts",
+  "criteria": [
+    {
+      "id": 14871,
+      "description": "Return the flag 50 times",
+      "orderIndex": 1,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

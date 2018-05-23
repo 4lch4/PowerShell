@@ -1,0 +1,110 @@
+{
+  "id": 6169,
+  "title": "Glory of the Dragon Soul Raider",
+  "points": 25,
+  "description": "Complete the Dragon Soul raid achievements listed below.",
+  "reward": "Reward: Reins of the Twilight Harbinger",
+  "rewardItems": [
+    {
+      "id": 77068,
+      "name": "Reins of the Twilight Harbinger",
+      "icon": "ability_mount_drake_red",
+      "quality": 4,
+      "itemLevel": 85,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_misc_demonsoul",
+  "criteria": [
+    {
+      "id": 18589,
+      "description": "Heroic: Morchok",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 18578,
+      "description": "Heroic: Warlord Zon'ozz",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18579,
+      "description": "Heroic: Yor'sahj the Unsleeping",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 18580,
+      "description": "Heroic: Hagara the Stormbinder",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18581,
+      "description": "Heroic: Ultraxion",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 18582,
+      "description": "Heroic: Warmaster Blackhorn",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 18585,
+      "description": "Don't Stand So Close to Me",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 18655,
+      "description": "Taste the Rainbow!",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 18577,
+      "description": "Ping Pong Champion",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 18586,
+      "description": "Minutes to Midnight",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 18587,
+      "description": "Deck Defender",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 18588,
+      "description": "Maybe He'll Get Dizzy...",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 18657,
+      "description": "Chromatic Champion",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

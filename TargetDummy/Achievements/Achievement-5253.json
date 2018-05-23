@@ -1,0 +1,18 @@
+{
+  "id": 5253,
+  "title": "Full Coverage",
+  "points": 10,
+  "description": "Win 10 Battles for Gilneas while controlling all 3 flags.",
+  "rewardItems": [],
+  "icon": "achievement_bg_3flagcap_nodeaths",
+  "criteria": [
+    {
+      "id": 14943,
+      "description": "Win 10 Battles for Gilneas while controlling all 3 flags",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1034,
+  "title": "The Fires of Azeroth",
+  "points": 10,
+  "description": "Complete the Flame Warden achievements.",
+  "rewardItems": [],
+  "icon": "spell_fire_fireball",
+  "criteria": [
+    {
+      "id": 18218,
+      "description": "Flame Warden of Cataclysm",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3193,
+      "description": "Flame Warden of Eastern Kingdoms",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3194,
+      "description": "Flame Warden of Kalimdor",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18219,
+      "description": "Flame Warden of Northrend",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3195,
+      "description": "Flame Warden of Outland",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 0
+}

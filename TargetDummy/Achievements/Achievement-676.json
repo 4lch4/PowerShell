@@ -1,0 +1,18 @@
+{
+  "id": 676,
+  "title": "Heroic: Opening of the Dark Portal",
+  "points": 10,
+  "description": "Defeat Aeonus on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_aeonus_01",
+  "criteria": [
+    {
+      "id": 3717,
+      "description": "Aeonus",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

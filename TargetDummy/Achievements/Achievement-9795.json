@@ -1,0 +1,18 @@
+{
+  "id": 9795,
+  "title": "Big Race Jockey",
+  "points": 5,
+  "description": "Complete The Real Big Race with the Racing Strider within 30 tolls.",
+  "rewardItems": [],
+  "icon": "inv_checkered_flag",
+  "criteria": [
+    {
+      "id": 27522,
+      "description": "Complete The Real Big Race within 32 tolls.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

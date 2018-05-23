@@ -1,0 +1,49 @@
+{
+  "id": 948,
+  "title": "Ambassador of the Alliance",
+  "points": 10,
+  "description": "Earn Exalted reputation with all six Alliance factions.",
+  "reward": "Title Reward: Ambassador",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_16",
+  "criteria": [
+    {
+      "id": 5328,
+      "description": "Exalted Darnassus",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 5332,
+      "description": "Exalted Exodar",
+      "orderIndex": 2,
+      "max": 42000
+    },
+    {
+      "id": 16826,
+      "description": "Exalted Gilneas",
+      "orderIndex": 3,
+      "max": 42000
+    },
+    {
+      "id": 5329,
+      "description": "Exalted Gnomeregan Exiles",
+      "orderIndex": 4,
+      "max": 42000
+    },
+    {
+      "id": 5330,
+      "description": "Exalted Ironforge",
+      "orderIndex": 5,
+      "max": 42000
+    },
+    {
+      "id": 5331,
+      "description": "Exalted Stormwind",
+      "orderIndex": 6,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

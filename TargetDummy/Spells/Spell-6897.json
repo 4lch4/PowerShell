@@ -1,0 +1,7 @@
+{
+  "id": 6897,
+  "name": "Blue Ram",
+  "icon": "ability_mount_mountainram",
+  "description": "Summons and dismisses a rideable blue ram.",
+  "castTime": "1.5 sec cast"
+}

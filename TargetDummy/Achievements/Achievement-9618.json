@@ -1,0 +1,25 @@
+{
+  "id": 9618,
+  "title": "The Iron Invasion",
+  "points": 0,
+  "description": "Complete the Blasted Lands invasion quests before the Assault on the Dark Portal begins.",
+  "reward": "Title Reward: of the Iron Vanguard",
+  "rewardItems": [],
+  "icon": "inv_axe_05",
+  "criteria": [
+    {
+      "id": 26437,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26438,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

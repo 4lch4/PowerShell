@@ -1,0 +1,19 @@
+{
+  "id": 6907,
+  "title": "Gate of the Setting Sun: Gold",
+  "points": 0,
+  "description": "Complete the Gate of the Setting Sun Challenge Mode with a rating of Gold.",
+  "reward": "Reward: Teleport to Gate of the Setting Sun",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_gateofthesettingsun_gold",
+  "criteria": [
+    {
+      "id": 20718,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

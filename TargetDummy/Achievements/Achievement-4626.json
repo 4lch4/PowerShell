@@ -1,0 +1,18 @@
+{
+  "id": 4626,
+  "title": "And I'll Form the Head!",
+  "points": 0,
+  "description": "Obtain Mimiron's Head from 25-player Yogg-Saron with no Keepers assisting you.",
+  "rewardItems": [],
+  "icon": "inv_misc_enggizmos_03",
+  "criteria": [
+    {
+      "id": 13009,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

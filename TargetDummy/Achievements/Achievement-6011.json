@@ -1,0 +1,42 @@
+{
+  "id": 6011,
+  "title": "Flame Warden of Cataclysm",
+  "points": 10,
+  "description": "Honor the flames of zones opened by the cataclysm.",
+  "rewardItems": [],
+  "icon": "inv_summerfest_firespirit",
+  "criteria": [
+    {
+      "id": 18196,
+      "description": "Uldum",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18197,
+      "description": "Deepholm",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 18195,
+      "description": "Twilight Highlands",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18199,
+      "description": "Vashj'ir",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 18198,
+      "description": "Hyjal",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4930,
+  "title": "Desolace Quests",
+  "points": 10,
+  "description": "Complete 55 quests in Desolace.",
+  "rewardItems": [],
+  "icon": "achievement_zone_desolace",
+  "criteria": [
+    {
+      "id": 13840,
+      "description": "Desolace",
+      "orderIndex": 1,
+      "max": 55
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

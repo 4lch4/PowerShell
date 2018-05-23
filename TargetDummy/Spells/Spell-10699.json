@@ -1,0 +1,7 @@
+{
+  "id": 10699,
+  "name": "Summon Bronze Whelpling",
+  "icon": "inv_misc_head_dragon_bronze",
+  "description": "Right Click to summon and dismiss your whelpling.",
+  "castTime": "Instant"
+}

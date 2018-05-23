@@ -1,0 +1,18 @@
+{
+  "id": 951,
+  "title": "The Oracles",
+  "points": 10,
+  "description": "Earn Exalted status with the The Oracles.",
+  "rewardItems": [],
+  "icon": "inv_misc_head_murloc_01",
+  "criteria": [
+    {
+      "id": 4740,
+      "description": "The Oracles exalted",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

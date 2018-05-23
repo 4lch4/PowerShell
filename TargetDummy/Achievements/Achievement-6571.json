@@ -1,0 +1,18 @@
+{
+  "id": 6571,
+  "title": "That Was Close!",
+  "points": 5,
+  "description": "Capture a battle pet at less than 5% health.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_captureapetatlessthan5health",
+  "criteria": [
+    {
+      "id": 19760,
+      "description": "Capture a battle pet at less than 5% health",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,9 @@
+{
+  "id": 8988,
+  "name": "Silence",
+  "subtext": "Rank 1",
+  "icon": "spell_holy_silence",
+  "description": "Silences nearby enemies, preventing them from casting spells for 4 sec.",
+  "powerCost": "30 Mana",
+  "castTime": "2 sec cast"
+}

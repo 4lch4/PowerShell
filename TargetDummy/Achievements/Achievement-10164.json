@@ -1,0 +1,43 @@
+{
+  "id": 10164,
+  "title": "Master of the Seas",
+  "points": 5,
+  "description": "Complete the naval mission achievments listed below.",
+  "reward": "Title Reward: Captain",
+  "rewardItems": [],
+  "icon": "achievement_zone_draenor_01",
+  "criteria": [
+    {
+      "id": 28515,
+      "description": "Naval Combat Expert",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28517,
+      "description": "Naval Treasure Expert",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28516,
+      "description": "Naval Training Expert",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 28518,
+      "description": "Naval Bonus Expert",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 28519,
+      "description": "Naval Siege Expert",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

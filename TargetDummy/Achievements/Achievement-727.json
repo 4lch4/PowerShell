@@ -1,0 +1,72 @@
+{
+  "id": 727,
+  "title": "Call in the Cavalry",
+  "points": 10,
+  "description": "Obtain one of the war mounts through the honor system.",
+  "rewardItems": [],
+  "icon": "ability_mount_blackdirewolf",
+  "criteria": [
+    {
+      "id": 6213,
+      "description": "Black Battlestrider",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6214,
+      "description": "Black War Kodo",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6215,
+      "description": "Black War Ram",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6216,
+      "description": "Black War Steed",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6217,
+      "description": "Black War Wolf",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6218,
+      "description": "Black War Elekk",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6219,
+      "description": "Black War Tiger",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6220,
+      "description": "Black War Raptor",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 6221,
+      "description": "Swift Warstrider",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 6222,
+      "description": "Red Skeletal Warhorse",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

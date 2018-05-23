@@ -1,0 +1,48 @@
+{
+  "id": 9538,
+  "title": "Intro to Husbandry",
+  "points": 5,
+  "description": "Complete all of the capture quests at the Stables.",
+  "rewardItems": [],
+  "icon": "garrison_building_stables",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Wrangling a Wolf",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Taming a Talbuk",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Capturing a Clefthoof",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Besting a Boar",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Requisition a Riverbeast",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Entangling an Elekk",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

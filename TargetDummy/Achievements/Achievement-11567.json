@@ -1,0 +1,18 @@
+{
+  "id": 11567,
+  "title": "You Are Not The Contents Of Your Wallet",
+  "points": 5,
+  "description": "Obtain 20,000 Brawler's Gold.",
+  "rewardItems": [],
+  "icon": "inv_misc_coin_17",
+  "criteria": [
+    {
+      "id": 35439,
+      "description": "",
+      "orderIndex": 0,
+      "max": 20000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

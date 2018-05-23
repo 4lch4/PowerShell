@@ -1,0 +1,156 @@
+{
+  "id": 7330,
+  "title": "Pandaren Delicacies",
+  "points": 10,
+  "description": "Sample the following Pandaren delicacies.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_115_condorsoup",
+  "criteria": [
+    {
+      "id": 20606,
+      "description": "Rice Pudding",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20598,
+      "description": "Sauteed Carrots",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20607,
+      "description": "Ginseng Tea",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 20608,
+      "description": "Swirling Mist Soup",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 20609,
+      "description": "Shrimp Dumplings",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 20610,
+      "description": "Wildfowl Roast",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 20611,
+      "description": "Charbroiled Tiger Steak",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 20612,
+      "description": "Golden Carp Consomme",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 20613,
+      "description": "Fish Cake",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 20614,
+      "description": "Valley Stir Fry",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 20615,
+      "description": "Jade Witch Brew",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 20616,
+      "description": "Wildfowl Ginseng Soup",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 20617,
+      "description": "Braised Turtle",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 20618,
+      "description": "Fire Spirit Salmon",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 20619,
+      "description": "Twin Fish Platter",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 20620,
+      "description": "Eternal Blossom Fish",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 20621,
+      "description": "Sea Mist Rice Noodles",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 20622,
+      "description": "Spicy Vegetable Chips",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 20623,
+      "description": "Mad Brewer's Breakfast",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 20624,
+      "description": "Spicy Salmon",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 20625,
+      "description": "Mogu Fish Stew",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 20626,
+      "description": "Steamed Crab Surprise",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 20627,
+      "description": "Chun Tian Spring Rolls",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 20628,
+      "description": "Black Pepper Ribs and Shrimp",
+      "orderIndex": 23,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,84 @@
+{
+  "id": 4864,
+  "title": "Explore Deepholm",
+  "points": 10,
+  "description": "Explore Deepholm, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_deepholm",
+  "criteria": [
+    {
+      "id": 13780,
+      "description": "Deathwing's Fall",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15123,
+      "description": "Needlerock Chasm",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15124,
+      "description": "Needlerock Slag",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15125,
+      "description": "Stonehearth",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15126,
+      "description": "Storm's Fury Wreckage",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 15127,
+      "description": "Temple of Earth",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 15128,
+      "description": "The Pale Roost",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 15129,
+      "description": "Therazane's Throne",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 15130,
+      "description": "The Quaking Fields",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 15131,
+      "description": "Twilight Overlook",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 15132,
+      "description": "Masters' Gate",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 15133,
+      "description": "Crimson Expanse",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

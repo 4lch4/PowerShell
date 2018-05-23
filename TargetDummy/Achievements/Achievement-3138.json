@@ -1,0 +1,18 @@
+{
+  "id": 3138,
+  "title": "Not-So-Friendly Fire (10 player)",
+  "points": 10,
+  "description": "Force Mimiron to kill an Assault Bot with a Rocket Strike in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_gizmo_rocketlauncher",
+  "criteria": [
+    {
+      "id": 10406,
+      "description": "Assault Bot Destroyed",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

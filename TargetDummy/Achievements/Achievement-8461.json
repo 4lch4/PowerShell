@@ -1,0 +1,30 @@
+{
+  "id": 8461,
+  "title": "The Underhold",
+  "points": 10,
+  "description": "Defeat the bosses at the entrance to Garrosh's secret compound in the Siege of Orgrimmar raid.",
+  "rewardItems": [],
+  "icon": "achievement_raid_soo_garrosh_compound_half1",
+  "criteria": [
+    {
+      "id": 23659,
+      "description": "Malkorok",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23660,
+      "description": "Spoils of Pandaria",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 23661,
+      "description": "Thok the Bloodthirsty",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

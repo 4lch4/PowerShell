@@ -1,0 +1,12 @@
+{
+  "id": 11032,
+  "title": "Guardian of the Alliance: Legion Season 2",
+  "points": 0,
+  "description": "End Legion PvP season 2 in the top 3% of the rated battleground ladder (requires 50 games won in Legion Season 2).",
+  "reward": "Title Reward: Guardian of the Alliance",
+  "rewardItems": [],
+  "icon": "achievement_pvp_p_a",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 0
+}

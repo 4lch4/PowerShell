@@ -1,0 +1,222 @@
+{
+  "id": 693,
+  "title": "Magtheridon's Lair",
+  "points": 10,
+  "description": "Defeat Magtheridon in Magtheridon's Lair.",
+  "rewardItems": [],
+  "icon": "achievement_boss_magtheridon",
+  "criteria": [
+    {
+      "id": 3257,
+      "description": "Magtheridon",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4494,
+      "description": "Trial of the Naaru: Magtheridon",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4939,
+      "description": "Trial of the Naaru: Magtheridon",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4495,
+      "description": "The Fall of Magtheridon",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4496,
+      "description": "The Fall of Magtheridon",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4879,
+      "description": "Aegis of the Vindicator",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4880,
+      "description": "Cloak of the Pit Stalker",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4881,
+      "description": "Crystalheart Pulse-Staff",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4882,
+      "description": "Eredar Wand of Obliteration",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4883,
+      "description": "Eye of Magtheridon",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4884,
+      "description": "Glaive of the Pit",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4885,
+      "description": "Karaborian Talisman",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4886,
+      "description": "Liar's Tongue Gloves",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4887,
+      "description": "Soul-Eater's Handwraps",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4888,
+      "description": "Terror Pit Girdle",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4889,
+      "description": "Thundering Greathelm",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4890,
+      "description": "Cyclone Breastplate",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4891,
+      "description": "Cyclone Chestguard",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4892,
+      "description": "Cyclone Hauberk",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4893,
+      "description": "Justicar Breastplate",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 4894,
+      "description": "Justicar Chestguard",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 4895,
+      "description": "Justicar Chestpiece",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 4896,
+      "description": "Netherblade Chestpiece",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 4897,
+      "description": "Breastplate of Malorne",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 4898,
+      "description": "Chestguard of Malorne",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 4899,
+      "description": "Chestpiece of Malorne",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 4900,
+      "description": "Robes of the Incarnate",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 4901,
+      "description": "Shroud of the Incarnate",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 4902,
+      "description": "Warbringer Breastplate",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 4903,
+      "description": "Warbringer Chestguard",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 4904,
+      "description": "Demon Stalker Harness",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 4905,
+      "description": "Vestments of the Aldor",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 4906,
+      "description": "Voidheart Robe",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 4907,
+      "description": "Pit Lord's Satchel",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 4942,
+      "description": "Girdle of the Endless Pit",
+      "orderIndex": 35,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

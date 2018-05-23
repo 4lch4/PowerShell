@@ -1,0 +1,18 @@
+{
+  "id": 11477,
+  "title": "Off the Top Rook",
+  "points": 10,
+  "description": "Complete Black Rook Rumble 20 times.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_blackrookhold",
+  "criteria": [
+    {
+      "id": 34266,
+      "description": "Complete Black Rook Rumble 20 times",
+      "orderIndex": 0,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

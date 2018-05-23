@@ -1,0 +1,7 @@
+{
+  "id": 9587,
+  "name": "Magic Potion",
+  "icon": "spell_nature_invisibilty",
+  "description": "Allows the caster to detect invisibility and turns the caster invisible for 3 min, though this spell is unstable and may end early.",
+  "castTime": "Instant"
+}

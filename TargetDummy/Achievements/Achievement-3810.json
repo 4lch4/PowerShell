@@ -1,0 +1,11 @@
+{
+  "id": 3810,
+  "title": "A Tribute to Insanity (10 player)",
+  "points": 0,
+  "description": "In the Trial of the Grand Crusader, reach a Tribute Chest with 50 attempts remaining in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_crown_13",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

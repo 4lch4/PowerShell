@@ -1,0 +1,7 @@
+{
+  "id": 8986,
+  "name": "Summon Illusionary Phantasm",
+  "icon": "spell_fire_sealoffire",
+  "description": "Summons 1 Illusionary Phantasm to aid the caster in battle for 1 min.",
+  "castTime": "2 sec cast"
+}

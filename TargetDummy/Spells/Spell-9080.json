@@ -1,0 +1,8 @@
+{
+  "id": 9080,
+  "name": "Hamstring",
+  "icon": "ability_shockwave",
+  "description": "Inflicts 20% weapon damage to an enemy, reducing its movement speed for 5 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

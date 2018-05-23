@@ -1,0 +1,18 @@
+{
+  "id": 10588,
+  "title": "The Shortest Distance",
+  "points": 10,
+  "description": "Reach level 20 in the Blingtron Circuit Tutorial minigame.",
+  "rewardItems": [],
+  "icon": "inv_eng_gizmo3",
+  "criteria": [
+    {
+      "id": 29876,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

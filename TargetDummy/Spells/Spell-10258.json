@@ -1,0 +1,8 @@
+{
+  "id": 10258,
+  "name": "Awaken Vault Warder",
+  "icon": "inv_misc_archstone_01",
+  "description": "",
+  "range": "100 yd range",
+  "castTime": "5 sec cast"
+}

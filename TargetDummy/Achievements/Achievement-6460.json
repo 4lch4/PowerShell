@@ -1,0 +1,18 @@
+{
+  "id": 6460,
+  "title": "Hydrophobia",
+  "points": 10,
+  "description": "Defeat Wise Mari without being hit by Corrupted Water, Hydrolance, or Wash Away in Temple of the Jade Serpent on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "spell_frost_summonwaterelemental",
+  "criteria": [
+    {
+      "id": 20982,
+      "description": "Defeat Wise Mari without being hit by Corrupted Water, Hydrolance, or Wash Away in Temple of the Jade Serpent on Heroic Difficulty.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

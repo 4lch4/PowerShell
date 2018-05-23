@@ -1,0 +1,18 @@
+{
+  "id": 673,
+  "title": "Heroic: The Escape From Durnholde",
+  "points": 10,
+  "description": "Defeat Epoch Hunter on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_epochhunter",
+  "criteria": [
+    {
+      "id": 3715,
+      "description": "Epoch Hunter",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

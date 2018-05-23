@@ -1,0 +1,18 @@
+{
+  "id": 6545,
+  "title": "Klaxxi",
+  "points": 10,
+  "description": "Earn Exalted status with the Klaxxi.",
+  "rewardItems": [],
+  "icon": "achievement_faction_klaxxi",
+  "criteria": [
+    {
+      "id": 19390,
+      "description": "Klaxxi exalted",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

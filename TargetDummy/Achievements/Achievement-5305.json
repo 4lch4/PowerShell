@@ -1,0 +1,18 @@
+{
+  "id": 5305,
+  "title": "Four Play",
+  "points": 10,
+  "description": "Defeat Al'Akir in the Throne of the Four Winds while he is affected by Feedback.",
+  "rewardItems": [],
+  "icon": "spell_shaman_staticshock",
+  "criteria": [
+    {
+      "id": 16011,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

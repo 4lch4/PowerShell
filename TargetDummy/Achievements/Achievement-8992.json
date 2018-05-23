@@ -1,0 +1,18 @@
+{
+  "id": 8992,
+  "title": "Blackhand's Crucible",
+  "points": 10,
+  "description": "Defeat Blackhand in Blackrock Foundry.",
+  "rewardItems": [],
+  "icon": "achievement_boss_blackhand",
+  "criteria": [
+    {
+      "id": 24982,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

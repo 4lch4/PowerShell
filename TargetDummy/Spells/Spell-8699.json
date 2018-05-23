@@ -1,0 +1,8 @@
+{
+  "id": 8699,
+  "name": "Unholy Frenzy",
+  "icon": "spell_nature_bloodlust",
+  "description": "Increases an ally's attack speed, but also inflicts Nature damage to that ally every 2 sec.",
+  "range": "30 yd range",
+  "castTime": "Instant"
+}

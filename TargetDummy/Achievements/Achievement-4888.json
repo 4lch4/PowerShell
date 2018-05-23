@@ -1,0 +1,30 @@
+{
+  "id": 4888,
+  "title": "One Hump or Two?",
+  "points": 10,
+  "description": "Obtain a camel mount in Uldum (with just one hump).",
+  "rewardItems": [],
+  "icon": "ability_mount_camel_tan",
+  "criteria": [
+    {
+      "id": 16862,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19977,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19978,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

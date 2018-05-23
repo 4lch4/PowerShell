@@ -1,0 +1,18 @@
+{
+  "id": 11731,
+  "title": "A Magic Contribution",
+  "points": 5,
+  "description": "Contribute to the Mage Tower on the Broken Shore 5 times.",
+  "rewardItems": [],
+  "icon": "spell_mage_altertime",
+  "criteria": [
+    {
+      "id": 36003,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

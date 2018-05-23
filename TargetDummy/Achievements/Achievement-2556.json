@@ -1,0 +1,120 @@
+{
+  "id": 2556,
+  "title": "Pest Control",
+  "points": 10,
+  "description": "Slay the following pests.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_spider",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Larva",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Water Snake",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Spider",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Squirrel",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9373,
+      "description": "Underbelly Rat",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Devouring Maggot",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Mouse",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 9374,
+      "description": "Zul'Drak Rat",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Roach",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Snake",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Crystal Spider",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Adder",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Maggot",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Scorpion",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Fjord Rat",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Fire Beetle",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Gold Beetle",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Rat",
+      "orderIndex": 17,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5503,
+  "title": "Pardon Denied",
+  "points": 10,
+  "description": "Defeat Baron Ashbury without letting him heal with Stay of Execution in Shadowfang Keep on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "ability_rogue_stayofexecution",
+  "criteria": [
+    {
+      "id": 16081,
+      "description": "Baron Ashbury",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

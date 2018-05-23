@@ -1,0 +1,18 @@
+{
+  "id": 7309,
+  "title": "Fire in the Yaung-hole!",
+  "points": 10,
+  "description": "Kill 15 or more Gai-Cho combatants with a single Highly Explosive Oil Barrel.",
+  "rewardItems": [],
+  "icon": "inv_cask_03",
+  "criteria": [
+    {
+      "id": 21204,
+      "description": "",
+      "orderIndex": 0,
+      "max": 15
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8118,
+  "title": "Boop",
+  "points": 10,
+  "description": "Knock a Zandalari Beastcaller from his flying mount.",
+  "rewardItems": [],
+  "icon": "ability_druid_empoweredtouch",
+  "criteria": [
+    {
+      "id": 22865,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

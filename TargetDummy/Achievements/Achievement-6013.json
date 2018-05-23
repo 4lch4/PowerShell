@@ -1,0 +1,24 @@
+{
+  "id": 6013,
+  "title": "Extinguishing the Cataclysm",
+  "points": 5,
+  "description": "Desecrate the Horde's bonfires in zones opened by the cataclysm.",
+  "rewardItems": [],
+  "icon": "spell_fire_masterofelements",
+  "criteria": [
+    {
+      "id": 18207,
+      "description": "Twilight Highlands",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18208,
+      "description": "Uldum",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

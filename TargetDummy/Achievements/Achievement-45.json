@@ -1,0 +1,67 @@
+{
+  "id": 45,
+  "title": "Northrend Explorer",
+  "points": 25,
+  "description": "Explore the regions of Northrend.",
+  "reward": "Reward: Tabard of the Explorer",
+  "rewardItems": [],
+  "icon": "achievement_zone_northrend_01",
+  "criteria": [
+    {
+      "id": 3904,
+      "description": "Borean Tundra",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3905,
+      "description": "Howling Fjord",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3906,
+      "description": "Dragonblight",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3907,
+      "description": "Grizzly Hills",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3908,
+      "description": "Zul'Drak",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3909,
+      "description": "Sholazar Basin",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 5298,
+      "description": "Crystalsong Forest",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 3910,
+      "description": "Storm Peaks",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 3911,
+      "description": "Icecrown",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

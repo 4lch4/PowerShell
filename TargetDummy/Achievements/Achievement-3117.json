@@ -1,0 +1,19 @@
+{
+  "id": 3117,
+  "title": "Realm First! Death's Demise",
+  "points": 0,
+  "description": "Participated in the realm first defeat of Yogg-Saron without the assistance of any Keepers in 25-player mode.",
+  "reward": "Title Reward: Death's Demise",
+  "rewardItems": [],
+  "icon": "achievement_boss_yoggsaron_01",
+  "criteria": [
+    {
+      "id": 10279,
+      "description": "Yogg-Saron",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

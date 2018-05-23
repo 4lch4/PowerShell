@@ -1,0 +1,48 @@
+{
+  "id": 1225,
+  "title": "Outland Angler",
+  "points": 10,
+  "description": "Catch a fish in each of the specific nodes listed below.",
+  "rewardItems": [],
+  "icon": "achievement_profession_fishing_outlandangler",
+  "criteria": [
+    {
+      "id": 3623,
+      "description": "Brackish Mixed School",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3624,
+      "description": "Bluefish School",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3625,
+      "description": "Mudfish School",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3626,
+      "description": "School of Darter",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3627,
+      "description": "Highland Mixed School",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3628,
+      "description": "Sporefish School",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

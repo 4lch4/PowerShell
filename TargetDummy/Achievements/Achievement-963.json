@@ -1,0 +1,174 @@
+{
+  "id": 963,
+  "title": "Tricks and Treats of Kalimdor",
+  "points": 10,
+  "description": "Visit the Candy Buckets in Kalimdor.",
+  "rewardItems": [],
+  "icon": "achievement_halloween_candy_01",
+  "criteria": [
+    {
+      "id": 2071,
+      "description": "Ashenvale, Astranaar",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 2073,
+      "description": "Azuremyst Isle, Azure Watch",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 2074,
+      "description": "Bloodmyst Isle, Blood Watch",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2075,
+      "description": "Darkshore, Lor'danel",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 2076,
+      "description": "Darnassus, Craftsmen's Terrace",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 18396,
+      "description": "Desolace, Karnum's Glade",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 2077,
+      "description": "Desolace, Nijel's Point",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 2084,
+      "description": "Dustwallow Marsh, Mudsprocket",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 2079,
+      "description": "Exodar, Seat of the Naaru",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 18398,
+      "description": "Felwood - Talonbranch Glade",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 18397,
+      "description": "Felwood - Whisperwind Grove",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 18399,
+      "description": "Feralas, Dreamer's Rest",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 2080,
+      "description": "Feralas, Feathermoon Stronghold",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 2083,
+      "description": "Northern Barrens, Ratchet",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 2085,
+      "description": "Silithus, Cenarion Hold",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 18400,
+      "description": "Southern Barrens, Fort Triumph",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 18401,
+      "description": "Southern Barrens, Honor's Stand",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 18402,
+      "description": "Southern Barrens, Northwatch Hold",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 18403,
+      "description": "Stonetalon Mountains, Farwatcher's Glen",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 18412,
+      "description": "Stonetalon Mountains, Northwatch Expedition Base",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 2081,
+      "description": "Stonetalon Mountains, Thal'darah Overlook",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 18413,
+      "description": "Stonetalon Mountains, Windshear Hold",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 18415,
+      "description": "Tanaris, Bootlegger Outpost",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 2086,
+      "description": "Tanaris, Gadgetzan",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 2082,
+      "description": "Teldrassil, Dolanaar",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 18417,
+      "description": "Un'Goro Crater, Marshal's Stand",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 2087,
+      "description": "Winterspring, Everlook",
+      "orderIndex": 26,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

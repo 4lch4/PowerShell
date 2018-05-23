@@ -1,0 +1,38 @@
+{
+  "id": 10412,
+  "title": "Poor Unfortunate Souls",
+  "points": 10,
+  "description": "Defeat Helya in Maw of Souls while all group members are Poor Unfortunate Souls on Mythic difficulty.",
+  "reward": "Item Reward: Lagan",
+  "rewardItems": [
+    {
+      "id": 140323,
+      "name": "Lagan",
+      "icon": "inv_misc_fish_11",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "sha_spell_warlock_demonsoul",
+  "criteria": [
+    {
+      "id": 30378,
+      "description": "Defeat Helya while all group members are Poor Unfortunate Souls.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

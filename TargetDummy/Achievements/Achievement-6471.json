@@ -1,0 +1,18 @@
+{
+  "id": 6471,
+  "title": "Hate Leads to Suffering",
+  "points": 10,
+  "description": "Defeat Taran Zhu while every party member is at maximum hatred in Shado-Pan Monastery on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_shadowpan_hideout_3",
+  "criteria": [
+    {
+      "id": 19808,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

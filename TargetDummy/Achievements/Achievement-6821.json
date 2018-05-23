@@ -1,0 +1,18 @@
+{
+  "id": 6821,
+  "title": "School's Out Forever",
+  "points": 10,
+  "description": "Defeat 50 Expired Test Subjects within 20 seconds in Scholomance on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "spell_holy_turnundead",
+  "criteria": [
+    {
+      "id": 19807,
+      "description": "Kill 50 Expired Test Subjects in 20 seconds",
+      "orderIndex": 0,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

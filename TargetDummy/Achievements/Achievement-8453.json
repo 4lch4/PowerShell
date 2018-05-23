@@ -1,0 +1,18 @@
+{
+  "id": 8453,
+  "title": "Rescue Raiders",
+  "points": 10,
+  "description": "Rescue a set of caged prisoners, a group of unwilling combat participants, and Ji Firepaw before defeating the Kor'kron Dark Shaman in Siege of Orgrimmar on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "ability_paladin_blessedhands",
+  "criteria": [
+    {
+      "id": 23650,
+      "description": "Haromm",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

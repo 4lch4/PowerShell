@@ -1,0 +1,270 @@
+{
+  "id": 7498,
+  "title": "Taming the Great Outdoors",
+  "points": 5,
+  "description": "Defeat 15 master pet tamers.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_defeatpettamer",
+  "criteria": [
+    {
+      "id": 21396,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21397,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21398,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21399,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 21400,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21401,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 21402,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21403,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21404,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 21405,
+      "description": "",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 21406,
+      "description": "",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 21407,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 21408,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 21409,
+      "description": "",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 21410,
+      "description": "",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 21411,
+      "description": "",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 21416,
+      "description": "",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 21415,
+      "description": "",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 21598,
+      "description": "",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 21599,
+      "description": "",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 21600,
+      "description": "",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 21601,
+      "description": "",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 21603,
+      "description": "",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 21602,
+      "description": "",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 21604,
+      "description": "",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 21605,
+      "description": "",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 21606,
+      "description": "",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 21607,
+      "description": "",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 21608,
+      "description": "",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 21848,
+      "description": "",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 21849,
+      "description": "",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 21850,
+      "description": "",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 21851,
+      "description": "",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 21852,
+      "description": "",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 21858,
+      "description": "",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 21859,
+      "description": "",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 21860,
+      "description": "",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 21861,
+      "description": "",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 21853,
+      "description": "",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 21854,
+      "description": "",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 21855,
+      "description": "",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 21856,
+      "description": "",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 21857,
+      "description": "",
+      "orderIndex": 42,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

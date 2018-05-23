@@ -1,0 +1,54 @@
+{
+  "id": 5802,
+  "title": "Firelands",
+  "points": 10,
+  "description": "Defeat the bosses in Firelands.",
+  "rewardItems": [],
+  "icon": "achievement_zone_firelands",
+  "criteria": [
+    {
+      "id": 17430,
+      "description": "Beth'tilac",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17431,
+      "description": "Lord Rhyolith",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17435,
+      "description": "Alysrazor",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17429,
+      "description": "Shannox",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17432,
+      "description": "Baleroc",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 17433,
+      "description": "Majordomo Fandral Staghelm",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 17434,
+      "description": "Ragnaros",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

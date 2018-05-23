@@ -1,0 +1,102 @@
+{
+  "id": 1957,
+  "title": "There's Gold In That There Fountain",
+  "points": 10,
+  "description": "Fish up the gold coins listed below from the Dalaran fountain.",
+  "rewardItems": [],
+  "icon": "inv_misc_coin_17",
+  "criteria": [
+    {
+      "id": 7244,
+      "description": "Anduin Wrynn's Gold Coin",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7245,
+      "description": "Archimonde's Gold Coin",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7246,
+      "description": "Arthas' Gold Coin",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7247,
+      "description": "Arugal's Gold Coin",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7248,
+      "description": "Brann Bronzebeard's Gold Coin",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7249,
+      "description": "Chromie's Gold Coin",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7250,
+      "description": "Kel'Thuzad's Gold Coin",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 7251,
+      "description": "Lady Jaina Proudmoore's Gold Coin",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 7252,
+      "description": "Lady Katrana Prestor's Gold Coin",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 7253,
+      "description": "Prince Kael'thas Sunstrider's Gold Coin",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 7254,
+      "description": "Sylvanas Windrunner's Gold Coin",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 7255,
+      "description": "Teron's Gold Coin",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 7256,
+      "description": "Thrall's Gold Coin",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 7257,
+      "description": "Tirion Fordring's Gold Coin",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 7258,
+      "description": "Uther Lightbringer's Gold Coin",
+      "orderIndex": 15,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

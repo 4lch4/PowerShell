@@ -1,0 +1,24 @@
+{
+  "id": 641,
+  "title": "Sunken Temple",
+  "points": 10,
+  "description": "Defeat Shade of Eranikus.",
+  "rewardItems": [],
+  "icon": "achievement_boss_shadeoferanikus",
+  "criteria": [
+    {
+      "id": 18533,
+      "description": "Shade of Eranikus",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4261,
+      "description": "The Essence of Eranikus",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

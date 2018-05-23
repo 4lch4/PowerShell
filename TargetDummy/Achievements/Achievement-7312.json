@@ -1,0 +1,72 @@
+{
+  "id": 7312,
+  "title": "Amber is the Color of My Energy",
+  "points": 10,
+  "description": "Recover the following Klaxxi Paragons.",
+  "rewardItems": [],
+  "icon": "achievement_raid_mantidraid06",
+  "criteria": [
+    {
+      "id": 20802,
+      "description": "Kil'ruk the Wind-Reaver",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20504,
+      "description": "Malik the Unscathed",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20803,
+      "description": "Iyyokuk the Lucid",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 20439,
+      "description": "Kaz'tik the Manipulator",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 20438,
+      "description": "Korven the Prime",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 20435,
+      "description": "Ka'roz the Locust",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 20809,
+      "description": "Rik'kal the Dissector",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 20806,
+      "description": "Skeer the Bloodseeker",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 20808,
+      "description": "Hisek the Swarmkeeper",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 20807,
+      "description": "Xaril the Poisoned Mind",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

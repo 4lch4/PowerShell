@@ -1,0 +1,18 @@
+{
+  "id": 7346,
+  "title": "Collector: Pearls of Yu'lon",
+  "points": 10,
+  "description": "Restore 5 Pearls of Yu'lon.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20659,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

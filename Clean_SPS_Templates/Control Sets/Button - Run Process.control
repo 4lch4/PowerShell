@@ -1,0 +1,229 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a button that starts a Process using the Process Tracker and displays a busy image until the Process is complete.
+Uses the "Form - Process Tracker" Control Set.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFkSURBVDhPrVMxTsNAEMwjeAEfgI6GJ1DSIjpeQEtDgaj5AhIlEhIKBYpCg5AoDA0pCMhSUCDYju1znEvi+DLsrmPHkYIUIk4az96cdzx3Olcq/zEubi2s7x6jsn24FNZ2jsA98m0utg7OcPf0jmXHi92RHjHhL9etN0wmkz+hbjWz1BzbmPTXZgq5cE3HUbZdfgyHAzExaYqUOGWegg1YN8ZMOUUchYRgZqB1jGScIEkSPhjBeDyam+ca6ypwBUUCrXuSYkTImRu4zliX6gF870tQMojAKdgoT8Ccz3Wf1gii9Xtwvz8EhYFSHuKekheYizrONdpzHBbrnbYNRmEQhi4i5QvKCRbNleqi3WoSXmcGnvuJIHAQ+A5COpzAJxBnNelS8zrrDlp2QyAJ+FrWHx7hdzuCrkecgzWuWS/VPplUazVwr1zlzf1TnF9eo/F8vxSubqrY2DuZ/x9W/pkg92b18QOnKJlT8dLI+gAAAABJRU5ErkJggg==</Icon>
+  <Identifiers>
+    <ID id="1" name="buttonRunProcess" type="object" />
+    <ID id="2" name="buttonRunProcess_Click" type="event" />
+    <ID id="3" name="imagelistButtonBusyAnimation" type="object" useExistingTypeMatchName="True" />
+	<ID id="4" name="processTracker_FormClosed" type="event" shared="True"/>
+    <ID id="5" name="timerProcessTracker" type="object" useExistingTypeMatchName="True"/>
+    <ID id="6" name="timerProcessTracker_Tick" type="event" shared="True"/>
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="ImageList">
+        <Reference name="%ID:3%" />
+      </Property>
+      <Property name="Location">12, 12</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="Size">75, 23</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="Text">Run</Property>
+      <Property name="TextImageRelation">ImageBeforeText</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">%ID:2%</Event>
+    </Object>
+    <Object type="System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:3%">
+      <Property name="ImageStream">
+        <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAAB2CgAAAk1TRnQBSQFMAgEBCAEAASABAAEgAQABEAEAARABAAT/ASEBAAj/AUIBTQE2BwABNgMAASgDAAFAAwABMAMAAQEBAAEgBgABMP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8A/wD/AP8AugADwgH/Az4B/wM+Af8DwgH/MAADwgH/A14B/wOCAf8DwgH/sAADPgH/AwAB/wMAAf8DPgH/MAADggH/Az4B/wM+Af8DXgH/gAADwgH/Az4B/wM+Af8DwgH/IAADPgH/AwAB/wMAAf8DPgH/A8IB/wNeAf8DggH/A8IB/xAAA8IB/wM+Af8DPgH/A8IB/wNeAf8DPgH/Az4B/wNeAf8EAAOSAf8DkgH/A8IB/3AAAz4B/wMAAf8DAAH/Az4B/yAAA8IB/wM+Af8DPgH/A8IB/wOCAf8DPgH/Az4B/wOCAf8QAAM+Af8DAAH/AwAB/wM+Af8DwgH/A14B/wOCAf8DwgH/A5IB/wOCAf8DggH/A5IB/3AAAz4B/wMAAf8DAAH/Az4B/zAAA14B/wM+Af8DPgH/A14B/xAAAz4B/wMAAf8DAAH/Az4B/xAAA5IB/wOSAf8DkgH/A8IB/3AAA8IB/wM+Af8DPgH/A8IB/zAAA8IB/wNeAf8DggH/A8IB/xAAA8IB/wM+Af8DPgH/A8IB/xAAA8IB/wOSAf8DkgH/A8IB/zgAA8IB/wM+Af8DPgH/A8IB/zAAA8IB/wOCAf8DXgH/A8IB/zAAA8IB/wPCAf8DkgH/A8IB/zQAA8IB/wPCAf80AAM+Af8DAAH/AwAB/wM+Af8wAANeAf8DPgH/Az4B/wNeAf8wAAOSAf8DggH/A4IB/wOSAf8wAAPCAf8DwgH/A8IB/wPCAf8wAAM+Af8DAAH/AwAB/wM+Af8wAAOCAf8DPgH/Az4B/wOCAf8wAAPCAf8DggH/A5IB/wOSAf8wAAPCAf8DwgH/A8IB/wPCAf8wAAPCAf8DPgH/Az4B/wPCAf8wAAPCAf8DggH/A14B/wPCAf8wAAPCAf8DkgH/A5IB/wPCAf80AAPCAf8DwgH/EAADwgH/A8IB/xQAA8IB/wOCAf8DXgH/A8IB/zAAA8IB/wOSAf8DkgH/A8IB/zQAA8IB/wPCAf9UAAPCAf8DwgH/A8IB/wPCAf8QAANeAf8DPgH/Az4B/wNeAf8wAAOSAf8DggH/A5IB/wOSAf8wAAPCAf8DwgH/A8IB/wPCAf9QAAPCAf8DwgH/A8IB/wPCAf8DwgH/A8IB/wOSAf8DwgH/A4IB/wM+Af8DPgH/A4IB/yQAA8IB/wPCAf8EAAPCAf8DggH/A5IB/wOSAf8wAAPCAf8DwgH/A8IB/wPCAf9UAAPCAf8DwgH/BAADkgH/A4IB/wOCAf8DkgH/A8IB/wOCAf8DXgH/A8IB/yAAA8IB/wPCAf8DwgH/A8IB/wPCAf8DkgH/A5IB/wPCAf80AAPCAf8DwgH/ZAADkgH/A5IB/wOSAf8DkgH/MAADwgH/A8IB/wPCAf8DwgH/sAADwgH/A5IB/wOSAf8DwgH/NAADwgH/A8IB/7QAA8IB/wPCAf8DkgH/A8IB/zQAA8IB/wPCAf+0AAOSAf8DggH/A4IB/wOSAf8wAAPCAf8DwgH/A8IB/wPCAf+gAAPCAf8DXgH/A4IB/wPCAf8DkgH/A5IB/wOSAf8DwgH/BAADwgH/A8IB/xQAA8IB/wPCAf8DkgH/A8IB/wPCAf8DwgH/A8IB/wPCAf8kAAPCAf8DwgH/dAADggH/Az4B/wM+Af8DggH/A8IB/wOSAf8DkgH/A8IB/wPCAf8DwgH/A8IB/wPCAf8QAAOSAf8DggH/A4IB/wOSAf8EAAPCAf8DwgH/JAADwgH/A8IB/wPCAf8DwgH/cAADXgH/Az4B/wM+Af8DggH/EAADwgH/A8IB/wPCAf8DwgH/EAADkgH/A5IB/wOSAf8DkgH/MAADwgH/A8IB/wPCAf8DwgH/cAADwgH/A14B/wNeAf8DwgH/FAADwgH/A8IB/xQAA8IB/wOSAf8DkgH/A8IB/zQAA8IB/wPCAf9sAAPCAf8DPgH/Az4B/wPCAf8wAAPCAf8DXgH/A4IB/wPCAf8wAAPCAf8DwgH/A5IB/wPCAf80AAPCAf8DwgH/NAADPgH/AwAB/wMAAf8DPgH/MAADggH/Az4B/wM+Af8DXgH/MAADkgH/A4IB/wOCAf8DkgH/MAADwgH/A8IB/wPCAf8DwgH/MAADPgH/AwAB/wMAAf8DPgH/MAADXgH/Az4B/wM+Af8DggH/MAADkgH/A5IB/wOSAf8DkgH/MAADwgH/A8IB/wPCAf8DwgH/MAADwgH/Az4B/wM+Af8DwgH/MAADwgH/A14B/wNeAf8DwgH/MAADwgH/A5IB/wOSAf8DwgH/NAADwgH/A8IB/3wAA8IB/wM+Af8DPgH/A8IB/zAAA8IB/wNeAf8DggH/A8IB/zAAA8IB/wPCAf8DkgH/A8IB/xAAA8IB/wM+Af8DPgH/A8IB/1AAAz4B/wMAAf8DAAH/Az4B/zAAA4IB/wM+Af8DPgH/A14B/zAAA5IB/wOCAf8DggH/A5IB/xAAAz4B/wMAAf8DAAH/Az4B/1AAAz4B/wMAAf8DAAH/Az4B/zAAA14B/wM+Af8DPgH/A4IB/wOSAf8DPgH/Az4B/wPCAf8gAAOSAf8DkgH/A5IB/wOSAf8DwgH/A14B/wOCAf8DwgH/Az4B/wMAAf8DAAH/Az4B/1AAA8IB/wM+Af8DPgH/A8IB/zAAA8IB/wOCAf8DXgH/A8IB/wM+Af8DAAH/AwAB/wM+Af8gAAPCAf8DkgH/A5IB/wPCAf8DggH/Az4B/wM+Af8DXgH/A8IB/wM+Af8DPgH/A8IB/6AAAz4B/wMAAf8DAAH/Az4B/zAAA14B/wM+Af8DPgH/A4IB/7AAA8IB/wM+Af8DPgH/A8IB/zAAA8IB/wOCAf8DXgH/A8IB/xgAAUIBTQE+BwABPgMAASgDAAFAAwABMAMAAQEBAAEBBQABgAEBFgAD/4EABP8B/AE/AfwBPwT/AfwBPwH8AT8D/wHDAfwBAwHAASMD/wHDAfwBAwHAAQMD/wHDAf8DwwP/AcMB/wPDAf8B8AH/AfAB/wHwAf8B+QH/AfAB/wHwAf8B8AH/AfAB/wHwAf8B8AH/AfAB/wHwAf8B8AH/AfAB/wHwAf8B+QHnAcMB/wHDAf8B5wL/AsMB/wHDAf8BwwL/AcABAwH+AUMB/wHDAv8B5AEDAfwBAwH/AecC/wH8AT8B/AE/BP8B/AE/Af4BfwT/AfwBPwH+AX8E/wH8AT8B/AE/BP8BwAEnAcABPwHnA/8BwAEDAcIBfwHDA/8DwwH/AcMD/wHDAecBwwH/AecD/wEPAf8BDwH/AQ8B/wGfAf8BDwH/AQ8B/wEPAf8BDwH/AQ8B/wEPAf8BDwH/AQ8B/wEPAf8BDwH/AQ8B/wGfA/8BwwH/AcMB/wLDAv8BwwH/AcMB/wLDAv8BwwH/AcABPwHAAQMC/wHDAf8BwAE/AcABAwT/AfwBPwH8AT8E/wH8AT8B/AE/Cw==</Binary>
+      </Property>
+      <Property name="TransparentColor">Transparent</Property>
+    </Object>
+	<Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:5%">
+      <Event name="Tick">%ID:6%</Event>
+    </Object>
+  </Objects>
+  <Container>
+    <Events>
+      <Event name="FormClosed">%ID:4%</Event>
+    </Events>
+  </Container>
+  <Events>
+    <Event id="2">
+      <![CDATA[$%ID:2%={
+	$%ID:1%.Enabled = $false
+	#TODO: Set the process path there	
+	Add-ProcessTracker -FilePath "$env:windir/System32/notepad.exe" `
+	-CompletedScript {
+		$%ID:1%.Enabled = $true	
+		$%ID:1%.ImageIndex = -1
+	}`
+	-UpdateScript {
+		#Animate the Button
+		if($null -ne $%ID:1%.ImageList)
+		{
+			if($%ID:1%.ImageIndex -lt $%ID:1%.ImageList.Images.Count - 1)
+			{
+				$%ID:1%.ImageIndex += 1
+			}
+			else
+			{
+				$%ID:1%.ImageIndex = 0		
+			}
+		}
+	}
+}]]></Event>
+ <Event id="4"><![CDATA[$%ID:4%=[System.Windows.Forms.FormClosedEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.FormClosedEventArgs]
+	#Stop any pending processes
+	#Stop-ProcessTracker
+}]]></Event>
+    <Event id="6"><![CDATA[$%ID:6%={
+	Update-ProcessTracker
+}]]></Event>
+  </Events>
+    <Functions>
+    <Function name="Stop-ProcessTracker" region="Process Tracker"><![CDATA[function Stop-ProcessTracker
+{
+	<#
+		.SYNOPSIS
+			Stops and removes all processes from the list.
+	#>
+	#Stop the timer
+	$%ID:5%.Stop()
+	
+	#Remove all the processes
+	while($ProcessTrackerList.Count -gt 0)
+	{
+		$process = $ProcessTrackerList[0].Process
+		$ProcessTrackerList.RemoveAt(0)
+		if(-not $psObject.Process.HasExited)
+		{
+			Stop-Process -InputObject $process
+		}
+	}
+}]]></Function>
+    <Function name="Update-ProcessTracker" region="Process Tracker"><![CDATA[function Update-ProcessTracker
+{
+	<#
+		.SYNOPSIS
+			Checks the status of each job on the list.
+	#>
+	
+	#Poll the jobs for status updates
+	$%ID:5%.Stop() #Freeze the Timer
+	
+	for($index =0; $index -lt $ProcessTrackerList.Count; $index++)
+	{
+		$psObject = $ProcessTrackerList[$index]
+		
+		if($null -ne $psObject) 
+		{
+			if($null -ne $psObject.Process)
+			{
+				if($psObject.Process.HasExited)
+				{				
+					#Call the Complete Script Block
+					if($null -ne $psObject.CompleteScript)
+					{
+						#$results = Receive-Job -Job $psObject.Job
+						Invoke-Command -ScriptBlock $psObject.CompleteScript -ArgumentList $psObject.Process
+					}
+					
+					$ProcessTrackerList.RemoveAt($index)
+					$index-- #Step back so we don't skip a job
+				}
+				elseif($null -ne $psObject.UpdateScript)
+				{
+					#Call the Update Script Block
+					Invoke-Command -ScriptBlock $psObject.UpdateScript -ArgumentList $psObject.Process
+				}
+			}
+		}
+		else
+		{
+			$ProcessTrackerList.RemoveAt($index)
+			$index-- #Step back so we don't skip a job
+		}
+	}
+	
+	if($ProcessTrackerList.Count -gt 0)
+	{
+		$%ID:5%.Start()#Resume the timer	
+	}	
+}]]></Function>
+    <Function name="Add-ProcessTracker" region="Process Tracker">
+      <![CDATA[$ProcessTrackerList = New-Object System.Collections.ArrayList
+function Add-ProcessTracker
+{
+	<#
+		.SYNOPSIS
+			Add a new process to the ProcessTracker and starts the timer.
+	
+		.DESCRIPTION
+			Add a new process to the ProcessTracker and starts the timer.
+	
+		.PARAMETER  FilePath
+			The path to executable.
+	
+		.PARAMETER ArgumentList
+			The arguments to pass to the process.
+	
+		.PARAMETER  CompleteScript
+			The script block that will be called when the process is complete.
+			The process is passed as an argument. The process argument is null when the job fails.
+	
+		.PARAMETER  UpdateScript
+			The script block that will be called each time the timer ticks.
+			The process is passed as an argument.
+	
+		.EXAMPLE
+			 Add-ProcessTracker -FilePath "$env:windir/System32/notepad.exe" `
+			-CompletedScript {
+				Param([System.Diagnostics.Process]$Process)
+				$button.Enable = $true
+			}`
+			-UpdateScript {
+				Param([System.Diagnostics.Process]$Process)
+				Function-Animate $button
+			}
+	
+		.LINK
+			
+	#>
+	
+	Param(
+	[ValidateNotNull()]
+	[Parameter(Mandatory=$true)]
+	[string]$FilePath,
+	$ArgumentList = $null,
+	[ScriptBlock]$CompletedScript,
+	[ScriptBlock]$UpdateScript)
+	
+	#Start the Job
+	if($ArgumentList)
+	{
+		$process = Start-Process -FilePath $FilePath -ArgumentList $ArgumentList -PassThru
+	}
+	else
+	{
+		$process = Start-Process -FilePath $FilePath -PassThru
+	}
+	
+	if($null -ne $process)
+	{
+		#Create a Custom Object to keep track of the Job & Script Blocks
+		$members = @{	"Process" = $process;
+						"CompleteScript" = $CompletedScript;
+						"UpdateScript" = $UpdateScript}
+		
+		$psObject = New-Object System.Management.Automation.PSObject -Property $members
+		
+		[void]$ProcessTrackerList.Add($psObject)	
+		
+		#Start the Timer
+		if(-not $%ID:5%.Enabled)
+		{
+			$%ID:5%.Start()
+		}
+	}
+	elseif($null -ne $CompletedScript)
+	{
+		#Failed
+		Invoke-Command -ScriptBlock $CompletedScript -ArgumentList $null
+	}
+
+}]]></Function>
+  </Functions>
+</ControlTemplate>

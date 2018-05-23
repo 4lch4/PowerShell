@@ -1,0 +1,8 @@
+{
+  "id": 10094,
+  "name": "Sand Storms",
+  "icon": "spell_nature_earthbind",
+  "description": "Summons 1 Sand Storm to aid the caster in battle for 30 sec.",
+  "range": "10-30 yd range",
+  "castTime": "Instant"
+}

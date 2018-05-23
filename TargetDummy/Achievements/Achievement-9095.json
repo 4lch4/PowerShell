@@ -1,0 +1,30 @@
+{
+  "id": 9095,
+  "title": "Builder",
+  "points": 5,
+  "description": "Upgrade all the buildings on your garrison plots to level 2.",
+  "rewardItems": [],
+  "icon": "achievement_guildperk_fasttrack",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "At least 2 small buildings activated",
+      "orderIndex": 0,
+      "max": 2
+    },
+    {
+      "id": 0,
+      "description": "At least 2 medium buildings activated",
+      "orderIndex": 1,
+      "max": 2
+    },
+    {
+      "id": 0,
+      "description": "At least 1 large building activated",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

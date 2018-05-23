@@ -1,0 +1,18 @@
+{
+  "id": 1637,
+  "title": "Spirit of Competition",
+  "points": 0,
+  "description": "Proud owner of a Spirit of Competition pet from the 2008 Spirit of Competition event.",
+  "rewardItems": [],
+  "icon": "achievement_general",
+  "criteria": [
+    {
+      "id": 5814,
+      "description": "Spirit of Competition",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

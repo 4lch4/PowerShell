@@ -1,0 +1,18 @@
+{
+  "id": 10034,
+  "title": "Mythic: Hellfire High Council",
+  "points": 10,
+  "description": "Defeat the Hellfire High Council in Hellfire Citadel on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_felorccouncil",
+  "criteria": [
+    {
+      "id": 28091,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

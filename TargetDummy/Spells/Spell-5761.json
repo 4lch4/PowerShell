@@ -1,0 +1,7 @@
+{
+  "id": 5761,
+  "name": "zzOldMind-numbing Poison",
+  "icon": "spell_nature_nullifydisease",
+  "description": "Coats your weapons with a Non-Lethal Poison that lasts for 1 hour.  Each strike has a 50% chance of poisoning the enemy, clouding their mind and slowing their casting speed by 50% (25% on player targets) for 10 sec.",
+  "castTime": "3 sec cast"
+}

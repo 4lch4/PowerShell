@@ -1,0 +1,7 @@
+{
+  "id": 7291,
+  "name": "Food (TEST)",
+  "icon": "inv_misc_fork&knife",
+  "description": "Restores 60 health over 30 sec.  Combat cancels.",
+  "castTime": "Instant"
+}

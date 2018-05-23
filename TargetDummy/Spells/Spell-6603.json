@@ -1,0 +1,7 @@
+{
+  "id": 6603,
+  "name": "Auto Attack",
+  "icon": "inv_sword_04",
+  "description": "Automatically attacks a target in melee with an equipped weapon. This ability can be toggled on or off.",
+  "castTime": "Instant"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 5843,
+  "title": "Let's Do Lunch: Thunder Bluff",
+  "points": 10,
+  "description": "Complete each of the Thunder Bluff cooking daily quests.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_pinenut",
+  "criteria": [
+    {
+      "id": 17733,
+      "description": "Pining for Nuts",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17734,
+      "description": "\"Magic\" Mushrooms",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17735,
+      "description": "Mulgore Spice Bread",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17736,
+      "description": "Corn Mash",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 17737,
+      "description": "Perfectly Picked Portions",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

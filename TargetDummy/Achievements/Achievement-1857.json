@@ -1,0 +1,18 @@
+{
+  "id": 1857,
+  "title": "Make Quick Werk of Him (25 player)",
+  "points": 10,
+  "description": "Kill Patchwerk in Naxxramas in 3 minutes or less in 25-player mode.",
+  "rewardItems": [],
+  "icon": "spell_shadow_plaguecloud",
+  "criteria": [
+    {
+      "id": 7127,
+      "description": "Patchwerk",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

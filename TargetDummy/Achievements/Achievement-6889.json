@@ -1,0 +1,18 @@
+{
+  "id": 6889,
+  "title": "Stormstout Brewery: Bronze",
+  "points": 0,
+  "description": "Complete the Stormstout Brewery Challenge Mode with a rating of Bronze or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_stormstoutbrewery_bronze",
+  "criteria": [
+    {
+      "id": 20704,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

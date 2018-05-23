@@ -1,0 +1,18 @@
+{
+  "id": 8479,
+  "title": "Mythic: Thok the Bloodthirsty",
+  "points": 10,
+  "description": "Defeat Thok the Bloodthirsty in Siege of Orgrimmar on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_thokthebloodthirsty",
+  "criteria": [
+    {
+      "id": 23677,
+      "description": "Thok the Bloodthirsty",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

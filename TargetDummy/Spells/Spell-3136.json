@@ -1,0 +1,9 @@
+{
+  "id": 3136,
+  "name": "Frenzied Command",
+  "icon": "ability_racial_bloodrage",
+  "description": "Increases the attack speed of nearby allies by 33% for 10 sec.",
+  "range": "30 yd range",
+  "castTime": "Instant",
+  "cooldown": "30 sec cooldown"
+}

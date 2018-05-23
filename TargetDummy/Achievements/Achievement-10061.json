@@ -1,0 +1,36 @@
+{
+  "id": 10061,
+  "title": "Hellbane",
+  "points": 10,
+  "description": "Defeat all of the champions of Hellfire Citadel in Tanaan Jungle.",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_zone",
+  "criteria": [
+    {
+      "id": 28221,
+      "description": "Terrorfist, Son of Kormrok",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28220,
+      "description": "Deathtalon, Avatar of Iskar",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28219,
+      "description": "Vengeance, Avatar of Velhari",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 28218,
+      "description": "Doomroller, Mar'tak's Creation",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

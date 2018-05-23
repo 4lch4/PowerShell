@@ -1,0 +1,19 @@
+{
+  "id": 9248,
+  "title": "Defender of Draenor",
+  "points": 10,
+  "description": "Get 5000 honorable kills in Draenor.",
+  "reward": "Reward: Garrison Monument",
+  "rewardItems": [],
+  "icon": "achievement_garrison_monument_horde_pvp",
+  "criteria": [
+    {
+      "id": 25376,
+      "description": "Get 5000 honorable kills in Draenor.",
+      "orderIndex": 0,
+      "max": 5000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

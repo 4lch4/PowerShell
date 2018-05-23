@@ -1,0 +1,19 @@
+{
+  "id": 9972,
+  "title": "A Race Against Slime",
+  "points": 10,
+  "description": "Defeat Kilrogg Deadeye in Hellfire Citadel with Ariok surviving the encounter on Normal difficulty or higher.",
+  "reward": "Follower Reward: Ariok",
+  "rewardItems": [],
+  "icon": "spell_fire_felimmolation",
+  "criteria": [
+    {
+      "id": 27992,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

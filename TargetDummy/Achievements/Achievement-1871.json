@@ -1,0 +1,30 @@
+{
+  "id": 1871,
+  "title": "Experienced Drake Rider",
+  "points": 10,
+  "description": "On three different visits to The Oculus, get credit for defeating Ley-Guardian Eregos while riding an Amber, Emerald, and Ruby drake on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_nexus80_10man",
+  "criteria": [
+    {
+      "id": 7177,
+      "description": "Amber Drake",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7178,
+      "description": "Emerald Drake",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7179,
+      "description": "Ruby Drake",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

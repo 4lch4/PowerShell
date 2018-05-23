@@ -1,0 +1,25 @@
+{
+  "id": 5121,
+  "title": "Heroic: Sinestra",
+  "points": 10,
+  "description": "Defeat Sinestra in the Bastion of Twilight on Heroic Difficulty.",
+  "reward": "Title Reward: Dragonslayer",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_bastionoftwilight_ladysinestra",
+  "criteria": [
+    {
+      "id": 16288,
+      "description": "Sinestra",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 16289,
+      "description": "Sinestra",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

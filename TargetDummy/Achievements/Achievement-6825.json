@@ -1,0 +1,18 @@
+{
+  "id": 6825,
+  "title": "The Mind-Killer",
+  "points": 10,
+  "description": "Defeat the Sha of Fear in Terrace of Endless Spring on Normal or Heroic difficulty without any raid members being feared by Dread Spray or Breath of Fear.",
+  "rewardItems": [],
+  "icon": "spell_arcane_mindmastery",
+  "criteria": [
+    {
+      "id": 20018,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

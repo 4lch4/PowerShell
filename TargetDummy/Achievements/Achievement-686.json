@@ -1,0 +1,180 @@
+{
+  "id": 686,
+  "title": "Molten Core",
+  "points": 10,
+  "description": "Defeat Ragnaros.",
+  "rewardItems": [],
+  "icon": "achievement_boss_ragnaros",
+  "criteria": [
+    {
+      "id": 3272,
+      "description": "Ragnaros",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 8146,
+      "description": "Thunderfury, Blessed Blade of the Windseeker",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4437,
+      "description": "The Only Prescription",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4544,
+      "description": "Onslaught Girdle",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 318,
+      "description": "Sulfuras, Hand of Ragnaros",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4545,
+      "description": "Band of Sulfuras",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4546,
+      "description": "Choker of the Fire Lord",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4547,
+      "description": "Essence of the Pure Flame",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4548,
+      "description": "Perdition's Blade",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4549,
+      "description": "Crown of Destruction",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4550,
+      "description": "Leggings of Transcendence",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4551,
+      "description": "Dragonstalker's Legguards",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4552,
+      "description": "Judgement Legplates",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4553,
+      "description": "Legplates of Wrath",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4554,
+      "description": "Legplates of Ten Storms",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4555,
+      "description": "Bloodfang Pants",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4556,
+      "description": "Nemesis Leggings",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4557,
+      "description": "Netherwind Pants",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4558,
+      "description": "Stormrage Legguards",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4559,
+      "description": "Malistar's Defender",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 4560,
+      "description": "Band of Accuria",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 4561,
+      "description": "Cloak of the Shrouded Mists",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 4562,
+      "description": "Bonereaver's Edge",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 4563,
+      "description": "Spinal Reaper",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 5055,
+      "description": "Dragon's Blood Cape",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 5056,
+      "description": "Shard of the Flame",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 8893,
+      "description": "Essence of the Firelord",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 7364,
+      "description": "Draconic for Dummies",
+      "orderIndex": 28,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8962,
+  "title": "Mythic: Brackenspore",
+  "points": 10,
+  "description": "Defeat Brackenspore in Highmaul on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_highmaul_fungalgiant",
+  "criteria": [
+    {
+      "id": 25005,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

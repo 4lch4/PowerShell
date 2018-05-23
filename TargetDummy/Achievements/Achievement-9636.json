@@ -1,0 +1,18 @@
+{
+  "id": 9636,
+  "title": "United We Stand",
+  "points": 10,
+  "description": "Free 10 captured guards in Shattrath City.",
+  "rewardItems": [],
+  "icon": "achievement_bg_killflagcarriers_grabflag_capit",
+  "criteria": [
+    {
+      "id": 26473,
+      "description": "Captured guards freed",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

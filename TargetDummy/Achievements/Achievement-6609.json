@@ -1,0 +1,72 @@
+{
+  "id": 6609,
+  "title": "No Favorites",
+  "points": 5,
+  "description": "Raise a pet of every family to level 10.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_extra01",
+  "criteria": [
+    {
+      "id": 21360,
+      "description": "Aquatic",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21361,
+      "description": "Beast",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21362,
+      "description": "Critter",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21363,
+      "description": "Dragonkin",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 21364,
+      "description": "Elemental",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21365,
+      "description": "Flying",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 21366,
+      "description": "Humanoid",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21367,
+      "description": "Mechanical",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21368,
+      "description": "Magic",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 21369,
+      "description": "Undead",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

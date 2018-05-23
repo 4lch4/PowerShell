@@ -1,0 +1,19 @@
+{
+  "id": 10354,
+  "title": "Crashin' Thrashin' Commander",
+  "points": 10,
+  "description": "Collect 200 toys.",
+  "reward": "Title Reward: Crashin' Thrashin'",
+  "rewardItems": [],
+  "icon": "inv_misc_toy_05",
+  "criteria": [
+    {
+      "id": 26801,
+      "description": "Collect 200 Toys",
+      "orderIndex": 0,
+      "max": 200
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

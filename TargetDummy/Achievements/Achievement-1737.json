@@ -1,0 +1,36 @@
+{
+  "id": 1737,
+  "title": "Destruction Derby",
+  "points": 10,
+  "description": "Destroy each of the vehicles listed below.",
+  "rewardItems": [],
+  "icon": "spell_fire_blueflamestrike",
+  "criteria": [
+    {
+      "id": 9178,
+      "description": "Wintergrasp Catapult",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9179,
+      "description": "Wintergrasp Demolisher",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6444,
+      "description": "Wintergrasp Siege Engine",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9181,
+      "description": "Wintergrasp Tower Cannon",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

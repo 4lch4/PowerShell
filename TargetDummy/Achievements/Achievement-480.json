@@ -1,0 +1,30 @@
+{
+  "id": 480,
+  "title": "Azjol-Nerub",
+  "points": 10,
+  "description": "Defeat the bosses in Azjol-Nerub.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_azjoluppercity_normal",
+  "criteria": [
+    {
+      "id": 5436,
+      "description": "Krik'thir the Gatewatcher",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 5437,
+      "description": "Hadronox",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5438,
+      "description": "Anub'arak",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

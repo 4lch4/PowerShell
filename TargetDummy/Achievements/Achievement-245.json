@@ -1,0 +1,84 @@
+{
+  "id": 245,
+  "title": "That Takes Class",
+  "points": 10,
+  "description": "Get an honorable, killing blow on one of each class.",
+  "rewardItems": [],
+  "icon": "ability_cheapshot",
+  "criteria": [
+    {
+      "id": 2359,
+      "description": "Death Knight",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 34909,
+      "description": "Demon Hunter",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 2360,
+      "description": "Druid",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2361,
+      "description": "Hunter",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 2362,
+      "description": "Mage",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 34908,
+      "description": "Monk",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 2363,
+      "description": "Paladin",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 2364,
+      "description": "Priest",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 2365,
+      "description": "Rogue",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 2366,
+      "description": "Shaman",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 2367,
+      "description": "Warlock",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 2368,
+      "description": "Warrior",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

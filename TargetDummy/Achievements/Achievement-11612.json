@@ -1,0 +1,84 @@
+{
+  "id": 11612,
+  "title": "Fighting with Style: Challenging",
+  "points": 10,
+  "description": "Unlock all of your challenging artifact appearances.",
+  "rewardItems": [],
+  "icon": "inv_icon_heirloomtoken_weapon01",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Druid - All Challenge Appearances",
+      "orderIndex": 0,
+      "max": 4
+    },
+    {
+      "id": 0,
+      "description": "Priest - All Challenge Appearances",
+      "orderIndex": 1,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Death Knight - All Challenge Appearances",
+      "orderIndex": 2,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Warrior - All Challenge Appearances",
+      "orderIndex": 3,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Rogue - All Challenge Appearances",
+      "orderIndex": 4,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Paladin - All Challenge Appearances",
+      "orderIndex": 5,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Mage - All Challenge Appearances",
+      "orderIndex": 6,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Warlock - All Challenge Appearances",
+      "orderIndex": 7,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Hunter - All Challenge Appearances",
+      "orderIndex": 8,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Demon Hunter - All Challenge Appearances",
+      "orderIndex": 9,
+      "max": 2
+    },
+    {
+      "id": 0,
+      "description": "Shaman - All Challenge Appearances",
+      "orderIndex": 10,
+      "max": 3
+    },
+    {
+      "id": 0,
+      "description": "Monk - All Challenge Appearances",
+      "orderIndex": 11,
+      "max": 3
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

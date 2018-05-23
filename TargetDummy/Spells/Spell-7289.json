@@ -1,0 +1,8 @@
+{
+  "id": 7289,
+  "name": "Shrink",
+  "icon": "spell_shadow_antishadow",
+  "description": "Reduces an enemy's Strength and Stamina for 20 sec.",
+  "range": "30 yd range",
+  "castTime": "3 sec cast"
+}

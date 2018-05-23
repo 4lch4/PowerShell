@@ -1,0 +1,18 @@
+{
+  "id": 2180,
+  "title": "Subtraction (10 player)",
+  "points": 10,
+  "description": "Defeat Thaddius in Naxxramas with less than 9 players in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_chargenegative",
+  "criteria": [
+    {
+      "id": 7152,
+      "description": "Thaddius",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

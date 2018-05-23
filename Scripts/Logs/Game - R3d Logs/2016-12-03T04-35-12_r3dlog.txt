@@ -1,0 +1,27 @@
+000000.000| ALWAYS| Logging started at 2016-12-03T04:35:12.880
+000000.017|   OKAY| Riot::RADS::Reader::RadsMain::Initialize: RADS library initializing with specified working directory "D:\Google_Drive\Development\PowerShell\Scripts".
+000000.017|   OKAY| Riot::RADS::Reader::RuntimeEnvironment::Create: Creating RADS runtime environment: RADS root directory = "D:/Google_Drive/Development/PowerShell/Scripts"
+000000.017|   WARN| Riot::RADS::Reader::RuntimeEnvironment::GetProjectTypeNameAndVersion: Did not find keywords "projects" or "solutions" in path D:/Google_Drive/Development/PowerShell/Scripts
+000000.017|  ERROR| Riot::RADS::Reader::RuntimeEnvironment::Create: RADS runtime environment creation failed because it was unable to get the project information.
+000000.017|  ERROR| Riot::RADS::Reader::RadsMain::Initialize: RADS library initialization failed to create the runtime environment.
+000000.017|  ERROR| Failed to initialize Rads library.
+000000.036|   OKAY| Unable to process data overlay file ./ToolsConfig.xml, defaulting to overlay now
+000000.036| ALWAYS| Data overlay start folder initialized to DATA, Content/Src
+000000.037| ALWAYS| Global logging level set to   WARN
+000000.037| ALWAYS| GameClock LockToSystemClock time: 0.000000 diff: 0.037400
+000000.037| ALWAYS| Build Version: Version 6.18.158.4172 (Sep 13 2016/16:30:53) [PUBLIC] <Releases/6.18> ChangeList: 1584172
+000000.387| ALWAYS| Current working directory: D:\Google_Drive\Development\PowerShell\Scripts
+000000.388| ALWAYS| Set current working directory to exe dir: C:\Riot Games\League of Legends\RADS\solutions\lol_game_client_sln\releases\0.0.1.145\deploy
+000000.388| ALWAYS| Replay filepath: NA1-2348368119.rofl
+000000.390|  ERROR| Failed to load replay file
+000000.390| ALWAYS| Started System Init
+000000.391| ALWAYS| Maestro Init
+000000.645| ALWAYS| Maestro completed init
+000000.645| ALWAYS| zip manifest, 'ClientZips.txt', not found (expected).
+000000.648| ALWAYS| WadFile mount: DATA/FINAL/Global.wad (FAILED)
+000000.648|  ERROR| Assertion failed!
+
+Expression: ALE-18967997
+
+Description: FATAL ERROR - WadFile mount failed: Global.wad
+000001.220|  ERROR| Crash Occurred

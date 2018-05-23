@@ -1,0 +1,18 @@
+{
+  "id": 11468,
+  "title": "Alive for Five",
+  "points": 10,
+  "description": "Reach Prestige Level 5.",
+  "rewardItems": [],
+  "icon": "achievement_legionpvp2tier1",
+  "criteria": [
+    {
+      "id": 35023,
+      "description": "Reach Prestige Level 5.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

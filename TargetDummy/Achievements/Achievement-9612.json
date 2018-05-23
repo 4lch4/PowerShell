@@ -1,0 +1,18 @@
+{
+  "id": 9612,
+  "title": "Eggs in One Basket",
+  "points": 10,
+  "description": "Escort Arakkoa Outcasts to an Outcast Darkscryer with a total of 100 morale during Operation: Skettis Ruins.",
+  "rewardItems": [],
+  "icon": "inv_misc_easterbasket",
+  "criteria": [
+    {
+      "id": 26407,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

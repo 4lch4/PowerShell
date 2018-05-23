@@ -1,0 +1,192 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>The Job Tracker adds a framework to manage jobs in a GUI. Use the Job Tracker to create responsive forms.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJoSURBVDhPpVLbT5JhGPdPyoVhXdVNA9dFd90aYhdetKXTbgLUspO5inTOBRhSFtDBY36AoIQM2yqqCQJureaB7yC0tVlbHn49z/t9xbr2g2fv+z7f+zy/w/PV1R32GQiq6A/LuBPU0B/So29cgWNMRqdHQdvgFmx3N3DuZhlnu7dw2rGBk13rONH+DQKbiwMp4FFqH6PJAzyM72FY2oV7Zg+3J3ZxLfwbjme/cNm/gw7PT7SN7MA+9AP19qzRIKgI1FthYhJScf2JjCteFReHyzpy3ybOEOqpznU0tn+BuWMTxy99xRFbWm8QmHqLbSUvoiqXaC1A0fhcgKYaoZRob+TKayJvstr1Br6XabrMhXl8V4pQlVVR7PJGcNUr0TqHHk8Evd4YHN7XqKhrKK4swtRk0xuMhBJUlMM9n4Se+2F03fCLht2+KPZxAP5D31GTKDR5FflcEg1WowFLqKiELBcFsi6nBKdHEgVOEfOioZNYbas5rHxKwGQ5/78Eps/FGmskFKGZLoszr5Tj9ywh+y6CRmtrTUKlzAUFVMpFcYGZMJrLE4WLkNkPZsJnjdi9z0RIgmHi0DglqXiADOp1Pzc8yAvKQr7hAW9doxKqxCKzNI16qyHBHZj9R02MjUdGfjh9c2ICOjqx8cUEA5aaWpyE2WKY+GAsIubPMqo0DdZeldnMgrHq38bfHPswH39RG+OgfwYKIRfzaRQ+v0Euu4CP2Tg+LEtYzsxiKTWJZOIVFiJBxKSnkKYeY3rCXxsjM+CZcvDHweYcszSjoalV5Jgq58yWCzhqbSb3W8TZZGnRpwD6Heb5A1QFj1nYuZisAAAAAElFTkSuQmCC</Icon>
+  <Identifiers>
+    <ID id="1" name="jobTracker_FormClosed" type="event" shared="True"/>
+    <ID id="2" name="timerJobTracker" type="object" useExistingTypeMatchName="True"/>
+    <ID id="3" name="timerJobTracker_Tick" type="event" shared="True"/>
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:2%">
+      <Event name="Tick">%ID:3%</Event>
+    </Object>
+  </Objects>
+  <Container>
+    <Events>
+      <Event name="FormClosed">%ID:1%</Event>
+    </Events>
+  </Container>
+  <Events>
+    <Event id="1"><![CDATA[$%ID:1%=[System.Windows.Forms.FormClosedEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.FormClosedEventArgs]
+	#Stop any pending jobs
+	Stop-JobTracker
+}]]></Event>
+    <Event id="3"><![CDATA[$%ID:3%={
+	Update-JobTracker
+}]]></Event>
+  </Events>
+  <Functions>
+    <Function name="Stop-JobTracker" region="Job Tracker">
+      <![CDATA[function Stop-JobTracker
+{
+	<#
+		.SYNOPSIS
+			Stops and removes all Jobs from the list.
+	#>
+	#Stop the timer
+	$timerJobTracker.Stop()
+	
+	#Remove all the jobs
+	while($JobTrackerList.Count -gt 0)
+	{
+		$job = $JobTrackerList[0].Job
+		$JobTrackerList.RemoveAt(0)
+		Stop-Job $job
+		Remove-Job $job
+	}
+}]]></Function>
+    <Function name="Update-JobTracker" region="Job Tracker"><![CDATA[function Update-JobTracker
+{
+	<#
+		.SYNOPSIS
+			Checks the status of each job on the list.
+	#>
+	
+	#Poll the jobs for status updates
+	$%ID:2%.Stop() #Freeze the Timer
+	
+	for($index = 0; $index -lt $JobTrackerList.Count; $index++)
+	{
+		$psObject = $JobTrackerList[$index]
+		
+		if($null -ne $psObject) 
+		{
+			if($null -ne $psObject.Job)
+			{
+				if ($psObject.Job.State -eq 'Blocked')
+                {
+                    #Try to unblock the job
+                    Receive-Job $psObject.Job | Out-Null
+                }
+                elseif($psObject.Job.State -ne 'Running')
+				{				
+					#Call the Complete Script Block
+					if($null -ne $psObject.CompleteScript)
+					{
+						#$results = Receive-Job -Job $psObject.Job
+						Invoke-Command -ScriptBlock $psObject.CompleteScript -ArgumentList $psObject.Job
+					}
+					
+					$JobTrackerList.RemoveAt($index)
+					Remove-Job -Job $psObject.Job
+					$index-- #Step back so we don't skip a job
+				}
+				elseif($null -ne $psObject.UpdateScript)
+				{
+					#Call the Update Script Block
+					Invoke-Command -ScriptBlock $psObject.UpdateScript -ArgumentList $psObject.Job
+				}
+			}
+		}
+		else
+		{
+			$JobTrackerList.RemoveAt($index)
+			$index-- #Step back so we don't skip a job
+		}
+	}
+	
+	if($JobTrackerList.Count -gt 0)
+	{
+		$%ID:2%.Start()#Resume the timer	
+	}	
+}]]></Function>
+    <Function name="Add-JobTracker" region="Job Tracker">
+      <![CDATA[$JobTrackerList = New-Object System.Collections.ArrayList
+function Add-JobTracker
+{
+	<#
+		.SYNOPSIS
+			Add a new job to the JobTracker and starts the timer.
+	
+		.DESCRIPTION
+			Add a new job to the JobTracker and starts the timer.
+	
+		.PARAMETER  Name
+			The name to assign to the Job
+	
+		.PARAMETER  JobScript
+			The script block that the Job will be performing. 
+			Important: Do not access form controls from this script block.
+	
+		.PARAMETER ArgumentList
+			The arguments to pass to the job
+	
+		.PARAMETER  CompleteScript
+			The script block that will be called when the job is complete.
+			The job is passed as an argument. The Job argument is null when the job fails.
+	
+		.PARAMETER  UpdateScript
+			The script block that will be called each time the timer ticks. 
+			The job is passed as an argument. Use this to get the Job's progress.
+	
+		.EXAMPLE
+			Add-JobTracker -Name 'JobName' `
+			-JobScript {	
+				Param($Argument1)#Pass any arguments using the ArgumentList parameter
+				#Important: Do not access form controls from this script block.
+				Get-WmiObject Win32_Process -Namespace "root\CIMV2"
+			}`
+			-CompletedScript {
+				Param($Job)		
+				$results = Receive-Job -Job $Job		
+			}`
+			-UpdateScript {
+				Param($Job)
+				#$results = Receive-Job -Job $Job -Keep
+			}
+	
+		.LINK
+			
+	#>
+	
+	Param(
+	[ValidateNotNull()]
+	[Parameter(Mandatory=$true)]
+	[string]$Name, 
+	[ValidateNotNull()]
+	[Parameter(Mandatory=$true)]
+	[ScriptBlock]$JobScript,
+	$ArgumentList = $null,
+	[ScriptBlock]$CompletedScript,
+	[ScriptBlock]$UpdateScript)
+	
+	#Start the Job
+	$job = Start-Job -Name $Name -ScriptBlock $JobScript -ArgumentList $ArgumentList
+	
+	if($null -ne $job)
+	{
+		#Create a Custom Object to keep track of the Job & Script Blocks
+		$members = @{	'Job' = $Job;
+						'CompleteScript' = $CompletedScript;
+						'UpdateScript' = $UpdateScript}
+		
+		$psObject = New-Object System.Management.Automation.PSObject -Property $members
+		
+		[void]$JobTrackerList.Add($psObject)	
+		
+		#Start the Timer
+		if(-not $%ID:2%.Enabled)
+		{
+			$%ID:2%.Start()
+		}
+	}
+	elseif($null -ne $CompletedScript)
+	{
+		#Failed
+		Invoke-Command -ScriptBlock $CompletedScript -ArgumentList $null
+	}
+
+}]]></Function>
+  </Functions>
+</ControlTemplate>

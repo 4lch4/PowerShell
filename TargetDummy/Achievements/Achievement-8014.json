@@ -1,0 +1,18 @@
+{
+  "id": 8014,
+  "title": "Number Five Is Alive",
+  "points": 10,
+  "description": "All five non-player characters survive the Domination Point scenario.",
+  "rewardItems": [],
+  "icon": "achievement_guild_level5",
+  "criteria": [
+    {
+      "id": 22615,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

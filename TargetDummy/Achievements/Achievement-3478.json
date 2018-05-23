@@ -1,0 +1,86 @@
+{
+  "id": 3478,
+  "title": "Pilgrim",
+  "points": 10,
+  "description": "Complete the Pilgrim's Bounty achievements listed below.",
+  "reward": "Reward: Pilgrim Title & Plump Turkey Pet",
+  "rewardItems": [
+    {
+      "id": 44810,
+      "name": "Turkey Cage",
+      "icon": "inv_box_birdcage_01",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_thanksgiving_turkey",
+  "criteria": [
+    {
+      "id": 11266,
+      "description": "\"FOOD FIGHT!\"",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Now We're Cookin'",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Pilgrim's Paunch",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Pilgrim's Peril",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Pilgrim's Progress",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 11271,
+      "description": "Sharing is Caring",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 11272,
+      "description": "Terokkar Turkey Time",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 11273,
+      "description": "The Turkinator",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 11274,
+      "description": "Turkey Lurkey",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

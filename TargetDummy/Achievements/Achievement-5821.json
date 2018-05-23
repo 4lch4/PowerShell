@@ -1,0 +1,18 @@
+{
+  "id": 5821,
+  "title": "Death from Above",
+  "points": 10,
+  "description": "Only kill Cinderweb Drones while they are atop the web canopy during the Beth'tilac encounter in Firelands.",
+  "rewardItems": [],
+  "icon": "inv_misc_head_nerubian_01",
+  "criteria": [
+    {
+      "id": 17542,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

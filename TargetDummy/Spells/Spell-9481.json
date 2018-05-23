@@ -1,0 +1,10 @@
+{
+  "id": 9481,
+  "name": "Holy Smite",
+  "subtext": "Rank 6",
+  "icon": "spell_holy_holysmite",
+  "description": "Smites an enemy, inflicting Holy damage.",
+  "range": "30 yd range",
+  "powerCost": "220 Mana",
+  "castTime": "2.5 sec cast"
+}

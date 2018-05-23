@@ -1,0 +1,9 @@
+{
+  "id": 7230,
+  "name": "Fire Protection",
+  "subtext": "Rank 1",
+  "icon": "spell_fire_firearmor",
+  "description": "Absorbs 400 fire damage.  Lasts 2 min.",
+  "castTime": "Instant",
+  "cooldown": "1 sec cooldown"
+}

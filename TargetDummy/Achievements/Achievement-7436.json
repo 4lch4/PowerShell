@@ -1,0 +1,18 @@
+{
+  "id": 7436,
+  "title": "Zen Pet Hunter",
+  "points": 10,
+  "description": "Capture 200 pets in pet battle.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_captureawildpet",
+  "criteria": [
+    {
+      "id": 19749,
+      "description": "",
+      "orderIndex": 0,
+      "max": 200
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

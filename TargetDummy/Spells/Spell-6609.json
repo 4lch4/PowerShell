@@ -1,0 +1,8 @@
+{
+  "id": 6609,
+  "name": "Filling",
+  "icon": "trade_engineering",
+  "description": "Fill the Jade Phial at the Starbreeze moonwell.",
+  "range": "5 yd range",
+  "castTime": "3 sec cast"
+}

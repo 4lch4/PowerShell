@@ -1,0 +1,8 @@
+{
+  "id": 5394,
+  "name": "Healing Stream Totem",
+  "icon": "inv_spear_04",
+  "description": "Summons a totem at your feet for 15 sec that heals an injured party or raid member within 40 yards for 4,925 every 1.9 sec.",
+  "powerCost": "11% of base mana",
+  "castTime": "Instant"
+}

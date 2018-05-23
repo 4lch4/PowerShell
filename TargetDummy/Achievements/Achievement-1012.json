@@ -1,0 +1,18 @@
+{
+  "id": 1012,
+  "title": "The Winds of the North",
+  "points": 20,
+  "description": "Gain Exalted reputation with the Alliance Vanguard.",
+  "rewardItems": [],
+  "icon": "spell_misc_hellifrepvphonorholdfavor",
+  "criteria": [
+    {
+      "id": 2425,
+      "description": "Exalted with Alliance Vanguard",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

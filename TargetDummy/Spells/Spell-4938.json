@@ -1,0 +1,7 @@
+{
+  "id": 4938,
+  "name": "Myzrael Earthquake",
+  "icon": "spell_nature_earthquake",
+  "description": "Inflicts normal damage plus 149 to nearby enemies.",
+  "castTime": "2.5 sec cast"
+}

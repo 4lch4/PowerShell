@@ -1,0 +1,188 @@
+{
+  "id": 11163,
+  "title": "Glory of the Legion Hero",
+  "points": 25,
+  "description": "Complete the Legion Mythic dungeon achievements listed below.",
+  "reward": "Mount Reward: Leyfeather Hippogryph",
+  "rewardItems": [
+    {
+      "id": 141217,
+      "name": "Reins of the Leyfeather Hippogryph",
+      "icon": "inv_mount_hippogryph_arcane",
+      "quality": 4,
+      "itemLevel": 110,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_helm_plate_legionquest100_b_01",
+  "criteria": [
+    {
+      "id": 32123,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 32124,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 32125,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 32132,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 32131,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 32126,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 32127,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 32143,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 32145,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 32144,
+      "description": "",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 32141,
+      "description": "",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 32142,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 32138,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 32137,
+      "description": "",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 32136,
+      "description": "",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 32135,
+      "description": "",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 32134,
+      "description": "",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 32133,
+      "description": "",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 32146,
+      "description": "",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 32148,
+      "description": "",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 32147,
+      "description": "",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 32128,
+      "description": "",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 32129,
+      "description": "",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 32130,
+      "description": "",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 32140,
+      "description": "",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 32139,
+      "description": "",
+      "orderIndex": 25,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

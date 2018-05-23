@@ -1,0 +1,18 @@
+{
+  "id": 6930,
+  "title": "Yaungolian Barbecue",
+  "points": 10,
+  "description": "Complete the Brewmoon Festival scenario without any Bataari invaders setting the village on fire.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_68",
+  "criteria": [
+    {
+      "id": 20588,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

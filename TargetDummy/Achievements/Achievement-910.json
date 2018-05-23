@@ -1,0 +1,90 @@
+{
+  "id": 910,
+  "title": "Elders of the Dungeons",
+  "points": 10,
+  "description": "Honor the Elders which are located inside the dungeons.",
+  "rewardItems": [],
+  "icon": "spell_holy_symbolofhope",
+  "criteria": [
+    {
+      "id": 1910,
+      "description": "Elder Wildmane in Zul'Farrak",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1911,
+      "description": "Elder Starsong in the Sunken Temple",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1912,
+      "description": "Elder Splitrock in Maraudon",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1913,
+      "description": "Elder Stonefort in Blackrock Spire",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1914,
+      "description": "Elder Morndeep in Blackrock Depths",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1915,
+      "description": "Elder Farwhisper in Stratholme",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 5259,
+      "description": "Elder Jarten in Utgarde Keep",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 5260,
+      "description": "Elder Igasho in The Nexus",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 5261,
+      "description": "Elder Nurgen in Azjol-Nerub",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 5262,
+      "description": "Elder Kilias in Drak'Tharon Keep",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 5263,
+      "description": "Elder Ohanzee in Gundrak",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 5264,
+      "description": "Elder Yurauk in the Halls of Stone",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 5265,
+      "description": "Elder Chogan'gada in Utgarde Pinnacle",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 887,
+  "title": "Merciless Nether Drake",
+  "points": 0,
+  "description": "Obtain the Merciless Nether Drake from Arena Season 2 of The Burning Crusade.",
+  "rewardItems": [],
+  "icon": "ability_mount_netherdrakeelite",
+  "criteria": [
+    {
+      "id": 1868,
+      "description": "Merciless Nether Drake",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6168,
+      "description": "Merciless Nether Drake",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

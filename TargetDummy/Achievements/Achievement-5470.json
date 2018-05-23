@@ -1,0 +1,18 @@
+{
+  "id": 5470,
+  "title": "Diggerest",
+  "points": 10,
+  "description": "Find 100 unique common artifacts.",
+  "rewardItems": [],
+  "icon": "trade_archaeology_nerubian_artifactfragment",
+  "criteria": [
+    {
+      "id": 16191,
+      "description": "Find 100 common artifacts.",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

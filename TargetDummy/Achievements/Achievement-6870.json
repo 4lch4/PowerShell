@@ -1,0 +1,18 @@
+{
+  "id": 6870,
+  "title": "Realm First! Zen Master Miner",
+  "points": 0,
+  "description": "First person on the realm to achieve 600 skill in mining.",
+  "rewardItems": [],
+  "icon": "trade_mining",
+  "criteria": [
+    {
+      "id": 5573,
+      "description": "",
+      "orderIndex": 0,
+      "max": 600
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

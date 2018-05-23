@@ -1,0 +1,18 @@
+{
+  "id": 9715,
+  "title": "Thy Kingdom Come",
+  "points": 10,
+  "description": "Win Kor'lok's favor for your faction by defeating his bodyguard, Gaul Dun Firok.",
+  "rewardItems": [],
+  "icon": "achievement_reputation_ogre",
+  "criteria": [
+    {
+      "id": 26752,
+      "description": "Slay Gaul Dun Firok",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

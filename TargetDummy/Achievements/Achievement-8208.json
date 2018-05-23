@@ -1,0 +1,18 @@
+{
+  "id": 8208,
+  "title": "Kirin Tor Offensive",
+  "points": 10,
+  "description": "Earn Exalted status with the Kirin Tor Offensive.",
+  "rewardItems": [],
+  "icon": "achievement_reputation_kirintor_offensive",
+  "criteria": [
+    {
+      "id": 22926,
+      "description": "Kirin Tor Offensive exalted",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1188,
+  "title": "Shafted!",
+  "points": 10,
+  "description": "Shoot 10 players with the Silver Shafted Arrow.",
+  "rewardItems": [],
+  "icon": "inv_ammo_arrow_02",
+  "criteria": [
+    {
+      "id": 3572,
+      "description": "10x Silver Shafted Arrow",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

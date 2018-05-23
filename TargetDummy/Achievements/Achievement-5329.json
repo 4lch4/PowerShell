@@ -1,0 +1,19 @@
+{
+  "id": 5329,
+  "title": "Warbound Veteran of the Alliance",
+  "points": 10,
+  "description": "Win 300 rated battlegrounds.",
+  "reward": "Reward: Epic Warhorse and Warbound Title",
+  "rewardItems": [],
+  "icon": "inv_bannerpvp_02",
+  "criteria": [
+    {
+      "id": 15289,
+      "description": "Win 300 rated battlegrounds",
+      "orderIndex": 1,
+      "max": 300
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

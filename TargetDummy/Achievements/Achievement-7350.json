@@ -1,0 +1,18 @@
+{
+  "id": 7350,
+  "title": "Collector: Terracotta Arms",
+  "points": 10,
+  "description": "Restore 5 Terracotta Arms.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20663,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

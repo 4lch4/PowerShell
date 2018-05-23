@@ -1,0 +1,8 @@
+{
+  "id": 9632,
+  "name": "Bladestorm",
+  "subtext": "Rank 1",
+  "icon": "ability_whirlwind",
+  "description": "You attack all nearby enemies for 9 sec causing weapon damage plus an additional ^0.2380 every 3 sec.",
+  "castTime": "Channeled"
+}

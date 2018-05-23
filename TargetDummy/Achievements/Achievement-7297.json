@@ -1,0 +1,66 @@
+{
+  "id": 7297,
+  "title": "Proven Strength",
+  "points": 10,
+  "description": "Earn the company of each of the following Shado-Pan heroes at the Shado-Pan Garrison.",
+  "rewardItems": [],
+  "icon": "achievement_guildperk_everyonesahero_rank2",
+  "criteria": [
+    {
+      "id": 22174,
+      "description": "Fei Li",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22168,
+      "description": "Snow Blossom",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22169,
+      "description": "Yalia Sagewhisper",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22174,
+      "description": "Protector Yi",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 22170,
+      "description": "Chao the Voice",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 22171,
+      "description": "Lao-Chin the Iron Belly",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 22174,
+      "description": "Taoshi",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 22173,
+      "description": "Tenwu of the Red Smoke",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 22172,
+      "description": "Hawkmaster Nurong",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

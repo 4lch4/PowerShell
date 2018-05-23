@@ -1,0 +1,18 @@
+{
+  "id": 10753,
+  "title": "Scare Bear",
+  "points": 10,
+  "description": "Defeat Ursoc in The Emerald Nightmare while keeping Tur Ragepaw alive on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "spell_druid_bearhug",
+  "criteria": [
+    {
+      "id": 31710,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

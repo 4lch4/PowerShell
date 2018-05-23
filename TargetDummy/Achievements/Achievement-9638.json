@@ -1,0 +1,54 @@
+{
+  "id": 9638,
+  "title": "Heralds of the Legion",
+  "points": 10,
+  "description": "Defeat all the rare creatures in Shattrath City listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_note_06",
+  "criteria": [
+    {
+      "id": 26476,
+      "description": "Orumo the Observer",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26477,
+      "description": "Lord Korinak",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26478,
+      "description": "Lady Demlash",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26479,
+      "description": "Shadowflame Terrorwalker",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 26480,
+      "description": "Kurlosh Doomfang",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26481,
+      "description": "Matron of Sin",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 26582,
+      "description": "Vigilant Paarthos",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

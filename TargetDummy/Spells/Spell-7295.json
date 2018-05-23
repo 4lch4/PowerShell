@@ -1,0 +1,8 @@
+{
+  "id": 7295,
+  "name": "Soul Drain",
+  "icon": "spell_shadow_lifedrain02",
+  "description": "Immobilizes an enemy for 5 sec. and drains 6,041 health, transferring it to the caster.",
+  "range": "40 yd range",
+  "castTime": "2 sec cast"
+}

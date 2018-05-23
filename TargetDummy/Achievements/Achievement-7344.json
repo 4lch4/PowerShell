@@ -1,0 +1,18 @@
+{
+  "id": 7344,
+  "title": "Collector: Gold-Inlaid Porcelain Funerary Figurines",
+  "points": 10,
+  "description": "Restore 5 Gold-Inlaid Porcelain Funerary Figurines.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20657,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

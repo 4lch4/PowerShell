@@ -1,0 +1,84 @@
+{
+  "id": 854,
+  "title": "Explore Un'Goro Crater",
+  "points": 10,
+  "description": "Explore Un'Goro Crater, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ungorocrater_01",
+  "criteria": [
+    {
+      "id": 1453,
+      "description": "Fire Plume Ridge",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14119,
+      "description": "Fungal Rock",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14120,
+      "description": "Marshal's Stand",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 14121,
+      "description": "Mossy Pile",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 14122,
+      "description": "The Roiling Gardens",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 14123,
+      "description": "The Screaming Reaches",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1454,
+      "description": "Golakka Hot Springs",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1455,
+      "description": "Terror Run",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1456,
+      "description": "The Slithering Scar",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1457,
+      "description": "The Marshlands",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1458,
+      "description": "Ironstone Plateau",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1459,
+      "description": "Lakkari Tar Pits",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

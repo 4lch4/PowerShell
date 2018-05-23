@@ -1,0 +1,18 @@
+{
+  "id": 7056,
+  "title": "Sorry, Were You Looking for This?",
+  "points": 10,
+  "description": "Successfully activate the Ancient Mogu Artifact during the Gara'jal the Spiritbinder encounter in Mogu'shan Vaults on Normal or Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "trade_archaeology_silverscrollcase",
+  "criteria": [
+    {
+      "id": 20244,
+      "description": "Activate the Ancient Mogu Artifact.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 10040,
+  "title": "Mythic: Socrethar the Eternal",
+  "points": 10,
+  "description": "Defeat Socrethar the Eternal in Hellfire Citadel on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_socrethar",
+  "criteria": [
+    {
+      "id": 28103,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

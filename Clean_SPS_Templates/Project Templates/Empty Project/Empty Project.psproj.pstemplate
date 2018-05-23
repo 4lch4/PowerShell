@@ -1,0 +1,8 @@
+<Template version="1.0" type="Project" tags="PowerShell">
+	<Description>Creates an empty project. Used to create a script application.</Description>
+	<image/>
+	<Files>
+		<File>Startup.pss</File>
+		<File rename="true">Empty Project.psprojs</File>
+	</Files>
+</Template>

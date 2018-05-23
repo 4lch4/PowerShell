@@ -1,0 +1,18 @@
+{
+  "id": 137,
+  "title": "Stocking Up",
+  "points": 10,
+  "description": "Create 500 Heavy Frostweave Bandages.",
+  "rewardItems": [],
+  "icon": "inv_misc_bandage_04",
+  "criteria": [
+    {
+      "id": 1831,
+      "description": "Create 500 Heavy Frostweave Bandages",
+      "orderIndex": 1,
+      "max": 500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

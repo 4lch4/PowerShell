@@ -1,0 +1,30 @@
+{
+  "id": 11788,
+  "title": "Wailing Halls",
+  "points": 10,
+  "description": "Defeat the following bosses in the lower levels of the Tomb of Sargeras.",
+  "rewardItems": [],
+  "icon": "achievement_boss_soulengine",
+  "criteria": [
+    {
+      "id": 36474,
+      "description": "The Desolate Host",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 36473,
+      "description": "Sisters of the Moon",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 36472,
+      "description": "Demonic Inquisition",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

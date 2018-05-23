@@ -1,0 +1,102 @@
+{
+  "id": 10765,
+  "title": "Brokenly Epic",
+  "points": 10,
+  "description": "Equip an epic item in every slot with a minimum item level of 840.",
+  "rewardItems": [],
+  "icon": "inv_bracer_cloth_legionquest100_b_01",
+  "criteria": [
+    {
+      "id": 32047,
+      "description": "Head",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 32048,
+      "description": "Neck",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 32049,
+      "description": "Shoulder",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 32050,
+      "description": "Chest",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 32051,
+      "description": "Waist",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 32052,
+      "description": "Legs",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 32053,
+      "description": "Feet",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 32054,
+      "description": "Wrist",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 32055,
+      "description": "Hands",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 32056,
+      "description": "Left Ring",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 32057,
+      "description": "Right Ring",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 32058,
+      "description": "First Trinket",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 32059,
+      "description": "Second Trinket",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 32060,
+      "description": "Cloak",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 32061,
+      "description": "Weapon",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11128,
+  "title": "500 World Quests Completed",
+  "points": 5,
+  "description": "Complete 500 World Quests.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_03",
+  "criteria": [
+    {
+      "id": 33094,
+      "description": "",
+      "orderIndex": 0,
+      "max": 500
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

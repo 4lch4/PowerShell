@@ -1,0 +1,18 @@
+{
+  "id": 6550,
+  "title": "Order of the Cloud Serpent",
+  "points": 10,
+  "description": "Earn Exalted status with the Order of the Cloud Serpent.",
+  "rewardItems": [],
+  "icon": "achievement_faction_serpentriders",
+  "criteria": [
+    {
+      "id": 19395,
+      "description": "Order of the Cloud Serpent exalted",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

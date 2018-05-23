@@ -1,0 +1,10 @@
+{
+  "id": 2894,
+  "name": "zzOldFire Elemental Totem",
+  "subtext": "Fire Totem",
+  "icon": "spell_fire_elemental_totem",
+  "description": "Summons a Fire Totem with 26,352 health at the feet of the caster, calling forth a Greater Fire Elemental to rain destruction on the caster's enemies.  Lasts 1 min.",
+  "powerCost": "26.89% of base mana",
+  "castTime": "Instant",
+  "cooldown": "5 min cooldown"
+}

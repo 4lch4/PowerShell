@@ -1,0 +1,66 @@
+{
+  "id": 6615,
+  "title": "Northrend Tamer",
+  "points": 5,
+  "description": "Capture a battle pet in each of the Northrend zones listed below.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_defeatwildpettamers_northrend",
+  "criteria": [
+    {
+      "id": 21477,
+      "description": "Borean Tundra",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21478,
+      "description": "Crystalsong Forest",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21479,
+      "description": "Dragonblight",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21480,
+      "description": "Grizzly Hills",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 21481,
+      "description": "Howling Fjord",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21482,
+      "description": "Icecrown",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 21483,
+      "description": "Sholazar Basin",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21484,
+      "description": "Storm Peaks",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21485,
+      "description": "Zul'Drak",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

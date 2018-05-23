@@ -1,0 +1,42 @@
+{
+  "id": 11282,
+  "title": "Flame Keeper of the Broken Isles",
+  "points": 10,
+  "description": "Honor the flames of the Broken Isles.",
+  "rewardItems": [],
+  "icon": "inv_summerfest_firespirit",
+  "criteria": [
+    {
+      "id": 33636,
+      "description": "Azsuna",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 33635,
+      "description": "Val'Sharah",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 33634,
+      "description": "Highmountain",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 33633,
+      "description": "Stormheim",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 33637,
+      "description": "Suramar",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

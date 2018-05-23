@@ -1,0 +1,102 @@
+{
+  "id": 969,
+  "title": "Tricks and Treats of Outland",
+  "points": 10,
+  "description": "Visit the Candy Buckets in Outland.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_29",
+  "criteria": [
+    {
+      "id": 2204,
+      "description": "Blade's Edge Mountains, Evergrove",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 2195,
+      "description": "Blade's Edge Mountains, Sylvanaar",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2196,
+      "description": "Blade's Edge Mountains, Toshley's Station",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 2197,
+      "description": "Hellfire Peninsula, Honor Hold",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 2198,
+      "description": "Hellfire Peninsula, Temple of Telhamat",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 2199,
+      "description": "Nagrand, Telaar",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 2205,
+      "description": "Netherstorm, Area 52",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 2206,
+      "description": "Netherstorm, The Stormspire",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 2210,
+      "description": "Shadowmoon Valley, Altar of Sha'tar or Sanctum of the Stars",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 2200,
+      "description": "Shadowmoon Valley, Wildhammer Stronghold",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 2207,
+      "description": "Shattrath City, Aldor Rise or Scryer's Tier",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 2201,
+      "description": "Terokkar Forest, Allerian Stronghold",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 2209,
+      "description": "Zangarmarsh, Cenarion Refuge",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 2202,
+      "description": "Zangarmarsh, Orebor Harborage",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 2203,
+      "description": "Zangarmarsh, Telredor",
+      "orderIndex": 15,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

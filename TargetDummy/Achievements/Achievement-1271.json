@@ -1,0 +1,18 @@
+{
+  "id": 1271,
+  "title": "To Hellfire and Back",
+  "points": 10,
+  "description": "Complete 84 quests in Hellfire Peninsula.",
+  "rewardItems": [],
+  "icon": "achievement_zone_hellfirepeninsula_01",
+  "criteria": [
+    {
+      "id": 3912,
+      "description": "84 Hellfire quests",
+      "orderIndex": 1,
+      "max": 84
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

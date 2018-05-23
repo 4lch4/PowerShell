@@ -1,0 +1,18 @@
+{
+  "id": 9005,
+  "title": "Come With Me If You Want to Live",
+  "points": 10,
+  "description": "Defeat Gug'rokk alongside Croman the Barbarian after finding his sword in Bloodmaul Slag Mines on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "spell_nature_strength",
+  "criteria": [
+    {
+      "id": 24692,
+      "description": "Defeat Gug'rokk alongside Croman the Barbarian after finding his sword on Heroic difficulty.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

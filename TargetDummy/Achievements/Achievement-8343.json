@@ -1,0 +1,30 @@
+{
+  "id": 8343,
+  "title": "Deck Your Collection (Season 1)",
+  "points": 0,
+  "description": "Defeat the following Brawler's Guild bosses during the Pandaria campaign.",
+  "rewardItems": [
+    {
+      "id": 98543,
+      "name": "Wraps of the Blood-Soaked Brawler",
+      "icon": "inv_chest_leather_20",
+      "quality": 4,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 123746,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_inscription_tarot_volcanocard",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 1
+}

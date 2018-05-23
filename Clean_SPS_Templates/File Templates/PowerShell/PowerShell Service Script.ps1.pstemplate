@@ -1,0 +1,3 @@
+﻿<Template version="1.0" type="File" tags="PowerShell, Service">
+  <Description>Creates a PowerShell script service script. Used for the service packaging engine.</Description>
+</Template>

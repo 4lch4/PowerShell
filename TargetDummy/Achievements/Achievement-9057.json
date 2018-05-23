@@ -1,0 +1,18 @@
+{
+  "id": 9057,
+  "title": "Dragonmaw? More Like Dragonfall!",
+  "points": 10,
+  "description": "Kill 5 Emberscale Ironflight before defeating Warlord Zaela in Upper Blackrock Spire on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_tabard_dragonmawclan",
+  "criteria": [
+    {
+      "id": 26343,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

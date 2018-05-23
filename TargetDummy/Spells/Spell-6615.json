@@ -1,0 +1,8 @@
+{
+  "id": 6615,
+  "name": "Free Action",
+  "icon": "inv_potion_04",
+  "description": "Makes you immune to stun and movement impairing effects for the next 5 sec.   Does not remove effects already on the imbiber.",
+  "castTime": "Instant",
+  "cooldown": "1 min cooldown"
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1036,
+  "title": "The Fires of Azeroth",
+  "points": 10,
+  "description": "Complete the Flame Keeper achievements.",
+  "rewardItems": [],
+  "icon": "spell_fire_fireball",
+  "criteria": [
+    {
+      "id": 18216,
+      "description": "Flame Keeper of Cataclysm",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3199,
+      "description": "Flame Keeper of Eastern Kingdoms",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3200,
+      "description": "Flame Keeper of Kalimdor",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18217,
+      "description": "Flame Keeper of Northrend",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3201,
+      "description": "Flame Keeper of Outland",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

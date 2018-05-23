@@ -1,0 +1,36 @@
+{
+  "id": 1877,
+  "title": "Less Is More (25 player)",
+  "points": 10,
+  "description": "Defeat Sartharion the Onyx Guardian and the Twilight Drakes with fewer than 21 players in 25-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_coablackdragonflight_25man",
+  "criteria": [
+    {
+      "id": 7185,
+      "description": "Vesperon",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7188,
+      "description": "Tenebron",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7187,
+      "description": "Shadron",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7186,
+      "description": "Sartharion the Onyx Guardian",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

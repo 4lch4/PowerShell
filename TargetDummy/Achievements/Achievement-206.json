@@ -1,0 +1,18 @@
+{
+  "id": 206,
+  "title": "Supreme Defender",
+  "points": 10,
+  "description": "Kill 100 flag carriers in Warsong Gulch.",
+  "rewardItems": [],
+  "icon": "achievement_bg_kill_flag_carrierwsg",
+  "criteria": [
+    {
+      "id": 3698,
+      "description": "Horde Flag Carriers",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

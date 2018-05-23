@@ -1,0 +1,9 @@
+{
+  "id": 10839,
+  "name": "First Aid",
+  "subtext": "Rank 8",
+  "icon": "spell_holy_heal",
+  "description": "Heals 2,352 damage over 8 sec.",
+  "range": "15 yd range",
+  "castTime": "Channeled"
+}

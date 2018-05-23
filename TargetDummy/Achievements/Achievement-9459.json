@@ -1,0 +1,18 @@
+{
+  "id": 9459,
+  "title": "Fat Sleeper Angler",
+  "points": 5,
+  "description": "Catch 100 Enormous Fat Sleeper fish in Draenor.",
+  "rewardItems": [],
+  "icon": "inv_fishing_f_sleeper3",
+  "criteria": [
+    {
+      "id": 25808,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

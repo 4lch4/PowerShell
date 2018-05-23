@@ -1,0 +1,36 @@
+{
+  "id": 564,
+  "title": "The Construct Quarter (10 player)",
+  "points": 10,
+  "description": "Defeat the bosses of The Construct Quarter of Naxxramas in 10-player mode.",
+  "rewardItems": [],
+  "icon": "ability_rogue_deviouspoisons",
+  "criteria": [
+    {
+      "id": 5110,
+      "description": "Patchwerk",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6425,
+      "description": "Grobbulus",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5117,
+      "description": "Gluth",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 5119,
+      "description": "Thaddius",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 515,
+  "title": "500 Honorable Kills",
+  "points": 10,
+  "description": "Get 500 honorable kills.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_p_03",
+  "criteria": [
+    {
+      "id": 13253,
+      "description": "Get 500 honorable kills",
+      "orderIndex": 1,
+      "max": 500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

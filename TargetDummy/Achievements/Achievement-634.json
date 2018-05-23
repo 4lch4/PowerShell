@@ -1,0 +1,30 @@
+{
+  "id": 634,
+  "title": "Gnomeregan",
+  "points": 10,
+  "description": "Defeat Mekgineer Thermaplugg.",
+  "rewardItems": [],
+  "icon": "achievement_boss_mekgineer_thermaplugg",
+  "criteria": [
+    {
+      "id": 18529,
+      "description": "Mekgineer Thermaplugg",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4252,
+      "description": "The Grand Betrayal",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4253,
+      "description": "Rig Wars",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

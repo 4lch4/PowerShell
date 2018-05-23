@@ -1,0 +1,8 @@
+{
+  "id": 9008,
+  "name": "Shoot",
+  "subtext": "Rank 1",
+  "icon": "ability_marksmanship",
+  "description": "Fire at the target with a ranged weapon.",
+  "castTime": "Instant"
+}

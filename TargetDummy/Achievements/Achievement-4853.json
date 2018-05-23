@@ -1,0 +1,176 @@
+{
+  "id": 4853,
+  "title": "Glory of the Cataclysm Raider",
+  "points": 25,
+  "description": "Complete the Cataclysm raid achievements listed below.",
+  "reward": "Reward: Reins of the Drake of the East Wind",
+  "rewardItems": [
+    {
+      "id": 62901,
+      "name": "Reins of the Drake of the East Wind",
+      "icon": "inv_misc_stormdragonred",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_helmet_100",
+  "criteria": [
+    {
+      "id": 15676,
+      "description": "Heroic: Magmaw",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15677,
+      "description": "Heroic: Golem Council",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15678,
+      "description": "Heroic: Maloriak",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15679,
+      "description": "Heroic: Atramedes",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15680,
+      "description": "Heroic: Chimaeron",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 15681,
+      "description": "Heroic: Nefarian",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 15682,
+      "description": "Heroic: Halfus Wyrmbreaker",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 15683,
+      "description": "Heroic: Valiona and Theralion",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 15684,
+      "description": "Heroic: Ascendant Council",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 15685,
+      "description": "Heroic: Cho'gall",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 15686,
+      "description": "Heroic: Conclave of Wind",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 15687,
+      "description": "Heroic: Al'Akir",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 15265,
+      "description": "Parasite Evening",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 15266,
+      "description": "Achieve-a-tron",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 15267,
+      "description": "Silence is Golden",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 15268,
+      "description": "Full of Sound and Fury",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 15269,
+      "description": "Abberant Behavior",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 15270,
+      "description": "Keeping it in the Family",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 15271,
+      "description": "The Only Escape",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 15272,
+      "description": "Double Dragon",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 15273,
+      "description": "Elementary",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 15274,
+      "description": "The Abyss Will Gaze Back Into You",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 15276,
+      "description": "Stay Chill",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 15277,
+      "description": "Four Play",
+      "orderIndex": 24,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

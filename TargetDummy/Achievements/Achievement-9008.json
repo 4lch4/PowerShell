@@ -1,0 +1,18 @@
+{
+  "id": 9008,
+  "title": "Is Draenor on Fire?",
+  "points": 10,
+  "description": "Defeat Gug'rokk without killing any Unstable Slag in Bloodmaul Slag Mines on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "spell_fire_windsofwoe",
+  "criteria": [
+    {
+      "id": 24708,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 249,
+  "title": "Dressed for the Occasion",
+  "points": 10,
+  "description": "Discover an Elegant Dress by opening Brightly Colored Eggs during the Noblegarden celebration.",
+  "rewardItems": [],
+  "icon": "inv_chest_cloth_04",
+  "criteria": [
+    {
+      "id": 3220,
+      "description": "Elegant Dress",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

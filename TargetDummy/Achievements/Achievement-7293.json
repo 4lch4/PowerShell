@@ -1,0 +1,18 @@
+{
+  "id": 7293,
+  "title": "Till the Break of Dawn",
+  "points": 10,
+  "description": "Successfully harvest 100 crops.",
+  "rewardItems": [],
+  "icon": "inv_misc_herb_02",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Harvest 100 crops",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

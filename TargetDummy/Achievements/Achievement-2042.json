@@ -1,0 +1,18 @@
+{
+  "id": 2042,
+  "title": "Shatter Resistant",
+  "points": 10,
+  "description": "Defeat Volkhan in the Halls of Lightning on Heroic Difficulty without allowing him to shatter more than 4 Brittle Golems.",
+  "rewardItems": [],
+  "icon": "spell_fire_incinerate",
+  "criteria": [
+    {
+      "id": 7321,
+      "description": "Volkhan",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

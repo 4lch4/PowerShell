@@ -1,0 +1,18 @@
+{
+  "id": 9217,
+  "title": "Operation Counterattack",
+  "points": 10,
+  "description": "Defeat Fangraal within 8 minutes of it being summoned by the Alliance.",
+  "rewardItems": [],
+  "icon": "inv_pet_ancientprotector",
+  "criteria": [
+    {
+      "id": 25841,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

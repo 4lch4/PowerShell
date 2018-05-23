@@ -1,0 +1,18 @@
+{
+  "id": 2079,
+  "title": "Tabard of the Protector",
+  "points": 0,
+  "description": "Obtained a Tabard of the Protector from the Dark Portal event.",
+  "rewardItems": [],
+  "icon": "inv_shirt_guildtabard_01",
+  "criteria": [
+    {
+      "id": 7382,
+      "description": "Tabard of the Protector",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5249,
+  "title": "One Two Three You Don't Know About Me",
+  "points": 10,
+  "description": "Assault 2 bases in a single Battle for Gilneas.",
+  "rewardItems": [],
+  "icon": "achievement_bg_takexflags_ab",
+  "criteria": [
+    {
+      "id": 14930,
+      "description": "Assault 3 bases in a single Battle for Gilneas.",
+      "orderIndex": 1,
+      "max": 2
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

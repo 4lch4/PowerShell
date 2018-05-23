@@ -1,0 +1,276 @@
+{
+  "id": 11257,
+  "title": "Treasures of Highmountain",
+  "points": 10,
+  "description": "Discover 40 treasures in Highmountain.",
+  "rewardItems": [],
+  "icon": "garrison_bronzechest",
+  "criteria": [
+    {
+      "id": 33252,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 33253,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 33514,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 33515,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 33516,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 33517,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 33518,
+      "description": "",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 33519,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 33520,
+      "description": "",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 33521,
+      "description": "",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 33522,
+      "description": "",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 33523,
+      "description": "",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 33524,
+      "description": "",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 33525,
+      "description": "",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 33526,
+      "description": "",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 33527,
+      "description": "",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 33528,
+      "description": "",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 33529,
+      "description": "",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 33530,
+      "description": "",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 33531,
+      "description": "",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 33532,
+      "description": "",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 33533,
+      "description": "",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 33534,
+      "description": "",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 33535,
+      "description": "",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 33536,
+      "description": "",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 33537,
+      "description": "",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 33538,
+      "description": "",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 33539,
+      "description": "",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 33540,
+      "description": "",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 33541,
+      "description": "",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 33542,
+      "description": "",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 33543,
+      "description": "",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 33544,
+      "description": "",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 33545,
+      "description": "",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 33546,
+      "description": "",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 33547,
+      "description": "",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 33548,
+      "description": "",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 33549,
+      "description": "",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 33550,
+      "description": "",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 33551,
+      "description": "",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 33552,
+      "description": "",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 33553,
+      "description": "",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 33554,
+      "description": "",
+      "orderIndex": 42,
+      "max": 1
+    },
+    {
+      "id": 33555,
+      "description": "",
+      "orderIndex": 43,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

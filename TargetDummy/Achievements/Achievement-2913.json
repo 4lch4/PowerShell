@@ -1,0 +1,18 @@
+{
+  "id": 2913,
+  "title": "Orbital Bombardment (10 player)",
+  "points": 10,
+  "description": "Defeat Flame Leviathan with at least 1 Orbital Defense System active in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_orb_04",
+  "criteria": [
+    {
+      "id": 10056,
+      "description": "Flame Leviathan",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 7265,
+  "title": "Greenstone Village",
+  "points": 10,
+  "description": "Defeat Vengeful Hui in the Greenstone Village scenario.",
+  "rewardItems": [],
+  "icon": "inv_misc_gem_stone_01",
+  "criteria": [
+    {
+      "id": 19205,
+      "description": "Kill Vengeful Hui",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

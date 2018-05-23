@@ -1,0 +1,18 @@
+{
+  "id": 5286,
+  "title": "Prince of Tides",
+  "points": 10,
+  "description": "Defeat an Unyielding Behemoth while you have the Tidal Surge effect during the Ozumat encounter in Throne of the Tides on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_throneofthetides_ozumat",
+  "criteria": [
+    {
+      "id": 16009,
+      "description": "Prince of Tides",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

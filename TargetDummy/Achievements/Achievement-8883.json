@@ -1,0 +1,18 @@
+{
+  "id": 8883,
+  "title": "Shadowmoon Burial Grounds Challenger",
+  "points": 0,
+  "description": "Complete the Shadowmoon Burial Grounds Challenge Mode.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_shadowmoonhideout_hourglass",
+  "criteria": [
+    {
+      "id": 24475,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

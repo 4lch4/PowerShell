@@ -1,0 +1,18 @@
+{
+  "id": 10807,
+  "title": "Maw of Souls",
+  "points": 10,
+  "description": "Defeat Helya in Maw of Souls.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_mawofsouls",
+  "criteria": [
+    {
+      "id": 29287,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

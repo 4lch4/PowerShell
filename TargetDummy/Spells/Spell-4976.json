@@ -1,0 +1,8 @@
+{
+  "id": 4976,
+  "name": "Filling",
+  "icon": "trade_engineering",
+  "description": "Right-click to fill the Crystal Phial at the Shadowglen moonwell.",
+  "range": "5 yd range",
+  "castTime": "3 sec cast"
+}

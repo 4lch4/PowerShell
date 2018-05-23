@@ -1,0 +1,30 @@
+{
+  "id": 11335,
+  "title": "Season Tickets",
+  "points": 10,
+  "description": "Complete each of the following Opera Hall plays in Return to Karazhan on Mythic difficulty:",
+  "rewardItems": [],
+  "icon": "inv_scroll_16",
+  "criteria": [
+    {
+      "id": 34613,
+      "description": "Wikket",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 34614,
+      "description": "Westfall Story",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 34615,
+      "description": "Beautiful Beast",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

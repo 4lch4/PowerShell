@@ -1,0 +1,78 @@
+{
+  "id": 229,
+  "title": "The Grim Reaper",
+  "points": 10,
+  "description": "Get 30 Honorable Kills in a single battle in any battleground.",
+  "rewardItems": [],
+  "icon": "spell_shadow_nethercloak",
+  "criteria": [
+    {
+      "id": 1820,
+      "description": "30 hks in arathi",
+      "orderIndex": 0,
+      "max": 30
+    },
+    {
+      "id": 1821,
+      "description": "30 hks in av",
+      "orderIndex": 1,
+      "max": 30
+    },
+    {
+      "id": 1822,
+      "description": "30 hks in eots",
+      "orderIndex": 2,
+      "max": 30
+    },
+    {
+      "id": 1823,
+      "description": "30 hks in wsg",
+      "orderIndex": 3,
+      "max": 30
+    },
+    {
+      "id": 12579,
+      "description": "30 hks in ioc",
+      "orderIndex": 4,
+      "max": 30
+    },
+    {
+      "id": 22584,
+      "description": "30 hks in sota",
+      "orderIndex": 5,
+      "max": 30
+    },
+    {
+      "id": 22601,
+      "description": "30 hks in gilneas",
+      "orderIndex": 6,
+      "max": 30
+    },
+    {
+      "id": 22604,
+      "description": "30 hks in silvershard",
+      "orderIndex": 7,
+      "max": 30
+    },
+    {
+      "id": 22611,
+      "description": "30 hks in tok",
+      "orderIndex": 8,
+      "max": 30
+    },
+    {
+      "id": 22607,
+      "description": "30 hks in tp",
+      "orderIndex": 9,
+      "max": 30
+    },
+    {
+      "id": 22611,
+      "description": "30 hks in deepwind gorge",
+      "orderIndex": 10,
+      "max": 30
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

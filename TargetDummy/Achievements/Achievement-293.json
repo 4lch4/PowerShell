@@ -1,0 +1,18 @@
+{
+  "id": 293,
+  "title": "Disturbing the Peace",
+  "points": 10,
+  "description": "While wearing 3 pieces of Brewfest clothing, get completely smashed and dance in Dalaran.",
+  "rewardItems": [],
+  "icon": "inv_misc_beer_01",
+  "criteria": [
+    {
+      "id": 4112,
+      "description": "/dance",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

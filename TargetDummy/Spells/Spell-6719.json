@@ -1,0 +1,8 @@
+{
+  "id": 6719,
+  "name": "[PH] Teleport to Theramore",
+  "icon": "trade_engineering",
+  "description": "Sends player to Auberdine",
+  "range": "20 yd range",
+  "castTime": "2 sec cast"
+}

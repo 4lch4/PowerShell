@@ -1,0 +1,18 @@
+{
+  "id": 8318,
+  "title": "Heroic: Dark Heart of Pandaria",
+  "points": 10,
+  "description": "Complete the Dark Heart of Pandaria scenario on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "inv_heart_of_the_thunderking_icon",
+  "criteria": [
+    {
+      "id": 23354,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

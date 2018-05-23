@@ -1,0 +1,43 @@
+{
+  "id": 8055,
+  "title": "Khan",
+  "points": 50,
+  "description": "Complete the battleground achievements listed below.",
+  "reward": "Title Reward: Khan",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_15",
+  "criteria": [
+    {
+      "id": 22722,
+      "description": "Master of the Battle for Gilneas",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22727,
+      "description": "Master of Isle of Conquest",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22724,
+      "description": "Master of Twin Peaks",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22725,
+      "description": "Master of Silvershard Mines",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 22726,
+      "description": "Master of Temple of Kotmogu",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 1
+}

@@ -1,0 +1,96 @@
+{
+  "id": 10260,
+  "title": "Explore Tanaan Jungle",
+  "points": 10,
+  "description": "Explore Tanaan Jungle, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_tanaanjungle",
+  "criteria": [
+    {
+      "id": 28661,
+      "description": "Zeth'Kur",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 28662,
+      "description": "Rangari Refuge",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 28663,
+      "description": "Fang'rila",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 28664,
+      "description": "The Fel Forge",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 28665,
+      "description": "Hellfire Citadel",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 28666,
+      "description": "The Iron Front",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 28667,
+      "description": "Ironhold Harbor",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 28668,
+      "description": "Throne of Kil'jaeden",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 28669,
+      "description": "Ruins of Kra'nak",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 28670,
+      "description": "Lion's Watch",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 28671,
+      "description": "Zorammarsh",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 28672,
+      "description": "Temple of Sha'naar",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 28673,
+      "description": "Vol'mar",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 28674,
+      "description": "Zeth'Gol",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

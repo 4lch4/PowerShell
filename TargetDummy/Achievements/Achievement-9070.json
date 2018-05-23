@@ -1,0 +1,18 @@
+{
+  "id": 9070,
+  "title": "Overstuffed",
+  "points": 5,
+  "description": "Raise an Elekk Plushie to level 25.",
+  "rewardItems": [],
+  "icon": "spell_magic_featherfall",
+  "criteria": [
+    {
+      "id": 25123,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

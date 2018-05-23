@@ -1,0 +1,7 @@
+{
+  "id": 9175,
+  "name": "Running Speed",
+  "icon": "ability_rogue_sprint",
+  "description": "Increases run speed by 40% for 15 sec.",
+  "castTime": "Instant"
+}

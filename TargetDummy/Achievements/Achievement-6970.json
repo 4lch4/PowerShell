@@ -1,0 +1,18 @@
+{
+  "id": 6970,
+  "title": "Blackout",
+  "points": 10,
+  "description": "Kill 100 enemies that are holding an Orb of Power.",
+  "rewardItems": [],
+  "icon": "ability_monk_blackoutkick",
+  "criteria": [
+    {
+      "id": 20104,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

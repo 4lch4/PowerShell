@@ -1,0 +1,18 @@
+{
+  "id": 7301,
+  "title": "Master of the Wok",
+  "points": 10,
+  "description": "Obtain 600 skill points in the Way of the Wok.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_15",
+  "criteria": [
+    {
+      "id": 20478,
+      "description": "Obtain 600 skill points in Way of the Wok.",
+      "orderIndex": 0,
+      "max": 600
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

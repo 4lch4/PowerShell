@@ -1,0 +1,18 @@
+{
+  "id": 7356,
+  "title": "Collector: Mogu Coins",
+  "points": 10,
+  "description": "Restore 5 Mogu Coins.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20669,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

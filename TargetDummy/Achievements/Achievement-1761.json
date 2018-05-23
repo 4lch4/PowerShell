@@ -1,0 +1,18 @@
+{
+  "id": 1761,
+  "title": "The Dapper Sapper",
+  "points": 10,
+  "description": "Plant 100 Seaforium charges which successfully damage a wall.",
+  "rewardItems": [],
+  "icon": "inv_misc_bomb_01",
+  "criteria": [
+    {
+      "id": 7632,
+      "description": "Plant 100 Seaforium charges which successfully damage a wall",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1687,
+  "title": "Let It Snow",
+  "points": 10,
+  "description": "During the Feast of Winter Veil, use a Handful of Snowflakes on each of the race/class combinations listed below.",
+  "rewardItems": [],
+  "icon": "spell_frost_frostshock",
+  "criteria": [
+    {
+      "id": 6237,
+      "description": "Orc Death Knight",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6238,
+      "description": "Human Warrior",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6239,
+      "description": "Tauren Shaman",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6240,
+      "description": "Night Elf Druid",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6241,
+      "description": "Undead Rogue",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6242,
+      "description": "Troll Hunter",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6243,
+      "description": "Gnome Mage",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6244,
+      "description": "Dwarf Paladin",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 6245,
+      "description": "Blood Elf Warlock",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 6246,
+      "description": "Draenei Priest",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

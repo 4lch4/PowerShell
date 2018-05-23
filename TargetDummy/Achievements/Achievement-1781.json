@@ -1,0 +1,18 @@
+{
+  "id": 1781,
+  "title": "Critter Gitter",
+  "points": 10,
+  "description": "Using Critter Bites, coerce 10 critters to be your pet within 3 minutes or less.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_88_ravagernuggets",
+  "criteria": [
+    {
+      "id": 6606,
+      "description": "Get 10 critters in 3 minutes",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

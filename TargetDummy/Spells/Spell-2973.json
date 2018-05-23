@@ -1,0 +1,9 @@
+{
+  "id": 2973,
+  "name": "zzOldRaptor Strike",
+  "icon": "ability_meleedamage",
+  "description": "An attack that instantly deals your normal weapon damage plus 374.",
+  "range": "Melee Range",
+  "castTime": "Instant",
+  "cooldown": "6 sec cooldown"
+}

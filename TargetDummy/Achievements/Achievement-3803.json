@@ -1,0 +1,18 @@
+{
+  "id": 3803,
+  "title": "The Faceroller",
+  "points": 10,
+  "description": "Defeat Eadric the Pure in the Trial of the Champion with his own hammer on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "ability_thunderclap",
+  "criteria": [
+    {
+      "id": 11858,
+      "description": "Defeat Eadric with his own hammer.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

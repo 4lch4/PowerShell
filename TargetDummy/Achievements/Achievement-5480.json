@@ -1,0 +1,24 @@
+{
+  "id": 5480,
+  "title": "Preparing for Disaster",
+  "points": 10,
+  "description": "Create 500 Dense Embersilk Bandages.",
+  "rewardItems": [],
+  "icon": "inv_emberweavebandage2",
+  "criteria": [
+    {
+      "id": 15825,
+      "description": "Create 500 Dense Embersilk Bandages",
+      "orderIndex": 1,
+      "max": 500
+    },
+    {
+      "id": 16766,
+      "description": "Create 500 Dense Embersilk Bandages",
+      "orderIndex": 2,
+      "max": 500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 10073,
+  "name": "dmg3",
+  "icon": "spell_nature_wispheal",
+  "description": "Deals 500 damage to a target.",
+  "range": "100 yd range",
+  "castTime": "Instant"
+}

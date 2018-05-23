@@ -1,0 +1,19 @@
+{
+  "id": 871,
+  "title": "Avast Ye, Admiral!",
+  "points": 0,
+  "description": "Obtain the Bloodsail Admiral's Hat... and try to get some fresh air every now and then.",
+  "reward": "Title Reward: Bloodsail Admiral",
+  "rewardItems": [],
+  "icon": "inv_helmet_66",
+  "criteria": [
+    {
+      "id": 1800,
+      "description": "Complete the Avast Ye, Admiral quest",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 3936,
+  "title": "Not One, But Two Jormungars (10 player)",
+  "points": 10,
+  "description": "Defeat Acidmaw and Dreadscale within 10 seconds of each other in 10-player mode.",
+  "rewardItems": [],
+  "icon": "ability_hunter_pet_worm",
+  "criteria": [
+    {
+      "id": 12280,
+      "description": "Kill Acidmaw & Dreadscale within 10sec",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12281,
+      "description": "Kill Acidmaw & Dreadscale within 10sec",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

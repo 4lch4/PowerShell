@@ -1,0 +1,48 @@
+{
+  "id": 6031,
+  "title": "Taking the Show on the Road",
+  "points": 10,
+  "description": "Launch off Darkmoon Fireworks in every friendly capital city.",
+  "rewardItems": [],
+  "icon": "inv_misc_missilesmallcluster_green",
+  "criteria": [
+    {
+      "id": 27718,
+      "description": "Dalaran",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27719,
+      "description": "Orgrimmar",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27720,
+      "description": "Shattrath City",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27721,
+      "description": "Silvermoon City",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27722,
+      "description": "Thunder Bluff",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27723,
+      "description": "Undercity",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

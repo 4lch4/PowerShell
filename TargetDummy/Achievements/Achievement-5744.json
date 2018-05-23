@@ -1,0 +1,60 @@
+{
+  "id": 5744,
+  "title": "Gurubashi Headhunter",
+  "points": 10,
+  "description": "Defeat Gub, Mortaxx, Kaulema, Mor'Lek, the Florawing Hive Queen, a Lost Offspring of Gahz'ranka, Tor-Tun, and the Gurubashi Master Chef in Zul'Gurub on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "inv_spear_02",
+  "criteria": [
+    {
+      "id": 16808,
+      "description": "Gub",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 16809,
+      "description": "Mortaxx",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 16810,
+      "description": "Kaulema",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 16811,
+      "description": "Mor'Lek",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 16812,
+      "description": "Hive Queen",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 16813,
+      "description": "Lost Offspring",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 16814,
+      "description": "Master Chef",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 17022,
+      "description": "Tor-Tun",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2951,
+  "title": "With Open Arms (10 player)",
+  "points": 10,
+  "description": "Defeat Kologarn without destroying either of his arms in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_boss_kologarn_01",
+  "criteria": [
+    {
+      "id": 10285,
+      "description": "Kologarn",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

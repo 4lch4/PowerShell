@@ -1,0 +1,8 @@
+{
+  "id": 9003,
+  "name": "Coarse Dynamite",
+  "icon": "spell_fire_selfdestruct",
+  "description": "Inflicts 6,096 damage in a 5 yard radius.",
+  "range": "40 yd range",
+  "castTime": "1 sec cast"
+}

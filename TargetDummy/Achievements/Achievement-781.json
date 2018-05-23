@@ -1,0 +1,108 @@
+{
+  "id": 781,
+  "title": "Explore Northern Stranglethorn",
+  "points": 10,
+  "description": "Explore Northern Stranglethorn, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_stranglethorn_01",
+  "criteria": [
+    {
+      "id": 1198,
+      "description": "Grom'gol Base Camp",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14062,
+      "description": "Balia'mah Ruins",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14063,
+      "description": "Bambala",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 14064,
+      "description": "Fort Livingston",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 14066,
+      "description": "Zuuldaia Ruins",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1197,
+      "description": "Nesingwary's Expedition",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1199,
+      "description": "Rebel Camp",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1200,
+      "description": "Kurzen's Compound",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1216,
+      "description": "Kal'ai Ruins",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1212,
+      "description": "Mizjah Ruins",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1213,
+      "description": "Mosh'Ogg Ogre Mound",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1215,
+      "description": "Lake Nazferiti",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1217,
+      "description": "Bal'lal Ruins",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1218,
+      "description": "The Vile Reef",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1220,
+      "description": "Ruins of Zul'Kunda",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1222,
+      "description": "Zul'Gurub",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

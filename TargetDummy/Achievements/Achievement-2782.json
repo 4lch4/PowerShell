@@ -1,0 +1,42 @@
+{
+  "id": 2782,
+  "title": "Champion of the Alliance",
+  "points": 10,
+  "description": "Earn the right to represent every Alliance race's faction in the Argent Tournament.",
+  "rewardItems": [],
+  "icon": "inv_misc_tournaments_banner_human",
+  "criteria": [
+    {
+      "id": 9778,
+      "description": "Champion of Darnassus",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 9779,
+      "description": "Champion of the Exodar",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 9780,
+      "description": "Champion of Gnomeregan",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9781,
+      "description": "Champion of Stormwind",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 9782,
+      "description": "Champion of Ironforge",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 0
+}

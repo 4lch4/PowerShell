@@ -1,0 +1,11 @@
+{
+  "id": 9575,
+  "title": "Proving Yourself: Endless Damage (Wave 10)",
+  "points": 10,
+  "description": "Successfully complete Wave 10 of the Basic Damage (Endless) trial at the Proving Grounds.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_platinum",
+  "criteria": [],
+  "accountWide": true,
+  "factionId": 2
+}

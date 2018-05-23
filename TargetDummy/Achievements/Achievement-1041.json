@@ -1,0 +1,36 @@
+{
+  "id": 1041,
+  "title": "Rotten Hallow",
+  "points": 10,
+  "description": "Ruin Hallow's End for the Alliance and foil their attempts to wreck the Horde celebration by completing the following quests.",
+  "rewardItems": [],
+  "icon": "achievement_halloween_rottenegg_01",
+  "criteria": [
+    {
+      "id": 3218,
+      "description": "Stink Bombs Away!",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3219,
+      "description": "Clean Up in Undercity",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17608,
+      "description": "A Time to Build Up",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 17609,
+      "description": "A Time to Break Down",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

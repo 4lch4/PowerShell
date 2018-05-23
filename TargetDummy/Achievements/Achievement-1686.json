@@ -1,0 +1,60 @@
+{
+  "id": 1686,
+  "title": "Bros. Before Ho Ho Ho's",
+  "points": 10,
+  "description": "Use Mistletoe on the Alliance \"Brothers\" during the Feast of Winter Veil.",
+  "rewardItems": [],
+  "icon": "inv_misc_herb_09",
+  "criteria": [
+    {
+      "id": 6228,
+      "description": "Brother Nimetz in Stranglethorn Vale",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6229,
+      "description": "Brother Wilhelm in Goldshire",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6231,
+      "description": "Brother Karman in Theramore",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6230,
+      "description": "Brother Kristoff in Stormwind",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6232,
+      "description": "Brother Joshua in Stormwind",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6233,
+      "description": "Brother Crowley in Stormwind",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6234,
+      "description": "Brother Cassius in Stormwind",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6235,
+      "description": "Brother Benjamin in Stormwind",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,24 @@
+{
+  "id": 5119,
+  "title": "Heroic: Ascendant Council",
+  "points": 10,
+  "description": "Defeat the Ascendant Council in the Bastion of Twilight on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_bastionoftwilight_twilightascendantcouncil",
+  "criteria": [
+    {
+      "id": 16282,
+      "description": "Twilight Ascendant Council",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 16283,
+      "description": "Twilight Ascendant Council",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

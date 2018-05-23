@@ -1,0 +1,36 @@
+{
+  "id": 4632,
+  "title": "Heroic: Storming the Citadel (25 player)",
+  "points": 10,
+  "description": "Defeat the first four bosses in Icecrown Citadel in 25-player Heroic mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_icecrown_icecrownentrance",
+  "criteria": [
+    {
+      "id": 13091,
+      "description": "Lord Marrowgar",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13106,
+      "description": "Lady Deathwhisper",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 13111,
+      "description": "Claim victory in the Gunship Battle",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 13114,
+      "description": "The Deathbringer",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

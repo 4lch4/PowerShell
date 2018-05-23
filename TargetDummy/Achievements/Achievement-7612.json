@@ -1,0 +1,133 @@
+{
+  "id": 7612,
+  "title": "The Seat of Knowledge",
+  "points": 10,
+  "description": "Restore and display pristine versions of all Pandaren and Mogu artifacts.",
+  "reward": "Title Reward: Seeker of Knowledge",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 21954,
+      "description": "Pristine Manacles of Rebellion",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21956,
+      "description": "Pristine Mogu Runestone",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21958,
+      "description": "Pristine Terracotta Arm",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21960,
+      "description": "Pristine Petrified Bone Whip",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 21965,
+      "description": "Pristine Thunder King Insignia",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21967,
+      "description": "Pristine Edicts of the Thunder King",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 21969,
+      "description": "Pristine Iron Amulet",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21970,
+      "description": "Pristine Branding Iron",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21971,
+      "description": "Pristine Mogu Coin",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 21972,
+      "description": "Pristine Monument Ledger",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 21973,
+      "description": "Pristine Pandaren Tea Set",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 21974,
+      "description": "Pristine Game Board",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 21975,
+      "description": "Pristine Twin Stein Set",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 21976,
+      "description": "Pristine Walking Cane",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 21977,
+      "description": "Pristine Empty Keg",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 21978,
+      "description": "Pristine Carved Bronze Mirror",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 21979,
+      "description": "Pristine Gold-Inlaid Figurine",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 21980,
+      "description": "Pristine Apothecary Tins",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 21981,
+      "description": "Pristine Pearl of Yu'lon",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 21982,
+      "description": "Pristine Standard of Niuzao",
+      "orderIndex": 19,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

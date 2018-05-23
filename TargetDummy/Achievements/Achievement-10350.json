@@ -1,0 +1,30 @@
+{
+  "id": 10350,
+  "title": "Tanaan Diplomat",
+  "points": 10,
+  "description": "Earn Revered reputation with all three factions in Tanaan Jungle.",
+  "rewardItems": [],
+  "icon": "achievement_zone_tanaanjungle",
+  "criteria": [
+    {
+      "id": 28981,
+      "description": "Hand of the Prophet",
+      "orderIndex": 0,
+      "max": 21000
+    },
+    {
+      "id": 28980,
+      "description": "Order of the Awakened",
+      "orderIndex": 1,
+      "max": 21000
+    },
+    {
+      "id": 28979,
+      "description": "The Saberstalkers",
+      "orderIndex": 2,
+      "max": 21000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

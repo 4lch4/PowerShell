@@ -1,0 +1,48 @@
+{
+  "id": 9858,
+  "title": "Master and Commander",
+  "points": 10,
+  "description": "Defeat all of the summonable Garrison raid bosses.",
+  "rewardItems": [],
+  "icon": "ability_toughness",
+  "criteria": [
+    {
+      "id": 27704,
+      "description": "Teluur",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27705,
+      "description": "Gaur",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27706,
+      "description": "Commander Dro'gan",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27707,
+      "description": "Mage Lord Gogg'nathog",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27708,
+      "description": "Lady Fleshsear",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27709,
+      "description": "Annihilon",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

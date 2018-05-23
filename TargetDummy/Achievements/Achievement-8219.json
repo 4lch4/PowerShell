@@ -1,0 +1,60 @@
+{
+  "id": 8219,
+  "title": "History of the Mantid",
+  "points": 10,
+  "description": "Restore and display pristine versions of all Mantid artifacts.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 22947,
+      "description": "Pristine Banner of the Mantid Empire",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22948,
+      "description": "Pristine Ancient Sap Feeder",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22949,
+      "description": "Pristine Praying Mantid",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22950,
+      "description": "Pristine Sound Beacon",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 22951,
+      "description": "Pristine Remains of a Paragon",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 22952,
+      "description": "Pristine Mantid Lamp",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 22953,
+      "description": "Pristine Pollen Collector",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 22954,
+      "description": "Pristine Kypari Sap Container",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

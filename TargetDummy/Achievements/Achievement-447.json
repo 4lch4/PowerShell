@@ -1,0 +1,18 @@
+{
+  "id": 447,
+  "title": "Champion",
+  "points": 0,
+  "description": "Earned the title, \"Champion\" at level 60.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_10",
+  "criteria": [
+    {
+      "id": 711,
+      "description": "Champion",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

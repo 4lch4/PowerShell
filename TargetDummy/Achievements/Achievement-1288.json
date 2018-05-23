@@ -1,0 +1,84 @@
+{
+  "id": 1288,
+  "title": "Northrend Dungeonmaster",
+  "points": 10,
+  "description": "Complete the Northrend dungeon achievements listed below.",
+  "rewardItems": [],
+  "icon": "spell_holy_championsbond",
+  "criteria": [
+    {
+      "id": 4040,
+      "description": "Utgarde Keep",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4041,
+      "description": "The Nexus",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4042,
+      "description": "Caverns of Time: Stratholme",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4043,
+      "description": "Azjol-Nerub",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4044,
+      "description": "Ahn'kahet: The Old Kingdom",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4045,
+      "description": "Drak'Tharon Keep",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4046,
+      "description": "The Violet Hold",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4047,
+      "description": "Gundrak",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4048,
+      "description": "Halls of Stone",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4049,
+      "description": "Halls of Lightning",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4050,
+      "description": "The Oculus",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4051,
+      "description": "Utgarde Pinnacle",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

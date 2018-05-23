@@ -1,0 +1,18 @@
+{
+  "id": 8472,
+  "title": "Mythic: Malkorok",
+  "points": 10,
+  "description": "Defeat Malkorok in Siege of Orgrimmar on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_malkorok",
+  "criteria": [
+    {
+      "id": 23675,
+      "description": "Malkorok",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

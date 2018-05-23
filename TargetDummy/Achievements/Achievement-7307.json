@@ -1,0 +1,18 @@
+{
+  "id": 7307,
+  "title": "Silent Assassin",
+  "points": 10,
+  "description": "Complete a full set of Shado-Pan Wu Kao daily quests while only killing the exact number of mantid required.",
+  "rewardItems": [],
+  "icon": "ability_rogue_masterofsubtlety",
+  "criteria": [
+    {
+      "id": 21953,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

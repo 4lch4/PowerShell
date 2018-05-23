@@ -1,0 +1,18 @@
+{
+  "id": 10071,
+  "title": "The Legion Will NOT Conquer All",
+  "points": 10,
+  "description": "Defeat Supreme Lord Kazzak in Tanaan Jungle.",
+  "rewardItems": [],
+  "icon": "warlock_summon_doomguard",
+  "criteria": [
+    {
+      "id": 28283,
+      "description": "Supreme Lord Kazzak defeated",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

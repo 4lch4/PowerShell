@@ -1,0 +1,48 @@
+{
+  "id": 7039,
+  "title": "The Long Riders",
+  "points": 10,
+  "description": "Escort a mine cart from its spawn to a depot and capture it without losing control.",
+  "rewardItems": [],
+  "icon": "ability_mount_ridinghorse",
+  "criteria": [
+    {
+      "id": 20995,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 20996,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 20997,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 20998,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 20999,
+      "description": "",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21000,
+      "description": "",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

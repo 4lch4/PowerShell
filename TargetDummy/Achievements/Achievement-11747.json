@@ -1,0 +1,18 @@
+{
+  "id": 11747,
+  "title": "Merely a Set",
+  "points": 10,
+  "description": "Collect any class armor set from Serpentshrine Cavern and The Eye.",
+  "rewardItems": [],
+  "icon": "achievement_boss_kael'thassunstrider_01",
+  "criteria": [
+    {
+      "id": 36366,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

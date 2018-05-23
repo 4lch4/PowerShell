@@ -1,0 +1,24 @@
+{
+  "id": 583,
+  "title": "Arathi Basin All-Star",
+  "points": 20,
+  "description": "Assault and Defend 2 bases in a single Arathi Basin match.",
+  "rewardItems": [],
+  "icon": "ability_warrior_intensifyrage",
+  "criteria": [
+    {
+      "id": 426,
+      "description": "Assault 2 bases",
+      "orderIndex": 1,
+      "max": 2
+    },
+    {
+      "id": 427,
+      "description": "Defend 2 bases",
+      "orderIndex": 2,
+      "max": 2
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

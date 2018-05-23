@@ -1,0 +1,7 @@
+{
+  "id": 8210,
+  "name": "Savannah Cubs",
+  "icon": "ability_druid_rake",
+  "description": "Summons 3 Savannah Cubs to aid the caster in battle for 30 sec.",
+  "castTime": "Instant"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11778,
+  "title": "Mythic: The Desolate Host",
+  "points": 10,
+  "description": "Defeat the Desolate Host in Tomb of Sargeras on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_soulengine",
+  "criteria": [
+    {
+      "id": 36529,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

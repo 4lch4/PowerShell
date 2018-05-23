@@ -1,0 +1,4 @@
+<Template version="1.0" type="Grid" tags="Grid, PowerShell, Form">
+	<TargetGrid>datagridviewResults</TargetGrid>
+	<Description>Creates a simple form with a grid to display the results</Description>
+</Template>

@@ -1,0 +1,24 @@
+{
+  "id": 882,
+  "title": "Fiery Warhorse's Reins",
+  "points": 0,
+  "description": "Obtain the Fiery Warhorse's Reins from Attumen the Huntsman in Karazhan.",
+  "rewardItems": [],
+  "icon": "ability_mount_dreadsteed",
+  "criteria": [
+    {
+      "id": 1863,
+      "description": "Fiery Warhorse's Reins",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6163,
+      "description": "Fiery Warhorse",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

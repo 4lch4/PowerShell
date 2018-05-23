@@ -1,0 +1,18 @@
+{
+  "id": 8976,
+  "title": "Pair Annihilation",
+  "points": 10,
+  "description": "Defeat Ko'ragh in Highmaul with fewer than 15 Overflowing Energy orbs touching the ground or players without Nullification Barrier, on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "spell_fire_felflamestrike",
+  "criteria": [
+    {
+      "id": 24693,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

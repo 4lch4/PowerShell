@@ -1,0 +1,18 @@
+{
+  "id": 885,
+  "title": "Ashes of Al'ar",
+  "points": 0,
+  "description": "Obtain the Ashes of Al'ar from Kael'thas Sunstrider in Tempest Keep.",
+  "rewardItems": [],
+  "icon": "inv_misc_summerfest_brazierorange",
+  "criteria": [
+    {
+      "id": 6166,
+      "description": "Ashes of Al'ar",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

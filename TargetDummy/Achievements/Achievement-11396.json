@@ -1,0 +1,18 @@
+{
+  "id": 11396,
+  "title": "Mythic: Odyn",
+  "points": 10,
+  "description": "Defeat Odyn in Trial of Valor on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_odyn",
+  "criteria": [
+    {
+      "id": 34804,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

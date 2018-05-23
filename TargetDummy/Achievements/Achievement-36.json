@@ -1,0 +1,18 @@
+{
+  "id": 36,
+  "title": "The Empire of Zul'Drak",
+  "points": 10,
+  "description": "Complete 100 quests in Zul'Drak.",
+  "rewardItems": [],
+  "icon": "achievement_zone_zuldrak_07",
+  "criteria": [
+    {
+      "id": 77,
+      "description": "Complete 100 Zul'Drak Quests",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1023,
+  "title": "Flame Warden of Kalimdor",
+  "points": 10,
+  "description": "Honor the flames of Kalimdor.",
+  "rewardItems": [],
+  "icon": "inv_summerfest_firespirit",
+  "criteria": [
+    {
+      "id": 3076,
+      "description": "Ashenvale",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 3077,
+      "description": "Azuremyst Isle",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3078,
+      "description": "Bloodmyst Isle",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3079,
+      "description": "Darkshore",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3080,
+      "description": "Desolace",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3081,
+      "description": "Dustwallow Marsh",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3082,
+      "description": "Feralas",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3083,
+      "description": "Silithus",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 17016,
+      "description": "Southern Barrens",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 23513,
+      "description": "Stonetalon Mountains",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3084,
+      "description": "Tanaris",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3085,
+      "description": "Teldrassil",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 23514,
+      "description": "Un'Goro Crater",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 3087,
+      "description": "Winterspring",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

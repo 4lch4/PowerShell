@@ -1,0 +1,18 @@
+{
+  "id": 939,
+  "title": "Hills Like White Elekk",
+  "points": 10,
+  "description": "Complete all of Hemet Nesingwary quests in Nagrand up to and including The Ultimate Bloodsport.",
+  "rewardItems": [],
+  "icon": "ability_mount_ridingelekk",
+  "criteria": [
+    {
+      "id": 2005,
+      "description": "The Ultimate Bloodsport",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

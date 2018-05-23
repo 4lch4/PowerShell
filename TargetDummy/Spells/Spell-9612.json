@@ -1,0 +1,8 @@
+{
+  "id": 9612,
+  "name": "Ink Spray",
+  "icon": "spell_nature_sleep",
+  "description": "Reduces an enemy's chance to hit by 50% for 6 sec.",
+  "range": "Melee Range",
+  "castTime": "1 sec cast"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8844,
+  "title": "Heroic: Skyreach",
+  "points": 10,
+  "description": "Defeat High Sage Viryx in Skyreach on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_arakkoaspires",
+  "criteria": [
+    {
+      "id": 24710,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

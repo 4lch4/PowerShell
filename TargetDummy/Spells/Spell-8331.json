@@ -1,0 +1,8 @@
+{
+  "id": 8331,
+  "name": "Ez-Thro Dynamite",
+  "icon": "spell_fire_selfdestruct",
+  "description": "The dynamite for Non-Engineers that nearly always gets to the target!  Inflicts 81 Fire damage in a 5 yard radius.",
+  "range": "30 yd range",
+  "castTime": "3 sec cast"
+}

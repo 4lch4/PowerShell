@@ -1,0 +1,18 @@
+{
+  "id": 2182,
+  "title": "Spore Loser (10 player)",
+  "points": 10,
+  "description": "Defeat Loatheb in Naxxramas without killing any spores in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_herb_ragveil",
+  "criteria": [
+    {
+      "id": 7612,
+      "description": "Loatheb",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

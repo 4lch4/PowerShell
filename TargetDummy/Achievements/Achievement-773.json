@@ -1,0 +1,96 @@
+{
+  "id": 773,
+  "title": "Explore The Hinterlands",
+  "points": 10,
+  "description": "Explore The Hinterlands, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_hinterlands_01",
+  "criteria": [
+    {
+      "id": 1115,
+      "description": "Aerie Peak",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1116,
+      "description": "Plaguemist Ravine",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1117,
+      "description": "Zun'watha",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1118,
+      "description": "Quel'Danil Lodge",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1119,
+      "description": "Shadra'Alor",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1120,
+      "description": "Valorwind Lake",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1121,
+      "description": "Agol'watha",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1122,
+      "description": "The Creeping Ruin",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1123,
+      "description": "The Altar of Zul",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1124,
+      "description": "Seradane",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1125,
+      "description": "Skulk Rock",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1126,
+      "description": "Shaol'watha",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1127,
+      "description": "Jintha'Alor",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1128,
+      "description": "The Overlook Cliffs",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

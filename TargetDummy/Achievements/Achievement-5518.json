@@ -1,0 +1,30 @@
+{
+  "id": 5518,
+  "title": "Stood in the Fire",
+  "points": 10,
+  "description": "Get killed by Deathwing.",
+  "rewardItems": [],
+  "icon": "spell_fire_fire",
+  "criteria": [
+    {
+      "id": 16106,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 16550,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 18672,
+      "description": "",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

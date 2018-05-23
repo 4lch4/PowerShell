@@ -1,0 +1,18 @@
+{
+  "id": 4906,
+  "title": "Northern Stranglethorn Quests",
+  "points": 10,
+  "description": "Complete 50 quests in Northern Stranglethorn.",
+  "rewardItems": [],
+  "icon": "achievement_zone_stranglethorn_01",
+  "criteria": [
+    {
+      "id": 13704,
+      "description": "Stranglethorn Vale",
+      "orderIndex": 1,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

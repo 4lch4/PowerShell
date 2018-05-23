@@ -1,0 +1,18 @@
+{
+  "id": 7273,
+  "title": "Beat the Heat",
+  "points": 10,
+  "description": "Defeat Little Liuyang without anyone taking damage from a Flame Wall in the Arena of Annihilation scenario.",
+  "rewardItems": [],
+  "icon": "inv_elemental_mote_fire01",
+  "criteria": [
+    {
+      "id": 19340,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8463,
+  "title": "Mythic: Immerseus",
+  "points": 10,
+  "description": "Defeat Immerseus in Siege of Orgrimmar on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_immerseus",
+  "criteria": [
+    {
+      "id": 23667,
+      "description": "Immerseus",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

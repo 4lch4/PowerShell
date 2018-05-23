@@ -1,0 +1,18 @@
+{
+  "id": 8960,
+  "title": "Mythic: The Butcher",
+  "points": 10,
+  "description": "Defeat The Butcher in Highmaul on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_highmaul_butcher",
+  "criteria": [
+    {
+      "id": 24638,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

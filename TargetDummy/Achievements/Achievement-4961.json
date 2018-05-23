@@ -1,0 +1,18 @@
+{
+  "id": 4961,
+  "title": "In a Thousand Years Even You Might be Worth Something",
+  "points": 10,
+  "description": "Complete the Coffer of Promise quests in Uldum up to and including Harrison Jones and the Temple of Uldum.",
+  "rewardItems": [],
+  "icon": "inv_helmet_50",
+  "criteria": [
+    {
+      "id": 13926,
+      "description": "Harrison Jones and the Temple of Uldum",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,11 @@
+{
+  "id": 691,
+  "title": "Zul'Aman",
+  "points": 0,
+  "description": "Defeat Zul'jin in the Zul'Aman raid.",
+  "rewardItems": [],
+  "icon": "achievement_boss_zuljin",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

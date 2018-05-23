@@ -1,0 +1,12 @@
+{
+  "id": 2903,
+  "title": "Champion of Ulduar",
+  "points": 0,
+  "description": "Defeat each boss in Ulduar in 10-player mode without allowing any raid member to die to that boss at any point during that raid lockout period.",
+  "reward": "Title Reward: Champion of Ulduar",
+  "rewardItems": [],
+  "icon": "spell_holy_sealofvengeance",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

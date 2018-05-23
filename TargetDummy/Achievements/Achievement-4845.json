@@ -1,0 +1,200 @@
+{
+  "id": 4845,
+  "title": "Glory of the Cataclysm Hero",
+  "points": 25,
+  "description": "Complete the Cataclysm Heroic dungeon achievements listed below.",
+  "reward": "Reward: Reins of the Volcanic Stone Drake",
+  "rewardItems": [
+    {
+      "id": 62900,
+      "name": "Reins of the Volcanic Stone Drake",
+      "icon": "inv_misc_stonedragonred",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_helm_plate_pvpdeathknight_c_01",
+  "criteria": [
+    {
+      "id": 13554,
+      "description": "Cataclysm Dungeon Hero",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 13555,
+      "description": "Crushing Bones and Cracking Skulls",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15247,
+      "description": "Arrested Development",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 15248,
+      "description": "Too Hot to Handle",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 15249,
+      "description": "Ascendant Descending",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15250,
+      "description": "Old Faithful",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 15251,
+      "description": "Prince of Tides",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 15252,
+      "description": "Rotten to the Core",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 15253,
+      "description": "No Static at All",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 22268,
+      "description": "Extra Credit Bonus Stage",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 15255,
+      "description": "Kill It With Fire!",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 15256,
+      "description": "Acrocalypse Now",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 15257,
+      "description": "Headed South",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 15258,
+      "description": "I Hate That Song",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 15259,
+      "description": "Straw That Broke the Camel's Back",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 15260,
+      "description": "Sun of a....",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 15261,
+      "description": "Faster Than the Speed of Light",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 15262,
+      "description": "Umbrage for Umbriss",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 16041,
+      "description": "Ready for Raiding",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 16042,
+      "description": "Rat Pack",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 16043,
+      "description": "Prototype Prodigy",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 16044,
+      "description": "It's Frost Damage",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 16045,
+      "description": "I'm on a Diet",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 16046,
+      "description": "Vigorous VanCleef Vindicator",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 16047,
+      "description": "Pardon Denied",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 16048,
+      "description": "To the Ground!",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 16049,
+      "description": "Bullet Time",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 15263,
+      "description": "Don't Need to Break Eggs to Make an Omelet",
+      "orderIndex": 27,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

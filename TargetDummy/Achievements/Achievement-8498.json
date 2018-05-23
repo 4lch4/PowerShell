@@ -1,0 +1,11 @@
+{
+  "id": 8498,
+  "title": "Proving Yourself: Gold Healer (Level 90)",
+  "points": 0,
+  "description": "Successfully complete the Basic Healer (Gold) trial at the Proving Grounds.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_gold",
+  "criteria": [],
+  "accountWide": true,
+  "factionId": 2
+}

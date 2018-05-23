@@ -1,0 +1,18 @@
+{
+  "id": 8350,
+  "title": "Mine! Mine! Mine!",
+  "points": 10,
+  "description": "Assault 50 mines in Deepwind Gorge.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winav_bothmines",
+  "criteria": [
+    {
+      "id": 23421,
+      "description": "Assault 50 mines in Deepwind Gorge",
+      "orderIndex": 0,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

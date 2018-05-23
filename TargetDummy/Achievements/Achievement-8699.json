@@ -1,0 +1,18 @@
+{
+  "id": 8699,
+  "title": "The Danger Zone",
+  "points": 10,
+  "description": "Shoot down another player's Crashin' Thrashin' Flyer with yours.",
+  "rewardItems": [],
+  "icon": "ability_mount_gyrocoptorelite",
+  "criteria": [
+    {
+      "id": 23917,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

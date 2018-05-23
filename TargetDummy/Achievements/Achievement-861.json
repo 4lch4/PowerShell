@@ -1,0 +1,180 @@
+{
+  "id": 861,
+  "title": "Explore Bloodmyst Isle",
+  "points": 10,
+  "description": "Explore Bloodmyst Isle, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_bloodmystisle_01",
+  "criteria": [
+    {
+      "id": 1573,
+      "description": "Amberweb Pass",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1574,
+      "description": "Axxarien",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1575,
+      "description": "Blacksilt Shore",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1576,
+      "description": "Bladewood",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1577,
+      "description": "Bloodcurse Isle",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1578,
+      "description": "Blood Watch",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1579,
+      "description": "Bristlelimb Enclave",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1580,
+      "description": "Kessel's Crossing",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1581,
+      "description": "Middenvale",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1582,
+      "description": "Mystwood",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1583,
+      "description": "Nazzivian",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1584,
+      "description": "Ragefeather Ridge",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1585,
+      "description": "Ruins of Loreth'Aran",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1586,
+      "description": "Talon Stand",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1587,
+      "description": "Tel'athion's Camp",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1588,
+      "description": "The Bloodcursed Reef",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1589,
+      "description": "The Bloodwash",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1590,
+      "description": "The Crimson Reach",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 2104,
+      "description": "The Cryo-Core",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 1591,
+      "description": "The Foul Pool",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 1592,
+      "description": "The Hidden Reef",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 1593,
+      "description": "The Lost Fold",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 1594,
+      "description": "The Vector Coil",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 1595,
+      "description": "The Warp Piston",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 1596,
+      "description": "Veridian Point",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 1597,
+      "description": "Vindicator's Rest",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 1598,
+      "description": "Wrathscale Lair",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 1599,
+      "description": "Wyrmscar Island",
+      "orderIndex": 28,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

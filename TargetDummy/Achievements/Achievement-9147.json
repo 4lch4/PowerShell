@@ -1,0 +1,24 @@
+{
+  "id": 9147,
+  "title": "Mission Specialist",
+  "points": 5,
+  "description": "Complete the Mission Specialist achievements listed below.",
+  "rewardItems": [],
+  "icon": "achievement_guildperk_mrpopularity_rank2",
+  "criteria": [
+    {
+      "id": 27798,
+      "description": "Patrol Mission Specialist",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25332,
+      "description": "Treasure Mission Specialist",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

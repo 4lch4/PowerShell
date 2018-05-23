@@ -1,0 +1,30 @@
+{
+  "id": 7932,
+  "title": "I'm In Your Base, Killing Your Dudes",
+  "points": 10,
+  "description": "Kill all three of the opposing faction's champions in Krasarang Wilds.",
+  "rewardItems": [],
+  "icon": "ability_rogue_deadliness",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "Champion of Arms slain",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Champion of the Shadows slain",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Champion of the Light slain",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,138 @@
+{
+  "id": 867,
+  "title": "Explore Terokkar Forest",
+  "points": 10,
+  "description": "Explore Terokkar Forest, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_terrokar",
+  "criteria": [
+    {
+      "id": 1603,
+      "description": "Bleeding Hollow Ruins",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4940,
+      "description": "Allerian Stronghold",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1604,
+      "description": "Cenarion Thicket",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1605,
+      "description": "Firewing Point",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1729,
+      "description": "Grangol'var Village",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1731,
+      "description": "Stonebreaker Hold",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1732,
+      "description": "Tuurem",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1733,
+      "description": "Shattrath City",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1734,
+      "description": "Raastok Glade",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1735,
+      "description": "The Barrier Hills",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1736,
+      "description": "Razorthorn Shelf",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1737,
+      "description": "Bonechewer Ruins",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1738,
+      "description": "Auchenai Grounds",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1739,
+      "description": "Carrion Hill",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1740,
+      "description": "Refugee Caravan",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1741,
+      "description": "Ring of Observance",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1742,
+      "description": "Shadow Tomb",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1743,
+      "description": "Derelict Caravan",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 1745,
+      "description": "Veil Rhaze",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 1746,
+      "description": "Writhing Mound",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 1747,
+      "description": "Skettis",
+      "orderIndex": 21,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

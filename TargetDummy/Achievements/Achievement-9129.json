@@ -1,0 +1,19 @@
+{
+  "id": 9129,
+  "title": "Filling the Ranks",
+  "points": 5,
+  "description": "Raise 20 garrison followers to level 100.",
+  "reward": "Reward: Unlocks Dwarven Bunker/War Mill, Level 3 Blueprint",
+  "rewardItems": [],
+  "icon": "achievement_garrisonfollower_levelup20",
+  "criteria": [
+    {
+      "id": 25258,
+      "description": "Raise 20 garrison followers to level 100.",
+      "orderIndex": 0,
+      "max": 20
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

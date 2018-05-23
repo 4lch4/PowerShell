@@ -1,0 +1,90 @@
+{
+  "id": 864,
+  "title": "Explore Shadowmoon Valley",
+  "points": 10,
+  "description": "Explore Shadowmoon Valley, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_shadowmoon",
+  "criteria": [
+    {
+      "id": 1614,
+      "description": "Coilskar Point",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1615,
+      "description": "Eclipse Point",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1616,
+      "description": "Legion Hold",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1617,
+      "description": "Netherwing Ledge",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1668,
+      "description": "Shadowmoon Village",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1669,
+      "description": "The Black Temple",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1670,
+      "description": "The Deathforge",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1671,
+      "description": "The Hand of Gul'dan",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1672,
+      "description": "Warden's Cage",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1673,
+      "description": "Wildhammer Stronghold",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1674,
+      "description": "Altar of Sha'tar",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1675,
+      "description": "Illidari Point",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1679,
+      "description": "Netherwing Fields",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

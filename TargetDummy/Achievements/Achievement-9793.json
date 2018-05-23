@@ -1,0 +1,18 @@
+{
+  "id": 9793,
+  "title": "Big Race Enthusiast",
+  "points": 5,
+  "description": "Complete The Real Big Race with the Racing Strider within 40 tolls.",
+  "rewardItems": [],
+  "icon": "inv_checkered_flag",
+  "criteria": [
+    {
+      "id": 27519,
+      "description": "Complete The Real Big Race within 40 tolls.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

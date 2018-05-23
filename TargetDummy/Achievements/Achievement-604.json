@@ -1,0 +1,36 @@
+{
+  "id": 604,
+  "title": "Wrath of the Alliance",
+  "points": 10,
+  "description": "Kill 5 Horde players in each of the cities listed below.",
+  "rewardItems": [],
+  "icon": "inv_trinket_honorhold",
+  "criteria": [
+    {
+      "id": 6633,
+      "description": "Thunder Bluff",
+      "orderIndex": 1,
+      "max": 5
+    },
+    {
+      "id": 6634,
+      "description": "Silvermoon City",
+      "orderIndex": 2,
+      "max": 5
+    },
+    {
+      "id": 6635,
+      "description": "Orgrimmar",
+      "orderIndex": 3,
+      "max": 5
+    },
+    {
+      "id": 6636,
+      "description": "Undercity",
+      "orderIndex": 4,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

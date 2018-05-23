@@ -1,0 +1,18 @@
+{
+  "id": 8933,
+  "title": "Staying Regular",
+  "points": 5,
+  "description": "Relieve yourself in the garrison outhouse.",
+  "rewardItems": [],
+  "icon": "inv_scroll_08",
+  "criteria": [
+    {
+      "id": 24631,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11431,
+  "title": "The Rat Pack",
+  "points": 10,
+  "description": "Defeat a Mana Devourer while the entire party is riding a Rodents of Usual Size.",
+  "rewardItems": [],
+  "icon": "inv_staff_medivh",
+  "criteria": [
+    {
+      "id": 34942,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

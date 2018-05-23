@@ -1,0 +1,18 @@
+{
+  "id": 4938,
+  "title": "Thousand Needles Quests",
+  "points": 10,
+  "description": "Complete 60 quests in Thousand Needles.",
+  "rewardItems": [],
+  "icon": "achievement_zone_thousandneedles_01",
+  "criteria": [
+    {
+      "id": 13849,
+      "description": "Thousand Needles",
+      "orderIndex": 1,
+      "max": 60
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

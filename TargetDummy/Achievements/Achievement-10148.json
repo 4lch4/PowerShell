@@ -1,0 +1,19 @@
+{
+  "id": 10148,
+  "title": "Chapter IV: Darkness Incarnate",
+  "points": 25,
+  "description": "Acquire your legendary ring by completing Khadgar's quests.",
+  "reward": "Reward: Garrison Monument",
+  "rewardItems": [],
+  "icon": "quest_khadgar",
+  "criteria": [
+    {
+      "id": 28404,
+      "description": "Complete quest \"Draenor's Blessing.\"",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

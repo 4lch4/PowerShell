@@ -1,0 +1,7 @@
+{
+  "id": 6752,
+  "name": "Weak Poison Proc",
+  "icon": "spell_shadow_requiem",
+  "description": "Adds a chance to poison a target on a successful hit.",
+  "castTime": "Passive"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 2178,
+  "title": "Shocking! (10 player)",
+  "points": 10,
+  "description": "Defeat Thaddius in Naxxramas without anyone in the raid crossing the negative and positive charges in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_chargepositive",
+  "criteria": [
+    {
+      "id": 7604,
+      "description": "Thaddius",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

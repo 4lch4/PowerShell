@@ -1,0 +1,18 @@
+{
+  "id": 5209,
+  "title": "Twin Peaks Veteran",
+  "points": 10,
+  "description": "Complete 100 victories in Twin Peaks.",
+  "rewardItems": [],
+  "icon": "achievement_bg_win_wsg_x_times",
+  "criteria": [
+    {
+      "id": 16512,
+      "description": "Complete 100 victories in Twin Peaks",
+      "orderIndex": 1,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

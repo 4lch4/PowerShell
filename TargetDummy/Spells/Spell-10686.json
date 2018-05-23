@@ -1,0 +1,7 @@
+{
+  "id": 10686,
+  "name": "Summon Prairie Chicken",
+  "icon": "spell_magic_polymorphchicken",
+  "description": "Right Click to summon and dismiss your chicken.",
+  "castTime": "Instant"
+}

@@ -1,0 +1,9 @@
+{
+  "id": 9234,
+  "name": "Armor Debuff (TEST)",
+  "subtext": "Rank 1",
+  "icon": "ability_warrior_defensivestance",
+  "description": "Increases the target's Armor by 50 for 30 min.",
+  "range": "30 yd range",
+  "castTime": "Instant"
+}

@@ -1,0 +1,72 @@
+{
+  "id": 8103,
+  "title": "Champions of Lei Shen",
+  "points": 10,
+  "description": "Defeat all of the Isle of Thunder rare mobs listed below.",
+  "rewardItems": [],
+  "icon": "inv_shield_mogu_c_01",
+  "criteria": [
+    {
+      "id": 22820,
+      "description": "Haywire Sunreaver Construct",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22821,
+      "description": "Mumta",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22822,
+      "description": "Ku'lai the Skyclaw",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22823,
+      "description": "Progenitus",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 22824,
+      "description": "Goda",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 22825,
+      "description": "God-Hulk Ramuk",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 22826,
+      "description": "Al'tabim the All-Seeing",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 22827,
+      "description": "Backbreaker Uru",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 22828,
+      "description": "Lu-Ban",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 22829,
+      "description": "Molthor",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

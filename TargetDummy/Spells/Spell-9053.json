@@ -1,0 +1,9 @@
+{
+  "id": 9053,
+  "name": "Fireball",
+  "icon": "spell_fire_firebolt02",
+  "description": "Inflicts Fire damage to an enemy.",
+  "range": "40 yd range",
+  "powerCost": "90 Mana",
+  "castTime": "3 sec cast"
+}

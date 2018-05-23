@@ -1,0 +1,182 @@
+{
+  "id": 9685,
+  "title": "Draenor Safari",
+  "points": 5,
+  "description": "Catch every battle pet in Draenor.",
+  "reward": "Pet Reward: Royal Peacock",
+  "rewardItems": [
+    {
+      "id": 111866,
+      "name": "Royal Peacock",
+      "icon": "inv_pet_peacock_gold",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_pet_achievement_collectallwild_outland",
+  "criteria": [
+    {
+      "id": 27256,
+      "description": "Amberbarb Wasp",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27259,
+      "description": "Axebeak Hatchling",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27253,
+      "description": "Bloodsting Wasp",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27260,
+      "description": "Brilliant Bloodfeather",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27276,
+      "description": "Flat-Tooth Calf",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27017,
+      "description": "Frostfur Rat",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 27263,
+      "description": "Frostshell Pincher",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 27261,
+      "description": "Golden Dawnfeather",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 27252,
+      "description": "Icespine Hatchling",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 27264,
+      "description": "Ironclaw Scuttler",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 27258,
+      "description": "Junglebeak",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 27267,
+      "description": "Kelp Scuttler",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 27246,
+      "description": "Leatherhide Runt",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 27248,
+      "description": "Moonshell Crab",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 27250,
+      "description": "Mossbite Skitterer",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 27247,
+      "description": "Mud Jumper",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 27275,
+      "description": "Mudback Calf",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 27269,
+      "description": "Royal Moth",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 27278,
+      "description": "Shadow Sporebat",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 27272,
+      "description": "Swamplighter Firefly",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 27251,
+      "description": "Thicket Skitterer",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 27255,
+      "description": "Twilight Wasp",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 27274,
+      "description": "Waterfly",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 27254,
+      "description": "Wood Wasp",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 27266,
+      "description": "Zangar Crawler",
+      "orderIndex": 24,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

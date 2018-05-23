@@ -1,0 +1,18 @@
+{
+  "id": 10080,
+  "title": "Mythic: Auchindoun",
+  "points": 10,
+  "description": "Defeat Teron'gor in Auchindoun on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_auchindoun",
+  "criteria": [
+    {
+      "id": 28310,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 10746,
+  "title": "Forged for Battle",
+  "points": 10,
+  "description": "Complete your Order Campaign and unlock a new appearance for your artifact weapon.",
+  "rewardItems": [],
+  "icon": "achievement_bg_killxenemies_generalsroom",
+  "criteria": [
+    {
+      "id": 31007,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

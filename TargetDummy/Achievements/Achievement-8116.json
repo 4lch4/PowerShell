@@ -1,0 +1,18 @@
+{
+  "id": 8116,
+  "title": "You Made Me Bleed My Own Blood",
+  "points": 10,
+  "description": "Slay Fleshcrafter Hoku without killing any Possessed Blood.",
+  "rewardItems": [],
+  "icon": "ability_deathknight_sanguinfortitude",
+  "criteria": [
+    {
+      "id": 22846,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 9046,
+  "title": "Heroic: Bloodmaul Slag Mines",
+  "points": 10,
+  "description": "Defeat Gug'rokk in the Bloodmaul Slag Mines on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_ogreslagmines",
+  "criteria": [
+    {
+      "id": 24990,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

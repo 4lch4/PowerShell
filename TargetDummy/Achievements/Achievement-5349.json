@@ -1,0 +1,19 @@
+{
+  "id": 5349,
+  "title": "First Sergeant",
+  "points": 10,
+  "description": "Earn a rated battleground rating of 1500.",
+  "reward": "Title Reward: First Sergeant",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_05",
+  "criteria": [
+    {
+      "id": 15300,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1500
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

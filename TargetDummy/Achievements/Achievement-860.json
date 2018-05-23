@@ -1,0 +1,114 @@
+{
+  "id": 860,
+  "title": "Explore Azuremyst Isle",
+  "points": 10,
+  "description": "Explore Azuremyst Isle, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_azuremystisle_01",
+  "criteria": [
+    {
+      "id": 1552,
+      "description": "Ammen Vale",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1553,
+      "description": "Ammen Ford",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1554,
+      "description": "Azure Watch",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1555,
+      "description": "Bristlelimb Village",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1556,
+      "description": "Emberglade",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1557,
+      "description": "Fairbridge Strand",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1558,
+      "description": "Geezle's Camp",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1559,
+      "description": "Moongraze Woods",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1560,
+      "description": "Odesyus' Landing",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1561,
+      "description": "Pod Cluster",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1562,
+      "description": "Pod Wreckage",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1563,
+      "description": "Silting Shore",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1564,
+      "description": "Silvermyst Isle",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1565,
+      "description": "Stillpine Hold",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1566,
+      "description": "The Exodar",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1567,
+      "description": "Valaar's Berth",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1568,
+      "description": "Wrathscale Point",
+      "orderIndex": 17,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

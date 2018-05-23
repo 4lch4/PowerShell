@@ -1,0 +1,18 @@
+{
+  "id": 156,
+  "title": "Territorial Dominance",
+  "points": 10,
+  "description": "Win 10 Arathi Basin matches while controlling all 5 flags.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winab_5cap",
+  "criteria": [
+    {
+      "id": 1234,
+      "description": "Win 10 Arathi Basin matches while controlling all 5 flags",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

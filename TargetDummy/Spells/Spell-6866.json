@@ -1,0 +1,8 @@
+{
+  "id": 6866,
+  "name": "Moss Covered Hands",
+  "icon": "spell_nature_magicimmunity",
+  "description": "Makes an enemy likely to drop its weapon. Lasts 15 sec.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8401,
+  "title": "Cutting Edge: Garrosh Hellscream (25 player)",
+  "points": 0,
+  "description": "Defeat Garrosh Hellscream on 25-Player Heroic difficulty, before the release of patch 6.0.",
+  "rewardItems": [],
+  "icon": "inv_misc_tabard_hellscream",
+  "criteria": [
+    {
+      "id": 23921,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

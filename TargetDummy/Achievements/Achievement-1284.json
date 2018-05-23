@@ -1,0 +1,108 @@
+{
+  "id": 1284,
+  "title": "Outland Dungeonmaster",
+  "points": 10,
+  "description": "Complete the Burning Crusade dungeon achievements listed below.",
+  "rewardItems": [],
+  "icon": "spell_holy_summonchampion",
+  "criteria": [
+    {
+      "id": 3964,
+      "description": "Hellfire Ramparts",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3965,
+      "description": "The Blood Furnace",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3966,
+      "description": "The Slave Pens",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3967,
+      "description": "Underbog",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3968,
+      "description": "Mana-Tombs",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3969,
+      "description": "The Escape From Durnholde",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3970,
+      "description": "Sethekk Halls",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 3971,
+      "description": "Shadow Labyrinth",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 3973,
+      "description": "Opening of the Dark Portal",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3974,
+      "description": "The Steamvault",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3975,
+      "description": "The Shattered Halls",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 3976,
+      "description": "The Mechanar",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 3977,
+      "description": "The Botanica",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 3978,
+      "description": "The Arcatraz",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 3979,
+      "description": "Magister's Terrace",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 3980,
+      "description": "Auchenai Crypts",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

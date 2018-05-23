@@ -1,0 +1,24 @@
+{
+  "id": 4622,
+  "title": "Neck-Deep in Vile (25 player)",
+  "points": 10,
+  "description": "Kill every Vile Spirit that spawns before it explodes and then defeat the Lich King in 25-player mode.",
+  "rewardItems": [],
+  "icon": "spell_shadow_devouringplague",
+  "criteria": [
+    {
+      "id": 13243,
+      "description": "Vile Spirits",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13164,
+      "description": "Vile Spirits",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

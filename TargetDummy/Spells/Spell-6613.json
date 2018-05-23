@@ -1,0 +1,8 @@
+{
+  "id": 6613,
+  "name": "Great Rage",
+  "icon": "ability_warrior_warcry",
+  "description": "Instantly generates 30 to 60 rage.",
+  "castTime": "Instant",
+  "cooldown": "1 min cooldown"
+}

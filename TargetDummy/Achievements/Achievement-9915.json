@@ -1,0 +1,30 @@
+{
+  "id": 9915,
+  "title": "Crashin' Thrashin' Shredder",
+  "points": 0,
+  "description": "Proud owner of the 2014 Vintage Winter Veil gift, the Crashin' Thrashin' Shredder.",
+  "rewardItems": [],
+  "icon": "inv_holiday_christmas_present_01",
+  "criteria": [
+    {
+      "id": 27851,
+      "description": "Crashin' Thrashin' Shredder",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27849,
+      "description": "Crashin' Thrashin' Shredder",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27850,
+      "description": "Crashin' Thrashin' Shredder",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

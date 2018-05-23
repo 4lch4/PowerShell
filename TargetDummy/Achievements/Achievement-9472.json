@@ -1,0 +1,18 @@
+{
+  "id": 9472,
+  "title": "Steamwheedle Preservation Society",
+  "points": 10,
+  "description": "Earn Exalted status with the Steamwheedle Preservation Society.",
+  "rewardItems": [],
+  "icon": "achievement_goblinhead",
+  "criteria": [
+    {
+      "id": 25829,
+      "description": "Steamwheedle Preservation Society",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

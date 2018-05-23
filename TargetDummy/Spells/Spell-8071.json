@@ -1,0 +1,8 @@
+{
+  "id": 8071,
+  "name": "zzOldStoneskin Totem",
+  "icon": "spell_nature_stoneskintotem",
+  "description": "Summons a Stoneskin Totem with 5 health at the feet of the caster.  The totem protects party and raid members within 40 yards, increasing armor by 4076.  Lasts 5 min.",
+  "powerCost": "11.71% of base mana",
+  "castTime": "Instant"
+}

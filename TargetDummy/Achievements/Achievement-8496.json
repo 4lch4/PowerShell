@@ -1,0 +1,11 @@
+{
+  "id": 8496,
+  "title": "Proving Yourself: Gold Damage (Level 90)",
+  "points": 0,
+  "description": "Successfully complete the Basic Damage (Gold) trial at the Proving Grounds.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_gold",
+  "criteria": [],
+  "accountWide": true,
+  "factionId": 2
+}

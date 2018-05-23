@@ -1,0 +1,8 @@
+{
+  "id": 10348,
+  "name": "Tune Up",
+  "icon": "inv_gizmo_02",
+  "description": "Attack speed increased by 50%.\n\nCasting speed increased by 100%.\n\nMovement speed increased by 60%.",
+  "range": "5 yd range",
+  "castTime": "7 sec cast"
+}

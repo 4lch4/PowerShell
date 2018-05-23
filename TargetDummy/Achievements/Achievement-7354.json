@@ -1,0 +1,18 @@
+{
+  "id": 7354,
+  "title": "Collector: Iron Amulets",
+  "points": 10,
+  "description": "Restore 5 Iron Amulets.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20667,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

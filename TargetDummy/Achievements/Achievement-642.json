@@ -1,0 +1,30 @@
+{
+  "id": 642,
+  "title": "Blackrock Depths",
+  "points": 10,
+  "description": "Defeat Emperor Dagran Thaurissan.",
+  "rewardItems": [],
+  "icon": "achievement_boss_emperordagranthaurissan",
+  "criteria": [
+    {
+      "id": 3266,
+      "description": "Emperor Dagran Thaurissan",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4262,
+      "description": "The Fate of the Kingdom",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4263,
+      "description": "The Royal Rescue",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

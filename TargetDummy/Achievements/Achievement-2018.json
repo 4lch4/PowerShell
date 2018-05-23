@@ -1,0 +1,36 @@
+{
+  "id": 2018,
+  "title": "Timear Foresees",
+  "points": 0,
+  "description": "Complete the Northrend daily dungeon quests listed below.",
+  "rewardItems": [],
+  "icon": "spell_arcane_focusedpower",
+  "criteria": [
+    {
+      "id": 7296,
+      "description": "Timear Foresees Centrifuge Constructs in your Future!",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7297,
+      "description": "Timear Foresees Ymirjar Berserkers in your Future!",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7298,
+      "description": "Timear Foresees Infinite Agents in your Future!",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7299,
+      "description": "Timear Foresees Titanium Vanguards in your Future!",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

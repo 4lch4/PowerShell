@@ -1,0 +1,18 @@
+{
+  "id": 7518,
+  "title": "Wanderers, Dreamers, and You",
+  "points": 10,
+  "description": "Attend the opening or closing ceremonies of the Wanderer's Festival.",
+  "rewardItems": [],
+  "icon": "ability_mount_pandaranmount",
+  "criteria": [
+    {
+      "id": 21694,
+      "description": "Attend the Wanderer's Festival",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

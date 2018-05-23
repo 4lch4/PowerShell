@@ -1,0 +1,18 @@
+{
+  "id": 9207,
+  "title": "Goren Invasion",
+  "points": 5,
+  "description": "Successfully complete a Goren garrison invasion.",
+  "rewardItems": [],
+  "icon": "inv_elemental_primal_earth",
+  "criteria": [
+    {
+      "id": 25327,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

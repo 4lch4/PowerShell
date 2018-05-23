@@ -1,0 +1,50 @@
+{
+  "id": 2096,
+  "title": "The Coin Master",
+  "points": 10,
+  "description": "Complete the coin fishing achievements listed below.",
+  "reward": "Reward: Titanium Seal of Dalaran",
+  "rewardItems": [
+    {
+      "id": 44430,
+      "name": "Titanium Seal of Dalaran",
+      "icon": "inv_misc_coin_18",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_misc_coin_02",
+  "criteria": [
+    {
+      "id": 7486,
+      "description": "A Penny For Your Thoughts",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7487,
+      "description": "Silver in the City",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7488,
+      "description": "There's Gold In That There Fountain",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

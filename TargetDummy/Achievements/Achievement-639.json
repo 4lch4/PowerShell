@@ -1,0 +1,18 @@
+{
+  "id": 639,
+  "title": "Zul'Farrak",
+  "points": 10,
+  "description": "Defeat Chief Ukorz Sandscalp.",
+  "rewardItems": [],
+  "icon": "achievement_boss_chiefukorzsandscalp",
+  "criteria": [
+    {
+      "id": 3265,
+      "description": "Chief Ukorz Sandscalp",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

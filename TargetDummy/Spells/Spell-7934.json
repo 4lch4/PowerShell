@@ -1,0 +1,7 @@
+{
+  "id": 7934,
+  "name": "Anti-Venom",
+  "icon": "inv_misc_slime_01",
+  "description": "Creates 3 vials of Anti-Venom.",
+  "castTime": "1 sec cast"
+}

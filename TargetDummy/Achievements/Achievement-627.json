@@ -1,0 +1,102 @@
+{
+  "id": 627,
+  "title": "Explore Dun Morogh",
+  "points": 10,
+  "description": "Explore Dun Morogh, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_dunmorogh",
+  "criteria": [
+    {
+      "id": 502,
+      "description": "Coldridge Pass",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14148,
+      "description": "Coldridge Valley",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14149,
+      "description": "Frostmane Front",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 14150,
+      "description": "New Tinkertown",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 14151,
+      "description": "Ironforge Airfield",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 504,
+      "description": "Shimmer Ridge",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 505,
+      "description": "Kharanos",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 507,
+      "description": "The Tundrid Hills",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 508,
+      "description": "Amberstill Ranch",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 509,
+      "description": "Helm's Bed Lake",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 510,
+      "description": "Gol'Bolar Quarry",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 511,
+      "description": "North Gate Outpost",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 512,
+      "description": "Frostmane Hold",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 517,
+      "description": "Iceflow Lake",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 519,
+      "description": "Gates of Ironforge",
+      "orderIndex": 15,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

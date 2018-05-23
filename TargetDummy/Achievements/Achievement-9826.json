@@ -1,0 +1,48 @@
+{
+  "id": 9826,
+  "title": "Platinum Defender",
+  "points": 5,
+  "description": "Successfully complete a garrison invasion with a Platinum rating.",
+  "rewardItems": [],
+  "icon": "achievement_garrison_invason_platinum",
+  "criteria": [
+    {
+      "id": 27586,
+      "description": "Botani",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27587,
+      "description": "Goren",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27588,
+      "description": "Iron Horde",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27589,
+      "description": "Ogre",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27590,
+      "description": "Shadow Council",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27591,
+      "description": "Shadowmoon",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

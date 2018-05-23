@@ -1,0 +1,18 @@
+{
+  "id": 10069,
+  "title": "I Came, I Clawed, I Conquered",
+  "points": 10,
+  "description": "Loot 5000 Blackfang Claws from saberon at Fang'rila in Tanaan Jungle.",
+  "rewardItems": [],
+  "icon": "inv_misc_blacksaberonfang",
+  "criteria": [
+    {
+      "id": 28378,
+      "description": "Blackfang Claws",
+      "orderIndex": 0,
+      "max": 5000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

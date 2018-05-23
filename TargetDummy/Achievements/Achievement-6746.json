@@ -1,0 +1,18 @@
+{
+  "id": 6746,
+  "title": "Realm First! Level 90 Warlock",
+  "points": 0,
+  "description": "First warlock on the realm to achieve level 90.",
+  "rewardItems": [],
+  "icon": "spell_nature_drowsy",
+  "criteria": [
+    {
+      "id": 5217,
+      "description": "Level to 90",
+      "orderIndex": 0,
+      "max": 90
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

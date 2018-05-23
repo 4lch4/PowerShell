@@ -1,0 +1,67 @@
+{
+  "id": 6374,
+  "title": "Challenge Conqueror: Bronze",
+  "points": 0,
+  "description": "Complete every Challenge Mode dungeon with a rating of Bronze or better.",
+  "reward": "Title Reward: The Undaunted",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_bronze",
+  "criteria": [
+    {
+      "id": 19874,
+      "description": "Temple of the Jade Serpent",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19875,
+      "description": "Stormstout Brewery",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19876,
+      "description": "Mogu'shan Palace",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19877,
+      "description": "Shado-Pan Monastery",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 19878,
+      "description": "Gate of the Setting Sun",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 19879,
+      "description": "Scarlet Halls",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 19880,
+      "description": "Scarlet Monastery",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 19881,
+      "description": "Scholomance",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 19882,
+      "description": "Siege of Niuzao Temple",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

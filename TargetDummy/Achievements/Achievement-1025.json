@@ -1,0 +1,96 @@
+{
+  "id": 1025,
+  "title": "Flame Keeper of Eastern Kingdoms",
+  "points": 10,
+  "description": "Honor the flames of Eastern Kingdoms.",
+  "rewardItems": [],
+  "icon": "inv_summerfest_firespirit",
+  "criteria": [
+    {
+      "id": 3101,
+      "description": "Arathi Highlands",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 3102,
+      "description": "Badlands",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 23464,
+      "description": "Blasted Lands",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3103,
+      "description": "Burning Steppes",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3104,
+      "description": "Eversong Woods",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3105,
+      "description": "Ghostlands",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3106,
+      "description": "Hillsbrad Foothills",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 17012,
+      "description": "Northern Stranglethorn",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 3107,
+      "description": "Silverpine Forest",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 3109,
+      "description": "Swamp of Sorrows",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3108,
+      "description": "The Cape of Stranglethorn",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3110,
+      "description": "The Hinterlands",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 3111,
+      "description": "Tirisfal Glades",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 23465,
+      "description": "Western Plaguelands",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

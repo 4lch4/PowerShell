@@ -1,0 +1,18 @@
+{
+  "id": 4926,
+  "title": "Bloodmyst Isle Quests",
+  "points": 10,
+  "description": "Complete 60 quests in Bloodmyst Isle.",
+  "rewardItems": [],
+  "icon": "achievement_zone_bloodmystisle_01",
+  "criteria": [
+    {
+      "id": 13838,
+      "description": "Bloodmyst Isle",
+      "orderIndex": 1,
+      "max": 60
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

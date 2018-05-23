@@ -1,0 +1,42 @@
+{
+  "id": 1257,
+  "title": "The Scavenger",
+  "points": 10,
+  "description": "Successfully fish in each of the junk nodes listed below.",
+  "rewardItems": [],
+  "icon": "inv_crate_05",
+  "criteria": [
+    {
+      "id": 3872,
+      "description": "Steam Pump Flotsam",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3873,
+      "description": "Bloodsail Wreckage",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3874,
+      "description": "Schooner Wreckage",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3875,
+      "description": "Waterlogged Wreckage",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3876,
+      "description": "Floating Wreckage",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

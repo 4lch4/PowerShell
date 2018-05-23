@@ -1,0 +1,18 @@
+{
+  "id": 11929,
+  "title": "Heroic: Return to Karazhan",
+  "points": 10,
+  "description": "Defeat Viz'aduum the Watcher in Return to Karazhan on Heroic difficulty or higher.",
+  "rewardItems": [],
+  "icon": "achievement_raid_karazhan",
+  "criteria": [
+    {
+      "id": 37041,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

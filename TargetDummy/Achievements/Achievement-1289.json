@@ -1,0 +1,84 @@
+{
+  "id": 1289,
+  "title": "Northrend Dungeon Hero",
+  "points": 20,
+  "description": "Complete the Northrend Heroic dungeon achievements listed below.",
+  "rewardItems": [],
+  "icon": "ability_rogue_feigndeath",
+  "criteria": [
+    {
+      "id": 4056,
+      "description": "Heroic Utgarde Keep",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4057,
+      "description": "Heroic The Nexus",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4058,
+      "description": "Heroic Caverns of Time: Stratholme",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4059,
+      "description": "Heroic Azjol-Nerub",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4060,
+      "description": "Heroic Ahn'kahet: The Old Kingdom",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4061,
+      "description": "Heroic Drak'Tharon Keep",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4062,
+      "description": "Heroic The Violet Hold",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4063,
+      "description": "Heroic Gundrak",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4064,
+      "description": "Heroic Halls of Stone",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4065,
+      "description": "Heroic Halls of Lightning",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4066,
+      "description": "Heroic The Oculus",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4067,
+      "description": "Heroic Utgarde Pinnacle",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

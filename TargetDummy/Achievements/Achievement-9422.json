@@ -1,0 +1,18 @@
+{
+  "id": 9422,
+  "title": "The Search For Fact, Not Truth",
+  "points": 10,
+  "description": "Find 30 rare artifacts.",
+  "rewardItems": [],
+  "icon": "trade_archaeology_draenei_artifactfragment",
+  "criteria": [
+    {
+      "id": 16194,
+      "description": "Find 30 rare artifacts.",
+      "orderIndex": 0,
+      "max": 30
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

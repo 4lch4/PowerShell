@@ -1,0 +1,19 @@
+{
+  "id": 9265,
+  "title": "Master of Apexis",
+  "points": 10,
+  "description": "Collect 100,000 Apexis Crystals.",
+  "reward": "Reward: Garrison Monument",
+  "rewardItems": [],
+  "icon": "achievement_garrison_horde_pve",
+  "criteria": [
+    {
+      "id": 25419,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

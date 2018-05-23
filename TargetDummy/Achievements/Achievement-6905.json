@@ -1,0 +1,18 @@
+{
+  "id": 6905,
+  "title": "Gate of the Setting Sun: Bronze",
+  "points": 0,
+  "description": "Complete the Gate of the Setting Sun Challenge Mode with a rating of Bronze or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_gateofthesettingsun_bronze",
+  "criteria": [
+    {
+      "id": 20716,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,108 @@
+{
+  "id": 1287,
+  "title": "Outland Dungeon Hero",
+  "points": 20,
+  "description": "Complete the Burning Crusade Heroic dungeon achievements listed below.",
+  "rewardItems": [],
+  "icon": "ability_creature_cursed_02",
+  "criteria": [
+    {
+      "id": 4023,
+      "description": "Heroic Hellfire Ramparts",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4024,
+      "description": "Heroic The Blood Furnace",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4025,
+      "description": "Heroic The Slave Pens",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4026,
+      "description": "Heroic Underbog",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4027,
+      "description": "Heroic Mana-Tombs",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4028,
+      "description": "Heroic The Escape From Durnholde",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4029,
+      "description": "Heroic Sethekk Halls",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4030,
+      "description": "Heroic Shadow Labyrinth",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4032,
+      "description": "Heroic Opening of the Dark Portal",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4033,
+      "description": "Heroic The Steamvault",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4034,
+      "description": "Heroic The Shattered Halls",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4035,
+      "description": "Heroic The Mechanar",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4036,
+      "description": "Heroic The Botanica",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4037,
+      "description": "Heroic The Arcatraz",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4038,
+      "description": "Heroic Magister's Terrace",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4039,
+      "description": "Heroic Auchenai Crypts",
+      "orderIndex": 16,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

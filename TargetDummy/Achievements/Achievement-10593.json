@@ -1,0 +1,18 @@
+{
+  "id": 10593,
+  "title": "Everything Tastes Better",
+  "points": 5,
+  "description": "Obtain a 6 hour \"Yummy Bacon\" buff.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_legion_baconuncooked",
+  "criteria": [
+    {
+      "id": 29901,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 11221,
+  "title": "Champions Rise",
+  "points": 5,
+  "description": "Raise 8 Class Hall Champions to level 110.",
+  "rewardItems": [],
+  "icon": "achievement_garrisonfollower_levelup",
+  "criteria": [
+    {
+      "id": 32932,
+      "description": "Raise 8 Class Order Hall Champions to level 110.",
+      "orderIndex": 0,
+      "max": 8
+    },
+    {
+      "id": 34400,
+      "description": "Raise 8 Class Order Hall Champions to level 110.",
+      "orderIndex": 1,
+      "max": 8
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

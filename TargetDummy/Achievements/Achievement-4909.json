@@ -1,0 +1,18 @@
+{
+  "id": 4909,
+  "title": "Blasted Lands Quests",
+  "points": 10,
+  "description": "Complete 35 quests in Blasted Lands.",
+  "rewardItems": [],
+  "icon": "achievement_zone_blastedlands_01",
+  "criteria": [
+    {
+      "id": 13708,
+      "description": "Blasted Lands",
+      "orderIndex": 1,
+      "max": 35
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

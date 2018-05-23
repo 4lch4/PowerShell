@@ -1,0 +1,7 @@
+{
+  "id": 9173,
+  "name": "Anubisath Guardian AOE",
+  "icon": "spell_nature_earthshock",
+  "description": "Cast an AOE spell",
+  "castTime": "Instant"
+}

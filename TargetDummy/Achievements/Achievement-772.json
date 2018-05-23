@@ -1,0 +1,168 @@
+{
+  "id": 772,
+  "title": "Explore Hillsbrad Foothills",
+  "points": 10,
+  "description": "Explore Hillsbrad Foothills, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_hillsbradfoothills",
+  "criteria": [
+    {
+      "id": 1103,
+      "description": "Azurelode Mine",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 15106,
+      "description": "Brazie Farmstead",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1104,
+      "description": "Corrahn's Dagger",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1105,
+      "description": "Crushridge Hold",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 15119,
+      "description": "Chillwind Point",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1106,
+      "description": "Dalaran Crater",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1107,
+      "description": "Dandred's Fold",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1108,
+      "description": "Darrow Hill",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1109,
+      "description": "Dun Garok",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1110,
+      "description": "Durnholde Keep",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1111,
+      "description": "Gallows' Corner",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1112,
+      "description": "Gavin's Naze",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1113,
+      "description": "Growless Cave",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 15107,
+      "description": "Misty Shore",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 15108,
+      "description": "Nethander Stead",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 15109,
+      "description": "Purgation Isle",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 15110,
+      "description": "Ruins of Alterac",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 15114,
+      "description": "Ruins of Southshore",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 15111,
+      "description": "Slaughter Hollow",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 15112,
+      "description": "Sofera's Naze",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 15113,
+      "description": "Southpoint Gate",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 15115,
+      "description": "Strahnbrad",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 15116,
+      "description": "Tarren Mill",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 15117,
+      "description": "The Headland",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 1114,
+      "description": "The Sludge Fields",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 15118,
+      "description": "The Uplands",
+      "orderIndex": 26,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

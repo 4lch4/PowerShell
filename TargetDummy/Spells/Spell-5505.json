@@ -1,0 +1,8 @@
+{
+  "id": 5505,
+  "name": "zzOldConjure Water",
+  "subtext": "Rank 2",
+  "icon": "inv_drink_07",
+  "description": "Conjures 20 bottles of fresh water, providing the mage and her allies with something to drink.\n\n\n\nConjured items disappear if logged out for more than 15 minutes.",
+  "castTime": "Instant"
+}

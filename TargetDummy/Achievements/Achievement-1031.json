@@ -1,0 +1,108 @@
+{
+  "id": 1031,
+  "title": "Extinguishing Eastern Kingdoms",
+  "points": 10,
+  "description": "Desecrate the Alliance's bonfires in Eastern Kingdoms.",
+  "rewardItems": [],
+  "icon": "spell_fire_masterofelements",
+  "criteria": [
+    {
+      "id": 3161,
+      "description": "Arathi Highlands",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23512,
+      "description": "Badlands",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3162,
+      "description": "Blasted Lands",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3163,
+      "description": "Burning Steppes",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3164,
+      "description": "Dun Morogh",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3165,
+      "description": "Duskwood",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3166,
+      "description": "Elwynn Forest",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3168,
+      "description": "Loch Modan",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 17011,
+      "description": "Northern Stranglethorn",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 3169,
+      "description": "Redridge Mountains",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 23511,
+      "description": "Swamp of Sorrows",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3170,
+      "description": "The Cape of Stranglethorn",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 3171,
+      "description": "The Hinterlands",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 3172,
+      "description": "Western Plaguelands",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 3173,
+      "description": "Westfall",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 5266,
+      "description": "Wetlands",
+      "orderIndex": 15,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

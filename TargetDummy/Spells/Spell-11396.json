@@ -1,0 +1,7 @@
+{
+  "id": 11396,
+  "name": "Greater Intellect",
+  "icon": "inv_potion_10",
+  "description": "Increases your Intellect by 22 for 1 hour. Battle Elixir.",
+  "castTime": "3 sec cast"
+}

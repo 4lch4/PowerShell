@@ -1,0 +1,18 @@
+{
+  "id": 10156,
+  "title": "Naval Combat Specialist",
+  "points": 5,
+  "description": "Complete 25 Naval Combat Missions.",
+  "rewardItems": [],
+  "icon": "ability_rogue_combatreadiness",
+  "criteria": [
+    {
+      "id": 28511,
+      "description": "",
+      "orderIndex": 0,
+      "max": 25
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

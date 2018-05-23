@@ -1,0 +1,18 @@
+{
+  "id": 8466,
+  "title": "Mythic: Norushen",
+  "points": 10,
+  "description": "Complete Norushen's trial in Siege of Orgrimmar on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_norushen",
+  "criteria": [
+    {
+      "id": 23669,
+      "description": "Norushen",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

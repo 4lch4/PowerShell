@@ -1,0 +1,38 @@
+{
+  "id": 2143,
+  "title": "Leading the Cavalry",
+  "points": 10,
+  "description": "Obtain 50 mounts (usable by a single character).",
+  "reward": "Reward: Albino Drake",
+  "rewardItems": [
+    {
+      "id": 44178,
+      "name": "Reins of the Albino Drake",
+      "icon": "ability_mount_drake_blue",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "ability_mount_mammoth_black",
+  "criteria": [
+    {
+      "id": 4787,
+      "description": "Obtain 50 mounts",
+      "orderIndex": 1,
+      "max": 50
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

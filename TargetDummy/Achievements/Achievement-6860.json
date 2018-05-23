@@ -1,0 +1,18 @@
+{
+  "id": 6860,
+  "title": "Realm First! Zen Master Blacksmith",
+  "points": 0,
+  "description": "First person on the realm to achieve 600 skill in blacksmithing.",
+  "rewardItems": [],
+  "icon": "trade_blacksmithing",
+  "criteria": [
+    {
+      "id": 5566,
+      "description": "",
+      "orderIndex": 0,
+      "max": 600
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,96 @@
+{
+  "id": 766,
+  "title": "Explore Blasted Lands",
+  "points": 10,
+  "description": "Explore Blasted Lands, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_blastedlands_01",
+  "criteria": [
+    {
+      "id": 1028,
+      "description": "Dreadmaul Hold",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1029,
+      "description": "Nethergarde Supply Camps",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1030,
+      "description": "Nethergarde Keep",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1031,
+      "description": "Serpent's Coil",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1032,
+      "description": "The Dark Portal",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1033,
+      "description": "Altar of Storms",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1034,
+      "description": "Dreadmaul Post",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1035,
+      "description": "The Tainted Scar",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1036,
+      "description": "Rise of the Defiler",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 14165,
+      "description": "Shattershore",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 14166,
+      "description": "Sunveil Excursion",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 14167,
+      "description": "Surwich",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 14168,
+      "description": "The Red Reaches",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 14169,
+      "description": "The Tainted Forest",
+      "orderIndex": 14,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

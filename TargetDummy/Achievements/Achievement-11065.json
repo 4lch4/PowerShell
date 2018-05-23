@@ -1,0 +1,84 @@
+{
+  "id": 11065,
+  "title": "It All Makes Sense Now",
+  "points": 0,
+  "description": "Collect all 12 pamphlets from doomsayers during the Legion pre-launch events.",
+  "rewardItems": [],
+  "icon": "inv_misc_note_03",
+  "criteria": [
+    {
+      "id": 31874,
+      "description": "Tattered Pamphlet",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 31875,
+      "description": "Worn Pamphlet",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 31876,
+      "description": "Damp Pamphlet",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 31877,
+      "description": "Crumpled Pamphlet",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 31878,
+      "description": "Odorous Pamphlet",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 31879,
+      "description": "Prophetic Pamphlet",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 31880,
+      "description": "Scribbled Pamphlet",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 31881,
+      "description": "Stained Pamphlet",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 31882,
+      "description": "Ominous Pamphlet",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 31883,
+      "description": "Demonic Pamphlet",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 31884,
+      "description": "Blackened Pamphlet",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 31885,
+      "description": "Scrawled Pamphlet",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

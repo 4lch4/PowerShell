@@ -1,0 +1,84 @@
+{
+  "id": 9491,
+  "title": "The Garrison Campaign",
+  "points": 10,
+  "description": "Complete the Garrison Campaign chapters listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_draenor_01",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "The Warlord's Council",
+      "orderIndex": 0,
+      "max": 3
+    },
+    {
+      "id": 25857,
+      "description": "The Sargerei",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25858,
+      "description": "Darktide Roost",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 25859,
+      "description": "Iron Siegeworks",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 25860,
+      "description": "The Ring of Blood",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 25863,
+      "description": "The Fall of Shattrath",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 25864,
+      "description": "Bloodmaul Compound",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 27305,
+      "description": "Broken Precipice",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 25866,
+      "description": "The Exarch's Call",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 25861,
+      "description": "Heart of the Breakers",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 25862,
+      "description": "A Strike at the Heart",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 25867,
+      "description": "Primal Fury",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

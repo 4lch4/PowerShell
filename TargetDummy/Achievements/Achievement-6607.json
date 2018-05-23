@@ -1,0 +1,43 @@
+{
+  "id": 6607,
+  "title": "Taming Azeroth",
+  "points": 10,
+  "description": "Complete all of the Taming achievements listed below.",
+  "reward": "Title Reward: Tamer",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_defeatpettamer_all",
+  "criteria": [
+    {
+      "id": 19421,
+      "description": "Taming Outland",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19420,
+      "description": "Taming Northrend",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21862,
+      "description": "Taming Cataclsym",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19422,
+      "description": "Taming Pandaria",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Kalimdor or EK Tamer",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

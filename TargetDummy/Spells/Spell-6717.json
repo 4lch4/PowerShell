@@ -1,0 +1,8 @@
+{
+  "id": 6717,
+  "name": "Place Lion Carcass",
+  "icon": "inv_misc_bowl_01",
+  "description": "Place upon the Flame of Uzel.",
+  "range": "Melee Range",
+  "castTime": "2.5 sec cast"
+}

@@ -1,0 +1,19 @@
+{
+  "id": 9983,
+  "title": "That's Whack!",
+  "points": 10,
+  "description": "Score 45 points in one session of Whack-a-Gnoll.",
+  "reward": "Rewards: Hogs' Studded Collar",
+  "rewardItems": [],
+  "icon": "inv_misc_head_gnoll_01",
+  "criteria": [
+    {
+      "id": 28005,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

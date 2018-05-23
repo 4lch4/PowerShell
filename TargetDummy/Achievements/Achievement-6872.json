@@ -1,0 +1,18 @@
+{
+  "id": 6872,
+  "title": "Realm First! Zen Master Tailor",
+  "points": 0,
+  "description": "First person on the realm to achieve 600 skill in tailoring.",
+  "rewardItems": [],
+  "icon": "trade_tailoring",
+  "criteria": [
+    {
+      "id": 5575,
+      "description": "",
+      "orderIndex": 0,
+      "max": 600
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

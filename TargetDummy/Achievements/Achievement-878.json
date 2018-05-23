@@ -1,0 +1,72 @@
+{
+  "id": 878,
+  "title": "One That Didn't Get Away",
+  "points": 10,
+  "description": "Catch one of the rare fish in the list below.",
+  "rewardItems": [],
+  "icon": "inv_misc_fish_35",
+  "criteria": [
+    {
+      "id": 1835,
+      "description": "Steelscale Crushfish",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1837,
+      "description": "103 Pound Mightfish",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1838,
+      "description": "22 Pound Lobster",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1839,
+      "description": "15 Pound Mud Snapper",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1840,
+      "description": "52 Pound Redgill",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1841,
+      "description": "29 Pound Salmon",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1842,
+      "description": "68 Pound Grouper",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1846,
+      "description": "Dark Herring",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1843,
+      "description": "32 Pound Catfish",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1844,
+      "description": "Rockhide Strongfish",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

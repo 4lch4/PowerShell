@@ -1,0 +1,37 @@
+{
+  "id": 8307,
+  "title": "Darkspear Revolutionary",
+  "points": 0,
+  "description": "Aided Vol'jin's troll uprising during Patch 5.3: Escalation.",
+  "reward": "Rewards Title: Darkspear Revolutionary",
+  "rewardItems": [],
+  "icon": "inv_hand_1h_trollshaman_c_01",
+  "criteria": [
+    {
+      "id": 23535,
+      "description": "The Lorewalker's Counsel",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 23537,
+      "description": "Durotar Liberation",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 23361,
+      "description": "The Path of the Last Emperor",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 23338,
+      "description": "Battlefield: Barrens (Weekly)",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

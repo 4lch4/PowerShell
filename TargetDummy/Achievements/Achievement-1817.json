@@ -1,0 +1,18 @@
+{
+  "id": 1817,
+  "title": "The Culling of Time",
+  "points": 10,
+  "description": "Defeat the Infinite Corruptor in The Culling of Stratholme on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_cotstratholme_25man",
+  "criteria": [
+    {
+      "id": 7494,
+      "description": "Infinite Corruptor",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

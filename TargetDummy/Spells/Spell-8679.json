@@ -1,0 +1,7 @@
+{
+  "id": 8679,
+  "name": "Wound Poison",
+  "icon": "inv_misc_herb_16",
+  "description": "Coats your weapons with a Lethal Poison that lasts for 1 hour. Each strike has a 30% chance to poison the enemy, which instantly inflicts 1,865 Nature damage and reduces all healing received for 12 sec.",
+  "castTime": "1.5 sec cast"
+}

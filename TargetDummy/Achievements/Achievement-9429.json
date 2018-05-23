@@ -1,0 +1,31 @@
+{
+  "id": 9429,
+  "title": "Upgrading the Mill",
+  "points": 5,
+  "description": "Place 75 Work Orders at the Lumber Mill and complete the quests listed below.",
+  "reward": "Reward: Unlocks Lumber Mill, Level 3 Blueprint",
+  "rewardItems": [],
+  "icon": "inv_tradeskillitem_03",
+  "criteria": [
+    {
+      "id": 25174,
+      "description": "Place 75 Work Orders at the Lumber Mill.",
+      "orderIndex": 0,
+      "max": 75
+    },
+    {
+      "id": 25733,
+      "description": "Legacy of the Ancients",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Reduction in Force",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

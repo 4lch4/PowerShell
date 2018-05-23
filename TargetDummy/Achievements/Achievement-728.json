@@ -1,0 +1,84 @@
+{
+  "id": 728,
+  "title": "Explore Durotar",
+  "points": 10,
+  "description": "Explore Durotar, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_durotar",
+  "criteria": [
+    {
+      "id": 822,
+      "description": "Valley of Trials",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14086,
+      "description": "Northwatch Foothold",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14087,
+      "description": "Southfury Watershed",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 823,
+      "description": "Sen'jin Village",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 825,
+      "description": "Echo Isles",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 826,
+      "description": "Tiragarde Keep",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 827,
+      "description": "Razor Hill",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 828,
+      "description": "Razormane Grounds",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 829,
+      "description": "Thunder Ridge",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 830,
+      "description": "Drygulch Ravine",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 831,
+      "description": "Skull Rock",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 832,
+      "description": "Orgrimmar",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

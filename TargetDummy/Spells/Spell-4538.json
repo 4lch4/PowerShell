@@ -1,0 +1,9 @@
+{
+  "id": 4538,
+  "name": "Extract Essence",
+  "icon": "spell_holy_retribution",
+  "description": "Stuns the succubus and the target for 12 sec, stealing 200 health from the target over that time.",
+  "range": "Melee Range",
+  "castTime": "Channeled",
+  "cooldown": "5 min cooldown"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 573,
+  "title": "Sapphiron's Demise (25 player)",
+  "points": 10,
+  "description": "Defeat Sapphiron in Naxxramas in 25-player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_head_dragon_blue",
+  "criteria": [
+    {
+      "id": 5135,
+      "description": "Sapphiron",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

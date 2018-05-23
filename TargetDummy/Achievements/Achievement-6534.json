@@ -1,0 +1,84 @@
+{
+  "id": 6534,
+  "title": "Upjade Complete",
+  "points": 10,
+  "description": "Complete the Jade Forest storylines listed below.",
+  "rewardItems": [],
+  "icon": "achievement_zone_jadeforest_loremaster",
+  "criteria": [
+    {
+      "id": 19332,
+      "description": "The Remains of Hellscream's Fist",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 19333,
+      "description": "First Contact",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 19338,
+      "description": "Strange Bedfellows",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 19339,
+      "description": "Grookin Hill",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Dawn's Blossom",
+      "orderIndex": 4,
+      "max": 5
+    },
+    {
+      "id": 19348,
+      "description": "Greenstone Quarry",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 19349,
+      "description": "The Temple of the Jade Serpent",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Tian Monastery",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 19206,
+      "description": "Terrace of Ten Thunders",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 19331,
+      "description": "Nectarbreeze Orchard",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 19350,
+      "description": "The Battle for the Forest",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 19351,
+      "description": "Overcoming Doubt",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

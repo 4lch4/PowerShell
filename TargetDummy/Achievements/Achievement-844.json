@@ -1,0 +1,78 @@
+{
+  "id": 844,
+  "title": "Explore Darkshore",
+  "points": 10,
+  "description": "Explore Darkshore, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_darkshore_01",
+  "criteria": [
+    {
+      "id": 1314,
+      "description": "Ruins of Auberdine",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14090,
+      "description": "Shatterspear Vale",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14091,
+      "description": "Shatterspear War Camp",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 14092,
+      "description": "Wildbend River",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 14093,
+      "description": "Withering Thicket",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1315,
+      "description": "Ruins of Mathystra",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1318,
+      "description": "The Eye of the Vortex",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1319,
+      "description": "Ameth'Aran",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1320,
+      "description": "Lor'danel",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1321,
+      "description": "Nazj'vel",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1322,
+      "description": "The Master's Glaive",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

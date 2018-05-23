@@ -1,0 +1,24 @@
+{
+  "id": 4527,
+  "title": "The Frostwing Halls (10 player)",
+  "points": 10,
+  "description": "Defeat the bosses of The Frostwing Halls in Icecrown Citadel in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_icecrown_frostwinghalls",
+  "criteria": [
+    {
+      "id": 12757,
+      "description": "Rescue Valithria Dreamwalker",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12758,
+      "description": "Sindragosa",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

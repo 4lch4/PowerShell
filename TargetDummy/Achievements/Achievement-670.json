@@ -1,0 +1,18 @@
+{
+  "id": 670,
+  "title": "Heroic: Underbog",
+  "points": 10,
+  "description": "Defeat The Black Stalker on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_theblackstalker",
+  "criteria": [
+    {
+      "id": 3712,
+      "description": "The Black Stalker",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

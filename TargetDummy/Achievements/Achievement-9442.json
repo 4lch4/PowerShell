@@ -1,0 +1,18 @@
+{
+  "id": 9442,
+  "title": "Cutting Edge: Imperator's Fall",
+  "points": 0,
+  "description": "Complete the Imperator Mar'gok encounter in Highmaul on Mythic difficulty, before the release of patch 6.2.",
+  "rewardItems": [],
+  "icon": "achievement_boss_highmaul_king",
+  "criteria": [
+    {
+      "id": 25785,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

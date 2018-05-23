@@ -1,0 +1,18 @@
+{
+  "id": 272,
+  "title": "Torch Juggler",
+  "points": 10,
+  "description": "Juggle 40 torches in 15 seconds in Dalaran.",
+  "rewardItems": [],
+  "icon": "inv_torch_thrown",
+  "criteria": [
+    {
+      "id": 6937,
+      "description": "40 torches",
+      "orderIndex": 1,
+      "max": 40
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

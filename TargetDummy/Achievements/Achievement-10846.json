@@ -1,0 +1,18 @@
+{
+  "id": 10846,
+  "title": "Mythic: High Botanist Tel'arn",
+  "points": 10,
+  "description": "Defeat High Botanist Tel'arn in The Nighthold on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_thenighthold_highbotanisttelam",
+  "criteria": [
+    {
+      "id": 31459,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

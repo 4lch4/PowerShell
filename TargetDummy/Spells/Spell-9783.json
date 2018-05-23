@@ -1,0 +1,7 @@
+{
+  "id": 9783,
+  "name": "Mithril Spurs",
+  "icon": "ability_rogue_sprint",
+  "description": "Attaches spurs to your boots that increase your mounted movement speed by 4%.  Must be level 70 or lower to gain this benefit. Cannot be applied to items higher than level 600.",
+  "castTime": "3 sec cast"
+}

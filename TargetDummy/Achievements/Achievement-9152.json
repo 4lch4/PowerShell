@@ -1,0 +1,18 @@
+{
+  "id": 9152,
+  "title": "It's an Invasion!",
+  "points": 5,
+  "description": "Successfully complete a garrison invasion.",
+  "rewardItems": [],
+  "icon": "achievement_garrison_invasion",
+  "criteria": [
+    {
+      "id": 25281,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

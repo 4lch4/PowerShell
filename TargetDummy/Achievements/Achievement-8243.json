@@ -1,0 +1,18 @@
+{
+  "id": 8243,
+  "title": "Hero of the Alliance: Malevolent",
+  "points": 0,
+  "description": "End PvP season 12 in the top .5% of the rated battleground ladder.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_a",
+  "criteria": [
+    {
+      "id": 15308,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

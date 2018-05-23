@@ -1,0 +1,18 @@
+{
+  "id": 3136,
+  "title": "Emalon the Storm Watcher (10 player)",
+  "points": 10,
+  "description": "Defeat Emalon the Storm Watcher in 10 player mode.",
+  "rewardItems": [],
+  "icon": "inv_misc_statue_10",
+  "criteria": [
+    {
+      "id": 9996,
+      "description": "Emalon the Storm Watcher",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

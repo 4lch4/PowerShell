@@ -1,0 +1,18 @@
+{
+  "id": 11759,
+  "title": "Yaass'shaarj",
+  "points": 10,
+  "description": "Collect any class armor set from the Siege of Orgrimmar.",
+  "rewardItems": [],
+  "icon": "achievement_boss_garrosh",
+  "criteria": [
+    {
+      "id": 36354,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

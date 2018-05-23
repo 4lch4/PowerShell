@@ -1,0 +1,72 @@
+{
+  "id": 9411,
+  "title": "Highmaul Historian",
+  "points": 15,
+  "description": "Restore and display pristine versions of all Ogre artifacts.",
+  "rewardItems": [],
+  "icon": "achievement_reputation_ogre",
+  "criteria": [
+    {
+      "id": 25653,
+      "description": "Pristine Stonemaul Succession Stone",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25654,
+      "description": "Pristine Stone Manacles",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25655,
+      "description": "Pristine Ogre Figurine",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 25656,
+      "description": "Pristine Pictogram Carving",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 25657,
+      "description": "Pristine Gladiator's Shield",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 25658,
+      "description": "Pristine Mortar and Pestle",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 25659,
+      "description": "Pristine Eye of Har'guun",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 25660,
+      "description": "Pristine Stone Dentures",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 25661,
+      "description": "Pristine Rylak Riding Harness",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 25662,
+      "description": "Pristine Imperial Decree Stele",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

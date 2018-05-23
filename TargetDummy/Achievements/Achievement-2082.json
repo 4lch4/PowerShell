@@ -1,0 +1,36 @@
+{
+  "id": 2082,
+  "title": "Ice Mammoth",
+  "points": 10,
+  "description": "Obtain an Ice Mammoth.",
+  "rewardItems": [],
+  "icon": "ability_mount_mammoth_white",
+  "criteria": [
+    {
+      "id": 7393,
+      "description": "Ice Mammoth",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7394,
+      "description": "Ice Mammoth",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7395,
+      "description": "Ice Mammoth",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7396,
+      "description": "Ice Mammoth",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

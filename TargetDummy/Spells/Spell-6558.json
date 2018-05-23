@@ -1,0 +1,9 @@
+{
+  "id": 6558,
+  "name": "Evil Intellect",
+  "subtext": "Rank 1",
+  "icon": "spell_arcane_mindmastery",
+  "description": "",
+  "range": "100 yd range",
+  "castTime": "Instant"
+}

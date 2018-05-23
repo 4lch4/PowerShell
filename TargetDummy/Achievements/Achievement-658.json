@@ -1,0 +1,24 @@
+{
+  "id": 658,
+  "title": "The Mechanar",
+  "points": 10,
+  "description": "Defeat Pathaleon the Calculator.",
+  "rewardItems": [],
+  "icon": "achievement_boss_pathaleonthecalculator",
+  "criteria": [
+    {
+      "id": 3250,
+      "description": "Pathaleon the Calculator",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4480,
+      "description": "How to Break Into the Arcatraz",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

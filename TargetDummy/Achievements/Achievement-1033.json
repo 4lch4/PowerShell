@@ -1,0 +1,54 @@
+{
+  "id": 1033,
+  "title": "Extinguishing Outland",
+  "points": 10,
+  "description": "Desecrate the Alliance's bonfires in Outland.",
+  "rewardItems": [],
+  "icon": "spell_fire_masterofelements",
+  "criteria": [
+    {
+      "id": 3186,
+      "description": "Blade's Edge Mountains",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3187,
+      "description": "Hellfire Peninsula",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3188,
+      "description": "Nagrand",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3189,
+      "description": "Netherstorm",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3190,
+      "description": "Shadowmoon Valley",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3191,
+      "description": "Terokkar Forest",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3192,
+      "description": "Zangarmarsh",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

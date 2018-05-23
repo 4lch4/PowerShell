@@ -1,0 +1,78 @@
+{
+  "id": 10665,
+  "title": "Explore Azsuna",
+  "points": 10,
+  "description": "Explore Azsuna, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievements_zone_azsuna",
+  "criteria": [
+    {
+      "id": 32710,
+      "description": "Faronaar",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 32711,
+      "description": "Felblaze Ingress",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 32712,
+      "description": "The Greenway",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 32713,
+      "description": "Isle of the Watchers",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 32714,
+      "description": "Llothien Highlands",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 32715,
+      "description": "Lost Orchard",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 32716,
+      "description": "Nar'thalas",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 32717,
+      "description": "Oceanus Cove",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 32718,
+      "description": "Ruined Sanctum",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 32719,
+      "description": "Temple of Lights",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 32720,
+      "description": "Ley-Ruins of Zarkhenar",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 166,
+  "title": "Warsong Gulch Victory",
+  "points": 10,
+  "description": "Win Warsong Gulch.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winwsg",
+  "criteria": [
+    {
+      "id": 5899,
+      "description": "Win Warsong Gulch",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

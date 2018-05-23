@@ -1,0 +1,18 @@
+{
+  "id": 9455,
+  "title": "Fire Ammonite Angler",
+  "points": 5,
+  "description": "Catch 100 Enormous Fire Ammonite fish in Draenor.",
+  "rewardItems": [],
+  "icon": "inv_fishing_f_ammonite3",
+  "criteria": [
+    {
+      "id": 25804,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

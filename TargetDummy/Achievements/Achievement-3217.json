@@ -1,0 +1,42 @@
+{
+  "id": 3217,
+  "title": "Chasing Marcia",
+  "points": 10,
+  "description": "Complete each of Marcia Chase's 5 fishing daily quests listed below.",
+  "rewardItems": [],
+  "icon": "inv_fishingpole_03",
+  "criteria": [
+    {
+      "id": 13363,
+      "description": "The Ghostfish",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13364,
+      "description": "The Jewel of the Sewers",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 13365,
+      "description": "Dangerously Delicious",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 13367,
+      "description": "Blood is Thicker",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 13366,
+      "description": "Disarmed!",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

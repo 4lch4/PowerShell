@@ -1,0 +1,120 @@
+{
+  "id": 10595,
+  "title": "A Cast Above the Rest",
+  "points": 10,
+  "description": "Catch one of the rare Legion fish in the list below.",
+  "rewardItems": [],
+  "icon": "inv_misc_fish_35",
+  "criteria": [
+    {
+      "id": 29903,
+      "description": "Leyshimmer Blenny",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 29904,
+      "description": "Nar'thalas Hermit",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 29905,
+      "description": "Ghostly Queenfish",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 29907,
+      "description": "Mountain Puffer",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 29908,
+      "description": "Coldriver Carp",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 29909,
+      "description": "Ancient Highmountain Salmon",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 29910,
+      "description": "Axefish",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 29911,
+      "description": "Seabottom Squid",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 29912,
+      "description": "Ancient Black Barracuda",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 29913,
+      "description": "Oodelfjisk",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 29914,
+      "description": "Graybelly Lobster",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 29915,
+      "description": "Thundering Stormray",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 29916,
+      "description": "Magic-Eater Frog",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 29917,
+      "description": "Seerspine Puffer",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 29918,
+      "description": "Tainted Runescale Koi",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 29919,
+      "description": "Terrorfin",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 29920,
+      "description": "Thorned Flounder",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 29921,
+      "description": "Ancient Mossgill",
+      "orderIndex": 17,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

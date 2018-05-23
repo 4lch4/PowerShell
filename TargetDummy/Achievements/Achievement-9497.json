@@ -1,0 +1,19 @@
+{
+  "id": 9497,
+  "title": "Finding Your Waystones",
+  "points": 5,
+  "description": "Loot 500 Ogre Waystones.",
+  "reward": "Reward: Unlocks Mage Tower/Spirit Lodge, Level 3 Blueprint",
+  "rewardItems": [],
+  "icon": "inv_relics_runestone",
+  "criteria": [
+    {
+      "id": 25888,
+      "description": "",
+      "orderIndex": 0,
+      "max": 500
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

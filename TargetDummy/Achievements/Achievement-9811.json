@@ -1,0 +1,38 @@
+{
+  "id": 9811,
+  "title": "Big Wanderluster: Gold",
+  "points": 5,
+  "description": "Complete The Real Big Race with the Wanderluster within 20 tolls.",
+  "reward": "Rewards: Darkmoon Gazer",
+  "rewardItems": [
+    {
+      "id": 122121,
+      "name": "Darkmoon Gazer",
+      "icon": "inv_darkmoon_eye",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_checkered_flag",
+  "criteria": [
+    {
+      "id": 27535,
+      "description": "Complete The Real Big Race with the Wanderluster within 26 tolls.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

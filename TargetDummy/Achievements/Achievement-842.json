@@ -1,0 +1,84 @@
+{
+  "id": 842,
+  "title": "Explore Teldrassil",
+  "points": 10,
+  "description": "Explore Teldrassil, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_darnassus",
+  "criteria": [
+    {
+      "id": 1299,
+      "description": "Shadowglen",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14088,
+      "description": "The Cleft",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14089,
+      "description": "Dolanaar",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1300,
+      "description": "Ban'ethil Hollow",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1302,
+      "description": "Gnarlpine Hold",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1303,
+      "description": "Lake Al'Ameth",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1304,
+      "description": "Pools of Arlithrien",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1305,
+      "description": "Starbreeze Village",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1306,
+      "description": "The Oracle Glade",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1307,
+      "description": "Wellspring Lake",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1308,
+      "description": "Darnassus",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1309,
+      "description": "Rut'theran Village",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,30 @@
+{
+  "id": 730,
+  "title": "Skills to Pay the Bills",
+  "points": 10,
+  "description": "Obtain 450 skill points in Fishing, First Aid, and Cooking.",
+  "rewardItems": [],
+  "icon": "inv_misc_note_02",
+  "criteria": [
+    {
+      "id": 5696,
+      "description": "Grand Master Fisherman",
+      "orderIndex": 0,
+      "max": 450
+    },
+    {
+      "id": 5592,
+      "description": "Grand Master in First Aid",
+      "orderIndex": 1,
+      "max": 450
+    },
+    {
+      "id": 5701,
+      "description": "Grand Master Cook",
+      "orderIndex": 2,
+      "max": 450
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

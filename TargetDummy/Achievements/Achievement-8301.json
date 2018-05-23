@@ -1,0 +1,19 @@
+{
+  "id": 8301,
+  "title": "Deadly Pet Brawler",
+  "points": 10,
+  "description": "Win 1000 PvP pet battles through Find Battle with a full team of level 25 pets.",
+  "reward": "Title Reward: Trainer",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_04",
+  "criteria": [
+    {
+      "id": 23306,
+      "description": "PvP Pet Battles Won",
+      "orderIndex": 0,
+      "max": 1000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

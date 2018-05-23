@@ -1,0 +1,18 @@
+{
+  "id": 9543,
+  "title": "Invasion? What Invasion?",
+  "points": 5,
+  "description": "Successfully complete 50 garrison invasions.",
+  "rewardItems": [],
+  "icon": "achievement_garrison_invasion_fifty",
+  "criteria": [
+    {
+      "id": 25281,
+      "description": "Invasions completed",
+      "orderIndex": 0,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 460,
+  "title": "Realm First! Level 80 Mage",
+  "points": 0,
+  "description": "First mage on the realm to achieve level 80.",
+  "rewardItems": [],
+  "icon": "inv_staff_13",
+  "criteria": [
+    {
+      "id": 5018,
+      "description": "Level to 80",
+      "orderIndex": 1,
+      "max": 80
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 6862,
+  "title": "Realm First! Zen Master Enchanter",
+  "points": 0,
+  "description": "First person on the realm to achieve 600 skill in enchanting.",
+  "rewardItems": [],
+  "icon": "trade_engraving",
+  "criteria": [
+    {
+      "id": 5567,
+      "description": "",
+      "orderIndex": 0,
+      "max": 600
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,24 @@
+{
+  "id": 161,
+  "title": "Resilient Victory",
+  "points": 10,
+  "description": "Overcome a 500 resource disadvantage in a match of Arathi Basin and claim victory.",
+  "rewardItems": [],
+  "icon": "achievement_bg_overcome500disadvantage",
+  "criteria": [
+    {
+      "id": 3804,
+      "description": "Overcome a 500 resource disadvantage",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14966,
+      "description": "Overcome a 500 resource disadvantage",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

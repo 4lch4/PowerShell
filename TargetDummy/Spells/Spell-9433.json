@@ -1,0 +1,9 @@
+{
+  "id": 9433,
+  "name": "Arcane Explosion",
+  "subtext": "Rank 4",
+  "icon": "spell_nature_wispsplode",
+  "description": "Sends out a blast wave of magic, inflicting 6,630 Arcane damage to nearby enemies.",
+  "powerCost": "330 Mana",
+  "castTime": "Instant"
+}

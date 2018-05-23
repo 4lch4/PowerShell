@@ -1,0 +1,18 @@
+{
+  "id": 3009,
+  "title": "Kiss and Make Up (10 player)",
+  "points": 10,
+  "description": "/Kiss Sara in Ulduar while she is angry with you in 10-player mode.",
+  "rewardItems": [],
+  "icon": "inv_valentinescard02",
+  "criteria": [
+    {
+      "id": 10187,
+      "description": "Sara",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

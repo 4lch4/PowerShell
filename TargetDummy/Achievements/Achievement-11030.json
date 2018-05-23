@@ -1,0 +1,11 @@
+{
+  "id": 11030,
+  "title": "Hero of the Alliance: Fearless",
+  "points": 0,
+  "description": "End Legion PvP season 2 in the top 0.5% of the rated battleground ladder (requires 50 games won in Legion Season 2).",
+  "rewardItems": [],
+  "icon": "achievement_pvp_a_a",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 0
+}

@@ -1,0 +1,9 @@
+{
+  "id": 9634,
+  "name": "ObsoleteDire Bear Form",
+  "subtext": "Shapeshift",
+  "icon": "ability_racial_bearform",
+  "description": "Shapeshift into dire bear form, increasing melee attack power by 120, armor contribution from cloth and leather items by 370%, and Stamina by 25%.  Also protects the caster from Polymorph effects and allows the use of various bear abilities.\n\n\n\nThe act of shapeshifting frees the caster of Polymorph and Movement Impairing effects.",
+  "powerCost": "5% of base mana",
+  "castTime": "Instant"
+}

@@ -1,0 +1,49 @@
+{
+  "id": 6926,
+  "title": "Tranquil Master",
+  "points": 10,
+  "description": "Purge Pandaria of Sha corruption, defeating each known manifestation of negative emotion.",
+  "reward": "Title Reward: The Tranquil Master",
+  "rewardItems": [],
+  "icon": "spell_shadow_shadowembrace",
+  "criteria": [
+    {
+      "id": 19668,
+      "description": "Sha of Doubt (Heroic)",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Sha of Despair",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22274,
+      "description": "Sha of Violence (Heroic)",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Sha of Hatred",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 19136,
+      "description": "Sha of Anger",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 19913,
+      "description": "Sha of Fear (Normal or Heroic)",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

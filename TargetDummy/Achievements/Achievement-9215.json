@@ -1,0 +1,18 @@
+{
+  "id": 9215,
+  "title": "Hero of Warspear",
+  "points": 10,
+  "description": "Gain exalted reputation with Vol'jin's Spear.",
+  "rewardItems": [],
+  "icon": "inv_tabard_a_77voljinsspear",
+  "criteria": [
+    {
+      "id": 25342,
+      "description": "Gain Exalted reputation with Vol'jin's Spear",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": 8221,
+  "title": "Collector: Banners of the Mantid Empire",
+  "points": 10,
+  "description": "Restore 20 Banners of the Mantid Empire.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 22955,
+      "description": "",
+      "orderIndex": 0,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,198 @@
+{
+  "id": 10016,
+  "title": "Full Discography",
+  "points": 5,
+  "description": "Collect all of the Music Rolls available for your garrison's jukebox.",
+  "rewardItems": [],
+  "icon": "trade_archaeology_delicatemusicbox",
+  "criteria": [
+    {
+      "id": 27711,
+      "description": "The Burning Legion",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27712,
+      "description": "Wrath of the Lich King",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27710,
+      "description": "Legends of Azeroth",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27740,
+      "description": "The Shattering",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27741,
+      "description": "Heart of Pandaria",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27742,
+      "description": "A Siege of Worlds",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 27768,
+      "description": "Orgrimmar",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 27769,
+      "description": "War March",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 27770,
+      "description": "Thunder Bluff",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 27771,
+      "description": "Mulgore Plains",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 27772,
+      "description": "Undercity",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 27773,
+      "description": "Zul'Gurub Voo Doo",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 27774,
+      "description": "The Zandalari",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 27775,
+      "description": "Silvermoon",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 27776,
+      "description": "Rescue the Warchief",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 27752,
+      "description": "Angelic",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 27753,
+      "description": "Ghost",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 27754,
+      "description": "Mountains",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 27755,
+      "description": "Magic",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 27756,
+      "description": "The Black Temple",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 27757,
+      "description": "Invincible",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 27758,
+      "description": "Karazhan Opera House",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 27759,
+      "description": "The Argent Tournament",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 27760,
+      "description": "Lament of the Highborne",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 27761,
+      "description": "Faerie Dragon",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 27762,
+      "description": "Totems of the Grizzlemaw",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 27763,
+      "description": "Mountains of Thunder",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 27764,
+      "description": "Darkmoon Carousel",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 27765,
+      "description": "Shalandis Isle",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 27766,
+      "description": "Way of the Monk",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 27767,
+      "description": "Song of Liu Lang",
+      "orderIndex": 30,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

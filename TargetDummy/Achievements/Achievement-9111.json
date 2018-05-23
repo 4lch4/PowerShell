@@ -1,0 +1,18 @@
+{
+  "id": 9111,
+  "title": "Raising the Bar",
+  "points": 5,
+  "description": "Raise 10 garrison followers to level 100.",
+  "rewardItems": [],
+  "icon": "achievement_garrisonfollower_levelup10",
+  "criteria": [
+    {
+      "id": 25258,
+      "description": "Raise 10 garrison followers to level 100.",
+      "orderIndex": 0,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

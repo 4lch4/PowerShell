@@ -1,0 +1,168 @@
+{
+  "id": 6587,
+  "title": "Outland Safari",
+  "points": 5,
+  "description": "Catch every battle pet in Outland.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_collectallwild_outland",
+  "criteria": [
+    {
+      "id": 21509,
+      "description": "Adder",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21624,
+      "description": "Ash Viper",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21674,
+      "description": "Brown Marmot",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21610,
+      "description": "Cat",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 21761,
+      "description": "Clefthoof Runt",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21760,
+      "description": "Flayer Youngling",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 21762,
+      "description": "Fledgling Nether Ray",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21764,
+      "description": "Fel Flame",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21631,
+      "description": "Mouse",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 21763,
+      "description": "Nether Roach",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 21613,
+      "description": "Prairie Dog",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 21508,
+      "description": "Rabbit",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 21516,
+      "description": "Rat",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 21716,
+      "description": "Rock Viper",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 21759,
+      "description": "Scalded Basilisk Hatchling",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 21622,
+      "description": "Scorpid",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 21758,
+      "description": "Skittering Cavern Crawler",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 21633,
+      "description": "Skunk",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 21518,
+      "description": "Small Frog",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 21519,
+      "description": "Snake",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 21766,
+      "description": "Sporeling Sprout",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 21522,
+      "description": "Squirrel",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 21620,
+      "description": "Stripe-Tailed Scorpid",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 21723,
+      "description": "Tainted Cockroach",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 21646,
+      "description": "Toad",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 21765,
+      "description": "Warpstalker Hatchling",
+      "orderIndex": 25,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

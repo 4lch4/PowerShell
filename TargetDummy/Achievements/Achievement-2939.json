@@ -1,0 +1,18 @@
+{
+  "id": 2939,
+  "title": "I Choose You, Runemaster Molgeim (10 player)",
+  "points": 10,
+  "description": "Defeat the Assembly of Iron with Runemaster Molgeim as the last member alive in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_boss_theironcouncil_01",
+  "criteria": [
+    {
+      "id": 10082,
+      "description": "Runemaster Molgeim",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

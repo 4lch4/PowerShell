@@ -1,0 +1,8 @@
+{
+  "id": 7384,
+  "name": "Overpower",
+  "icon": "ability_meleedamage",
+  "description": "Overpowers the enemy, causing 56,438 Physical damage. Cannot be blocked, dodged or parried, and has a 60% increased chance to critically strike.\n\n\n\nYour other melee abilities have a chance to activate Overpower.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

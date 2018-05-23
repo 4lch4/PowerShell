@@ -1,0 +1,271 @@
+{
+  "id": 9924,
+  "title": "Field Photographer",
+  "points": 5,
+  "description": "Take a picture with the S.E.L.F.I.E. camera in all of the locations listed below.",
+  "reward": "Title Reward: Field Photographer",
+  "rewardItems": [],
+  "icon": "inv_misc_selfiecamera_01",
+  "criteria": [
+    {
+      "id": 27865,
+      "description": "Onyxia's Lair",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27863,
+      "description": "The Frozen Throne",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 27866,
+      "description": "The Dark Portal",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 27867,
+      "description": "Dalaran",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 27868,
+      "description": "Janeiro's Point",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 27870,
+      "description": "Vale of Eternal Blossoms",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 27871,
+      "description": "Temple of Karabor",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 27873,
+      "description": "Deeprun Tram",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 27875,
+      "description": "Hearthglen",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 27874,
+      "description": "Thandol Span",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 27876,
+      "description": "Karazhan",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 27877,
+      "description": "Battle Ring, Gurubashi Arena",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 27878,
+      "description": "The Deadmines",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 27879,
+      "description": "Naxxramas",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 27880,
+      "description": "Wyrmrest Temple",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 27952,
+      "description": "Shattrath City (Outland)",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 27953,
+      "description": "Nordrassil",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 27954,
+      "description": "Light's Hope Chapel",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 27955,
+      "description": "Deathwing's Fall",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 27956,
+      "description": "Darkshire",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 27957,
+      "description": "The Shaper's Terrace",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 27958,
+      "description": "Wintergrasp Fortress",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 27959,
+      "description": "Vashj'ir",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 27960,
+      "description": "Valley of Kings",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 27961,
+      "description": "Westfall Lighthouse",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 27962,
+      "description": "Throne of the Elements",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 27963,
+      "description": "The Twin Colossals",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 27964,
+      "description": "Mount Neverest",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 27965,
+      "description": "Moonglade",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 27966,
+      "description": "The Stormspire",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 27967,
+      "description": "Caverns of Time",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 27968,
+      "description": "Blackrock Mountain",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 27969,
+      "description": "The Scarab Dais",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 27970,
+      "description": "Ravenholdt Manor",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 27971,
+      "description": "Echo Isles",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 27972,
+      "description": "Uther's Tomb",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 27973,
+      "description": "Daggercap Bay",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 27974,
+      "description": "Throne of Kil'jaeden",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 27975,
+      "description": "Sunsong Ranch",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 27976,
+      "description": "Turtle Beach",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 27977,
+      "description": "Auchindoun (Draenor)",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 27978,
+      "description": "Halls of Origination",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Stormwind & Ogrimmar",
+      "orderIndex": 42,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

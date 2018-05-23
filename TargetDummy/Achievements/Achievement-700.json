@@ -1,0 +1,438 @@
+{
+  "id": 700,
+  "title": "Freedom of the Horde",
+  "points": 0,
+  "description": "Obtain an Insignia or Medallion of the Horde.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_trinketpvp_02",
+  "criteria": [
+    {
+      "id": 760,
+      "description": "Insignia of the Horde",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 759,
+      "description": "Insignia of the Horde",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 761,
+      "description": "Insignia of the Horde",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 762,
+      "description": "Insignia of the Horde",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 763,
+      "description": "Insignia of the Horde",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 764,
+      "description": "Insignia of the Horde",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 765,
+      "description": "Insignia of the Horde",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 766,
+      "description": "Insignia of the Horde",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 767,
+      "description": "Insignia of the Horde",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 768,
+      "description": "Medallion of the Horde",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 769,
+      "description": "Medallion of the Horde",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 770,
+      "description": "Medallion of the Horde",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 771,
+      "description": "Medallion of the Horde",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 772,
+      "description": "Medallion of the Horde",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 773,
+      "description": "Medallion of the Horde",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 774,
+      "description": "Medallion of the Horde",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 775,
+      "description": "Medallion of the Horde",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 776,
+      "description": "Medallion of the Horde",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 777,
+      "description": "Medallion of the Horde",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 778,
+      "description": "Medallion of the Horde",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 7869,
+      "description": "Medallion of the Horde",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 12639,
+      "description": "Medallion of the Horde",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 13370,
+      "description": "Medallion of the Horde",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 8740,
+      "description": "Insignia of the Horde",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 16758,
+      "description": "Medallion of the Horde",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 16759,
+      "description": "Medallion of the Horde",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 16760,
+      "description": "Medallion of the Horde",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 16791,
+      "description": "Medallion of the Horde",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 16792,
+      "description": "Medallion of the Horde",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 16793,
+      "description": "Medallion of the Horde",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 17424,
+      "description": "Medallion of the Horde",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 18078,
+      "description": "Medallion of the Horde",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 18079,
+      "description": "Medallion of the Horde",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 18080,
+      "description": "Medallion of the Horde",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 18081,
+      "description": "Medallion of the Horde",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 18082,
+      "description": "Medallion of the Horde",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 18083,
+      "description": "Medallion of the Horde",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 18118,
+      "description": "Medallion of the Horde",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 18119,
+      "description": "Medallion of the Horde",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 18120,
+      "description": "Medallion of the Horde",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 19717,
+      "description": "",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 19718,
+      "description": "",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 19719,
+      "description": "",
+      "orderIndex": 42,
+      "max": 1
+    },
+    {
+      "id": 19719,
+      "description": "Insignia of the Horde",
+      "orderIndex": 43,
+      "max": 1
+    },
+    {
+      "id": 23271,
+      "description": "Insignia of the Horde",
+      "orderIndex": 44,
+      "max": 1
+    },
+    {
+      "id": 23286,
+      "description": "Insignia of the Horde",
+      "orderIndex": 45,
+      "max": 1
+    },
+    {
+      "id": 23284,
+      "description": "Insignia of the Horde",
+      "orderIndex": 46,
+      "max": 1
+    },
+    {
+      "id": 23285,
+      "description": "Insignia of the Horde",
+      "orderIndex": 47,
+      "max": 1
+    },
+    {
+      "id": 23282,
+      "description": "Insignia of the Horde",
+      "orderIndex": 48,
+      "max": 1
+    },
+    {
+      "id": 23283,
+      "description": "Insignia of the Horde",
+      "orderIndex": 49,
+      "max": 1
+    },
+    {
+      "id": 23281,
+      "description": "Insignia of the Horde",
+      "orderIndex": 50,
+      "max": 1
+    },
+    {
+      "id": 23277,
+      "description": "Insignia of the Horde",
+      "orderIndex": 51,
+      "max": 1
+    },
+    {
+      "id": 23276,
+      "description": "Insignia of the Horde",
+      "orderIndex": 52,
+      "max": 1
+    },
+    {
+      "id": 23275,
+      "description": "Insignia of the Horde",
+      "orderIndex": 53,
+      "max": 1
+    },
+    {
+      "id": 23273,
+      "description": "Insignia of the Horde",
+      "orderIndex": 54,
+      "max": 1
+    },
+    {
+      "id": 23274,
+      "description": "Insignia of the Horde",
+      "orderIndex": 55,
+      "max": 1
+    },
+    {
+      "id": 23272,
+      "description": "Insignia of the Horde",
+      "orderIndex": 56,
+      "max": 1
+    },
+    {
+      "id": 23269,
+      "description": "Insignia of the Horde",
+      "orderIndex": 57,
+      "max": 1
+    },
+    {
+      "id": 23270,
+      "description": "Insignia of the Horde",
+      "orderIndex": 58,
+      "max": 1
+    },
+    {
+      "id": 23747,
+      "description": "Insignia of the Horde",
+      "orderIndex": 59,
+      "max": 1
+    },
+    {
+      "id": 23748,
+      "description": "Insignia of the Horde",
+      "orderIndex": 60,
+      "max": 1
+    },
+    {
+      "id": 23749,
+      "description": "Insignia of the Horde",
+      "orderIndex": 61,
+      "max": 1
+    },
+    {
+      "id": 23750,
+      "description": "Insignia of the Horde",
+      "orderIndex": 62,
+      "max": 1
+    },
+    {
+      "id": 23751,
+      "description": "Insignia of the Horde",
+      "orderIndex": 63,
+      "max": 1
+    },
+    {
+      "id": 23752,
+      "description": "Insignia of the Horde",
+      "orderIndex": 64,
+      "max": 1
+    },
+    {
+      "id": 23765,
+      "description": "Medallion of the Horde",
+      "orderIndex": 65,
+      "max": 1
+    },
+    {
+      "id": 23766,
+      "description": "Medallion of the Horde",
+      "orderIndex": 66,
+      "max": 1
+    },
+    {
+      "id": 23767,
+      "description": "Medallion of the Horde",
+      "orderIndex": 67,
+      "max": 1
+    },
+    {
+      "id": 23768,
+      "description": "Medallion of the Horde",
+      "orderIndex": 68,
+      "max": 1
+    },
+    {
+      "id": 23769,
+      "description": "Medallion of the Horde",
+      "orderIndex": 69,
+      "max": 1
+    },
+    {
+      "id": 23770,
+      "description": "Medallion of the Horde",
+      "orderIndex": 70,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

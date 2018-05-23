@@ -1,0 +1,11 @@
+{
+  "id": 9585,
+  "title": "Proving Yourself: Silver Healer",
+  "points": 10,
+  "description": "Successfully complete the Basic Healer (Silver) trial at the Proving Grounds.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_silver",
+  "criteria": [],
+  "accountWide": true,
+  "factionId": 2
+}

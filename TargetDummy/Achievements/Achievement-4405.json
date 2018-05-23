@@ -1,0 +1,18 @@
+{
+  "id": 4405,
+  "title": "More Dots! (25 player)",
+  "points": 10,
+  "description": "Defeat Onyxia in less than 5 minutes in 25-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_boss_generaldrakkisath",
+  "criteria": [
+    {
+      "id": 12567,
+      "description": "Onyxia",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

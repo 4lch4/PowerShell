@@ -1,0 +1,18 @@
+{
+  "id": 409,
+  "title": "Last Man Standing",
+  "points": 0,
+  "description": "Be the sole survivor at the end of a ranked 5v5 match.",
+  "rewardItems": [],
+  "icon": "spell_holy_surgeoflight",
+  "criteria": [
+    {
+      "id": 3822,
+      "description": "Last man standing",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

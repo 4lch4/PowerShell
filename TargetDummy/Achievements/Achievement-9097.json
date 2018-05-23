@@ -1,0 +1,36 @@
+{
+  "id": 9097,
+  "title": "Keepin' Busy",
+  "points": 5,
+  "description": "Construct all the preset buildings listed below.",
+  "rewardItems": [],
+  "icon": "inv_garrison_resource",
+  "criteria": [
+    {
+      "id": 25212,
+      "description": "Mine",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25210,
+      "description": "Fishing Shack",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25211,
+      "description": "Herb Garden",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 25213,
+      "description": "Pet Menagerie",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,168 @@
+{
+  "id": 11261,
+  "title": "Adventurer of Azsuna",
+  "points": 10,
+  "description": "Complete the following special encounters in Azsuna.",
+  "rewardItems": [],
+  "icon": "achievements_zone_azsuna",
+  "criteria": [
+    {
+      "id": 33248,
+      "description": "Valiyaka the Stormbringer",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 33249,
+      "description": "Horn of the Siren",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 33250,
+      "description": "Captain Volo'ren",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 33251,
+      "description": "The Oracle",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 33257,
+      "description": "Mrrgrl the Tide Reaver",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 33258,
+      "description": "Flog the Captain-Eater",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 33259,
+      "description": "Daggerbeak",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 33260,
+      "description": "Seek & Destroy Squad",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 33261,
+      "description": "Normantis the Deposed",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 33262,
+      "description": "Unbound Rift",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 33263,
+      "description": "Syphonus & Leodrath",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 33264,
+      "description": "Cache of Infernals",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 33265,
+      "description": "Pridelord Meowl",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 33267,
+      "description": "Tide Behemoth",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 33268,
+      "description": "Beacher",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 32403,
+      "description": "Marius & Tehd versus a Fel Lord",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 32402,
+      "description": "Marius & Tehd versus a Doomlord",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 32401,
+      "description": "Marius & Tehd versus Felbats",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 33269,
+      "description": "Chief Bitterbrine",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 33270,
+      "description": "Brawlgoth",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 33271,
+      "description": "Ragemaw",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 33272,
+      "description": "Treacherous Stallions",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 33372,
+      "description": "Arcanist Shal'iman",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 33373,
+      "description": "Vorthax",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 33374,
+      "description": "Inquisitor Tivos",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 33377,
+      "description": "Ravyn-Drath",
+      "orderIndex": 25,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

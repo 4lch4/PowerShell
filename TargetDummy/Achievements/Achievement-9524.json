@@ -1,0 +1,18 @@
+{
+  "id": 9524,
+  "title": "Treasure Master",
+  "points": 5,
+  "description": "Complete 50 garrison treasure missions.",
+  "rewardItems": [],
+  "icon": "garrison_silverchest",
+  "criteria": [
+    {
+      "id": 25338,
+      "description": "Complete 50 garrison treasure missions.",
+      "orderIndex": 0,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

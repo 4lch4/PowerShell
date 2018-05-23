@@ -1,0 +1,10 @@
+<Template version="1.0" type="Project" tags="Form, PowerShell">
+	<Description>Creates project with multiple forms. Used to create a script application.</Description>
+	<Files>
+		<File>Startup.pss</File>
+		<File>MainForm.psf</File>
+		<File>ChildForm.psf</File>
+		<File>Globals.ps1</File>
+		<File rename="true">Multi-Form Project.psprojs</File>
+	</Files>
+</Template>

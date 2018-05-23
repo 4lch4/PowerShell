@@ -1,0 +1,18 @@
+{
+  "id": 8295,
+  "title": "The Few, the Proud, the Gob Squad",
+  "points": 10,
+  "description": "Complete the Secrets of Ragefire scenario without any member of the Gob Squad taking damage.",
+  "rewardItems": [],
+  "icon": "achievement_pvp_h_11",
+  "criteria": [
+    {
+      "id": 23365,
+      "description": "No member of the Gob Squad has been damaged.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

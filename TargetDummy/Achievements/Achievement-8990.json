@@ -1,0 +1,30 @@
+{
+  "id": 8990,
+  "title": "Black Forge",
+  "points": 10,
+  "description": "Defeat the bosses in the Black Forge in Blackrock Foundry.",
+  "rewardItems": [],
+  "icon": "achievement_boss_fomorsmith",
+  "criteria": [
+    {
+      "id": 25022,
+      "description": "Hans'gar and Franzok",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25023,
+      "description": "Flamebender Ka'graz",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25024,
+      "description": "Kromog",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

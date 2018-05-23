@@ -1,0 +1,8 @@
+{
+  "id": 6607,
+  "name": "Lash",
+  "icon": "ability_criticalstrike",
+  "description": "Knocks down an enemy and has a chance to disarm.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

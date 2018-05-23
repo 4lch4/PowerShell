@@ -1,0 +1,9 @@
+{
+  "id": 11433,
+  "name": "Death & Decay",
+  "icon": "spell_shadow_deathanddecay",
+  "description": "Invokes the malignant power of death and decay, inflicting Shadow damage to all enemies in a selected area for 10 sec.",
+  "range": "30 yd range",
+  "powerCost": "320 Mana",
+  "castTime": "2 sec cast"
+}

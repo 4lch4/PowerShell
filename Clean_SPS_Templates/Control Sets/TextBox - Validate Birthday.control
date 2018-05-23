@@ -1,0 +1,51 @@
+﻿<ControlTemplate version="2.1" dpi="96" scaleMode="Font" scaleDimensions="6, 13">
+  <Description>Inserts a MaskedTextBox that validates a birthdate.</Description>
+  <Icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABOSURBVDhPY2CgFNTP3fmfXAy2G6T5759/JGOQvkFoANBJYK/AaHxew/ACSBM6JskAZJsHlwtweWuQRiMpKRLFCxTlBUozIzD1QPIEuQAAxOKQS+F+hwEAAAAASUVORK5CYII=</Icon>
+  <Identifiers>
+    <ID id="1" name="maskedtextboxBirthDate" type="object" />
+    <ID id="2" name="control_Validated" type="event" />
+    <ID id="3" name="maskedtextboxBirthDate_TypeValidationCompleted" type="event" />
+    <ID id="4" name="errorprovider1" type="object" useExistingType="True" />
+  </Identifiers>
+  <Objects>
+    <Object type="System.Windows.Forms.MaskedTextBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:1%" children="Controls">
+      <Property name="Anchor">Top, Left, Right</Property>
+      <Property name="IconAlignment" extended="True" provider="%ID:4%">MiddleLeft</Property>
+      <Property name="IconPadding" extended="True" provider="%ID:4%">2</Property>
+      <Property name="Location">100, 116</Property>
+      <Property name="Mask">00/00/0000</Property>
+      <Property name="Name">%ID:1%</Property>
+      <Property name="ResetOnSpace">False</Property>
+      <Property name="Size">172, 20</Property>
+      <Property name="TabIndex">4</Property>
+      <Property name="ValidatingType">
+        <Binary>AAEAAAD/////AQAAAAAAAAAEAQAAAB9TeXN0ZW0uVW5pdHlTZXJpYWxpemF0aW9uSG9sZGVyAwAAAAREYXRhCVVuaXR5VHlwZQxBc3NlbWJseU5hbWUBAAEIBgIAAAAPU3lzdGVtLkRhdGVUaW1lBAAAAAYDAAAAS21zY29ybGliLCBWZXJzaW9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQs=</Binary>
+      </Property>
+      <Event name="Validated">%ID:2%</Event>
+      <Event name="TypeValidationCompleted">%ID:3%</Event>
+    </Object>
+    <Object type="System.Windows.Forms.ErrorProvider, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="%ID:4%">
+      <Property name="ContainerControl">
+        <Reference name="%CONTAINER%" />
+      </Property>
+    </Object>
+  </Objects>
+  <Events>
+    <Event id="2"><![CDATA[$%ID:2%={
+	#Pass the calling control and clear error message
+	$%ID:4%.SetError($this, "");	
+}]]></Event>
+    <Event id="3"><![CDATA[$%ID:3%=[System.Windows.Forms.TypeValidationEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.TypeValidationEventArgs]
+	if($_.Cancel -eq $false)
+	{
+		$_.Cancel = -not $_.IsValidInput
+	}
+	
+	if($_.IsValidInput -eq $false)
+	{
+		$%ID:4%.SetError($%ID:1%, "Invalid Date Format");
+	}
+}]]></Event>
+  </Events>
+</ControlTemplate>

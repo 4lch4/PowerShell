@@ -1,0 +1,18 @@
+{
+  "id": 632,
+  "title": "Blackfathom Deeps",
+  "points": 10,
+  "description": "Defeat Aku'mai.",
+  "rewardItems": [],
+  "icon": "achievement_boss_bazil_akumai",
+  "criteria": [
+    {
+      "id": 24413,
+      "description": "Aku'mai",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

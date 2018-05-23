@@ -1,0 +1,72 @@
+{
+  "id": 3559,
+  "title": "Turkey Lurkey",
+  "points": 10,
+  "description": "Blast those dirty, sneaking Rogues with your Turkey Shooter.",
+  "rewardItems": [],
+  "icon": "inv_torch_unlit",
+  "criteria": [
+    {
+      "id": 11163,
+      "description": "Blood Elf Rogue",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11164,
+      "description": "Dwarf Rogue",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 11165,
+      "description": "Gnome Rogue",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18394,
+      "description": "Goblin Rogue",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 11158,
+      "description": "Human Rogue",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 11159,
+      "description": "Night Elf Rogue",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 11160,
+      "description": "Orc Rogue",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 11161,
+      "description": "Troll Rogue",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 11162,
+      "description": "Undead Rogue",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 18395,
+      "description": "Worgen Rogue",
+      "orderIndex": 10,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

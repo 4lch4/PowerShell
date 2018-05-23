@@ -1,0 +1,18 @@
+{
+  "id": 881,
+  "title": "Swift Razzashi Raptor",
+  "points": 0,
+  "description": "Obtain the Swift Razzashi Raptor from Bloodlord Mandokir in Zul'Gurub.",
+  "rewardItems": [],
+  "icon": "ability_mount_raptor",
+  "criteria": [
+    {
+      "id": 6162,
+      "description": "Swift Razzashi Raptor",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

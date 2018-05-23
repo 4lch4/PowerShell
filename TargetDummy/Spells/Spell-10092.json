@@ -1,0 +1,7 @@
+{
+  "id": 10092,
+  "name": "Sand Storm",
+  "icon": "spell_nature_earthbind",
+  "description": "Conjures a sandstorm, causing Nature damage to enemies caught within and reducing their movement speed.",
+  "castTime": "Instant"
+}

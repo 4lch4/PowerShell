@@ -1,0 +1,7 @@
+{
+  "id": 5004,
+  "name": "Food",
+  "icon": "inv_misc_fork&knife",
+  "description": "Restores 290 health over 18 sec.  Must remain seated while eating.  If you spend at least 10 seconds eating you will become well fed and gain 2 Stamina for 15 min.",
+  "castTime": "Instant"
+}

@@ -1,0 +1,8 @@
+{
+  "id": 7948,
+  "name": "Wild Regeneration",
+  "icon": "spell_nature_rejuvenation",
+  "description": "Heals the caster for 277 damage every 2 sec. for 16 sec.",
+  "powerCost": "65 Mana",
+  "castTime": "3 sec cast"
+}

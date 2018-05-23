@@ -1,0 +1,36 @@
+{
+  "id": 6180,
+  "title": "Chromatic Champion",
+  "points": 10,
+  "description": "Destroy Deathwing in Dragon Soul on Normal or Heroic Difficulty after beginning the encounter on each Aspect's platform and allowing Deathwing to assault that Aspect:",
+  "rewardItems": [],
+  "icon": "inv_dragonchromaticmount",
+  "criteria": [
+    {
+      "id": 18658,
+      "description": "Alexstrasza Assaulted First",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 18659,
+      "description": "Kalecgos Assaulted First",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 18660,
+      "description": "Nozdormu Assaulted First",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 18661,
+      "description": "Ysera Assaulted First",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

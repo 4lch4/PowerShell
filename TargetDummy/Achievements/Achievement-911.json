@@ -1,0 +1,138 @@
+{
+  "id": 911,
+  "title": "Elders of Kalimdor",
+  "points": 10,
+  "description": "Honor the Elders which are located in Kalimdor.",
+  "rewardItems": [],
+  "icon": "spell_holy_symbolofhope",
+  "criteria": [
+    {
+      "id": 1916,
+      "description": "Elder Runetotem in Razor Hill",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1917,
+      "description": "Elder Skygleam in Azshara",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1918,
+      "description": "Elder Moonwarden in The Crossroads",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1919,
+      "description": "Elder High Mountain in Vendetta Point",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1920,
+      "description": "Elder Windtotem in Ratchet",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1951,
+      "description": "Elder Bladeleaf in Dolanaar",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1952,
+      "description": "Elder Starweave in Lor'danel",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1953,
+      "description": "Elder Bloodhoof in Bloodhoof Village",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1954,
+      "description": "Elder Riversong in Astranaar",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1955,
+      "description": "Elder Grimtotem in Feralas",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1956,
+      "description": "Elder Mistwalker in Dire Maul",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1957,
+      "description": "Elder Nightwind in Felwood",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1958,
+      "description": "Elder Skyseer in Freewind Post",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 1959,
+      "description": "Elder Morningdew in Fizzle and Pozzik's Speedbarge",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 1960,
+      "description": "Elder Ragetotem in Tanaris",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 1961,
+      "description": "Elder Dreamseer in Gadgetzan",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 1962,
+      "description": "Elder Thunderhorn in Un'Goro",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 1963,
+      "description": "Elder Brightspear in Winterspring",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 1964,
+      "description": "Elder Stonespire in Everlook",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 1965,
+      "description": "Elder Primestone in Silithus",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 1966,
+      "description": "Elder Bladesing in Cenarion Hold",
+      "orderIndex": 21,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 10458,
+  "title": "Ready for Raiding V",
+  "points": 10,
+  "description": "Defeat the Wrath of Azshara without being struck by Magic or Frost Resonance in Eye of Azshara on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "ability_hunter_resourcefulness",
+  "criteria": [
+    {
+      "id": 29405,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

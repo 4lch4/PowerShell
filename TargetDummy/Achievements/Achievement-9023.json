@@ -1,0 +1,18 @@
+{
+  "id": 9023,
+  "title": "...They All Fall Down",
+  "points": 10,
+  "description": "Defeat Soulbinder Nyami after defeating 12 fallen Auchenai protectors within 3 seconds in Auchindoun on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "spell_holy_prayerofspirit",
+  "criteria": [
+    {
+      "id": 24748,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,38 @@
+{
+  "id": 5877,
+  "title": "Menagerie",
+  "points": 10,
+  "description": "Collect 125 unique pets.",
+  "reward": "Reward: Brilliant Kaliri",
+  "rewardItems": [
+    {
+      "id": 71387,
+      "name": "Brilliant Kaliri",
+      "icon": "inv_feather_13",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_box_petcarrier_01",
+  "criteria": [
+    {
+      "id": 19598,
+      "description": "Collect 125 unique pets.",
+      "orderIndex": 0,
+      "max": 125
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

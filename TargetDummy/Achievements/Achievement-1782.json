@@ -1,0 +1,42 @@
+{
+  "id": 1782,
+  "title": "Our Daily Bread",
+  "points": 10,
+  "description": "Complete each of the cooking daily quests offered by Katherine Lee in Dalaran.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_12",
+  "criteria": [
+    {
+      "id": 11960,
+      "description": "Infused Mushroom Meatloaf",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 12078,
+      "description": "Convention at the Legerdemain",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 12080,
+      "description": "Sewer Stew",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 12082,
+      "description": "Cheese for Glowergold",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 12084,
+      "description": "Mustard Dogs!",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

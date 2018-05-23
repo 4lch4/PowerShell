@@ -1,0 +1,11 @@
+{
+  "id": 560,
+  "title": "Deadliest Catch",
+  "points": 0,
+  "description": "Fish up Gahz'ranka in Zul'Gurub using the Mudskunk Lure.",
+  "rewardItems": [],
+  "icon": "inv_misc_head_murloc_01",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

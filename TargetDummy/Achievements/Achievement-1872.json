@@ -1,0 +1,18 @@
+{
+  "id": 1872,
+  "title": "Zombiefest!",
+  "points": 10,
+  "description": "Kill 100 Risen Zombies in 1 minute in The Culling of Stratholme on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "spell_deathknight_explode_ghoul",
+  "criteria": [
+    {
+      "id": 7180,
+      "description": "Kill 100 Risen Zombies in 1 minute",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

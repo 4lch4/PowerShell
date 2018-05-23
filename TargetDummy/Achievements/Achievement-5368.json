@@ -1,0 +1,18 @@
+{
+  "id": 5368,
+  "title": "Prototype Prodigy",
+  "points": 10,
+  "description": "Keep the Prototype Reaper from falling below 90% health at any time before the Foe Reaper 5000 is defeated in Deadmines on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "inv_gizmo_goblingtonkcontroller",
+  "criteria": [
+    {
+      "id": 16210,
+      "description": "Foe Reaper 5000",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

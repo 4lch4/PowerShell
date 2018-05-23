@@ -1,0 +1,18 @@
+{
+  "id": 9101,
+  "title": "Even More Plots",
+  "points": 5,
+  "description": "Upgrade your garrison to tier 3.",
+  "rewardItems": [],
+  "icon": "achievement_garrison_tier03_alliance",
+  "criteria": [
+    {
+      "id": 24533,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

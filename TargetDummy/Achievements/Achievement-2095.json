@@ -1,0 +1,102 @@
+{
+  "id": 2095,
+  "title": "Silver in the City",
+  "points": 10,
+  "description": "Fish up the silver coins listed below from the Dalaran fountain.",
+  "rewardItems": [],
+  "icon": "inv_misc_coin_18",
+  "criteria": [
+    {
+      "id": 7463,
+      "description": "Aegwynn's Silver Coin",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7464,
+      "description": "Alleria's Silver Coin",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 7465,
+      "description": "Antonidas' Silver Coin",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 7466,
+      "description": "Arcanist Doan's Silver Coin",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 7467,
+      "description": "Fandral Staghelm's Silver Coin",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 7468,
+      "description": "High Tinker Mekkatorque's Silver Coin",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 7469,
+      "description": "Khadgar's Silver Coin ",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 7470,
+      "description": "King Anasterian Sunstrider's Silver Coin",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 7471,
+      "description": "King Terenas Menethil's Silver Coin",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 7472,
+      "description": "King Varian Wrynn's Silver Coin",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 7473,
+      "description": "Maiev Shadowsong's Silver Coin",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 7474,
+      "description": "Medivh's Silver Coin",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 7475,
+      "description": "Muradin Bronzebeard's Silver Coin",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 7476,
+      "description": "Prince Magni Bronzebeard's Silver Coin",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 7477,
+      "description": "A Peasant's Silver Coin",
+      "orderIndex": 15,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

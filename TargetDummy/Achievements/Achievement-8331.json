@@ -1,0 +1,18 @@
+{
+  "id": 8331,
+  "title": "Deepwind Gorge Victory",
+  "points": 10,
+  "description": "Win Deepwind Gorge.",
+  "rewardItems": [],
+  "icon": "achievement_zone_valleyoffourwinds",
+  "criteria": [
+    {
+      "id": 23368,
+      "description": "Win Deepwind Gorge",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

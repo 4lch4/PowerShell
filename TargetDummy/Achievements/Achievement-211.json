@@ -1,0 +1,18 @@
+{
+  "id": 211,
+  "title": "Storm Glory",
+  "points": 10,
+  "description": "While your team holds 4 of the bases in Eye of the Storm, personally grab the flag and capture it.",
+  "rewardItems": [],
+  "icon": "achievement_bg_hld4bases_eos",
+  "criteria": [
+    {
+      "id": 3693,
+      "description": "Capture a flag with 4 bases held",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 5255,
+  "name": "Explosion",
+  "icon": "spell_shadow_corpseexplode",
+  "description": "",
+  "range": "50,000 yd range",
+  "castTime": "Instant"
+}

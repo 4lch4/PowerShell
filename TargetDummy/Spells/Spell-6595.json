@@ -1,0 +1,8 @@
+{
+  "id": 6595,
+  "name": "Exploit Weakness",
+  "icon": "ability_backstab",
+  "description": "Inflicts Physical damage.",
+  "range": "Melee Range",
+  "castTime": "Instant"
+}

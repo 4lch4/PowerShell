@@ -1,0 +1,84 @@
+{
+  "id": 846,
+  "title": "Explore Thousand Needles",
+  "points": 10,
+  "description": "Explore Thousand Needles, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_thousandneedles_01",
+  "criteria": [
+    {
+      "id": 1341,
+      "description": "The Great Lift",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 14099,
+      "description": "Razorfen Downs",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 14100,
+      "description": "Sunken Dig Site",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 14101,
+      "description": "Southsea Holdfast",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 14102,
+      "description": "The Twilight Withering",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 14103,
+      "description": "Twilight Bulwark",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 14104,
+      "description": "Westreach Summit",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1342,
+      "description": "Darkcloud Pinnacle",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1344,
+      "description": "Freewind Post",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1345,
+      "description": "Splithoof Heights",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1347,
+      "description": "The Shimmering Deep",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1349,
+      "description": "Highperch",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

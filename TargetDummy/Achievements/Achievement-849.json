@@ -1,0 +1,90 @@
+{
+  "id": 849,
+  "title": "Explore Feralas",
+  "points": 10,
+  "description": "Explore Feralas, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_feralas",
+  "criteria": [
+    {
+      "id": 1395,
+      "description": "Lower Wilds",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1371,
+      "description": "Ruins of Feathermoon",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1372,
+      "description": "The Twin Colossals",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1384,
+      "description": "The Forgotten Coast",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1385,
+      "description": "Dire Maul",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1386,
+      "description": "Feral Scar Vale",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 1388,
+      "description": "Ruins of Isildien",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 1389,
+      "description": "The Writhing Deep",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 1390,
+      "description": "Camp Mojache",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 1391,
+      "description": "Grimtotem Compound",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 1392,
+      "description": "Gordunni Outpost",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 1393,
+      "description": "Darkmist Ruins",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 1394,
+      "description": "Feathermoon Stronghold",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

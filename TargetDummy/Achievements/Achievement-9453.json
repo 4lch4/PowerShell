@@ -1,0 +1,19 @@
+{
+  "id": 9453,
+  "title": "Draenic Stone Collector",
+  "points": 5,
+  "description": "Collect 500 Draenic Stones.",
+  "reward": "Reward: Unlocks Mine, Level 3 Blueprint",
+  "rewardItems": [],
+  "icon": "inv_stone_13",
+  "criteria": [
+    {
+      "id": 25794,
+      "description": "",
+      "orderIndex": 0,
+      "max": 500
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,19 @@
+{
+  "id": 7942,
+  "title": "Brawlin' and Shot Callin' (Season 1)",
+  "points": 0,
+  "description": "Reach Rank 8 with Brawl'gar Arena during the Pandaria campaign.",
+  "reward": "Rewards Title: Brawler",
+  "rewardItems": [],
+  "icon": "spell_holy_fistofjustice",
+  "criteria": [
+    {
+      "id": 22551,
+      "description": "Reach Rank 8 with Brawl'gar Arena.",
+      "orderIndex": 0,
+      "max": 7000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

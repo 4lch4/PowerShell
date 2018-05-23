@@ -1,0 +1,4 @@
+﻿<Template version="1.0" type="Grid">
+  <Description>Creates a form with search capabilities and a grid to display the results. The results are loaded using a Job.</Description>
+  <TargetGrid>datagridviewResults</TargetGrid>
+</Template>

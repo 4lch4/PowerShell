@@ -1,0 +1,48 @@
+{
+  "id": 868,
+  "title": "Explore Isle of Quel'Danas",
+  "points": 10,
+  "description": "Explore Isle of Quel'Danas, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_isleofqueldanas",
+  "criteria": [
+    {
+      "id": 1789,
+      "description": "Sun's Reach Harbor",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1791,
+      "description": "Dawnstar Village",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1792,
+      "description": "Sunwell Plateau",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 1793,
+      "description": "Magisters' Terrace",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 1794,
+      "description": "Greengill Coast",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 1795,
+      "description": "The Dead Scar",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,30 @@
+{
+  "id": 4517,
+  "title": "The Pit of Saron",
+  "points": 10,
+  "description": "Defeat the bosses in The Pit of Saron.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_icecrown_pitofsaron",
+  "criteria": [
+    {
+      "id": 13317,
+      "description": "Forgemaster Garfrost",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13318,
+      "description": "Ick and Krick",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 13319,
+      "description": "Scourgelord Tyrannus and Rimefang",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

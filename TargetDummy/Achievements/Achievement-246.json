@@ -1,0 +1,54 @@
+{
+  "id": 246,
+  "title": "Know Thy Enemy",
+  "points": 10,
+  "description": "Get an honorable, killing blow on seven different races.",
+  "rewardItems": [],
+  "icon": "ability_gouge",
+  "criteria": [
+    {
+      "id": 19207,
+      "description": "Pandaren",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 2369,
+      "description": "Blood Elf",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 16764,
+      "description": "Goblin",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 2370,
+      "description": "Orc",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 2371,
+      "description": "Tauren",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 2373,
+      "description": "Troll",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 2372,
+      "description": "Undead",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

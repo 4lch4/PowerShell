@@ -1,0 +1,24 @@
+{
+  "id": 9624,
+  "title": "Challenge Master: The Everbloom",
+  "points": 0,
+  "description": "Attain a realm-best time for The Everbloom Challenge Mode.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_everbloom_gold",
+  "criteria": [
+    {
+      "id": 26457,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26462,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

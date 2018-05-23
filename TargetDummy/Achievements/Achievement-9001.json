@@ -1,0 +1,18 @@
+{
+  "id": 9001,
+  "title": "The Everbloom Challenger",
+  "points": 0,
+  "description": "Complete the Everbloom Challenge Mode.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_everbloom_hourglass",
+  "criteria": [
+    {
+      "id": 24591,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

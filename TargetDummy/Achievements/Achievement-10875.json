@@ -1,0 +1,18 @@
+{
+  "id": 10875,
+  "title": "Can't Eat Just One",
+  "points": 10,
+  "description": "Defeat Naraxas after she gains 6 stacks of Ravenous in Neltharion's Lair on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_legion_heartyfeast",
+  "criteria": [
+    {
+      "id": 31555,
+      "description": "Defeat Naraxas in Neltharion's Lair after she gains 6 stacks of Ravenous.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

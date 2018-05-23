@@ -1,0 +1,7 @@
+{
+  "id": 6947,
+  "name": "Curse of the Bleakheart Proc",
+  "icon": "spell_shadow_chilltouch",
+  "description": "Curses the target with agony, periodically causing the target's heart to constrict in agony, stunning them.  Lasts until cancelled.",
+  "castTime": "Passive"
+}

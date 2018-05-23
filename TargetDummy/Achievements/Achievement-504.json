@@ -1,0 +1,18 @@
+{
+  "id": 504,
+  "title": "100 Quests Completed",
+  "points": 10,
+  "description": "Complete 100 quests.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_02",
+  "criteria": [
+    {
+      "id": 3631,
+      "description": "Complete 100 quests",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

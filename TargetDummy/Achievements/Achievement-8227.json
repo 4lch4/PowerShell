@@ -1,0 +1,18 @@
+{
+  "id": 8227,
+  "title": "Collector: Inert Sound Beacons",
+  "points": 10,
+  "description": "Restore 20 Inert Sound Beacons.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 22958,
+      "description": "",
+      "orderIndex": 0,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

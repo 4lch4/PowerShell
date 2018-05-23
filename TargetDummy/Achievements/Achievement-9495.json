@@ -1,0 +1,19 @@
+{
+  "id": 9495,
+  "title": "The Bone Collector",
+  "points": 5,
+  "description": "Collect Broken Bones from other players in Player versus Player combat across Draenor.",
+  "reward": "Reward: Unlocks Gladiator's Sanctum, Level 3 Blueprint",
+  "rewardItems": [],
+  "icon": "ability_deathknight_brittlebones",
+  "criteria": [
+    {
+      "id": 25886,
+      "description": "",
+      "orderIndex": 0,
+      "max": 4000
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

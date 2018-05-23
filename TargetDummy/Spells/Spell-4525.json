@@ -1,0 +1,7 @@
+{
+  "id": 4525,
+  "name": "Demonic Immolation Passive",
+  "icon": "spell_fire_selfdestruct",
+  "description": "When the Infernal takes damage, it has a 15% chance of bursting into fire doing damage to all who strike it for until cancelled.",
+  "castTime": "Passive"
+}

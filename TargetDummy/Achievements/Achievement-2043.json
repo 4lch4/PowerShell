@@ -1,0 +1,24 @@
+{
+  "id": 2043,
+  "title": "The Incredible Hulk",
+  "points": 10,
+  "description": "Force Svala Sorrowgrave to kill a Scourge Hulk on Heroic Difficulty in Utgarde Pinnacle.",
+  "rewardItems": [],
+  "icon": "spell_shadow_summoninfernal",
+  "criteria": [
+    {
+      "id": 7322,
+      "description": "Scourge Hulk",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 27942,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

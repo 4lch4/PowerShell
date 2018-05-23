@@ -1,0 +1,30 @@
+{
+  "id": 8726,
+  "title": "Extreme Treasure Hunter",
+  "points": 10,
+  "description": "Find and loot the Gleaming Treasure Chest, Rope-Bound Treasure Chest, and a Mist-Covered Treasure Chest on the Timeless Isle.",
+  "rewardItems": [],
+  "icon": "trade_archaeology_chestoftinyglassanimals",
+  "criteria": [
+    {
+      "id": 24018,
+      "description": "Gleaming Treasure Chest",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 24019,
+      "description": "Rope-Bound Treasure Chest",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 24020,
+      "description": "Mist-Covered Treasure Chest",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

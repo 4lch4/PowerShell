@@ -1,0 +1,7 @@
+{
+  "id": 6864,
+  "name": "Strength of Stone",
+  "icon": "ability_golemthunderclap",
+  "description": "Increases the Physical damage of the caster by 15, but reduces movement speed by 65%. Lasts 8 sec.",
+  "castTime": "Instant"
+}

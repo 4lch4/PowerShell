@@ -1,0 +1,18 @@
+{
+  "id": 8105,
+  "title": "The Crumble Bundle",
+  "points": 10,
+  "description": "Complete the quest \"The Crumbled Chamberlain\" within 10 minutes of accepting it.",
+  "rewardItems": [],
+  "icon": "archaeology_5_0_keystone_mogu",
+  "criteria": [
+    {
+      "id": 22867,
+      "description": "Complete \"The Crumbled Chamberlain\"",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

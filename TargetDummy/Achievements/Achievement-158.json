@@ -1,0 +1,18 @@
+{
+  "id": 158,
+  "title": "Me and the Cappin' Makin' it Happen",
+  "points": 10,
+  "description": "Take 50 flags in Arathi Basin.",
+  "rewardItems": [],
+  "icon": "achievement_bg_takexflags_ab",
+  "criteria": [
+    {
+      "id": 308,
+      "description": "Take 50 flags in Arathi Basin",
+      "orderIndex": 1,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

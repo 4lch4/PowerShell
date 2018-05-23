@@ -1,0 +1,24 @@
+{
+  "id": 690,
+  "title": "Karazhan",
+  "points": 10,
+  "description": "Defeat Prince Malchezaar in Karazhan.",
+  "rewardItems": [],
+  "icon": "achievement_boss_princemalchezaar_02",
+  "criteria": [
+    {
+      "id": 3254,
+      "description": "Prince Malchezaar",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4491,
+      "description": "A Demonic Presence",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

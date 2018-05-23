@@ -1,0 +1,18 @@
+{
+  "id": 10032,
+  "title": "Mythic: Iron Reaver",
+  "points": 10,
+  "description": "Defeat the Iron Reaver in Hellfire Citadel on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_hellfire_felreaver",
+  "criteria": [
+    {
+      "id": 28089,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

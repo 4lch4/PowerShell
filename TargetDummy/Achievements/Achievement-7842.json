@@ -1,0 +1,24 @@
+{
+  "id": 7842,
+  "title": "Collector's Edition: Baneling",
+  "points": 0,
+  "description": "Owner of the StarCraft II: Heart of the Swarm Collector's Edition Baneling pet.",
+  "rewardItems": [],
+  "icon": "ability_pet_baneling",
+  "criteria": [
+    {
+      "id": 22193,
+      "description": "Baneling",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 34639,
+      "description": "",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

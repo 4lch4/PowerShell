@@ -1,0 +1,48 @@
+{
+  "id": 9548,
+  "title": "Buried Treasures",
+  "points": 10,
+  "description": "Find all of the Warsong objects within Mok'gol Watchpost",
+  "rewardItems": [],
+  "icon": "inv_misc_shovel_02",
+  "criteria": [
+    {
+      "id": 26145,
+      "description": "Garrosh's Shackles",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 26146,
+      "description": "Warsong Relics",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 26147,
+      "description": "Warsong Remains",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 26148,
+      "description": "Stolen Draenei Tome",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 26149,
+      "description": "Wolf Pup Remains",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 26150,
+      "description": "Gnarled Bone",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

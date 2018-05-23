@@ -1,0 +1,61 @@
+{
+  "id": 1174,
+  "title": "The Arena Master",
+  "points": 0,
+  "description": "Complete the arena achievements listed below.",
+  "reward": "Title Reward: Arena Master",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_08",
+  "criteria": [
+    {
+      "id": 3488,
+      "description": "World Wide Winner",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3489,
+      "description": "Brutally Dedicated",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3490,
+      "description": "Just the Two of Us: 2200",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3491,
+      "description": "Three's Company: 2200",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3492,
+      "description": "High Five: 2200",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3493,
+      "description": "Hot Streak",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3494,
+      "description": "Hotter Streak",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 3496,
+      "description": "Last Man Standing",
+      "orderIndex": 8,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

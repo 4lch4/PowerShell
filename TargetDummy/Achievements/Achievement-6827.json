@@ -1,0 +1,86 @@
+{
+  "id": 6827,
+  "title": "Pandaren Ambassador",
+  "points": 20,
+  "description": "Earn Exalted with all of the pandaren reputations listed below.",
+  "reward": "Reward: Pandaren Kite String",
+  "rewardItems": [
+    {
+      "id": 81559,
+      "name": "Pandaren Kite String",
+      "icon": "item_spellcloththread",
+      "quality": 4,
+      "itemLevel": 70,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "trade_archaeology_highborne_scroll",
+  "criteria": [
+    {
+      "id": 19389,
+      "description": "Golden Lotus",
+      "orderIndex": 0,
+      "max": 42000
+    },
+    {
+      "id": 19388,
+      "description": "The August Celestials",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 18993,
+      "description": "Shado-Pan",
+      "orderIndex": 2,
+      "max": 42000
+    },
+    {
+      "id": 19390,
+      "description": "The Klaxxi",
+      "orderIndex": 3,
+      "max": 42000
+    },
+    {
+      "id": 19393,
+      "description": "The Lorewalkers",
+      "orderIndex": 4,
+      "max": 42000
+    },
+    {
+      "id": 19392,
+      "description": "The Anglers",
+      "orderIndex": 5,
+      "max": 42000
+    },
+    {
+      "id": 19391,
+      "description": "The Tillers",
+      "orderIndex": 6,
+      "max": 42000
+    },
+    {
+      "id": 19395,
+      "description": "Order of the Cloud Serpent",
+      "orderIndex": 7,
+      "max": 42000
+    },
+    {
+      "id": 19480,
+      "description": "Huojin Pandaren",
+      "orderIndex": 8,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

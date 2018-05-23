@@ -1,0 +1,84 @@
+{
+  "id": 1169,
+  "title": "Master of Arathi Basin",
+  "points": 25,
+  "description": "Complete the Arathi Basin achievements listed below.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_amulet_07",
+  "criteria": [
+    {
+      "id": 3431,
+      "description": "Arathi Basin Veteran",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 3432,
+      "description": "Arathi Basin Perfection",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3433,
+      "description": "Me and the Cappin' Makin' it Happen",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3434,
+      "description": "Disgracin' The Basin",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3435,
+      "description": "Overly Defensive",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3436,
+      "description": "To The Rescue!",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 3437,
+      "description": "Resilient Victory",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 3438,
+      "description": "Territorial Dominance",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 3439,
+      "description": "Let's Get This Done",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3442,
+      "description": "We Had It All Along *cough*",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3444,
+      "description": "Arathi Basin All-Star",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 3445,
+      "description": "Arathi Basin Assassin",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

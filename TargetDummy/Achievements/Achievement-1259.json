@@ -1,0 +1,18 @@
+{
+  "id": 1259,
+  "title": "Not So Fast",
+  "points": 10,
+  "description": "In Warsong Gulch, kill a player who is under the effects of the speed power-up.",
+  "rewardItems": [],
+  "icon": "ability_rogue_trip",
+  "criteria": [
+    {
+      "id": 3880,
+      "description": "Killed a Sprinting Player",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

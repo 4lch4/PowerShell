@@ -1,0 +1,600 @@
+{
+  "id": 6585,
+  "title": "Kalimdor Safari",
+  "points": 5,
+  "description": "Catch every battle pet in Kalimdor.",
+  "rewardItems": [],
+  "icon": "inv_pet_achievement_collectallwild_kalimdor",
+  "criteria": [
+    {
+      "id": 21509,
+      "description": "Adder",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 21728,
+      "description": "Alpine Chipmunk",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 21510,
+      "description": "Alpine Hare",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 21711,
+      "description": "Amethyst Shale Hatchling",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 21729,
+      "description": "Ash Lizard",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 21635,
+      "description": "Bat",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 21511,
+      "description": "Black Rat",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 21615,
+      "description": "Beetle",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 21736,
+      "description": "Biletoad",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 21730,
+      "description": "Carrion Rat",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 21629,
+      "description": "Chicken",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 21737,
+      "description": "Cheetah Cub",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 21625,
+      "description": "Cockroach",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 21743,
+      "description": "Coral Snake",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 21698,
+      "description": "Creepy Crawly",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 22540,
+      "description": "Crested Owl",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 21512,
+      "description": "Crystal Spider",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 21697,
+      "description": "Darkshore Cub",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 21731,
+      "description": "Death's Head Cockroach",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 21712,
+      "description": "Desert Spider",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 21750,
+      "description": "Diemetradon Hatchling",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 21719,
+      "description": "Dung Beetle",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 21713,
+      "description": "Elfin Rabbit",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 21738,
+      "description": "Emerald Boa",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 21621,
+      "description": "Fire Beetle",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 21732,
+      "description": "Fire-Proof Roach",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 21702,
+      "description": "Forest Moth",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 21691,
+      "description": "Frog",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 21735,
+      "description": "Gazelle Fawn",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 21742,
+      "description": "Giraffe Calf",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 21616,
+      "description": "Gold Beetle",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 21708,
+      "description": "Grey Moth",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 21612,
+      "description": "Hare",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 21701,
+      "description": "Horned Lizard",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 21715,
+      "description": "Horny Toad",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 21637,
+      "description": "Infected Fawn",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 21638,
+      "description": "Infected Squirrel",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 21751,
+      "description": "Leopard Scorpid",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 21752,
+      "description": "Locust",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 21513,
+      "description": "Long-Tailed Mole",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 21753,
+      "description": "Mac Frog",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 21514,
+      "description": "Maggot",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 21722,
+      "description": "Minfernal",
+      "orderIndex": 42,
+      "max": 1
+    },
+    {
+      "id": 21663,
+      "description": "Mountain Cottontail",
+      "orderIndex": 43,
+      "max": 1
+    },
+    {
+      "id": 21688,
+      "description": "Mountain Skunk",
+      "orderIndex": 44,
+      "max": 1
+    },
+    {
+      "id": 21631,
+      "description": "Mouse",
+      "orderIndex": 45,
+      "max": 1
+    },
+    {
+      "id": 21726,
+      "description": "Nether Faerie Dragon",
+      "orderIndex": 46,
+      "max": 1
+    },
+    {
+      "id": 21734,
+      "description": "Nordrassil Wisp",
+      "orderIndex": 47,
+      "max": 1
+    },
+    {
+      "id": 21754,
+      "description": "Oasis Moth",
+      "orderIndex": 48,
+      "max": 1
+    },
+    {
+      "id": 21657,
+      "description": "Parrot",
+      "orderIndex": 49,
+      "max": 1
+    },
+    {
+      "id": 21613,
+      "description": "Prairie Dog",
+      "orderIndex": 50,
+      "max": 1
+    },
+    {
+      "id": 21739,
+      "description": "Qiraji Guardling",
+      "orderIndex": 51,
+      "max": 1
+    },
+    {
+      "id": 21508,
+      "description": "Rabbit",
+      "orderIndex": 52,
+      "max": 1
+    },
+    {
+      "id": 21704,
+      "description": "Rabid Nut Varmint 5000",
+      "orderIndex": 53,
+      "max": 1
+    },
+    {
+      "id": 21516,
+      "description": "Rat",
+      "orderIndex": 54,
+      "max": 1
+    },
+    {
+      "id": 21617,
+      "description": "Rattlesnake",
+      "orderIndex": 55,
+      "max": 1
+    },
+    {
+      "id": 21709,
+      "description": "Ravager Hatchling",
+      "orderIndex": 56,
+      "max": 1
+    },
+    {
+      "id": 21651,
+      "description": "Red-Tailed Chipmunk",
+      "orderIndex": 57,
+      "max": 1
+    },
+    {
+      "id": 21517,
+      "description": "Roach",
+      "orderIndex": 58,
+      "max": 1
+    },
+    {
+      "id": 21705,
+      "description": "Robo-Chick",
+      "orderIndex": 59,
+      "max": 1
+    },
+    {
+      "id": 21699,
+      "description": "Rock Viper",
+      "orderIndex": 60,
+      "max": 1
+    },
+    {
+      "id": 21703,
+      "description": "Rusty Snail",
+      "orderIndex": 61,
+      "max": 1
+    },
+    {
+      "id": 21746,
+      "description": "Sand Kitten",
+      "orderIndex": 62,
+      "max": 1
+    },
+    {
+      "id": 21740,
+      "description": "Scarab Hatchling",
+      "orderIndex": 63,
+      "max": 1
+    },
+    {
+      "id": 21622,
+      "description": "Scorpid",
+      "orderIndex": 64,
+      "max": 1
+    },
+    {
+      "id": 21640,
+      "description": "Sea Gull",
+      "orderIndex": 65,
+      "max": 1
+    },
+    {
+      "id": 21710,
+      "description": "Shimmershell Snail",
+      "orderIndex": 66,
+      "max": 1
+    },
+    {
+      "id": 21706,
+      "description": "Shore Crab",
+      "orderIndex": 67,
+      "max": 1
+    },
+    {
+      "id": 21741,
+      "description": "Sidewinder",
+      "orderIndex": 68,
+      "max": 1
+    },
+    {
+      "id": 21747,
+      "description": "Silithid Hatchling",
+      "orderIndex": 69,
+      "max": 1
+    },
+    {
+      "id": 21727,
+      "description": "Silky Moth",
+      "orderIndex": 70,
+      "max": 1
+    },
+    {
+      "id": 21633,
+      "description": "Skunk",
+      "orderIndex": 71,
+      "max": 1
+    },
+    {
+      "id": 21518,
+      "description": "Small Frog",
+      "orderIndex": 72,
+      "max": 1
+    },
+    {
+      "id": 21519,
+      "description": "Snake",
+      "orderIndex": 73,
+      "max": 1
+    },
+    {
+      "id": 21757,
+      "description": "Snowy Owl",
+      "orderIndex": 74,
+      "max": 1
+    },
+    {
+      "id": 21721,
+      "description": "Spawn of Onyxia",
+      "orderIndex": 75,
+      "max": 1
+    },
+    {
+      "id": 21521,
+      "description": "Spider",
+      "orderIndex": 76,
+      "max": 1
+    },
+    {
+      "id": 21619,
+      "description": "Spiky Lizard",
+      "orderIndex": 77,
+      "max": 1
+    },
+    {
+      "id": 21720,
+      "description": "Spiny Lizard",
+      "orderIndex": 78,
+      "max": 1
+    },
+    {
+      "id": 21756,
+      "description": "Spotted Bell Frog",
+      "orderIndex": 79,
+      "max": 1
+    },
+    {
+      "id": 21522,
+      "description": "Squirrel",
+      "orderIndex": 80,
+      "max": 1
+    },
+    {
+      "id": 21748,
+      "description": "Stinkbug",
+      "orderIndex": 81,
+      "max": 1
+    },
+    {
+      "id": 21717,
+      "description": "Stone Armadillo",
+      "orderIndex": 82,
+      "max": 1
+    },
+    {
+      "id": 21659,
+      "description": "Strand Crab",
+      "orderIndex": 83,
+      "max": 1
+    },
+    {
+      "id": 21620,
+      "description": "Stripe-Tailed Scorpid",
+      "orderIndex": 84,
+      "max": 1
+    },
+    {
+      "id": 21723,
+      "description": "Tainted Cockroach",
+      "orderIndex": 85,
+      "max": 1
+    },
+    {
+      "id": 21724,
+      "description": "Tainted Moth",
+      "orderIndex": 86,
+      "max": 1
+    },
+    {
+      "id": 21725,
+      "description": "Tainted Rat",
+      "orderIndex": 87,
+      "max": 1
+    },
+    {
+      "id": 21646,
+      "description": "Toad",
+      "orderIndex": 88,
+      "max": 1
+    },
+    {
+      "id": 21755,
+      "description": "Tol'vir Scarab",
+      "orderIndex": 89,
+      "max": 1
+    },
+    {
+      "id": 21718,
+      "description": "Topaz Shale Hatchling",
+      "orderIndex": 90,
+      "max": 1
+    },
+    {
+      "id": 21660,
+      "description": "Tree Python",
+      "orderIndex": 91,
+      "max": 1
+    },
+    {
+      "id": 21707,
+      "description": "Turquoise Turtle",
+      "orderIndex": 92,
+      "max": 1
+    },
+    {
+      "id": 21700,
+      "description": "Twilight Beetle",
+      "orderIndex": 93,
+      "max": 1
+    },
+    {
+      "id": 21749,
+      "description": "Twilight Iguana",
+      "orderIndex": 94,
+      "max": 1
+    },
+    {
+      "id": 21684,
+      "description": "Twilight Spider",
+      "orderIndex": 95,
+      "max": 1
+    },
+    {
+      "id": 21744,
+      "description": "Venomspitter Hatchling",
+      "orderIndex": 96,
+      "max": 1
+    },
+    {
+      "id": 21661,
+      "description": "Water Snake",
+      "orderIndex": 97,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

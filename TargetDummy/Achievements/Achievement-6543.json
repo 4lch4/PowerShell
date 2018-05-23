@@ -1,0 +1,18 @@
+{
+  "id": 6543,
+  "title": "The August Celestials",
+  "points": 10,
+  "description": "Earn Exalted status with the August Celestials.",
+  "rewardItems": [],
+  "icon": "achievement_faction_celestials",
+  "criteria": [
+    {
+      "id": 19388,
+      "description": "August Celestials exalted",
+      "orderIndex": 0,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

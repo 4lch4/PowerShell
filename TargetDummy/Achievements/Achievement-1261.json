@@ -1,0 +1,18 @@
+{
+  "id": 1261,
+  "title": "G.N.E.R.D. Rage",
+  "points": 10,
+  "description": "Earn 10 honorable kills while under the influence of the G.N.E.R.D. buff. It's a slap in the face!",
+  "rewardItems": [],
+  "icon": "ability_warrior_rampage",
+  "criteria": [
+    {
+      "id": 3882,
+      "description": "10 Honorable Kills with the G.N.E.R.D. buff",
+      "orderIndex": 1,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

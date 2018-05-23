@@ -1,0 +1,38 @@
+{
+  "id": 10170,
+  "title": "Seaman",
+  "points": 5,
+  "description": "Complete 50 Naval Missions.",
+  "reward": "Reward: Admiral's Compass",
+  "rewardItems": [
+    {
+      "id": 128353,
+      "name": "Admiral's Compass",
+      "icon": "inv_misc_idol_05",
+      "quality": 3,
+      "itemLevel": 600,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_garrisonquests_0050",
+  "criteria": [
+    {
+      "id": 28567,
+      "description": "",
+      "orderIndex": 0,
+      "max": 50
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

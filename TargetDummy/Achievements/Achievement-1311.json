@@ -1,0 +1,132 @@
+{
+  "id": 1311,
+  "title": "Medium Rare",
+  "points": 10,
+  "description": "Kill one of the extremely rare and hard to find Outland creatures listed below.",
+  "rewardItems": [],
+  "icon": "spell_shadow_deathscream",
+  "criteria": [
+    {
+      "id": 4504,
+      "description": "Ambassador Jerrikar",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4505,
+      "description": "Bog Lurker",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4506,
+      "description": "Chief Engineer Lorthander",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4507,
+      "description": "Coilfang Emissary",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4508,
+      "description": "Collidus the Warp-Watcher",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4509,
+      "description": "Crippler",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4510,
+      "description": "Doomsayer Jurim",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4511,
+      "description": "Ever-Core the Punisher",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4512,
+      "description": "Fulgorge",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4513,
+      "description": "Goretooth",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4514,
+      "description": "Hemathion",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4515,
+      "description": "Kraator",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 4516,
+      "description": "Marticar",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 4517,
+      "description": "Mekthorg the Wild",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 4518,
+      "description": "Morcrush",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 4519,
+      "description": "Nuramoc",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 4520,
+      "description": "Okrek",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 4521,
+      "description": "Speaker Mar'grom",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 4522,
+      "description": "Voidhunter Yar",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 4523,
+      "description": "Vorakem Doomspeaker",
+      "orderIndex": 20,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2084,
+  "title": "Ring of the Kirin Tor",
+  "points": 10,
+  "description": "Purchase a Signet of the Kirin Tor, Band of the Kirin Tor, Loop of the Kirin Tor, or Ring of the Kirin Tor in Dalaran.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_ring_73",
+  "criteria": [
+    {
+      "id": 7401,
+      "description": "Band of the Kirin Tor",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 7402,
+      "description": "Signet of the Kirin Tor",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 9418,
+      "description": "Loop of the Kirin Tor",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 9419,
+      "description": "Ring of the Kirin Tor",
+      "orderIndex": 4,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

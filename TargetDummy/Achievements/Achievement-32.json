@@ -1,0 +1,18 @@
+{
+  "id": 32,
+  "title": "2000 Quests Completed",
+  "points": 10,
+  "description": "Complete 2000 quests.",
+  "rewardItems": [],
+  "icon": "achievement_quests_completed_07",
+  "criteria": [
+    {
+      "id": 3631,
+      "description": "",
+      "orderIndex": 0,
+      "max": 2000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

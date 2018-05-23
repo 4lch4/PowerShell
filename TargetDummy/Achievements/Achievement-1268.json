@@ -1,0 +1,84 @@
+{
+  "id": 1268,
+  "title": "Explore Sholazar Basin",
+  "points": 10,
+  "description": "Explore Sholazar Basin, revealing the covered areas of the world map.",
+  "rewardItems": [],
+  "icon": "achievement_zone_sholazar_01",
+  "criteria": [
+    {
+      "id": 4206,
+      "description": "River's Heart",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 4207,
+      "description": "The Savage Thicket",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 4208,
+      "description": "The Mosslight Pillar",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 4209,
+      "description": "Makers' Overlook",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 4210,
+      "description": "Makers' Perch",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 4211,
+      "description": "The Suntouched Pillar",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 4212,
+      "description": "Rainspeaker Canopy",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 4213,
+      "description": "The Lifeblood Pillar",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 4214,
+      "description": "The Avalanche",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 4215,
+      "description": "The Glimmering Pillar",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 4217,
+      "description": "Kartak's Hold",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 4218,
+      "description": "The Stormwright's Shelf",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

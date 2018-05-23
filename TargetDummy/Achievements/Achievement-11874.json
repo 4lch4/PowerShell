@@ -1,0 +1,18 @@
+{
+  "id": 11874,
+  "title": "Ahead of the Curve: Kil'jaeden",
+  "points": 0,
+  "description": "Defeat Kil'jaeden in Tomb of Sargeras on Heroic difficulty or higher, before the opening of Antorus, the Burning Throne.",
+  "rewardItems": [],
+  "icon": "achievement_boss_kiljaeden2",
+  "criteria": [
+    {
+      "id": 36973,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

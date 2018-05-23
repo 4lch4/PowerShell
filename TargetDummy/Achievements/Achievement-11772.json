@@ -1,0 +1,24 @@
+{
+  "id": 11772,
+  "title": "Power Ascended",
+  "points": 10,
+  "description": "Unlock every Artifact Trait for a single artifact weapon after empowering it.",
+  "rewardItems": [],
+  "icon": "inv_artifact_xp05",
+  "criteria": [
+    {
+      "id": 0,
+      "description": "A Gift from the Six completed.",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 0,
+      "description": "Final Artifact Ability Obtained.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

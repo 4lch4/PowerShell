@@ -1,0 +1,18 @@
+{
+  "id": 260,
+  "title": "Charming",
+  "points": 10,
+  "description": "Create 12 Lovely Charm Bracelets.",
+  "rewardItems": [],
+  "icon": "inv_jewelry_necklace_43",
+  "criteria": [
+    {
+      "id": 12846,
+      "description": "",
+      "orderIndex": 1,
+      "max": 12
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

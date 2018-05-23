@@ -1,0 +1,104 @@
+{
+  "id": 7934,
+  "title": "Raiding with Leashes",
+  "points": 10,
+  "description": "Collect all of the battle pets listed below from classic raids.",
+  "reward": "Reward: Mr. Bigglesworth",
+  "rewardItems": [
+    {
+      "id": 93031,
+      "name": "Mr. Bigglesworth",
+      "icon": "inv_pet_cats_siamesecat",
+      "quality": 3,
+      "itemLevel": 1,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_boss_ragnaros",
+  "criteria": [
+    {
+      "id": 22468,
+      "description": "Mini Mindslayer",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22469,
+      "description": "Anubisath Idol",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22470,
+      "description": "Giant Bone Spider",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22471,
+      "description": "Fungal Abomination",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 22473,
+      "description": "Stitched Pup",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 22474,
+      "description": "Harbinger of Flame",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 22475,
+      "description": "Corefire Imp",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 22476,
+      "description": "Ashstone Core",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 22477,
+      "description": "Untamed Hatchling",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 22478,
+      "description": "Chrominius",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 22479,
+      "description": "Death Talon Whelpguard",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 22480,
+      "description": "Viscidus Globule",
+      "orderIndex": 11,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,3 @@
+﻿<Template version="1.0" type="File" tags="PowerShell, Form">
+  <Description>Creates a wizard style form with navigation buttons.</Description>
+</Template>

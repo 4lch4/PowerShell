@@ -1,0 +1,18 @@
+{
+  "id": 10088,
+  "title": "Wild Conquest",
+  "points": 0,
+  "description": "Earn 27,000 Conquest Points in Warlords Season 2.",
+  "rewardItems": [],
+  "icon": "achievement_bg_winwsg",
+  "criteria": [
+    {
+      "id": 28384,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

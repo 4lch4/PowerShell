@@ -1,0 +1,60 @@
+{
+  "id": 8012,
+  "title": "Waste Not, Want Not",
+  "points": 10,
+  "description": "Use every weapon and power-up in the Lion's Landing scenario.",
+  "rewardItems": [],
+  "icon": "inv_box_01",
+  "criteria": [
+    {
+      "id": 22520,
+      "description": "Lever-Action Boomstick",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 22521,
+      "description": "Reaver Bomb",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 22522,
+      "description": "Rocket Launcher",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 22523,
+      "description": "Armor Power-Up",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 22524,
+      "description": "Berserk Power-Up",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 22526,
+      "description": "Restoration Power-Up",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 22527,
+      "description": "Speed Power-Up",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 23250,
+      "description": "",
+      "orderIndex": 7,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

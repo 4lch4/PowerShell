@@ -1,0 +1,8 @@
+{
+  "id": 9575,
+  "name": "Self Detonation",
+  "icon": "spell_fire_selfdestruct",
+  "description": "",
+  "range": "30 yd range",
+  "castTime": "7 sec cast"
+}

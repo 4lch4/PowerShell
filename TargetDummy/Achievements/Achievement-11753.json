@@ -1,0 +1,18 @@
+{
+  "id": 11753,
+  "title": "Winter Catalog",
+  "points": 10,
+  "description": "Collect any class armor set from Icecrown Citadel.",
+  "rewardItems": [],
+  "icon": "achievement_zone_icecrown_01",
+  "criteria": [
+    {
+      "id": 36360,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

@@ -1,0 +1,30 @@
+{
+  "id": 644,
+  "title": "King of Dire Maul",
+  "points": 10,
+  "description": "Defeat each wing of Dire Maul.",
+  "rewardItems": [],
+  "icon": "ability_warrior_decisivestrike",
+  "criteria": [
+    {
+      "id": 545,
+      "description": "Alzzin the Wildshaper",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 546,
+      "description": "Immol'thar",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 18535,
+      "description": "King Gordok",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

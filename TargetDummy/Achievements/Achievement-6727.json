@@ -1,0 +1,18 @@
+{
+  "id": 6727,
+  "title": "Heroic: Garalon",
+  "points": 10,
+  "description": "Defeat Garalon in Heart of Fear on Heroic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_raid_mantidraid05",
+  "criteria": [
+    {
+      "id": 19643,
+      "description": "Garalon",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

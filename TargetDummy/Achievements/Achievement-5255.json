@@ -1,0 +1,18 @@
+{
+  "id": 5255,
+  "title": "Jugger Not",
+  "points": 10,
+  "description": "Win the Battle for Gilneas by 100 points or less.",
+  "rewardItems": [],
+  "icon": "ability_rogue_kidneyshot",
+  "criteria": [
+    {
+      "id": 14945,
+      "description": "Win the Battle for Gilneas by 100 points or less.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

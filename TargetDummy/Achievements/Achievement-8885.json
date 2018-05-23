@@ -1,0 +1,18 @@
+{
+  "id": 8885,
+  "title": "Shadowmoon Burial Grounds: Silver",
+  "points": 0,
+  "description": "Complete the Shadowmoon Burial Grounds Challenge Mode with a rating of Silver or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_shadowmoonhideout_silver",
+  "criteria": [
+    {
+      "id": 24477,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 972,
+  "title": "Trick or Treat!",
+  "points": 10,
+  "description": "Receive a handful of treats from one of the Candy Buckets located in an inn.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_30",
+  "criteria": [
+    {
+      "id": 2231,
+      "description": "Handful of Treats",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

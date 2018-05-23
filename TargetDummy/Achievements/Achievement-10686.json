@@ -1,0 +1,18 @@
+{
+  "id": 10686,
+  "title": "Fashionista: Waist",
+  "points": 5,
+  "description": "Collect 100 waist slot appearances.",
+  "rewardItems": [],
+  "icon": "inv_belt_04",
+  "criteria": [
+    {
+      "id": 30571,
+      "description": "",
+      "orderIndex": 0,
+      "max": 100
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

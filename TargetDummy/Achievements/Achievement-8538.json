@@ -1,0 +1,18 @@
+{
+  "id": 8538,
+  "title": "Unlimited Potential",
+  "points": 10,
+  "description": "Transform a Corrupted Skullsplitter into a Corrupted Amalgamation and then defeat Malkorok in Siege of Orgrimmar on Normal difficulty or higher.",
+  "rewardItems": [],
+  "icon": "sha_spell_warlock_demonsoul",
+  "criteria": [
+    {
+      "id": 23771,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

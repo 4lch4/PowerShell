@@ -1,0 +1,18 @@
+{
+  "id": 10743,
+  "title": "The Prestige",
+  "points": 10,
+  "description": "Successfully reach Prestige level 1, rank 50 and be recognized for your valor by the leaders of the Alliance.",
+  "rewardItems": [],
+  "icon": "ability_rogue_combatreadiness",
+  "criteria": [
+    {
+      "id": 30990,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

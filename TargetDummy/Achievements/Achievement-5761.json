@@ -1,0 +1,84 @@
+{
+  "id": 5761,
+  "title": "Hex Mix",
+  "points": 10,
+  "description": "Un-hex all of the potential hex victims in Zul'Aman on Heroic Difficulty.",
+  "rewardItems": [],
+  "icon": "spell_shaman_hex",
+  "criteria": [
+    {
+      "id": 16836,
+      "description": "Rosa saved.",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 16837,
+      "description": "Eulinda saved.",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 16838,
+      "description": "Lenzo saved.",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 16839,
+      "description": "Melasong saved.",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 16840,
+      "description": "Harald saved.",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 16841,
+      "description": "Relissa saved.",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 16842,
+      "description": "Kaldrick saved.",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 16843,
+      "description": "Arinoth saved.",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 16844,
+      "description": "Micah saved.",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 16845,
+      "description": "Tyllan saved.",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 16846,
+      "description": "Mawago saved.",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 16847,
+      "description": "Melissa saved.",
+      "orderIndex": 12,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

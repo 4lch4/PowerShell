@@ -1,0 +1,18 @@
+{
+  "id": 162,
+  "title": "We Had It All Along *cough*",
+  "points": 10,
+  "description": "Win Arathi Basin by 50 points or less.",
+  "rewardItems": [],
+  "icon": "spell_shadow_improvedvampiricembrace",
+  "criteria": [
+    {
+      "id": 1235,
+      "description": "Win Arathi Basin by 50 points or less.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

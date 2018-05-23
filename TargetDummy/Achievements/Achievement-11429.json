@@ -1,0 +1,18 @@
+{
+  "id": 11429,
+  "title": "Mythic: Return to Karazhan",
+  "points": 10,
+  "description": "Defeat Viz'aduum the Watcher in Return to Karazhan on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_raid_karazhan",
+  "criteria": [
+    {
+      "id": 34850,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

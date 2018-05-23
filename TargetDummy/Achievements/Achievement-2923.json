@@ -1,0 +1,18 @@
+{
+  "id": 2923,
+  "title": "Iron Dwarf, Medium Rare (10 player)",
+  "points": 10,
+  "description": "Defeat 25 Dark Rune Guardian Dwarves with Razorscale's Flame Breath in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_ulduarraid_irondwarf_01",
+  "criteria": [
+    {
+      "id": 33104,
+      "description": "Razorscale",
+      "orderIndex": 0,
+      "max": 25
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11715,
+  "title": "(Ruth)less is More",
+  "points": 10,
+  "description": "Collect any class armor set from PvP Season 10.",
+  "rewardItems": [],
+  "icon": "inv_axe_2h_pvp410_c_01",
+  "criteria": [
+    {
+      "id": 36237,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

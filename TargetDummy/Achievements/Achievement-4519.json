@@ -1,0 +1,24 @@
+{
+  "id": 4519,
+  "title": "Heroic: The Forge of Souls",
+  "points": 10,
+  "description": "Defeat the bosses in The Forge of Souls on Heroic Difficulty",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_icecrown_forgeofsouls",
+  "criteria": [
+    {
+      "id": 13167,
+      "description": "Bronjahm",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13168,
+      "description": "Devourer of Souls",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

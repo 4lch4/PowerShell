@@ -1,0 +1,18 @@
+{
+  "id": 9906,
+  "title": "Alt-ernative Lifestyle",
+  "points": 10,
+  "description": "Collect 5 Heirlooms.",
+  "rewardItems": [],
+  "icon": "inv_sword_05",
+  "criteria": [
+    {
+      "id": 27840,
+      "description": "Collect 5 Heirlooms",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

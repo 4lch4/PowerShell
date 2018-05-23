@@ -1,0 +1,18 @@
+{
+  "id": 6457,
+  "title": "Stormstout Brewery",
+  "points": 10,
+  "description": "Defeat Yan-Zhu the Uncasked in Stormstout Brewery.",
+  "rewardItems": [],
+  "icon": "achievement_brewery",
+  "criteria": [
+    {
+      "id": 19108,
+      "description": "Yan-Zhu the Uncasked",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

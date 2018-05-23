@@ -1,0 +1,18 @@
+{
+  "id": 10706,
+  "title": "Training the Troops",
+  "points": 5,
+  "description": "Recruit 5 troops.",
+  "rewardItems": [],
+  "icon": "achievement_garrisonfollower_recruit5",
+  "criteria": [
+    {
+      "id": 30657,
+      "description": "Recruit 5 troops.",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

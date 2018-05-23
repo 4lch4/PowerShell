@@ -1,0 +1,30 @@
+{
+  "id": 914,
+  "title": "Elders of the Horde",
+  "points": 10,
+  "description": "Honor the Elders which are located in the Horde capital cities.",
+  "rewardItems": [],
+  "icon": "spell_holy_symbolofhope",
+  "criteria": [
+    {
+      "id": 1991,
+      "description": "Elder Darkhorn in Orgrimmar",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 1992,
+      "description": "Elder Wheathoof in Thunder Bluff",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 1993,
+      "description": "Elder Darkcore in Undercity",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

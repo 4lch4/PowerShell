@@ -1,0 +1,18 @@
+{
+  "id": 7338,
+  "title": "Collector: Pandaren Tea Sets",
+  "points": 10,
+  "description": "Restore 5 Pandaren Tea Sets.\r\n",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 20651,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

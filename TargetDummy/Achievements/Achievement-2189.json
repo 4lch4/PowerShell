@@ -1,0 +1,18 @@
+{
+  "id": 2189,
+  "title": "Artillery Expert",
+  "points": 10,
+  "description": "Destroy 5 vehicles using a turret in a single battle.",
+  "rewardItems": [],
+  "icon": "inv_ammo_bullet_03",
+  "criteria": [
+    {
+      "id": 7628,
+      "description": "Destroy 5 vehicles using a turret in a single battle",
+      "orderIndex": 1,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

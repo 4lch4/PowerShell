@@ -1,0 +1,24 @@
+{
+  "id": 903,
+  "title": "Shattrath Divided",
+  "points": 10,
+  "description": "Earn Exalted status with The Scryers or The Aldor.",
+  "rewardItems": [],
+  "icon": "spell_arcane_portalshattrath",
+  "criteria": [
+    {
+      "id": 4763,
+      "description": "Exalted with The Scryers",
+      "orderIndex": 1,
+      "max": 42000
+    },
+    {
+      "id": 4762,
+      "description": "Exalted with The Aldor",
+      "orderIndex": 2,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

@@ -1,0 +1,8 @@
+{
+  "id": 6524,
+  "name": "Ground Tremor",
+  "icon": "spell_nature_earthquake",
+  "description": "Stuns nearby enemies, rendering them unable to move or attack for 2 sec.",
+  "castTime": "Instant",
+  "cooldown": "5 sec cooldown"
+}

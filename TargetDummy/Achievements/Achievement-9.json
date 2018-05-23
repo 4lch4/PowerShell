@@ -1,0 +1,18 @@
+{
+  "id": 9,
+  "title": "Level 40",
+  "points": 10,
+  "description": "Reach level 40.",
+  "rewardItems": [],
+  "icon": "achievement_level_40",
+  "criteria": [
+    {
+      "id": 5212,
+      "description": "Reach level 40",
+      "orderIndex": 1,
+      "max": 40
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

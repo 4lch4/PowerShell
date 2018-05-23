@@ -1,0 +1,18 @@
+{
+  "id": 956,
+  "title": "Brood of Nozdormu",
+  "points": 10,
+  "description": "Earn Exalted status with the Brood of Nozdormu.",
+  "rewardItems": [],
+  "icon": "inv_misc_head_dragon_bronze",
+  "criteria": [
+    {
+      "id": 2049,
+      "description": "Exalted with the Brood of Nozdormu",
+      "orderIndex": 1,
+      "max": 42000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

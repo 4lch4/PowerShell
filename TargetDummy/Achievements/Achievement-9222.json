@@ -1,0 +1,18 @@
+{
+  "id": 9222,
+  "title": "Divide and Conquer",
+  "points": 10,
+  "description": "Kill 5000 enemy players anywhere outside the Road of Glory within Ashran.",
+  "rewardItems": [],
+  "icon": "ability_crown_of_the_heavens_icon",
+  "criteria": [
+    {
+      "id": 25792,
+      "description": "5000 Honorable Kills In 'Ashran' Not In' Road of Glory'",
+      "orderIndex": 0,
+      "max": 5000
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

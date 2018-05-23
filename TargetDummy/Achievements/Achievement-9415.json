@@ -1,0 +1,72 @@
+{
+  "id": 9415,
+  "title": "Secrets of Skettis",
+  "points": 10,
+  "description": "Discover the following Arakkoa artifacts.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 25702,
+      "description": "Dreamcatcher",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25703,
+      "description": "Burial Urn",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25704,
+      "description": "Decree Scrolls",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 25705,
+      "description": "Solar Orb",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 25706,
+      "description": "Sundial",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 25707,
+      "description": "Talonpriest Mask",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 25708,
+      "description": "Outcast Dreamcatcher",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 25709,
+      "description": "Apexis Crystal",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 25710,
+      "description": "Apexis Heiroglyph",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 25711,
+      "description": "Apexis Scroll",
+      "orderIndex": 9,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

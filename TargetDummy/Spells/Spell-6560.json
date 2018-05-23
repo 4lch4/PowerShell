@@ -1,0 +1,9 @@
+{
+  "id": 6560,
+  "name": "Restoration",
+  "subtext": "Rank 1",
+  "icon": "spell_nature_stormreach",
+  "description": "Does nothing.",
+  "castTime": "Instant",
+  "cooldown": "8 min cooldown"
+}

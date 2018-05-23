@@ -1,0 +1,9 @@
+{
+  "id": 7386,
+  "name": "zzOldSunder Armor",
+  "icon": "ability_warrior_sunder",
+  "description": "Sunders the target, causing Weakened Armor.\n\n\n\n Weakened Armor\n\nWeakens the armor of the target by 4% for 30 sec.  Stacks up to 3 times.",
+  "range": "Melee Range",
+  "powerCost": "15 Rage",
+  "castTime": "Instant"
+}

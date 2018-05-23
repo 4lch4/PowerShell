@@ -1,0 +1,74 @@
+{
+  "id": 11175,
+  "title": "Higher Dimensional Learning",
+  "points": 10,
+  "description": "Read the seven chapters of the Beginner's Guide to Dimensional Rifting scattered across Azsuna.",
+  "reward": "Reward: Adept's Guide to Dimensional Rifting",
+  "rewardItems": [
+    {
+      "id": 140493,
+      "name": "Adept's Guide to Dimensional Rifting",
+      "icon": "inv_relics_libramoftruth",
+      "quality": 3,
+      "itemLevel": 110,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "inv_relics_libramofgrace",
+  "criteria": [
+    {
+      "id": 32196,
+      "description": "Dimensional Rifting Ch. 1 - Navigating Through Time",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 32197,
+      "description": "Dimensional Rifting Ch. 2 - Holy Places to Many",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 32198,
+      "description": "Dimensional Rifting Ch. 3 - Water, Just Water",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 32199,
+      "description": "Dimensional Rifting Ch. 4 - Risks and Rewards",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 32200,
+      "description": "Dimensional Rifting Ch. 5 - Finding Others Along the Way",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 32201,
+      "description": "Dimensional Rifting Ch. 6 - Pent Up Energy",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 32202,
+      "description": "Dimensional Rifting Ch. 7 - Our Legacy",
+      "orderIndex": 6,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

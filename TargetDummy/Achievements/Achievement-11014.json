@@ -1,0 +1,12 @@
+{
+  "id": 11014,
+  "title": "Fearless Gladiator: Legion Season 2",
+  "points": 0,
+  "description": "End Legion PvP season 2 in the top 0.1% of the arena ladder (requires 50 games won in Legion Season 2).",
+  "reward": "Title Reward: Fearless Gladiator",
+  "rewardItems": [],
+  "icon": "achievement_featsofstrength_gladiator_04",
+  "criteria": [],
+  "accountWide": false,
+  "factionId": 2
+}

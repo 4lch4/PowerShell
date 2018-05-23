@@ -1,0 +1,3 @@
+﻿<Template version="1.0" type="File" tags="PowerShell, Form, Grid, Job, Search">
+  <Description>Creates a form with search capabilities and a grid to display the results. The results are loaded using a Job.</Description>
+</Template>

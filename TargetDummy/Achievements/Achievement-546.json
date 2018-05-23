@@ -1,0 +1,18 @@
+{
+  "id": 546,
+  "title": "Safe Deposit",
+  "points": 10,
+  "description": "Buy 7 additional bank slots.",
+  "rewardItems": [],
+  "icon": "inv_box_01",
+  "criteria": [
+    {
+      "id": 2002,
+      "description": "Purchase 7 bank slots",
+      "orderIndex": 1,
+      "max": 7
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

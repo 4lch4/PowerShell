@@ -1,0 +1,18 @@
+{
+  "id": 11223,
+  "title": "Legendary Research",
+  "points": 5,
+  "description": "Research all your Class Hall Upgrades.",
+  "rewardItems": [],
+  "icon": "achievement_garrison_blueprint_large",
+  "criteria": [
+    {
+      "id": 32934,
+      "description": "Complete the 6th Tier of your Class Hall Research.",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

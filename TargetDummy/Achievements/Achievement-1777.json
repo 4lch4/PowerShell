@@ -1,0 +1,282 @@
+{
+  "id": 1777,
+  "title": "The Northrend Gourmet",
+  "points": 10,
+  "description": "Cook 15 of the Northrend recipes listed below.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_138_fish",
+  "criteria": [
+    {
+      "id": 6486,
+      "description": "Bad Clams",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6487,
+      "description": "Baked Manta Ray",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 6488,
+      "description": "Dalaran Clam Chowder",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 6489,
+      "description": "Grilled Bonescale",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 6490,
+      "description": "Grilled Sculpin",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 6491,
+      "description": "Haunted Herring",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 6492,
+      "description": "Last Week's Mammoth",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 6493,
+      "description": "Mammoth Meal",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 6494,
+      "description": "Northern Stew",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 6495,
+      "description": "Pickled Fangtooth",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 6496,
+      "description": "Poached Nettlefish",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 6497,
+      "description": "Rhino Dogs",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 6498,
+      "description": "Roasted Worg",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 6499,
+      "description": "Sauteed Goby",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 6501,
+      "description": "Shoveltusk Steak",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 6502,
+      "description": "Smoked Rockfin",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 6503,
+      "description": "Smoked Salmon",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 6505,
+      "description": "Tasty Cupcake",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 6506,
+      "description": "Worm Delight",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 6507,
+      "description": "Great Feast",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 6508,
+      "description": "Kungaloosh",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 6509,
+      "description": "Blackened Dragonfin",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 6510,
+      "description": "Blackened Worg Steak",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 6511,
+      "description": "Critter Bites",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 6512,
+      "description": "Cuttlesteak",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 6513,
+      "description": "Dragonfin Filet",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 6514,
+      "description": "Firecracker Salmon",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 6515,
+      "description": "Fish Feast",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 6516,
+      "description": "Gigantic Feast",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 6517,
+      "description": "Hearty Rhino",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 6518,
+      "description": "Imperial Manta Steak",
+      "orderIndex": 31,
+      "max": 1
+    },
+    {
+      "id": 6587,
+      "description": "Mega Mammoth Meal",
+      "orderIndex": 32,
+      "max": 1
+    },
+    {
+      "id": 6588,
+      "description": "Mighty Rhino Dogs",
+      "orderIndex": 33,
+      "max": 1
+    },
+    {
+      "id": 6589,
+      "description": "Poached Northern Sculpin",
+      "orderIndex": 34,
+      "max": 1
+    },
+    {
+      "id": 6590,
+      "description": "Rhinolicious Wormsteak",
+      "orderIndex": 35,
+      "max": 1
+    },
+    {
+      "id": 6591,
+      "description": "Small Feast",
+      "orderIndex": 36,
+      "max": 1
+    },
+    {
+      "id": 6592,
+      "description": "Snapper Extreme",
+      "orderIndex": 37,
+      "max": 1
+    },
+    {
+      "id": 6593,
+      "description": "Spiced Mammoth Treats",
+      "orderIndex": 38,
+      "max": 1
+    },
+    {
+      "id": 6594,
+      "description": "Spiced Worm Burger",
+      "orderIndex": 39,
+      "max": 1
+    },
+    {
+      "id": 6595,
+      "description": "Spicy Blue Nettlefish",
+      "orderIndex": 40,
+      "max": 1
+    },
+    {
+      "id": 6596,
+      "description": "Spicy Fried Herring",
+      "orderIndex": 41,
+      "max": 1
+    },
+    {
+      "id": 6597,
+      "description": "Tender Shoveltusk Steak",
+      "orderIndex": 42,
+      "max": 1
+    },
+    {
+      "id": 6598,
+      "description": "Tracker Snacks",
+      "orderIndex": 43,
+      "max": 1
+    },
+    {
+      "id": 6599,
+      "description": "Very Burnt Worg",
+      "orderIndex": 44,
+      "max": 1
+    },
+    {
+      "id": 9421,
+      "description": "Worg Tartare",
+      "orderIndex": 45,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

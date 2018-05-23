@@ -1,0 +1,18 @@
+{
+  "id": 8223,
+  "title": "Collector: Ancient Sap Feeders",
+  "points": 10,
+  "description": "Restore 20 Ancient Sap Feeders.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 22956,
+      "description": "",
+      "orderIndex": 0,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

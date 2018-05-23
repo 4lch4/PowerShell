@@ -1,0 +1,18 @@
+{
+  "id": 8470,
+  "title": "Mythic: Kor'kron Dark Shaman",
+  "points": 10,
+  "description": "Defeat the Kor'kron Dark Shaman in Siege of Orgrimmar on Mythic difficulty.",
+  "rewardItems": [],
+  "icon": "achievement_boss_korkrondarkshaman",
+  "criteria": [
+    {
+      "id": 23673,
+      "description": "Kor'kron Dark Shaman",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

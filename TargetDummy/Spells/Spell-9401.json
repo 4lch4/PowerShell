@@ -1,0 +1,7 @@
+{
+  "id": 9401,
+  "name": "Increase Fire Dam 14",
+  "icon": "trade_engineering",
+  "description": "Increases fire spell power by 14.",
+  "castTime": "Passive"
+}

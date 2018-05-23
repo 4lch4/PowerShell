@@ -1,0 +1,204 @@
+{
+  "id": 11265,
+  "title": "Adventurer of Suramar",
+  "points": 10,
+  "description": "Complete the following special encounters in Suramar.",
+  "rewardItems": [],
+  "icon": "achievements_zone_suramar",
+  "criteria": [
+    {
+      "id": 33341,
+      "description": "Garvrulg",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 33342,
+      "description": "Elfbane",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 33343,
+      "description": "Cora'kar",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 33344,
+      "description": "Rok'nash",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 33345,
+      "description": "Har'kess the Insatiable",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 33346,
+      "description": "Hertha Grimdottir",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 33347,
+      "description": "Reef Lord Raj'his",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 33348,
+      "description": "Shadowquil",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 33349,
+      "description": "Rauren",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 33350,
+      "description": "Artificer Lothaire",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 33351,
+      "description": "Pinchshank",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 33352,
+      "description": "Shal'an",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 33353,
+      "description": "Magister Phaedris",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 33354,
+      "description": "Mal'Dreth the Corrupter",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 33355,
+      "description": "Myonix",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 33356,
+      "description": "Seigemaster Aedrin",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 33357,
+      "description": "Oreth the Vile",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 33358,
+      "description": "Arcanist Lylandre",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 33359,
+      "description": "Cadraeus",
+      "orderIndex": 18,
+      "max": 1
+    },
+    {
+      "id": 33360,
+      "description": "Tideclaw",
+      "orderIndex": 19,
+      "max": 1
+    },
+    {
+      "id": 33361,
+      "description": "Gorgroth",
+      "orderIndex": 20,
+      "max": 1
+    },
+    {
+      "id": 33362,
+      "description": "Apothecary Faldren",
+      "orderIndex": 21,
+      "max": 1
+    },
+    {
+      "id": 33363,
+      "description": "Guardian Thor'el",
+      "orderIndex": 22,
+      "max": 1
+    },
+    {
+      "id": 33364,
+      "description": "Randril",
+      "orderIndex": 23,
+      "max": 1
+    },
+    {
+      "id": 33365,
+      "description": "Anax",
+      "orderIndex": 24,
+      "max": 1
+    },
+    {
+      "id": 33366,
+      "description": "Matron Hagatha",
+      "orderIndex": 25,
+      "max": 1
+    },
+    {
+      "id": 33367,
+      "description": "Ambassador D'vwinn",
+      "orderIndex": 26,
+      "max": 1
+    },
+    {
+      "id": 33368,
+      "description": "Degren",
+      "orderIndex": 27,
+      "max": 1
+    },
+    {
+      "id": 33369,
+      "description": "Miasu",
+      "orderIndex": 28,
+      "max": 1
+    },
+    {
+      "id": 33370,
+      "description": "Maia the White",
+      "orderIndex": 29,
+      "max": 1
+    },
+    {
+      "id": 33371,
+      "description": "Mar'tura",
+      "orderIndex": 30,
+      "max": 1
+    },
+    {
+      "id": 33376,
+      "description": "Lieutenant Strathmar",
+      "orderIndex": 31,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

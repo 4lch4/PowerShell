@@ -1,0 +1,18 @@
+{
+  "id": 5546,
+  "title": "Glutton for Icy Punishment",
+  "points": 10,
+  "description": "In Archmage Xylem's Trial of Frost in Azshara, gain 20 stacks of Essence of Ice without taking damage.",
+  "rewardItems": [],
+  "icon": "ability_mage_potentspirit",
+  "criteria": [
+    {
+      "id": 16206,
+      "description": "",
+      "orderIndex": 1,
+      "max": 20
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

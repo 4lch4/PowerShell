@@ -1,0 +1,18 @@
+{
+  "id": 6899,
+  "title": "Mogu'shan Palace: Bronze",
+  "points": 0,
+  "description": "Complete the Mogu'shan Palace Challenge Mode with a rating of Bronze or better.",
+  "rewardItems": [],
+  "icon": "achievement_challengemode_mogushanpalace_bronze",
+  "criteria": [
+    {
+      "id": 20708,
+      "description": "",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

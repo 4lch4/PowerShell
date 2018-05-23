@@ -1,0 +1,18 @@
+{
+  "id": 4940,
+  "title": "Winterspring Quests",
+  "points": 10,
+  "description": "Complete 58 quests in Winterspring.",
+  "rewardItems": [],
+  "icon": "achievement_zone_winterspring",
+  "criteria": [
+    {
+      "id": 13851,
+      "description": "Winterspring",
+      "orderIndex": 1,
+      "max": 58
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

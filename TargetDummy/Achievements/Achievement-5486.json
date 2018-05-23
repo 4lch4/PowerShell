@@ -1,0 +1,30 @@
+{
+  "id": 5486,
+  "title": "Tol Barad All-Star",
+  "points": 10,
+  "description": "Get 10 honorable kills at the Ironclad Garrison, Warden's Vigil, and Slagworks.",
+  "rewardItems": [],
+  "icon": "achievement_bg_killingblow_startingrock",
+  "criteria": [
+    {
+      "id": 15965,
+      "description": "Get 10 honorable kills at the Ironclad Garrison",
+      "orderIndex": 1,
+      "max": 10
+    },
+    {
+      "id": 15966,
+      "description": "Get 10 honorable kills at the Warden's Vigil",
+      "orderIndex": 2,
+      "max": 10
+    },
+    {
+      "id": 15967,
+      "description": "Get 10 honorable kills at the Slagworks",
+      "orderIndex": 3,
+      "max": 10
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

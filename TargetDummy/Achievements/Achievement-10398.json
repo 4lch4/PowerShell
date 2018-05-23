@@ -1,0 +1,18 @@
+{
+  "id": 10398,
+  "title": "Drum Circle",
+  "points": 5,
+  "description": "Participate in a drum circle at the Thunder Drum in Highmountain.",
+  "rewardItems": [],
+  "icon": "inv_archaeology_orcclans_warsingersdrums",
+  "criteria": [
+    {
+      "id": 29152,
+      "description": "Drum Circle",
+      "orderIndex": 0,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

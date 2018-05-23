@@ -1,0 +1,19 @@
+{
+  "id": 2051,
+  "title": "The Twilight Zone (10 player)",
+  "points": 10,
+  "description": "With all three Twilight Drakes still alive, engage and defeat Sartharion the Onyx Guardian in 10-player mode.",
+  "reward": "Title Reward: Of the Nightfall",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_coablackdragonflight_normal",
+  "criteria": [
+    {
+      "id": 7330,
+      "description": "Sartharion the Onyx Guardian",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

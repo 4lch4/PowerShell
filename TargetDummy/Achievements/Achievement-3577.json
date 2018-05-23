@@ -1,0 +1,42 @@
+{
+  "id": 3577,
+  "title": "Now We're Cookin'",
+  "points": 10,
+  "description": "Cook up one of every Pilgrim's Bounty dish.",
+  "rewardItems": [],
+  "icon": "achievement_profession_chefhat",
+  "criteria": [
+    {
+      "id": 11123,
+      "description": "Candied Sweet Potato",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11124,
+      "description": "Cranberry Chutney",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 11125,
+      "description": "Pumpkin Pie",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 11126,
+      "description": "Slow-Roasted Turkey",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 11127,
+      "description": "Spice Bread Stuffing",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 1
+}

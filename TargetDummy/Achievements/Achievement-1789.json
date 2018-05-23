@@ -1,0 +1,18 @@
+{
+  "id": 1789,
+  "title": "Daily Chores",
+  "points": 10,
+  "description": "Complete five daily quests with your orphan out.",
+  "rewardItems": [],
+  "icon": "ability_repair",
+  "criteria": [
+    {
+      "id": 12398,
+      "description": "Complete five daily quests with your orphan out.",
+      "orderIndex": 1,
+      "max": 5
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

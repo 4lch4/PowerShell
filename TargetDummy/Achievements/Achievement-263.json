@@ -1,0 +1,42 @@
+{
+  "id": 263,
+  "title": "Ice the Frost Lord",
+  "points": 10,
+  "description": "Slay Ahune in the Slave Pens.",
+  "rewardItems": [],
+  "icon": "spell_frost_summonwaterelemental",
+  "criteria": [
+    {
+      "id": 477,
+      "description": "Ahune",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 11718,
+      "description": "",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 5270,
+      "description": "Ahune Kill Quest",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 8158,
+      "description": "Tabard of Summer Flames",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 8159,
+      "description": "Tabard of Summer Skies",
+      "orderIndex": 5,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

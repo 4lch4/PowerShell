@@ -1,0 +1,50 @@
+{
+  "id": 5859,
+  "title": "Legacy of Leyara",
+  "points": 10,
+  "description": "Complete the Leyara quests in Mount Hyjal and the Molten Front.",
+  "reward": "Reward: Smoke-Stained Locket",
+  "rewardItems": [
+    {
+      "id": 69854,
+      "name": "Smoke-Stained Locket",
+      "icon": "inv_misc_necklace_firelands_2",
+      "quality": 1,
+      "itemLevel": 85,
+      "tooltipParams": "@{timewalkerLevel=0}",
+      "stats": "",
+      "armor": 0,
+      "context": "",
+      "bonusLists": "",
+      "artifactId": 0,
+      "displayInfoId": 0,
+      "artifactAppearanceId": 0,
+      "artifactTraits": "",
+      "relics": "",
+      "appearance": ""
+    }
+  ],
+  "icon": "achievement_character_nightelf_female",
+  "criteria": [
+    {
+      "id": 17794,
+      "description": "A Ritual of Flame",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 17795,
+      "description": "Leyara",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 17796,
+      "description": "Into the Depths",
+      "orderIndex": 3,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

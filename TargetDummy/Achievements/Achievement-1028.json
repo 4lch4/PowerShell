@@ -1,0 +1,96 @@
+{
+  "id": 1028,
+  "title": "Extinguishing Eastern Kingdoms",
+  "points": 10,
+  "description": "Desecrate the Horde's bonfires in Eastern Kingdoms.",
+  "rewardItems": [],
+  "icon": "spell_fire_masterofelements",
+  "criteria": [
+    {
+      "id": 3131,
+      "description": "Arathi Highlands",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 3132,
+      "description": "Badlands",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 23467,
+      "description": "Blasted Lands",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 3133,
+      "description": "Burning Steppes",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 3134,
+      "description": "Eversong Woods",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 3135,
+      "description": "Ghostlands",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 3136,
+      "description": "Hillsbrad Foothills",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 17010,
+      "description": "Northern Stranglethorn",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 3137,
+      "description": "Silverpine Forest",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 3139,
+      "description": "Swamp of Sorrows",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 3138,
+      "description": "The Cape of Stranglethorn",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 3140,
+      "description": "The Hinterlands",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 3141,
+      "description": "Tirisfal Glades",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 23468,
+      "description": "Western Plaguelands",
+      "orderIndex": 13,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 0
+}

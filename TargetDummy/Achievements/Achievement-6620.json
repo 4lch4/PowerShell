@@ -1,0 +1,18 @@
+{
+  "id": 6620,
+  "title": "No Time To Heal",
+  "points": 10,
+  "description": "Win 5 consecutive PvP pet battles without letting a pet die.",
+  "rewardItems": [],
+  "icon": "spell_misc_petheal",
+  "criteria": [
+    {
+      "id": 22225,
+      "description": "",
+      "orderIndex": 0,
+      "max": 5
+    }
+  ],
+  "accountWide": true,
+  "factionId": 2
+}

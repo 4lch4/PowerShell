@@ -1,0 +1,18 @@
+{
+  "id": 2975,
+  "title": "Who Needs Bloodlust? (10 player)",
+  "points": 10,
+  "description": "Defeat Thorim while under the effect of Aura of Celerity in 10-player mode.",
+  "rewardItems": [],
+  "icon": "spell_nature_wispsplode",
+  "criteria": [
+    {
+      "id": 10304,
+      "description": "Thorim: Kill Thorim while Aura of Celerity is active.",
+      "orderIndex": 1,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

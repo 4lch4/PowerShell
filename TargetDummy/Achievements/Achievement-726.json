@@ -1,0 +1,24 @@
+{
+  "id": 726,
+  "title": "Mr. Pinchy's Magical Crawdad Box",
+  "points": 10,
+  "description": "Fish your way to Mr. Pinchy's Magical Crawdad Box.",
+  "rewardItems": [],
+  "icon": "inv_misc_fish_14",
+  "criteria": [
+    {
+      "id": 799,
+      "description": "Magical Crawdad Box",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 6382,
+      "description": "Magical Crawdad",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

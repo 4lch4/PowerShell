@@ -1,0 +1,126 @@
+{
+  "id": 9413,
+  "title": "Strength and Honor",
+  "points": 10,
+  "description": "Discover the following Draenor Clans artifacts.",
+  "rewardItems": [],
+  "icon": "achievement_zone_ironforge",
+  "criteria": [
+    {
+      "id": 25673,
+      "description": "Ancestral Talisman",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 25674,
+      "description": "Barbed Fishing Hook",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 25675,
+      "description": "Blackrock Razor",
+      "orderIndex": 2,
+      "max": 1
+    },
+    {
+      "id": 25676,
+      "description": "Calcified Eye In a Jar",
+      "orderIndex": 3,
+      "max": 1
+    },
+    {
+      "id": 25677,
+      "description": "Ceremonial Tattoo Needles",
+      "orderIndex": 4,
+      "max": 1
+    },
+    {
+      "id": 25678,
+      "description": "Cracked Ivory Idol",
+      "orderIndex": 5,
+      "max": 1
+    },
+    {
+      "id": 25679,
+      "description": "Doomsday Prophecy",
+      "orderIndex": 6,
+      "max": 1
+    },
+    {
+      "id": 25680,
+      "description": "Elemental Bellows",
+      "orderIndex": 7,
+      "max": 1
+    },
+    {
+      "id": 25681,
+      "description": "Fang-Scarred Frostwolf Axe",
+      "orderIndex": 8,
+      "max": 1
+    },
+    {
+      "id": 25682,
+      "description": "Flask of Blazegrease",
+      "orderIndex": 9,
+      "max": 1
+    },
+    {
+      "id": 25683,
+      "description": "Frostwolf Ancestry Scrimshaw",
+      "orderIndex": 10,
+      "max": 1
+    },
+    {
+      "id": 25684,
+      "description": "Gronn-Tooth Necklace",
+      "orderIndex": 11,
+      "max": 1
+    },
+    {
+      "id": 25685,
+      "description": "Hooked Dagger",
+      "orderIndex": 12,
+      "max": 1
+    },
+    {
+      "id": 25686,
+      "description": "Metalworker's Hammer",
+      "orderIndex": 13,
+      "max": 1
+    },
+    {
+      "id": 25687,
+      "description": "Screaming Bullroarer",
+      "orderIndex": 14,
+      "max": 1
+    },
+    {
+      "id": 25688,
+      "description": "Warsinger's Drums",
+      "orderIndex": 15,
+      "max": 1
+    },
+    {
+      "id": 25689,
+      "description": "Warsong Ceremonial Pike",
+      "orderIndex": 16,
+      "max": 1
+    },
+    {
+      "id": 25690,
+      "description": "Weighted Chopping Axe",
+      "orderIndex": 17,
+      "max": 1
+    },
+    {
+      "id": 25691,
+      "description": "Wolfskin Snowshoes",
+      "orderIndex": 18,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

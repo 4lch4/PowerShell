@@ -1,0 +1,30 @@
+{
+  "id": 11426,
+  "title": "Heroic: Trial of Valor",
+  "points": 10,
+  "description": "Defeat the following bosses within the Trial of Valor on Heroic difficulty or higher.",
+  "rewardItems": [],
+  "icon": "achievement_raid_trialofvalor",
+  "criteria": [
+    {
+      "id": 34839,
+      "description": "Odyn",
+      "orderIndex": 0,
+      "max": 1
+    },
+    {
+      "id": 34841,
+      "description": "Guarm",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 34840,
+      "description": "Helya",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

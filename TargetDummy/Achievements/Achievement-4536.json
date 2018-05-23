@@ -1,0 +1,24 @@
+{
+  "id": 4536,
+  "title": "I'm on a Boat (10 player)",
+  "points": 10,
+  "description": "Claim victory in the Gunship Battle without any raid member visiting the enemy gunship more than twice in 10-player mode.",
+  "rewardItems": [],
+  "icon": "achievement_dungeon_hordeairship",
+  "criteria": [
+    {
+      "id": 12777,
+      "description": "Gunship Battle",
+      "orderIndex": 1,
+      "max": 1
+    },
+    {
+      "id": 13079,
+      "description": "Gunship Battle",
+      "orderIndex": 2,
+      "max": 1
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}

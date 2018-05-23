@@ -1,0 +1,18 @@
+{
+  "id": 6365,
+  "title": "Zen Master Cook",
+  "points": 10,
+  "description": "Obtain 600 skill points in cooking.",
+  "rewardItems": [],
+  "icon": "inv_misc_food_15",
+  "criteria": [
+    {
+      "id": 5701,
+      "description": "Obtain 600 skill points in cooking.",
+      "orderIndex": 0,
+      "max": 600
+    }
+  ],
+  "accountWide": false,
+  "factionId": 2
+}
