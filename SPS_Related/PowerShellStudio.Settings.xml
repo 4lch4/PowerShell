@@ -1,6 +1,6 @@
 ﻿<registry name="SOFTWARE\SAPIEN Technologies, Inc.\PowerShell Studio 2018">
   <k name="Backup">
-    <v name="AutoSaveInterval" value="0" kind="DWord" />
+    <v name="AutoSaveInterval" value="1" kind="DWord" />
     <v name="CreateRestorePointOnEdit" value="1" kind="DWord" />
     <v name="RemoveRestorePointOnClose" value="1" kind="DWord" />
     <v name="VersionRecallSubmitOnClose" value="0" kind="DWord" />
@@ -9,7 +9,7 @@
     <v name="BuildCache" value="0" kind="DWord" />
   </k>
   <k name="Control">
-    <v name="Handle" value="17900" kind="DWord" />
+    <v name="Handle" value="20688" kind="DWord" />
     <v name="CmdLine" value="" kind="String" />
   </k>
   <k name="Debugger">
@@ -74,7 +74,7 @@
     <v name="QuerySessionAssemblies" value="1" kind="DWord" />
     <k name="Code Formatting">
       <v name="EnableSmartIndent" value="1" kind="DWord" />
-      <v name="AutomaticallyFormatOnNewLine" value="1" kind="DWord" />
+      <v name="AutomaticallyFormatOnNewLine" value="0" kind="DWord" />
       <v name="AutomaticallyFormatOnCloseBraces" value="1" kind="DWord" />
       <v name="AutomaticallyFormatOnPaste" value="1" kind="DWord" />
       <v name="AutomaticallyFormatOnSemicolon" value="1" kind="DWord" />
@@ -90,8 +90,8 @@
       <v name="ReplaceCurlyQuotes" value="1" kind="DWord" />
       <v name="ExpandAliases" value="1" kind="DWord" />
       <v name="LeaveBlockOnSingleLine" value="0" kind="DWord" />
-      <v name="AlignHashTableEqualSigns" value="1" kind="DWord" />
-      <v name="ReservedWordFormatting" value="0" kind="DWord" />
+      <v name="AlignHashTableEqualSigns" value="0" kind="DWord" />
+      <v name="ReservedWordFormatting" value="1" kind="DWord" />
     </k>
     <k name="Default Assemblies" />
     <k name="Style">
@@ -1702,6 +1702,11 @@
       </k>
     </k>
   </k>
+  <k name="Find">
+    <v name="0" value="Write-Verbose" kind="String" />
+    <v name="1" value="times" kind="String" />
+    <v name="2" value="times" kind="String" />
+  </k>
   <k name="Panels">
     <v name="ShowSchema" value="0" kind="DWord" />
     <v name="CacheAllFields" value="0" kind="DWord" />
@@ -1728,21 +1733,27 @@
   </k>
   <k name="Recent Controls" />
   <k name="Recent Documents">
-    <v name="1" value="C:\ProgramData\SAPIEN\PowerShell Studio 2018\CustomMenu.inf" kind="String" />
-    <v name="2" value="D:\Development\PowerShell\Scripts\New-NodeModule.ps1" kind="String" />
-    <v name="3" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\Example.psproj" kind="String" />
-    <v name="4" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\README.md" kind="String" />
-    <v name="5" value="D:\Development\PowerShell\Forms\Job Progress Bar.psf" kind="String" />
-    <v name="6" value="D:\Development\PowerShell\Forms\EPIC_v1.2_for_forums.psf" kind="String" />
-    <v name="7" value="C:\Users\Alcha\Documents\WindowsPowerShell\Scripts\New-NodeModule.ps1" kind="String" />
+    <v name="1" value="D:\Development\PowerShell\Scripts\New-NodeModule.ps1" kind="String" />
+    <v name="2" value="C:\Users\Alcha\Documents\WindowsPowerShell\Scripts\New-NodeModule.ps1" kind="String" />
+    <v name="3" value="C:\ProgramData\SAPIEN\PowerShell Studio 2018\CustomMenu.inf" kind="String" />
+    <v name="4" value="C:\Users\Alcha\Documents\WindowsPowerShell\Scripts\InstalledSoftware.ps1" kind="String" />
+    <v name="5" value="D:\Development\PowerShell\Scripts\Get-Weather.ps1" kind="String" />
+    <v name="6" value="C:\Users\Alcha\Documents\WindowsPowerShell\Profile.ps1" kind="String" />
+    <v name="7" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\Example.psproj" kind="String" />
+    <v name="8" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\README.md" kind="String" />
+    <v name="9" value="D:\Development\PowerShell\Forms\Job Progress Bar.psf" kind="String" />
+    <v name="10" value="D:\Development\PowerShell\Forms\EPIC_v1.2_for_forums.psf" kind="String" />
   </k>
   <k name="Recent Files">
-    <v name="1" value="C:\ProgramData\SAPIEN\PowerShell Studio 2018\CustomMenu.inf" kind="String" />
-    <v name="2" value="D:\Development\PowerShell\Scripts\New-NodeModule.ps1" kind="String" />
-    <v name="3" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\README.md" kind="String" />
-    <v name="4" value="D:\Development\PowerShell\Forms\Job Progress Bar.psf" kind="String" />
-    <v name="5" value="D:\Development\PowerShell\Forms\EPIC_v1.2_for_forums.psf" kind="String" />
-    <v name="6" value="C:\Users\Alcha\Documents\WindowsPowerShell\Scripts\New-NodeModule.ps1" kind="String" />
+    <v name="1" value="D:\Development\PowerShell\Scripts\New-NodeModule.ps1" kind="String" />
+    <v name="2" value="C:\Users\Alcha\Documents\WindowsPowerShell\Scripts\New-NodeModule.ps1" kind="String" />
+    <v name="3" value="C:\ProgramData\SAPIEN\PowerShell Studio 2018\CustomMenu.inf" kind="String" />
+    <v name="4" value="C:\Users\Alcha\Documents\WindowsPowerShell\Scripts\InstalledSoftware.ps1" kind="String" />
+    <v name="5" value="D:\Development\PowerShell\Scripts\Get-Weather.ps1" kind="String" />
+    <v name="6" value="C:\Users\Alcha\Documents\WindowsPowerShell\Profile.ps1" kind="String" />
+    <v name="7" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\README.md" kind="String" />
+    <v name="8" value="D:\Development\PowerShell\Forms\Job Progress Bar.psf" kind="String" />
+    <v name="9" value="D:\Development\PowerShell\Forms\EPIC_v1.2_for_forums.psf" kind="String" />
   </k>
   <k name="Recent Projects">
     <v name="1" value="D:\Development\PowerShell\From_Forums\Example_From_Rmckay9969\Example.psproj" kind="String" />
