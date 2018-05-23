@@ -41,7 +41,7 @@
     <v name="EnableCurrentLineHighlighting" value="1" kind="DWord" />
     <v name="EnableAutoComplete" value="1" kind="DWord" />
     <v name="EnableObjectDescriptions" value="1" kind="DWord" />
-    <v name="ShowColumnGuide" value="0" kind="DWord" />
+    <v name="ShowColumnGuide" value="1" kind="DWord" />
     <v name="ColumnGuide" value="80" kind="DWord" />
     <v name="EnableTrackChanges" value="1" kind="DWord" />
     <v name="EnableAutomaticSyntaxCheck" value="1" kind="DWord" />
