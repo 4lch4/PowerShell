@@ -135,8 +135,9 @@ function New-NodeModule {
     
     Write-Verbose "The $ModuleName module has been successfuly created."
     
-    # Open the folder containing the module as long as $OpenInVSCode is true
-    if ($OpenInVSCode) {
+    # Open the folder containing the module as long as $OpenInVSCode is true and
+    # the code command is available
+    if ($OpenInVSCode -and (Get-Command code -ErrorAction SilentlyContinue)) {
       Write-Debug 'Opening the module directory in Visual Studio Code...'
       code $FullModulePath
     }
