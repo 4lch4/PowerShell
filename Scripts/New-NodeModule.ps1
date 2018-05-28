@@ -147,7 +147,7 @@ function New-NodeModule {
 function Get-AuthorInfo() {
   return @{
     name = 'Alcha'
-    email = 'alcha@hasslefree.solutions'
+    email = 'admin@alcha.org'
     url = 'https://hasslefree.solutions'
   }
 }
