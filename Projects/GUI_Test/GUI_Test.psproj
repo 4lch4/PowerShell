@@ -1,0 +1,16 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.0</Version>
+  <FileID>9d3f7a46-71f9-4a76-a295-eeffba39bc66</FileID>
+  <ProjectType>2</ProjectType>
+  <Folders>
+    <Folder>Assets</Folder>
+  </Folders>
+  <Files>
+    <File Build="1">.gitignore</File>
+    <File Build="2" Shared="False">GUI_Test.ps1</File>
+    <File Build="2">Assets\HassleFree_Solutions.ico</File>
+    <File Build="2" Shared="False">Controls.ps1</File>
+  </Files>
+  <DeployMode>Project</DeployMode>
+  <PrimaryFile></PrimaryFile>
+</Project>
