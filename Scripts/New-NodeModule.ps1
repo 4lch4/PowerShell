@@ -57,7 +57,7 @@ what this is, see http://bit.ly/poshprofiles):
 . $ENV:HOMEDRIVE\$ENV:HOMEPATH\Documents\WindowsPowerShell\New-NodeModule.ps1
 #>
 function New-NodeModule {
-  [CmdletBinding()]
+  [CmdletBinding(SupportsShouldProcess=$true)]
   [Alias('nodemod', 'new-nodemod', 'newmod', 'newmodule', 'newnpm')]
   param (
     [Parameter(Mandatory = $true,
@@ -93,53 +93,52 @@ function New-NodeModule {
     [bool]$OpenInVSCode = $true
   )
   
-  $AuthorInfo = Get-AuthorInfo
-  $ScriptsInfo = Get-ScriptsInfo
-  $DevDependencies = Get-DevDependencies
-  $PackageInfo = Get-PackageInfo -ModuleName $ModuleName
-  
-  $FullModulePath = Join-Path -Path $ModulePath -ChildPath $ModuleName
-  $PackageJson = Join-Path -Path $FullModulePath -ChildPath 'package.json'
-  
-  if (Test-Path -Path $FullModulePath) {
-    # There is a folder at the provided path with the same name as the $ModuleName
-    throw 'A folder with the same name exists at the provided path. Please choose a different module name or path.'
-  } else {
-    # Create directory for the module
-    Write-Debug 'Creating module directory...'
-    New-Item -Path $FullModulePath -ItemType Directory | Out-Null
+  if ($PSCmdlet.ShouldProcess("Creates a new Node module in the given path if one is provided, otherwise it is created in D:\Development\Projects\NodeJS_Packages")) {
+    $PackageInfo = Get-PackageInfo -ModuleName $ModuleName
     
-    # Create the new package.json file
-    Write-Debug 'Creating modules package.json...'
-    New-Item -Path $PackageJson -ItemType File | Out-Null
+    $FullModulePath = Join-Path -Path $ModulePath -ChildPath $ModuleName
+    $PackageJson = Join-Path -Path $FullModulePath -ChildPath 'package.json'
     
-    # Create the main index.js for most code logic
-    Write-Debug 'Creating modules index.js...'
-    New-Item -Path $FullModulePath\index.js -ItemType File | Out-Null
-    
-    # Create the LICENSE file that will contain the MIT License
-    Write-Debug 'Creating modules empty LICENSE file...'
-    New-Item -Path $FullModulePath\LICENSE -ItemType File | Out-Null
-    
-    # Convert the $PackageInfo to JSON
-    Write-Debug 'Converting package info to JSON...'
-    $JsonData = ConvertTo-Json -InputObject $PackageInfo
-    
-    # Store all package info to the module's package.json
-    Write-Debug 'Adding package info to package.json...'
-    Out-File -FilePath $PackageJson -InputObject $JsonData
-    
-    # Add the MIT License text to the LICENSE file
-    Write-Debug 'Adding MIT license content to LICENSE file...'
-    Out-File -FilePath $FullModulePath\LICENSE -InputObject $MITLicense
-    
-    Write-Verbose "The $ModuleName module has been successfuly created."
-    
-    # Open the folder containing the module as long as $OpenInVSCode is true and
-    # the code command is available
-    if ($OpenInVSCode -and (Get-Command code -ErrorAction SilentlyContinue)) {
-      Write-Debug 'Opening the module directory in Visual Studio Code...'
-      code $FullModulePath
+    if (Test-Path -Path $FullModulePath) {
+      # There is a folder at the provided path with the same name as the $ModuleName
+      throw 'A folder with the same name exists at the provided path. Please choose a different module name or path.'
+    } else {
+      # Create directory for the module
+      Write-Debug 'Creating module directory...'
+      New-Item -Path $FullModulePath -ItemType Directory | Out-Null
+      
+      # Create the new package.json file
+      Write-Debug 'Creating modules package.json...'
+      New-Item -Path $PackageJson -ItemType File | Out-Null
+      
+      # Create the main index.js for most code logic
+      Write-Debug 'Creating modules index.js...'
+      New-Item -Path $FullModulePath\index.js -ItemType File | Out-Null
+      
+      # Create the LICENSE file that will contain the MIT License
+      Write-Debug 'Creating modules empty LICENSE file...'
+      New-Item -Path $FullModulePath\LICENSE -ItemType File | Out-Null
+      
+      # Convert the $PackageInfo to JSON
+      Write-Debug 'Converting package info to JSON...'
+      $JsonData = ConvertTo-Json -InputObject $PackageInfo
+      
+      # Store all package info to the module's package.json
+      Write-Debug 'Adding package info to package.json...'
+      Out-File -FilePath $PackageJson -InputObject $JsonData -Encoding utf8
+      
+      # Add the MIT License text to the LICENSE file
+      Write-Debug 'Adding MIT license content to LICENSE file...'
+      Out-File -FilePath $FullModulePath\LICENSE -InputObject $MITLicense -Encoding utf8
+      
+      Write-Verbose "The $ModuleName module has been successfuly created."
+      
+      # Open the folder containing the module as long as $OpenInVSCode is true and
+      # the code command is available
+      if ($OpenInVSCode -and (Get-Command code -ErrorAction SilentlyContinue)) {
+        Write-Debug 'Opening the module directory in Visual Studio Code...'
+        code $FullModulePath
+      }
     }
   }
 }
@@ -159,7 +158,7 @@ function Get-ScriptsInfo() {
   }
 }
 
-function Get-DevDependencies() {
+function Get-DevDependencyInfo() {
   return @{
     jest = ''
     standard = ''
@@ -179,9 +178,9 @@ function Get-PackageInfo() {
     description = 'This is a placeholder description to be updated at a later date.'
     main = 'index.js'
     license = 'MIT'
-    scripts = $ScriptsInfo
-    author = $AuthorInfo
-    devDependencies = $DevDependencies
+    scripts = Get-ScriptsInfo
+    author = Get-AuthorInfo
+    devDependencies = Get-DevDependencyInfo
   }
 }
 
