@@ -181,6 +181,7 @@ function Get-PackageInfo() {
     scripts = Get-ScriptsInfo
     author = Get-AuthorInfo
     devDependencies = Get-DevDependencyInfo
+    standard = @{ ignore = @('*.test.js')}
   }
 }
 
