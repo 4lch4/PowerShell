@@ -1,0 +1,66 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Import XML</Title>
+			<Shortcut></Shortcut>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[function Import-XML
+{
+	<#
+	.Synopsis
+	   This Cmdlet imports the XML encoded information from the .xml file that is passed to it.
+	.EXAMPLE
+	   $File_Information = Import-XML -Path C:\Test\TextFile.xml
+	.INPUTS
+	   The File Path that contains the information that needs to be imported.
+	.OUTPUTS
+	   This Cmdlet Outputs a XML information stored in the file that is passed to it.
+	#>
+	#Requires -Version 3
+	[CmdletBinding(SupportsShouldProcess = $true,
+				ConfirmImpact = 'Medium')]
+	[OutputType([XML])]
+	Param
+	(
+		# This is the path of the file that you wish to be imported
+		[Parameter(Mandatory = $true,
+				   ValueFromPipeline = $true,
+				   ValueFromPipelineByPropertyName = $true,
+				   Position = 0
+				   )]
+		[ValidateScript({
+				If ([System.IO.File]::Exists($_))
+				{
+					If ((Get-ItemProperty -Path $_).Extension -eq ".xml")
+					{
+						$true
+					}
+					else
+					{
+						Throw "$_ is not a xml file, please make sure you are importing from a xml file."
+					}
+				}
+				else { Throw "$_ Does not exist, please confirm your path is spelled correctly." }
+			})]
+		[ValidateNotNullOrEmpty()]
+		[string]$Path
+	)
+	Process
+	{
+		if ($pscmdlet.ShouldProcess($Path, "Get-Content -Path `$Path"))
+		{
+			[xml]$Return_Value = Get-Content -Path $Path
+			$Return_Value
+		}
+	}
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

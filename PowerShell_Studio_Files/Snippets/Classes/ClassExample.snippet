@@ -1,0 +1,66 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Class Example</Title>
+			<Shortcut>classExample</Shortcut>
+			<Description>PowerShell 5.0 class</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>className</ID>
+					<ToolTip>Enter the name of the class. The class name is also the name of the constructors.</ToolTip>
+					<Function></Function>
+					<Default>className</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[class $className$   {
+	
+	# Class Properties
+	[string]$MyProperty
+	
+	#Hidden Properties
+	hidden [int]$MyHiddenProperty
+	
+	# Class Constructors
+	$className$ ()
+	{
+		#TODO: Initialize the class properties
+		$this.MyProperty = 'DefaultValue'
+		$this.MyHiddenProperty = 1
+	}
+	
+	#Class Methods
+	[void]MyMethod([string]$parameter1)
+	{
+		#TODO: Insert method script.
+	}
+	
+	#Static Class Methods
+	static [Boolean] MyStaticMethod ([int]$parameter)
+	{
+		if ($parameter -gt 0)
+		{
+			return $true
+		}
+		else
+		{
+			return $false
+		}
+	}
+}
+
+#Sample code to instantiate the class
+$myClassObject = [$className$]::new()
+
+#Invoke a static method
+[$className$]::MyStaticMethod(1)]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

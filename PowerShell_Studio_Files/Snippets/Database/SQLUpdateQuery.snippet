@@ -1,0 +1,64 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>SQLUpdateQuery</Title>
+			<Shortcut>SQLUpdateQuery</Shortcut>
+			<Description>Inserts a SQL update query</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>tablename</ID>
+					<ToolTip>Enter the table's name</ToolTip>
+					<Function></Function>
+					<Default>tablename</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>column1</ID>
+					<ToolTip>Enter the first column's name</ToolTip>
+					<Function></Function>
+					<Default>column1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>value1</ID>
+					<ToolTip>Enter first column's value</ToolTip>
+					<Function></Function>
+					<Default>value1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>column2</ID>
+					<ToolTip>Enter the second column's name</ToolTip>
+					<Function></Function>
+					<Default>coulmn2</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>value2</ID>
+					<ToolTip>Enter second column's value</ToolTip>
+					<Function></Function>
+					<Default>value2</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>filtercolumn</ID>
+					<ToolTip>Enter the name of the column to filter</ToolTip>
+					<Function></Function>
+					<Default>filtercolumn</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>filtervalue</ID>
+					<ToolTip>Enter the value for the filter</ToolTip>
+					<Function></Function>
+					<Default>filtervalue</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[#define update query
+$query = "UPDATE $tablename$ SET $column1$=$value1$,$column2$=$value2$ WHERE $filtercolumn$=$filtervalue$"
+]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,40 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Set DPI Awareness</Title>
+			<Shortcut>SetDPIAware</Shortcut>
+			<Description>Enables DPI awareness in PowerShell host.</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[#region Set DPI Awareness
+$null = Add-Type -TypeDefinition  @"
+using System;
+using System.Runtime.InteropServices;
+namespace SAPIEN
+{
+	public static class DPIAware
+	{
+		public enum PROCESS_DPI_AWARENESS
+		{
+			PROCESS_DPI_UNAWARE = 0,
+			PROCESS_SYSTEM_DPI_AWARE = 1,
+			PROCESS_PER_MONITOR_DPI_AWARE = 2
+		}
+
+		[DllImport("SHCore.dll", SetLastError = true)]
+		public static extern int SetProcessDpiAwareness(PROCESS_DPI_AWARENESS awareness);
+	}
+}
+"@
+#Call before displaying a GUI
+[SAPIEN.DPIAware]::SetProcessDpiAwareness('PROCESS_SYSTEM_DPI_AWARE')
+#endregion]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,22 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>OleDBCommandQuery</Title>
+			<Shortcut>OleDBCommandQuery</Shortcut>
+			<Description>Inserts a OleDB Command Query script</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[#create oledb command for select
+$cmd = New-Object system.Data.oledb.OleDbCommand
+$cmd.connection = $conn
+$cmd.commandtext = $query
+$dr = $cmd.executereader()]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,22 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Uptime</Title>
+			<Shortcut>Uptime</Shortcut>
+			<Description>Inserts a script that returns the total time since the last reboot</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[$computer="localhost"
+$time=Get-WmiObject -class Win32_OperatingSystem -computer $computer
+$t=$time.ConvertToDateTime($time.Lastbootuptime)
+[TimeSpan]$uptime=New-TimeSpan $t $(get-date)
+"$($uptime.days)d $($uptime.hours)h $($uptime.minutes)m $($uptime.seconds)S"  ]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

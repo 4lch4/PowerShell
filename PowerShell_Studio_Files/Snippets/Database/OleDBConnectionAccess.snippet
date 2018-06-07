@@ -1,0 +1,29 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>OleDBConnectionAccess</Title>
+			<Shortcut>OleDBConnectionAccess</Shortcut>
+			<Description>Inserts a OleDB Connection script for Access</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>filename</ID>
+					<ToolTip>Enter the Access database file name</ToolTip>
+					<Function></Function>
+					<Default>filename</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[#open database connection to Access
+$conn = New-Object system.Data.OleDB.OleDbConnection
+$conn.connectionstring = "provider=Microsoft.Jet.Oledb.4.0;data source=$filename$.mdb"
+$conn.open]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

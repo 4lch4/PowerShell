@@ -1,0 +1,40 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>SQLDeleteQuery</Title>
+			<Shortcut>SQLDeleteQuery</Shortcut>
+			<Description>Inserts a SQL Delete query</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>table</ID>
+					<ToolTip>Enter table name</ToolTip>
+					<Function></Function>
+					<Default>table</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>column</ID>
+					<ToolTip>Enter column name to filter</ToolTip>
+					<Function></Function>
+					<Default>column</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>value</ID>
+					<ToolTip>Enter value of filter</ToolTip>
+					<Function></Function>
+					<Default>value</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[#define delete query
+$query = "DELETE FROM $table$ WHERE $column$ = $value$"
+]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

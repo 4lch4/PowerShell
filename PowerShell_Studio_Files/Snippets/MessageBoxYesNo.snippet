@@ -1,0 +1,41 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Message Box (Yes / No)</Title>
+			<Shortcut>msgboxyesno</Shortcut>
+			<Description>Displays a windows message box with Yes and No buttons</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>Question</ID>
+					<ToolTip>Question to be displayed in the message box.</ToolTip>
+					<Function></Function>
+					<Default>'Question'</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>Caption</ID>
+					<ToolTip>Title for the Message Box window</ToolTip>
+					<Function></Function>
+					<Default>'Title'</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+if([System.Windows.Forms.MessageBox]::Show($Question$, $Caption$,[System.Windows.Forms.MessageBoxButtons]::YesNo) -eq 'Yes')
+{
+	Write-Host 'Yes!'
+}]]>
+			</Code>
+			<References>
+				<Reference>
+					<Assembly>System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+				</Reference>
+			</References>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

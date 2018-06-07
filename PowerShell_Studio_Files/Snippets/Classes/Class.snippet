@@ -1,0 +1,39 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Class</Title>
+			<Shortcut>class</Shortcut>
+			<Description>PowerShell 5.0 classes</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>className</ID>
+					<ToolTip>Enter the name of the class. The class name is also the name of the constructors.</ToolTip>
+					<Function></Function>
+					<Default>className</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[class $className$   { 
+
+# Properties
+
+
+# Constructors
+$className$ () {
+
+
+}
+
+#Methods
+
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

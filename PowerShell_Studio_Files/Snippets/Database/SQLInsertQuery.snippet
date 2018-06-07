@@ -1,0 +1,52 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>SQLInsertQuery</Title>
+			<Shortcut>SQLInsertQuery</Shortcut>
+			<Description>Inserts a SQL Insert statement</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>table</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>table</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>column1</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>column1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>column2</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>column2</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>value1</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>value1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>value2</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>value2</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[#define insert query
+$query = "INSERT INTO $table$ ($column1$, $column2$) VALUES($value1$, $value2$)"
+]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

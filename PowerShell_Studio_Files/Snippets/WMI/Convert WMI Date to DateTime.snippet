@@ -1,0 +1,31 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Convert WMI Date to DateTime</Title>
+			<Shortcut>convertwmidate</Shortcut>
+			<Description>Converts a WMI date string into a DateTime object.</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>WmiDateString</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>$WmiDateString</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[[System.Management.ManagementDateTimeConverter]::ToDateTime($WmiDateString$)]]>
+			</Code>
+			<References>
+				<Reference>
+					<Assembly>System.Management</Assembly>
+				</Reference>
+			</References>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

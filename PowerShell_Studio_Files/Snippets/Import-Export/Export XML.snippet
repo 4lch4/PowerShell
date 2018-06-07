@@ -1,0 +1,76 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Export XML</Title>
+			<Shortcut></Shortcut>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[function Export-XMLToFile
+{
+	<#
+	.Synopsis
+		This Cmdlet Exports an XML object to a file of the user's choosing
+	.EXAMPLE
+	   Export-XMLToFile -ExportVariable $Users -Path C:\Test\TestFile.xml
+	.EXAMPLE
+	   Export-XMLToFile -ExportVariable $Users -Path C:\Test\TestFile.xml -Append
+	.INPUTS
+	   The File Path that contains the information that needs to be imported. If the Append Parameter is not used then any information that is
+		in the file being exported to will be erased replaced by what is being written to it.
+	#>
+	#Requires -Version 3
+	[CmdletBinding(SupportsShouldProcess = $true,
+				   ConfirmImpact = 'Medium')]
+	Param
+	(
+		[Parameter(Mandatory = $true,
+				   ValueFromPipeline = $true,
+				   ValueFromPipelineByPropertyName = $true)]
+		[ValidateNotNullOrEmpty()]
+		[xml]
+		$ExportVariable,
+		[Parameter(Mandatory = $true,
+				   ValueFromPipeline = $true,
+				   ValueFromPipelineByPropertyName = $true)]
+		[ValidateNotNullOrEmpty()]
+		[ValidateScript({
+				If ($_ -like "*.xml")
+				{
+					$true
+				}
+				else
+				{
+					Throw "$_ is not a xml file, please make sure you are Export to a xml file."
+				}
+			})]
+		$Path,
+		[switch]$Append
+		
+	)
+	Process
+	{
+		if ($Append)
+		{
+			[xml]$FileInfo = Import-XML -Path $Path
+			Foreach ($node in $ExportVariable.DocumentElement.ChildNodes)
+			{
+				#Out-NUll is used to Surpess output from the AppendChild Function
+				$FileInfo.DocumentElement.AppendChild($FileInfo.ImportNode($node, $true)) | Out-Null
+			}
+			$FileInfo.Save($Path)
+		}
+		else
+		{
+			$ExportVariable.Save($Path)
+		}
+	}
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

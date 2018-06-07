@@ -1,0 +1,33 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>ValidateLength</Title>
+			<Shortcut>ValidateLength</Shortcut>
+			<Description>Determines the number of characters in the parameter value string. min/maxLength are inclusive.</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>http://msdn.microsoft.com/en-us/library/ms714452(v=vs.85).aspx</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>minLength</ID>
+					<ToolTip>Enter the minimum number of characters in the parameter value string.</ToolTip>
+					<Function></Function>
+					<Default>minLength</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>maxLength</ID>
+					<ToolTip>Enter the maximum number of characters in the parameter value string.</ToolTip>
+					<Function></Function>
+					<Default>maxLength</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[[ValidateLength($minLength$, $maxLength$)]]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

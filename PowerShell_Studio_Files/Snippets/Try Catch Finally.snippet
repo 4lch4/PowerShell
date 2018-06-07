@@ -1,0 +1,44 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Try Catch Finally</Title>
+			<Shortcut>trycatchfinally</Shortcut>
+			<Description>Adds a try catch finally block</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>exceptionType</ID>
+					<ToolTip>Type of exception to trap</ToolTip>
+					<Function></Function>
+					<Default>[System.IO.IOException]</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="powershell">
+				<![CDATA[<#
+	For more information on the try, catch and finally keywords, see:
+		Get-Help about_try_catch_finally
+#>
+
+# Try one or more commands
+try {
+	$selected$$end$
+}
+# Catch specific types of exceptions thrown by one of those commands
+catch $exceptionType$ {
+}
+# Catch all other exceptions thrown by one of those commands
+catch {
+}
+# Execute these commands even if there is an exception thrown from the try block
+finally {
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

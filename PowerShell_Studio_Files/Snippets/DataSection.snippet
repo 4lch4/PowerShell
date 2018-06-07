@@ -1,0 +1,45 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>DataSection</Title>
+			<Shortcut>Data</Shortcut>
+			<Description>Creates a Data section for script internationalization or standard user messages. When run, $Variable contains a hash table of $Name and $Message pairs. For more information, see about_Script_Internationalization</Description>
+			<Author>June Blender</Author>
+			<HelpUrl>http://go.microsoft.com/fwlink/?LinkID=113262</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>Variable</ID>
+					<ToolTip>Enter a name for the binding variable. This variable stores the hashtable that ConvertFrom-String creates from the here-string.</ToolTip>
+					<Function></Function>
+					<Default>Variable</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>Name</ID>
+					<ToolTip>Specifies the name of a user message. This name becomes a property of the binding variable ($variable).</ToolTip>
+					<Function></Function>
+					<Default>Name</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>Message</ID>
+					<ToolTip>Specifies the user message associated with the $Name label.</ToolTip>
+					<Function></Function>
+					<Default>Value</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[$$Variable$ = Data
+{
+	ConvertFrom-StringData @"
+		$Name$ = $Message$	
+		$Name$ = $Message$	
+"@
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,64 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>IfElseIf</Title>
+			<Shortcut>IfElseIf</Shortcut>
+			<Description>Creates an If statement with ElseIf and Else clauses</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>condition1</ID>
+					<ToolTip>Enter statements that return a Boolean ($True/$False) value.</ToolTip>
+					<Function></Function>
+					<Default>condition1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>ifCode</ID>
+					<ToolTip>Statements that run when $Condition1 is true.</ToolTip>
+					<Function></Function>
+					<Default>ifCode</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>elseCode</ID>
+					<ToolTip>Statements that run when neither $Condition1 nor $Condition2 are true.</ToolTip>
+					<Function></Function>
+					<Default>elseCode</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>elseIfCode</ID>
+					<ToolTip>Statements that run when $Condition2 is true.</ToolTip>
+					<Function></Function>
+					<Default>elseIfCode</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>condition2</ID>
+					<ToolTip>Enter statements that return a Boolean ($True/$False) value.</ToolTip>
+					<Function></Function>
+					<Default>condition2</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[if ($condition1$) {
+
+	$ifCode$
+	
+}
+elseif ($conditon2$) {
+
+	$elseIfCode$
+	
+}
+else {
+
+    $elseCode$
+    
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

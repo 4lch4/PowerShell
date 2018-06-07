@@ -1,0 +1,33 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>TraceWindow</Title>
+			<Shortcut>TraceWindow</Shortcut>
+			<Description>Inserts function that displays a trace in IE</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[$ie = ""
+function Trace([string]$text) {
+	if ($ie -eq "") {
+		$script:ie = New-Object -comobject "InternetExplorer.Application"
+		$script:ie.navigate("about:blank")
+		$script:ie.top = 10
+		$script:ie.left = 10
+		$script:ie.height = 400
+		$script:ie.width = 200
+		$script:ie.toolbar = $false
+		$script:ie.visible = $true
+	}
+	$body = $script:ie.document.body.innerhtml
+	$body += "$text<br>"
+	$script:ie.document.body.innerhtml = $body
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,35 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Background Job</Title>
+			<Shortcut>bgjob</Shortcut>
+			<Description>Run a background job</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>name</ID>
+					<ToolTip>[Optional] The name to give to the background job</ToolTip>
+					<Function></Function>
+					<Default>JobName</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>initializationScript</ID>
+					<ToolTip>[Optional] The script to run before the job starts</ToolTip>
+					<Function></Function>
+					<Default>{Import-Module BitsTransfer}</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="powershell">
+				<![CDATA[Start-Job -Name $name$ -InitializationScript $initializationScript$ -ScriptBlock {
+	$selected$$end$
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

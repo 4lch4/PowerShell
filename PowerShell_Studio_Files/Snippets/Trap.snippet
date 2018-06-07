@@ -1,0 +1,33 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Trap</Title>
+			<Shortcut>trap</Shortcut>
+			<Description>Creates a trap statement</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>ExceptionType</ID>
+					<ToolTip>Enter exception type here</ToolTip>
+					<Function></Function>
+					<Default>Exception</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[
+trap [$ExceptionType$] {
+	#potential error code
+	#use continue or break keywords
+	$selected$$end$
+}
+]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

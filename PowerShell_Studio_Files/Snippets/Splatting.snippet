@@ -1,0 +1,51 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Splatting</Title>
+			<Shortcut>Splatting</Shortcut>
+			<Description>A template for splatted parameters</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>http://technet.microsoft.com/en-us/library/jj672955(v=wps.640).aspx</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>ParamName1</ID>
+					<ToolTip>Enter the name of a cmdlet parameter.</ToolTip>
+					<Function></Function>
+					<Default>ParamName1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>ParamValue1</ID>
+					<ToolTip>Enter a value for the $ParamName1 parameter.</ToolTip>
+					<Function></Function>
+					<Default>ParamValue1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>ParamName2</ID>
+					<ToolTip>Enter the name of a cmdlet parameter.</ToolTip>
+					<Function></Function>
+					<Default>ParamName2</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>ParamValue2</ID>
+					<ToolTip>Enter a value for the $ParamName2 parameter.</ToolTip>
+					<Function></Function>
+					<Default>ParamValue2</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[$params = @{
+	
+	$ParamName1$ = $ParamValue1$;
+	$ParamName2$ = $ParamValue2$;
+}
+
+CmdletName @params]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

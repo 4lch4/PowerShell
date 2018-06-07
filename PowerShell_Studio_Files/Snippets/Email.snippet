@@ -1,0 +1,29 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Send Email</Title>
+			<Shortcut>email</Shortcut>
+			<Description>Insert a Send-MailMessage command with commonly-used parameters.</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>http://go.microsoft.com/fwlink/p/?linkid=294010</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[$params = @{
+	
+	From = "user@fabrikam.com";
+	To = "user1@fabrikam.com, User2 <user2@fabrikam.com>";
+	Subject = "Notice of script failure";
+	Body = "The following script failed..."
+	SmtpServer = "smtp.fabrikam.com"
+	Credential = "domain01\admin01"
+}
+
+Send-MailMessage @params]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

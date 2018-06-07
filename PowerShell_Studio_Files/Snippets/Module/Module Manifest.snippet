@@ -1,0 +1,344 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Module Manifest</Title>
+			<Shortcut>modulemanifest</Shortcut>
+			<Description>Adds a module manifest for inclusion in a psd1 file</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>aliasesToExport</ID>
+					<ToolTip>Comma-separated list of aliases that the module exports. If the module does not export aliases, use an empty array ( @() ) value. This key filters the Export-ModuleMember cmdlet result; it does not override it. For best performance, list alias names, not wildcards. Do not delete this key or its value.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>author</ID>
+					<ToolTip># Name, contact info (Twitter handle, email address) of the person or company responsible for this module.</ToolTip>
+					<Function></Function>
+					<Default>%Username%</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>clrVersion</ID>
+					<ToolTip>The version of the .NET CLR that the module requires. Valid only in Desktop editions of PowerShell.</ToolTip>
+					<Function></Function>
+					<Default>2.0.50727</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>cmdletsToExport</ID>
+					<ToolTip>Comma-separated list of names of cmdlets that the module exports. If the module does not export aliases, use an empty array ( @() ) value. This key filters the Export-ModuleMember results; it does not override them. For best performance, list cmdlet names, not wildcards. Do not delete this key or its value.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>companyName</ID>
+					<ToolTip>The name of the company or vendor that developed the module</ToolTip>
+					<Function></Function>
+					<Default>%Company%</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>description</ID>
+					<ToolTip>Brief description of the module.</ToolTip>
+					<Function></Function>
+					<Default>Module description</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>dotNetVersion</ID>
+					<ToolTip>The minimum version of the .NET Framework that is required by the module. Valid only in Desktop editions of PowerShell.</ToolTip>
+					<Function></Function>
+					<Default>4.0</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>dscResourcesToExport</ID>
+					<ToolTip>Names of DSC resources that the module exports or @(). For best performance, list names, not wildcards, and do not delete this key or its value. Valid in PowerShell 4.0+.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>fileList</ID>
+					<ToolTip>Inventory of paths/filenames of files in the module. Enter the paths/filenames of the files.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>formatsToProcess</ID>
+					<ToolTip>Paths to formatting files (.ps1xml) in the module.  When you import the module, Windows PowerShell runs the Update-FormatData cmdlet with the specified files. These files contain display information for .NET Framework types that are used by the components of the module. For example, these files specify whether a type returned by a cmdlet is displayed as a table or as a list.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>functionsToExport</ID>
+					<ToolTip>Comma-separated list of the names of functions that the module exports. If the module doesn't export functions, use @(). For best performance, list function names, not wildcards, and do not delete this key or its value.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>helpInfoUri</ID>
+					<ToolTip>Enables updatable help. Enter the URL of the HelpInfoXML file for the module.</ToolTip>
+					<Function></Function>
+					<Default>''</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>moduleList</ID>
+					<ToolTip>Inventory of all modules that are included in the module. Unlike RequiredModules, modules in this list are not automatically imported with the module.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>moduleName</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>MyModule</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>moduleVersion</ID>
+					<ToolTip>The version number of the module. Increment the version in each release. Enter a string that can be converted to a System.Version object, e.g. 1.0.0.0. For best practices, use semantic versioning: https://www.sitepoint.com/semantic-versioning-why-you-should-using/</ToolTip>
+					<Function></Function>
+					<Default>1.0.0.0</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>nestedModules</ID>
+					<ToolTip>Comma-separated list of the paths\filenames of modules included in this module for use by the root module. If you omit the RootModule/ModuleToProcess key and list the root module in NestedModules, the module is a manifest module.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>processorArchitecture</ID>
+					<ToolTip>The processor architecture that the module requires. Valid values are x86, AMD64, IA64, and None (unknown or unspecified).</ToolTip>
+					<Function></Function>
+					<Default>None</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>psHostName</ID>
+					<ToolTip>The name of the Windows PowerShell host that the module requires, such as "ConsoleHost". To find the name of a host program, in the program, type: $host.name.</ToolTip>
+					<Function></Function>
+					<Default>ConsoleHost</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>psHostVersion</ID>
+					<ToolTip>The minimum version number of the PowerShell host that the module requires.</ToolTip>
+					<Function></Function>
+					<Default>2.0</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>psVersion</ID>
+					<ToolTip>The minimum version of PowerShell that the module requires. Verifies entire version number, not just major and minor properties.</ToolTip>
+					<Function></Function>
+					<Default>2.0</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>releaseNotes</ID>
+					<ToolTip>URL to the change log for the module or a list of changes to each version of the module.</ToolTip>
+					<Function></Function>
+					<Default>''</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>requiredAssemblies</ID>
+					<ToolTip>The assembly (.dll) files that the module requires, such as assemblies required by type and formatting files. PowerShell loads these assemblies before it updates types or formats, or imports root/nested modules. Include the assemblies formatting or type files require, even if those assemblies are already listed in the NestedModules key.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>requiredModules</ID>
+					<ToolTip>Modules that this module requires. Enter an array of strings and/or ModuleSpecification objects. If PowerShell cannot import required modules, commands to import the root module fail.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>scriptsToProcess</ID>
+					<ToolTip>The script (.ps1) files that PowerShell runs in the caller's session when the module is imported. You can use these scripts to prepare an environment, just as you might use a login script.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>typesToProcess</ID>
+					<ToolTip>The type files (.ps1xml) for the module. These files contain definitions of the .NET Framework types that are used by the components of the module, such as a type returned by a cmdlet. When you import the module, PowerShell runs the Update-TypeData cmdlet with the specified type files.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>variablesToExport</ID>
+					<ToolTip>Exports only the specified variables from the module. This key filters the Export-ModuleMember results; it does not override them.
+
+The '*' value exports all variables defined in the module, including variables exported by a nested modules.</ToolTip>
+					<Function></Function>
+					<Default>'*'</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>tags</ID>
+					<ToolTip>Keywords that identify or describe the module. Tags are used to find modules in online galleries.</ToolTip>
+					<Function></Function>
+					<Default>@()</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>licenseUri</ID>
+					<ToolTip>URL of the module license</ToolTip>
+					<Function></Function>
+					<Default>''</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>projectUri</ID>
+					<ToolTip>URL of the main website for this project.</ToolTip>
+					<Function></Function>
+					<Default>''</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>iconUri</ID>
+					<ToolTip>URL of the icon that represents this module</ToolTip>
+					<Function></Function>
+					<Default>''</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="powershell">
+				<![CDATA[<#
+	Module manifest for module '$moduleName$'
+
+       The keys and values in the module manifest are used to create the objects that
+       Get-Module and the PowerShellGet cmdlets return.
+
+	NOTE: Name this file $moduleName$.psd1 For more information, see: Get-Help New-ModuleManifest.
+#>
+
+@{
+
+	# Filename (including extension) of primary script or binary module file. (Renamed to RootModule in PowerShell 3.0.)
+	ModuleToProcess = '$moduleName$.psm1'
+
+	# Version number of this module. Increment with each release. Enter a string that can be converted to a System.Version object, e.g. 1.0.0.0. 
+	ModuleVersion = '$moduleVersion$'
+
+	# ID used to uniquely identify this module. # Do not increment between versions.
+	GUID = '%GUID%'
+
+	# Name, contact info (Twitter handle, email address) of the person responsible for this module.
+	Author = '$author$'
+
+	# Name of the company or vendor that developed the module.
+	CompanyName = '$companyName$'
+
+	# Copyright statement for this module
+	Copyright = '(c) %Year%. All rights reserved.'
+
+	# Brief description of the module features.
+	Description = '$description$'
+
+	# Enables updatable help. Enter the URL of the HelpInfoXML file for the module.
+	# Valid in PowerShell 3.0 and later.
+	#HelpInfoUri = $helpInfoUri$
+
+
+	#-----------------------------------------------------------
+	#  Module requirements: 
+	#     If PowerShell cannot verify/load these elements, attempts to import the module fail.
+
+	# Minimum version of the common language runtime (CLR) required by this module. Valid only for Desktop edition.
+	# CLRVersion = '$clrVersion$'
+
+	# Minimum version of the .NET Framework required by this module. Valid only for Desktop edition.
+	# DotNetFrameworkVersion = '$dotNetVersion$'
+
+	# Name of the PowerShell host required by this module, such as 'ConsoleHost'  or 'Windows PowerShell ISE Host'
+	# PowerShellHostName = '$psHostName$'
+
+	# Minimum version of the PowerShell host required by this module
+	# PowerShellHostVersion = '$psHostVersion$'
+
+	# Minimum version of the PowerShell engine required by this module
+	# PowerShellVersion = '$psVersion$'
+
+	# Processor architecture (None, X86, Amd64, IA64) required by this module
+	# ProcessorArchitecture = '$processorArchitecture$'
+
+	# Module runs only on particular edition of PowerShell: Desktop, Core. Valid only on PowerShell 5.1+
+	#CompatiblePSEditions = 'Desktop', 'Core'
+
+	# Assemblies that must be loaded prior to importing this module
+	# RequiredAssemblies = $requiredAssemblies$
+
+	# List names, paths, or ModuleSpecificaton objects. If PowerShell can't import the required modules, attempts to import this module fail.
+	# RequiredModules = $requiredModules$
+
+	#-----------------------------------------------------------
+	#-----------------------------------------------------------
+	# What command types does the module export? 
+	#       The *ToExport keys filter the result of the Export-ModuleMember cmdlet; they do not override it.
+	#       For best performance, list names, not wildcards. Do not delete theses keys or value. 
+	#       If the module does not export commands of this type, use an empty array value ( @() ). 
+
+	# Names of aliases that the module exports. For best performance, list names, not wildcards, and do not delete this key or its value. 
+	AliasesToExport = $aliasesToExport$
+
+	# Names of functions that the module exports or @(). For best performance, list names, not wildcards, and do not delete this key or its value. 
+	FunctionsToExport = $functionsToExport$
+
+	# Names of cmdlets that the module exports or @(). For best performance, list names, not wildcards, and do not delete this key or its value.
+	CmdletsToExport = $cmdletsToExport$
+
+	# Names of variables to export from this module, all ('*') or none ( @() ). 
+	VariablesToExport = $variablesToExport$
+
+	# Names of DSC resources that the module exports or @(). For best performance, list names, not wildcards, and do not delete this key or its value.
+	# Valid in PowerShell 4.0+.
+	DscResourcesToExport = $dscResourcesToExport$
+
+	#-------------------------------------------------------------
+	#-------------------------------------------------------------
+	#    What types of files are included in this module?
+	#        Enter the path and filename (with extension) in a comma-separated list.
+
+	# Modules included in this module package. List names, paths, or ModuleSpecification objects.
+	# To create a manifest module, include the root module in this value.
+	#NestedModules = $nestedModules$
+
+	# Format files (.ps1xml) that PowerShell loads when importing this module
+	#FormatsToProcess = $formatsToProcess$
+
+	# Scripts (.ps1) that PowerShell runs in the caller's environment before importing this module.
+	#ScriptsToProcess = $scriptsToProcess$
+
+	# Type files (.ps1xml) that PowerShell loads when importing this module.
+	#TypesToProcess = $typesToProcess$
+
+	# Modules packaged with this module. List names, file paths, or ModuleSpecification objects.
+	#ModuleList = $moduleList$
+
+	# List of all files packaged with this module
+	#FileList = $fileList$
+
+
+	#-------------------------------------------------------------
+	#-------------------------------------------------------------
+	# Use this key to send this arbitrary data (strings, hashtables) to the ModuleToProcess module. To get the data in your module functions, use $MyInvocation.MyCommand.Module.PrivateData.
+	PrivateData = @{
+
+		PSData = @{
+
+			# Keywords that identify or describe the module. Tags are used to find modules in online galleries.
+			# Tags = $tags$
+
+			#  URL of the module license
+			# LicenseUri = $licenseUri$
+
+			# URL of the main website for this project.
+			# ProjectUri = '' $projectUri$
+
+			# URL of the icon that represents this module.
+			# IconUri = $iconUri$
+
+			# URL to the change log for the module or a list of changes to each version of the module.
+			# ReleaseNotes = $releaseNotes$
+
+		} # End of PSData hashtable
+
+	} # End of PrivateData hashtable
+
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,69 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Import Text</Title>
+			<Shortcut></Shortcut>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[function Import-Text
+{
+	<#
+	.Synopsis
+   		This Cmdlet imports the information from the .txt file that is passed to it.
+	.EXAMPLE
+   		$File_Information = Import-Text -Path C:\Test\TextFile.txt
+	.INPUTS
+	 	The File Path that contains the information that needs to be imported.
+	.OUTPUTS
+   		This Cmdlet Outputs an Array of the values store in the file that is passed to it.
+	.NOTES
+		The $Path Parameter is automatically validated to make sure that it is not NULL or Empty
+		and that it is a Valid Path.
+	#>
+	#Requires -Version 3
+	[CmdletBinding(SupportsShouldProcess = $true,
+				   ConfirmImpact = 'Medium')]
+	[OutputType([ARRAY])]
+	Param
+	(
+		# This is the path of the file that you want imported
+		[Parameter(Mandatory = $true,
+				   ValueFromPipeline = $true,
+				   ValueFromPipelineByPropertyName = $true,
+				   Position = 0
+				   )]
+		[ValidateScript({
+				If ([System.IO.File]::Exists($_))
+				{
+					If ((Get-ItemProperty -Path $_).Extension -eq ".txt")
+					{
+						$true
+					}
+					else
+					{
+						Throw "$_ is not a txt file, please make sure you are importing from a text file."
+					}
+				}
+				else { Throw "$_ Does not exist, please confirm your path is spelled correctly." }
+			})]
+		[ValidateNotNullOrEmpty()]
+		[string]$Path
+	)
+	Process
+	{
+		if ($pscmdlet.ShouldProcess($Path, "Get-Content -Path `$Path"))
+		{
+			[ARRAY]$Return_Value = Get-Content -Path $Path
+			$Return_Value
+		}
+	}
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

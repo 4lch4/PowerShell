@@ -1,0 +1,29 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Region</Title>
+			<Shortcut>region</Shortcut>
+			<Description>Creates a region</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>RegionName</ID>
+					<ToolTip>The name of the region</ToolTip>
+					<Function></Function>
+					<Default>RegionName</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="powershell">
+				<![CDATA[#region $RegionName$
+$selected$$end$
+#endregion $RegionName$]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

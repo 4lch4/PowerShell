@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<triggers>
+	<trigger shortcut="ProcessNames" command="Get-Process" parameter="Name" type="cached" datafile="GetProcess_Name.csv"  elevated="false" timeout="2000" scriptfile="GetProcess_Name.ps1"/>
+	<trigger shortcut="ServiceNames" command="Get-Service" parameter="Name" type="cached" datafile="GetService_Name.csv" scriptfile="GetService_Name.ps1"/>
+	<trigger shortcut="ComputerNames" command="*" parameter="ComputerName" type="cached" timeout="2000" datafile="Network Computers.csv" scriptfile="Network Computers.ps1"/>
+    <trigger shortcut="functions" type="cached" datafile="functions.xml"/>
+</triggers>

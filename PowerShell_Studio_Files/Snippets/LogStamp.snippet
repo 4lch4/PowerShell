@@ -1,0 +1,44 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>LogStamp</Title>
+			<Shortcut>LogStamp</Shortcut>
+			<Description>Inserts a function that returns a padded timestamp string like 200705231132</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[Function logstamp {
+	#returns a padded timestamp string like 200705231132
+	$now=Get-Date
+	$yr=$now.Year.ToString()
+	$mo=$now.Month.ToString()
+	$dy=$now.Day.ToString()
+	$hr=$now.Hour.ToString()
+	$mi=$now.Minute.ToString()
+	
+	if ($mo.length -lt 2) {
+	$mo="0"+$mo #pad single digit months with leading zero
+	}
+	
+	if ($dy.length -lt 2) {
+	$dy="0"+$dy #pad single digit day with leading zero
+	}
+	
+	if ($hr.length -lt 2) {
+	$hr="0"+$hr #pad single digit hour with leading zero
+	}
+	
+	if ($mi.length -lt 2) {
+	$mi="0"+$mi #pad single digit minute with leading zero
+	}
+	
+	write-output $yr$mo$dy$hr$mi
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

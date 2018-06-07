@@ -1,0 +1,55 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Enum</Title>
+			<Shortcut>enum</Shortcut>
+			<Description>Define an enumerator in Windows PowerShell 5.0</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>enumName</ID>
+					<ToolTip>Enter the name of the enumerator</ToolTip>
+					<Function></Function>
+					<Default>enumName</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>value1</ID>
+					<ToolTip>Enter the name of a valid value</ToolTip>
+					<Function></Function>
+					<Default>value1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>value2</ID>
+					<ToolTip>Enter the name of a valid value</ToolTip>
+					<Function></Function>
+					<Default>value2</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>value3</ID>
+					<ToolTip>Enter the name of a valid value</ToolTip>
+					<Function></Function>
+					<Default>value3</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>expression</ID>
+					<ToolTip>Set the valueName equal to a value or expression</ToolTip>
+					<Function></Function>
+					<Default>expression</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[enum $enumName$ {
+	
+	$valueName1$ = $expression$
+	$valueName2$
+	$valueName3$	
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

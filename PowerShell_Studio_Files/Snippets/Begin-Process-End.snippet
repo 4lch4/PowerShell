@@ -1,0 +1,50 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Begin-Process-End</Title>
+			<Shortcut>begin</Shortcut>
+			<Description>Adds a BEGIN-PROCESS-END block</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>https://technet.microsoft.com/library/hh847781.aspx</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>BeginBlock</ID>
+					<ToolTip>Code that runs once; as soon as the script/function starts</ToolTip>
+					<Function></Function>
+					<Default>BeginBlock</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>ProcessBlock</ID>
+					<ToolTip>Code that runs once for each pipelined value. `n`nIf there are no pipelined values, it runs once, after the BEGIN block completes.</ToolTip>
+					<Function></Function>
+					<Default>ProcessBlock</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>EndBlock</ID>
+					<ToolTip>Code that runs once; right before the script/function ends</ToolTip>
+					<Function></Function>
+					<Default>EndBlock</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[BEGIN 
+{
+	$BeginBlock$
+}
+PROCESS
+{
+     $ProcessBlock$
+}
+END
+{
+	$EndBlock$
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,29 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>HereString (double-quoted)</Title>
+			<Shortcut>HereStringDouble</Shortcut>
+			<Description>Inserts a double-quoted here-string</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>http://technet.microsoft.com/en-us/library/hh847740.aspx</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>strings</ID>
+					<ToolTip>Enter the strings. Quotation marks, spaces, and end-of-line characters are preserved.</ToolTip>
+					<Function></Function>
+					<Default>strings</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[@"
+	$strings$
+"@]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

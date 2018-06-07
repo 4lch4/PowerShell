@@ -1,0 +1,57 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Add-Control</Title>
+			<Shortcut>addcontrol</Shortcut>
+			<Description>Adds a control (with scaling for high DPI) to the container control (Form).</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[<#
+	.SYNOPSIS
+		Adds a control (with scaling for high DPI) to the container control (Form).
+	
+	.DESCRIPTION
+		Adds a control (with scaling for high DPI) to the container control (Form).
+	
+	.PARAMETER Parent
+		The parent container that the control will be added to.
+	
+	.PARAMETER Control
+		The control that will be added to the parent container control.
+	
+	.EXAMPLE
+				PS C:\> Add-Control -Parent $form1 -Control $button
+	
+	.NOTES
+		Additional information about the function.
+#>
+function Add-Control
+{
+	[CmdletBinding()]
+	param
+	(
+			[Parameter(Mandatory = $true,
+					   Position = 1)]
+			[ValidateNotNull()]
+			[System.Windows.Forms.ContainerControl]$Parent,
+			[Parameter(Mandatory = $true,
+					   Position = 2)]
+			[ValidateNotNull()]
+			[System.Windows.Forms.Control]$Control
+	)
+	
+	$Parent.SuspendLayout() #Suspends the usual layout logic
+	$Parent.AutoScaleDimensions = '6, 13' #Set as if using 96 DPI
+	$Parent.AutoScaleMode = 'Font'
+	$Parent.Controls.Add($Control)
+	$Parent.ResumeLayout() #Resumes the layout logic.
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

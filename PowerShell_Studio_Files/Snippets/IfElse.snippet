@@ -1,0 +1,46 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>IfElse</Title>
+			<Shortcut>IfElse</Shortcut>
+			<Description>Creates an If statement with an Else clause</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>condition</ID>
+					<ToolTip>Enter the statements that, if true, run $ifCode..</ToolTip>
+					<Function></Function>
+					<Default>condition</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>ifCode</ID>
+					<ToolTip>Statements that run when the $Condition is true.</ToolTip>
+					<Function></Function>
+					<Default>ifCode</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>elseCode</ID>
+					<ToolTip>Statements that run when $Condition is false.</ToolTip>
+					<Function></Function>
+					<Default>elseCode</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[if ($condition$) {
+
+	$ifCode$
+	
+}
+else {
+
+	$elseCode$
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

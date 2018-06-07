@@ -1,0 +1,36 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>ConvertFrom-StringData</Title>
+			<Shortcut>ConvertFrom-StringData</Shortcut>
+			<Description>Converts a collection of name-value pairs in a here-string to a hash table. Used for script internationalization and standard user messages</Description>
+			<Author>June Blender</Author>
+			<HelpUrl>http://go.microsoft.com/fwlink/?LinkID=113262</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>Name</ID>
+					<ToolTip>Specifies the user message associated with the $Name label.</ToolTip>
+					<Function></Function>
+					<Default>Name</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>Message</ID>
+					<ToolTip>Specifies the name of a user message. $Name becomes a property of the hash table that ConvertFrom-StringData returns.</ToolTip>
+					<Function></Function>
+					<Default>Message</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[ConvertFrom-StringData -StringData @'
+    $Name$ = $Message$
+    $Name$ = $Message$
+'@]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

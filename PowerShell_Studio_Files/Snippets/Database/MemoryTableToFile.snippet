@@ -1,0 +1,30 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>MemoryTableToFile</Title>
+			<Shortcut>MemoryTableToFile</Shortcut>
+			<Description>Inserts script to save table to a file</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>filename</ID>
+					<ToolTip>Enter the file name</ToolTip>
+					<Function></Function>
+					<Default>filename</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[#write table data to file
+$table.writexml("$filename$.xml")
+
+#write table schema to file
+$table.writexmlschema("$filename$.xsd")]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

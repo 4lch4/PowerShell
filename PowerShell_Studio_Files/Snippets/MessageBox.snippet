@@ -1,0 +1,38 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Message Box</Title>
+			<Shortcut>msgbox</Shortcut>
+			<Description>Displays a windows message box</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>Text</ID>
+					<ToolTip>Text to be displayed in the message box.</ToolTip>
+					<Function></Function>
+					<Default>'Text'</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>Caption</ID>
+					<ToolTip>Title for the Message Box window</ToolTip>
+					<Function></Function>
+					<Default>'Title'</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[#Add-Type -AssemblyName "System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+[void][System.Windows.Forms.MessageBox]::Show($Text$, $Caption$) # Casting the method to [void] suppresses the output. ]]>
+			</Code>
+			<References>
+				<Reference>
+					<Assembly>System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+				</Reference>
+			</References>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

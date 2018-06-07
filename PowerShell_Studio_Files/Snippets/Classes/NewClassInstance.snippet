@@ -1,0 +1,38 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>NewClassInstance</Title>
+			<Shortcut></Shortcut>
+			<Description>Create a new class instance by using a constructor of the class</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>myType</ID>
+					<ToolTip>Name the variable that stores the new object</ToolTip>
+					<Function></Function>
+					<Default>myType</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>className</ID>
+					<ToolTip>Enter the name of the class</ToolTip>
+					<Function></Function>
+					<Default>className</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>parameterValues</ID>
+					<ToolTip>Enter a comma-separated list of parameter values that the constructor requires.</ToolTip>
+					<Function></Function>
+					<Default>parameterValues</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[$$myType$ = [$className$]::new($parameterValues$)]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

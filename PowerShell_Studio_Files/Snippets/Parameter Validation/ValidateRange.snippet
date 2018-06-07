@@ -1,0 +1,33 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>ValidateRange</Title>
+			<Shortcut>ValidateRange</Shortcut>
+			<Description>Limits the parameter value to the specified range. min/maxValues are inclusive.</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>http://msdn.microsoft.com/en-us/library/system.management.automation.validaterangeattribute(v=vs.85).aspx</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>minValue</ID>
+					<ToolTip>Enter the smallest valid value of the parameter.</ToolTip>
+					<Function></Function>
+					<Default>minValue</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>maxValue</ID>
+					<ToolTip>Enter the largest valid value of the parameter. min/maxValues are inclusive.</ToolTip>
+					<Function></Function>
+					<Default>maxValue</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[[ValidateRange($minValue$, $maxValue$)]]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

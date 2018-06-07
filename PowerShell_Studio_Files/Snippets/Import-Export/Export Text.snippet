@@ -1,0 +1,114 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Export Text</Title>
+			<Shortcut></Shortcut>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[function Export-ToTextFile
+{
+	<#
+	.Synopsis
+		This Cmdlet is intended to export Strings, Number, Arrays, and HashTables to an external file.
+	.EXAMPLE
+	   Export-ToTextFile -ExportVariable $Users -Path C:\Test\TestFile.txt
+	.EXAMPLE
+	   Export-ToTextFile -ExportVariable $Users -Path C:\Test\TestFile.txt -Append
+	.INPUTS
+	   The File Path that contains the information that needs to be imported. If the Append Parameter is not used then any information that is
+		in the file being exported to will be erased replaced by what is being written to it.
+	.NOTES
+		The Cmdlets will determine which format the $ExportVariable takes and Selects the Exporting Cmdlets Accordingly.
+	#>
+	#Requires -Version 3
+	[CmdletBinding(SupportsShouldProcess = $true,
+				   ConfirmImpact = 'Medium')]
+	Param
+	(
+		
+		[Parameter(Mandatory = $true,
+				   ValueFromPipeline = $true,
+				   ValueFromPipelineByPropertyName = $true)]
+		[ValidateNotNullOrEmpty()]
+		$ExportVariable,
+		[Parameter(Mandatory = $true,
+				   ValueFromPipeline = $true,
+				   ValueFromPipelineByPropertyName = $true)]
+		[ValidateNotNullOrEmpty()]
+		[ValidateScript({
+					If ($_ -like "*.txt")
+					{
+						$true
+					}
+					else
+					{
+						Throw "$_ is not a txt file, please make sure you are Exporting to a text file."
+					}
+			})]
+		$Path,
+		[switch]$Append
+		
+	)
+	Begin
+	{
+		if ($Append)
+		{
+			$FileStreamAppend = New-Object IO.FileStream($Path, [System.IO.FileMode]::Append, [System.IO.FileAccess]::Write, [System.IO.FileShare]::None)
+			$StreamAppend = New-Object System.IO.StreamWriter($FileStreamAppend)
+		}
+		else
+		{
+			$StreamNoAppend = [System.IO.StreamWriter]$Path
+		}
+	}
+	Process
+	{
+		if ($ExportVariable -is [System.Collections.HashTable])
+		{
+			if ($Append)
+			{
+				if ($PSCmdlet.ShouldProcess($Path, "`$ExportVariable.GetEnumerator() | ForEach-Object{ `$StreamAppend.writeline(`$_.Key + `" = `" + `$_.value) }"))
+				{
+					$ExportVariable.GetEnumerator() | ForEach-Object{ $StreamAppend.writeline($_.Key + "=" + $_.value) }
+				}
+				$StreamAppend.Close();
+			}
+			else
+			{
+				if ($PSCmdlet.ShouldProcess($Path, "$ExportVariable.GetEnumerator() | ForEach-Object{ $StreamNoAppend.writeline(`$_.Key + `" = `" + `$_.value) }"))
+				{
+					$ExportVariable.GetEnumerator() | ForEach-Object{ $StreamNoAppend.writeline($_.Key + "=" + $_.value) }
+				}
+				$StreamNoAppend.Close();
+			}
+		}
+		else
+		{
+			if ($Append)
+			{
+				if ($PSCmdlet.ShouldProcess($Path, "`$ExportVariable.GetEnumerator() | ForEach-Object{ `$StreamAppend.writeline(`$_) };"))
+				{
+					$ExportVariable | ForEach-Object{ $StreamAppend.writeline($_) };
+				}
+				$StreamAppend.close()
+			}
+			else
+			{
+				if ($PSCmdlet.ShouldProcess($Path, "`$ExportVariable.GetEnumerator() | ForEach-Object{ `$StreamNoAppend.writeline(`$_) };"))
+				{
+					$ExportVariable | ForEach-Object{ $StreamNoAppend.writeline($_) };
+				}
+				$StreamNoAppend.Close()
+			}
+		}
+	}
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

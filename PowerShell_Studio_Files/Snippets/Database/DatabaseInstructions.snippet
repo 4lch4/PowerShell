@@ -1,0 +1,30 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>DatabaseInstructions</Title>
+			<Shortcut>DatabaseInstructions</Shortcut>
+			<Description>Inserts Database connection instructions</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[# instructions for databases:
+# - Add a Connection snippet
+#   SqlConnection for SQL Server, OleDBConnection for others.
+#
+# - Add a SQL query snippet
+#
+# - Add a Command snippet
+#   Add SqlCommandXXX or OleDBCommandXXX to match your connection
+#   Add XXXCommandQuery if you're using a SELECT query
+#   Addd XXXCommandNonQuery for INSERT, DELETE, or UPDATE queries
+#
+# - Add a DataReader snippet
+#   Only if you used a QueryCommand]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

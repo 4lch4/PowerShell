@@ -1,0 +1,45 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>CodeCoverageHashTable</Title>
+			<Shortcut>CodeCoverage</Shortcut>
+			<Description>A hash table that specifies the values of the CodeCoverage parameter of Invoke-Pester.</Description>
+			<HelpUrl>https://github.com/pester/Pester/wiki/Invoke-Pester</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>Path</ID>
+					<ToolTip>Enter the path to the script being tested, such as ".\Get-HelloWorld.ps1". This key is required.</ToolTip>
+					<Function></Function>
+					<Default>Path</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>FunctionName</ID>
+					<ToolTip>Enter the name of a function in the script. The default is all functions in the script. Use the Function key or the StartLine and EndLine keys, but not both.</ToolTip>
+					<Function></Function>
+					<Default>FunctionName</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>StartingLineNumber</ID>
+					<ToolTip>Enter the line of the script where Pester should begin the code-coverage analysis. The default is 1. You can use the Function key or the StartLine and EndLine keys, but not both.</ToolTip>
+					<Function></Function>
+					<Default>StartingLineNumber</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>EndingLineNumber</ID>
+					<ToolTip>Enter the line of the script where Pester should end its code-coverage analysis. The default is the last line of the file. You can use the Function key or the StartLine and EndLine keys, but not both.</ToolTip>
+					<Function></Function>
+					<Default>EndingLineNumber</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[@{ 'Path' = $Path$; 'Function' = $FunctionName$}
+# @{ 'Path' = $Path$; 'StartLine' = $StartingLineNumber$;  'EndLine' = $EndingLineNumber$}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

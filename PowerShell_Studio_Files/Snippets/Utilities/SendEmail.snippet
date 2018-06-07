@@ -1,0 +1,13 @@
+﻿$Email = New-Object -comcobject "CDO.Message"
+$Server = "mail.company.com" #SMTP server name or IP
+
+$Email.Configuration.Fields.Item("http://schemas.microsoft.com/cdo/configuration/sendusing") = 2
+$Email.Configuration.Fields.Item("http://schemas.microsoft.com/cdo/configuration/smtpserver") = $Server
+$Email.Configuration.Fields.Item("http://schemas.microsoft.com/cdo/configuration/smtpserverport") = 25
+$Email.Configuration.Fields.Update()
+
+$Email.From = "script@company.com"
+$Email.To = "user@company.com"
+$Email.Subject = "Subject text"
+$Email.Textbody = "Mail box - text only"
+$Email.Send()

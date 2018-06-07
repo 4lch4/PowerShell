@@ -1,0 +1,94 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>ConvertTo-ScaledPixel</Title>
+			<Shortcut>converttoscaledpixel</Shortcut>
+			<Description>Converts the 96DPI pixel value to the scaled value determined by the Form control.</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[<#
+	.SYNOPSIS
+		Converts the 96DPI pixel value to the scaled value determined by the Form control.
+	
+	.PARAMETER Form
+		The Form control that determines the DPI scaling.
+	
+	.PARAMETER Width
+		The width pixel value to convert.
+	
+	.PARAMETER Height
+		The height pixel value to convert.
+	
+	.EXAMPLE
+	$scaledHeight = Convert-ToScaledPixel  –Form $form1 –Height 90
+
+	.EXAMPLE
+	$scaledWidth = Convert-ToScaledPixel –Form $form1 –Width 90
+#>
+function ConvertTo-ScaledPixel
+{
+	[OutputType([int])]
+	param
+	(
+		[Parameter(ParameterSetName = 'Height',
+				   Mandatory = $true,
+				   Position = 0)]
+		[Parameter(ParameterSetName = 'Width',
+				   Mandatory = $true,
+				   Position = 0)]
+	[ValidateNotNull()]
+	[System.Windows.Forms.Form]$Form,
+	[Parameter(ParameterSetName = 'Width',
+			   Mandatory = $true,
+			   Position = 1)]
+	[int]$Width,
+	[Parameter(ParameterSetName = 'Height',
+			   Mandatory = $true,
+			   Position = 1)]
+	[int]$Height
+)
+	switch ($PsCmdlet.ParameterSetName)
+	{
+		'Height' {
+			
+			if ($Form.AutoScaleMode -eq 'Font')
+			{			
+				return ($Form.CurrentAutoScaleDimensions.Height / 13) * $Height;
+			}
+			elseif ($Form.AutoScaleMode -eq 'Dpi')
+			{
+				return ($Form.CurrentAutoScaleDimensions.Height / 96) * $Height;
+			}
+			else
+			{
+				return $Height
+			}
+			break
+		}
+		'Width' {
+			if ($Form.AutoScaleMode -eq 'Font')
+			{
+				return ($Form.CurrentAutoScaleDimensions.Width / 6) * $Width;
+			}
+			elseif ($Form.AutoScaleMode -eq 'Dpi')
+			{
+				return ($Form.CurrentAutoScaleDimensions.Width / 96) * $Width;
+			}
+			else
+			{
+				return $Width
+			}
+			break
+		}
+	}
+}
+]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

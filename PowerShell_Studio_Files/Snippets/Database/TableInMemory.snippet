@@ -1,0 +1,36 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>TableInMemory</Title>
+			<Shortcut>TableInMemory</Shortcut>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[#create table
+$table = New-Object system.Data.DataTable "TableName"
+
+#create a column
+$column = New-Object system.Data.DataColumn ColumnName,([string])
+
+#add column to table
+$table.columns.add($column)
+
+#create a new row
+$row = $table.newrow()
+
+#place value(s) in row's column(s)
+$row.ColumnName = "Value"
+
+#add row to table
+$table.rows.add($row)
+
+#display table
+$table]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

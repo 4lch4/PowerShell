@@ -1,0 +1,33 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Ordered</Title>
+			<Shortcut>Ordered</Shortcut>
+			<Description>Creates an ordered dictionary, which is a hash table with guaranteed property order. See also: Hashtable</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>http://go.microsoft.com/fwlink/?LinkID=135175</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>Key</ID>
+					<ToolTip>Enter a name for the key. Quotation marks are not necessary. The key becomes a property of the hash table.</ToolTip>
+					<Function></Function>
+					<Default>Name</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>Value</ID>
+					<ToolTip>Enter the value of the property. If the property is a string, enclose the value in quotation marks.</ToolTip>
+					<Function></Function>
+					<Default>Value</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[[ordered]@{$Key$ = $Value$; $Key$ = $Value$;}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

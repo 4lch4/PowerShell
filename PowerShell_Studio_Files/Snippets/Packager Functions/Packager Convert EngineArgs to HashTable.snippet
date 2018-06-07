@@ -1,0 +1,72 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Packager Convert EngineArgs to HashTable</Title>
+			<Shortcut></Shortcut>
+			<Description>Inserts a function thatConverts the packager command line arguments (EngineArgs) into a hash table.</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[function Convert-EngineArgsToHashTable
+{
+<#
+	.SYNOPSIS
+		Converts the packager command line arguments (EngineArgs) into a hash table.
+
+	.PARAMETER ParameterIndicator
+		The character that denotes a parameter. (Default Value: '-')
+	
+	.EXAMPLE
+				PS C:\> $hashTable = Convert-EngineArgsToHashTable
+	
+	.NOTES
+		The $EngineArgs variable is populated by the packager engine.
+#>
+	
+	[CmdletBinding()]
+	[OutputType([hashtable])]
+	param ([char]$ParameterIndicator = '-')
+	
+	$hashTable = @{ }
+	
+	for ($i = 0; $i -lt $EngineArgs.Length; $i++) # in $EngineArgs)
+	{
+		$argument = $EngineArgs[$i]
+			
+		#Check for parameters otherwise ignore the value
+		if ($argument -and $argument[0] -eq $ParameterIndicator)
+		{
+			#Remove the indicator								
+			$argument = $argument.Substring(1, $argument.Length - 1)
+			
+			#Check for the parameter's value
+			if ($i + 1 -lt $EngineArgs.Length -and $EngineArgs[$i + 1])
+			{
+				$value = $EngineArgs[$i + 1];
+				
+				#Is this another parameter?					
+				if ($value[0] -ne $ParameterIndicator)
+				{
+					#If not set this as the parameter's value
+					$hashTable[$argument] = $value
+					$i++
+					continue
+				}
+			}
+			
+			#Set the parameter's value to $null		
+			$hashTable[$argument] = $null
+		}
+		
+	} #for loop
+	
+	return @(, $hashTable)
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

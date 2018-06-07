@@ -1,0 +1,30 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>FileHeader</Title>
+			<Shortcut>FileHeader</Shortcut>
+			<Description>Inserts a comment-based help .NOTES comment section that can be used as a file header.</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[<#	
+	.NOTES
+	===========================================================================
+	 Created with: 	SAPIEN Technologies, Inc., %AppName% v%AppVersion%
+	 Created on:   	%Date% %Time%
+	 Created by:   	%Username%
+	 Organization: 	%Company%
+	 Filename:     	%FileName%$end$
+	===========================================================================
+	.DESCRIPTION
+		A description of the file.
+#>
+]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

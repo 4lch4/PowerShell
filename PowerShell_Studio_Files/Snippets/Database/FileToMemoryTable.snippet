@@ -1,0 +1,31 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>FileToMemoryTable</Title>
+			<Shortcut>FileToMemoryTable</Shortcut>
+			<Description>Inserts a script that reads a file into a Memory Table</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>filename</ID>
+					<ToolTip>Enter the file's name</ToolTip>
+					<Function></Function>
+					<Default>filename</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[#read table schema
+$table = New-Object system.Data.DataTable "TableName"
+$table.readxmlschema("$filename$.xsd")
+
+#read table data
+$table.readxml("$filename$.xml")]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

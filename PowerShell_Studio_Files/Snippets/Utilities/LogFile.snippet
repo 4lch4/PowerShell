@@ -1,0 +1,21 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>LogFile</Title>
+			<Shortcut>LogFile</Shortcut>
+			<Description>Inserts script that writes the content to a file</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[function Log {
+	param([string]$filename,[string]$text)
+	Out-File $filename -append -noclobber -inputobject $text -encoding ASCII
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

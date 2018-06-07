@@ -1,0 +1,72 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Export Json</Title>
+			<Shortcut></Shortcut>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[function Export-JSONToFile
+{
+	<#
+	.Synopsis
+		This Cmdlet is intended to export JSON Objects to an external file.
+	.EXAMPLE
+	   Export-JSONToFile -ExportVariable $Users -Path C:\Test\TestFile.json
+	.EXAMPLE
+	   Export-JSONToFile -ExportVariable $Users -Path C:\Test\TestFile.json -Append
+	.INPUTS
+	   The File Path that contains the information that needs to be imported. If the Append Parameter is not used then any information that is
+		in the file being exported to will be erased and replaced by what is being written to it.
+	#>
+	#Requires -Version 3
+	[CmdletBinding(SupportsShouldProcess = $true,
+				   ConfirmImpact = 'Medium')]
+	Param
+	(
+		
+		[Parameter(Mandatory = $true,
+				   ValueFromPipeline = $true,
+				   ValueFromPipelineByPropertyName = $true)]
+		[ValidateNotNullOrEmpty()]
+		$ExportVariable,
+		[Parameter(Mandatory = $true,
+				   ValueFromPipeline = $true,
+				   ValueFromPipelineByPropertyName = $true)]
+		[ValidateNotNullOrEmpty()]
+		[ValidateScript({
+				If ($_ -like "*.json")
+				{
+					$true
+				}
+				else
+				{
+					Throw "$_ is not a Json file, please make sure you are Exporting to a Json file."
+				}
+			})]
+		#check for json file not txt
+		$Path,
+		[switch]$Append
+		
+	)
+	Process
+	{
+		#Depth is set to 100 here since this is the maximum depth allowed for serialization
+		if ($Append)
+		{
+			$ExportVariable | ForEach-Object { $_ | ConvertTo-Json -Depth 100 | Out-File -FilePath $Path -Append }
+		}
+		else
+		{
+			$ExportVariable | ForEach-Object { $_ | ConvertTo-Json -Depth 100 | Out-File -FilePath $Path }
+		}
+	}
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

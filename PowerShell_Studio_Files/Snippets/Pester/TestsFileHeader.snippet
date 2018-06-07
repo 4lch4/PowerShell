@@ -1,0 +1,18 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>TestsFileHeader</Title>
+			<Shortcut></Shortcut>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[$directory = Split-Path -Parent $MyInvocation.MyCommand.Path
+$script = (Split-Path -Leaf $MyInvocation.MyCommand.Path).Replace(".Tests.", ".")
+. "$directory\$script"]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

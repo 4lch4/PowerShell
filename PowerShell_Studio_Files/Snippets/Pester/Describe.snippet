@@ -1,0 +1,54 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Describe</Title>
+			<Shortcut>Describe</Shortcut>
+			<Description>The Describe block contains a group of Pester tests and defines a scope within which test values and a TestDrive PSDrive are valid.</Description>
+			<HelpUrl>https://github.com/pester/Pester/wiki/Describe</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>NameOfTestGroup</ID>
+					<ToolTip>Enter a name for the test group. Typically, this is the name of the function under test.</ToolTip>
+					<Function></Function>
+					<Default>NameOfTestGroup</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>NameOfTest</ID>
+					<ToolTip>Enter a name for the test. The It block contains a single test.</ToolTip>
+					<Function></Function>
+					<Default>NameOfTest</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>FunctionUnderTest</ID>
+					<ToolTip>Enter a command or expression that is piped to the assertion. This is usually the name of the function under test.</ToolTip>
+					<Function></Function>
+					<Default>FunctionUnderTest</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>Be</ID>
+					<ToolTip>Determines how the actual and expected results are compared. Enter an operator, such as Be or BeExactly. To see all operators: https://github.com/pester/Pester/wiki/Should</ToolTip>
+					<Function></Function>
+					<Default>Be</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>ExpectedValue</ID>
+					<ToolTip>Enter the value that the command should return given the conditions of the test.</ToolTip>
+					<Function></Function>
+					<Default>ExpectedValue</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[Describe "$NameOfTestGroup$" {
+    It "$NameOfTest$" {
+  		$FunctionUnderTest$  | Should $Be$ $ExpectedValue$
+    }
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

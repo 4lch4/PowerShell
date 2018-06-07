@@ -1,0 +1,50 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>FilteringFunction</Title>
+			<Shortcut>FilteringFunction</Shortcut>
+			<Description>Creates a filtering function with multiple parameters</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>functionname</ID>
+					<ToolTip>Enter the function's name</ToolTip>
+					<Function></Function>
+					<Default>functionname</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>parameter1</ID>
+					<ToolTip>Enter the first parameter</ToolTip>
+					<Function></Function>
+					<Default>$parameter1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>parameter2</ID>
+					<ToolTip>Enter the second parameter</ToolTip>
+					<Function></Function>
+					<Default>$parameter2</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[
+function $functionname$ ($parameter1$,$parameter2$) {
+	BEGIN {
+		#<code>
+	}
+	PROCESS {
+		$selected$$end$
+	}
+	END {
+		#<code>
+	}
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

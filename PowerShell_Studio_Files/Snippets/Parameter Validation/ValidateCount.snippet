@@ -1,0 +1,33 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>ValidateCount</Title>
+			<Shortcut>ValidateCount</Shortcut>
+			<Description>Determines how many values are permitted in a parameter array. minValues/maxValues are inclusive.</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>http://msdn.microsoft.com/en-us/library/ms714435(v=vs.85).aspx</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>minValue</ID>
+					<ToolTip>Enter the fewest values permitted in the parameter array.</ToolTip>
+					<Function></Function>
+					<Default>minValue</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>maxValue</ID>
+					<ToolTip>Enter the maximum number of values permitted in the parameter array. minValue and maxValue are inclusive.</ToolTip>
+					<Function></Function>
+					<Default>maxValue</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[[ValidateCount($minValue$, $maxValue$)]]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

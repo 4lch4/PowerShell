@@ -1,0 +1,48 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>IsManageable</Title>
+			<Shortcut>IsManageable</Shortcut>
+			<Description>Inserts a function that returns a Boolean value indicating whether a specified computer</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[#returns a Boolean value indicating whether a specified computer
+#is manageable via WMI. This is helpful when testing connections
+#across a firewall.
+#You must specify a computer name. Optionally, you can pass
+#a PSCredential object for alternate credential authentication.
+
+Function IsManageable {
+param([string]$Computer,`
+[System.Management.Automation.PSCredential]$credential)
+
+if ($credential)
+    {
+#use alternate credentials if supplied
+      $sb={(Get-WmiObject win32_operatingsystem -computer $Computer `
+-credential $credential -erroraction SilentlyContinue).caption} 
+     }
+else {
+#use existing credentials
+    $sb={(Get-WmiObject win32_operatingsystem -computer $Computer `
+-erroraction SilentlyContinue).caption}
+     }
+
+ if (&$sb -IS [STRING])
+    {
+        Return $TRUE
+    }
+ else
+    {
+        Return $FALSE
+    }
+} #end function]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

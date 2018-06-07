@@ -1,0 +1,33 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>CalculatedProperty</Title>
+			<Shortcut>Calc</Shortcut>
+			<Description>Uses a hash table to create a calculated property</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>http://powershell.org/wp/2013/04/29/name-that-property/</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>PropertyName</ID>
+					<ToolTip>Enter a name for the property</ToolTip>
+					<Function></Function>
+					<Default>PropertyName</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>Expression</ID>
+					<ToolTip>Enter a statement that gets the property</ToolTip>
+					<Function></Function>
+					<Default>Expression</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[@{Label = "$PropertyName$"; Expression = {$Expression$}}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

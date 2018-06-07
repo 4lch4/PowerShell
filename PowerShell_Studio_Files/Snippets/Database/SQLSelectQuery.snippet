@@ -1,0 +1,39 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>SQLSelectQuery</Title>
+			<Shortcut>SQLSelectQuery</Shortcut>
+			<Description>Inserts a SQL Select statement</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>column1</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>column1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>column2</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>column2</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>table</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>table</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[#define select query
+$query = "SELECT $column1$, $column2$ FROM $table$"]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

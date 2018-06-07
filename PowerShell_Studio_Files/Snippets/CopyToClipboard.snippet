@@ -1,0 +1,33 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Copy To Clipboard</Title>
+			<Shortcut>copyclipboard</Shortcut>
+			<Description>Code snippet for clipboard</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>Variable</ID>
+					<ToolTip>The variable you wish to copy</ToolTip>
+					<Function></Function>
+					<Default>Variable</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="powershell">
+				<![CDATA[
+[System.Windows.Forms.Clipboard]::SetText($Variable$)				
+]]>
+			</Code>
+			<References>
+				<Reference>
+					<Assembly>System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+				</Reference>
+			</References>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

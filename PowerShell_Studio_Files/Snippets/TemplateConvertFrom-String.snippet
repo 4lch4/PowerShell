@@ -1,0 +1,33 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>TemplateField (ConvertFrom-String)</Title>
+			<Shortcut>template</Shortcut>
+			<Description>Define a ConvertFrom-String template for a text string</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>http://go.microsoft.com/fwlink/?LinkID=507579</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>fieldName</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>fieldName</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>value</ID>
+					<ToolTip></ToolTip>
+					<Function></Function>
+					<Default>value</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[{ $fieldName$*: $value$}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,39 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Module Variable</Title>
+			<Shortcut>modulevar</Shortcut>
+			<Description>Declares a module variable that is visible externally</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>type</ID>
+					<ToolTip>The type of the variable</ToolTip>
+					<Function></Function>
+					<Default>string</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>name</ID>
+					<ToolTip>The name to give to the variable</ToolTip>
+					<Function></Function>
+					<Default>variablename</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>value</ID>
+					<ToolTip>The value to assign to that variable</ToolTip>
+					<Function></Function>
+					<Default>'Variable Value'</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="powershell">
+				<![CDATA[[$type$]$name$ = $value$
+Export-ModuleMember -Variable $name$$end$]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

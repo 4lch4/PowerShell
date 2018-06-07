@@ -1,0 +1,47 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Get-DPI</Title>
+			<Shortcut>getdpi</Shortcut>
+			<Description>Calculates the DPI from a Window handle.</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Code Language="PowerShell">
+				<![CDATA[<#
+	.SYNOPSIS
+		Calculates the DPI from a Window handle.
+	
+	.PARAMETER Handle
+		The handle to the Window / Form.
+	
+	.EXAMPLE
+				PS C:\> Get-DPI -Handle $form1.Handle
+	
+#>
+function Get-DPI
+{
+	[OutputType([single])]
+	param
+	(
+		[IntPtr]$Handle = [IntPtr]::Zero
+	)
+	
+	$g = [System.Drawing.Graphics]::FromHwnd($Handle)
+	$dpi = $g.DpiX
+	$g.Dispose()
+	
+	return $dpi
+}]]>
+			</Code>
+			<References>
+				<Reference>
+					<Assembly>System.Drawing</Assembly>
+				</Reference>
+			</References>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

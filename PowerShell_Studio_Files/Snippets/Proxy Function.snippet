@@ -1,0 +1,39 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Proxy Function</Title>
+			<Shortcut>funcproxy</Shortcut>
+			<Description>Creates a proxy function</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>Name</ID>
+					<ToolTip>The name of the cmdlet for which you are creating a proxy</ToolTip>
+					<Function></Function>
+					<Default>Name</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="powershell">
+				<![CDATA[<#
+	For more information about proxy functions, see the following article on the
+	Microsoft PowerShell Team blog:
+
+		http://blogs.msdn.com/powershell/archive/2009/01/04/extending-and-or-modifing-commands-with-proxies.aspx
+#>
+
+function $Name$ {
+	<#
+		To create a proxy function for the $Name$ cmdlet, paste the results of the following command into the body of this function and then remove this comment:
+		[Management.Automation.ProxyCommand]::Create((New-Object Management.Automation.CommandMetaData (Get-Command $Name$)))
+	#>
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

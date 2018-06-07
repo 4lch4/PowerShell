@@ -1,0 +1,46 @@
+﻿<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>SQLSelectQueryOrderBy</Title>
+			<Shortcut>SQLSelectQueryOrderBy</Shortcut>
+			<Description>Inserts a SQL Select statement with sorting</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>column1</ID>
+					<ToolTip>Enter the first column's name</ToolTip>
+					<Function></Function>
+					<Default>column1</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>column2</ID>
+					<ToolTip>Enter the second column's name</ToolTip>
+					<Function></Function>
+					<Default>column2</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>table</ID>
+					<ToolTip>Enter the table's name</ToolTip>
+					<Function></Function>
+					<Default>table</Default>
+				</Literal>
+				<Literal Editable="True">
+					<ID>sortcolumn</ID>
+					<ToolTip>Enter the column name to sort by</ToolTip>
+					<Function></Function>
+					<Default>sortcolumn</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[#define select query
+$query = "SELECT $column1$,$column2$ FROM $table$ ORDER BY $sortcolumn$"
+]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>

@@ -1,0 +1,29 @@
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>While</Title>
+			<Shortcut>while</Shortcut>
+			<Description>Adds a While loop</Description>
+			<Author>SAPIEN Technologies, Inc.</Author>
+			<HelpUrl>http://go.microsoft.com/fwlink/?LinkID=113275</HelpUrl>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal Editable="True">
+					<ID>Condition</ID>
+					<ToolTip>Add a statement that returns a Boolean (True/False) value. When the condition is $True, the code in the script block runs.</ToolTip>
+					<Function></Function>
+					<Default>Condition</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="PowerShell">
+				<![CDATA[While ( $Condition$ ) {
+	$selected$$end$
+}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>
