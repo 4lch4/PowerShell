@@ -1,19 +1,17 @@
 ﻿<#	
-	===========================================================================
-	 Created on:   	%Date% @ %Time%
-	 Created by:   	%Username%
-	 Organization: 	%Company%
-	 Filename:     	%FileName%
-	 -------------------------------------------------------------------------
-	 Module Manifest
-	-------------------------------------------------------------------------
-	 Module Name: %ProjectName%
-	===========================================================================
+===============================================================================
+ Created on:   	%Date% @ %Time%
+ Created by:   	%Username%
+ Organization: 	%Company%
+ Filename:     	%FileName%
+ ------------------------------------------------------------------------------
+ Module Manifest
+-------------------------------------------------------------------------------
+ Module Name: %ProjectName%
+===============================================================================
 #>
 
-
 @{
-	
 	# Script module or binary module file associated with this manifest
 	ModuleToProcess = '%ProjectName%.psm1'
 	
@@ -102,7 +100,7 @@
 			# Tags = @()
 			
 			# A URL to the license for this module.
-			# LicenseUri = ''
+			LicenseUri = 'https://opensource.org/licenses/MIT'
 			
 			# A URL to the main website for this project.
 			# ProjectUri = ''

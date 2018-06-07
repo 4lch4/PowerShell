@@ -4,18 +4,18 @@
 
 
 #Sample function that provides the location of the script
+<#
+.SYNOPSIS
+	Get-ScriptDirectory returns the proper location of the script.
+
+.OUTPUTS
+	System.String
+
+.NOTES
+	Returns the correct path within a packaged executable.
+#>
 function Get-ScriptDirectory
 {
-<#
-	.SYNOPSIS
-		Get-ScriptDirectory returns the proper location of the script.
-
-	.OUTPUTS
-		System.String
-	
-	.NOTES
-		Returns the correct path within a packaged executable.
-#>
 	[OutputType([string])]
 	param ()
 	if ($null -ne $hostinvocation)
@@ -30,5 +30,3 @@ function Get-ScriptDirectory
 
 #Sample variable that provides the location of the script
 [string]$ScriptDirectory = Get-ScriptDirectory
-
-

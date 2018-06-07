@@ -5,18 +5,18 @@
 
 function Main {
 <#
-    .SYNOPSIS
-        The Main function starts the project application.
-    
-    .PARAMETER Commandline
-        $Commandline contains the complete argument string passed to the script packager executable.
-    
-    .NOTES
-        Use this function to initialize your script and to call GUI forms.
-		
-    .NOTES
-        To get the console output in the Packager (Forms Engine) use:
-		$ConsoleOutput (Type: System.Collections.ArrayList)
+.SYNOPSIS
+    The Main function starts the project application.
+
+.PARAMETER Commandline
+    $Commandline contains the complete argument string passed to the script packager executable.
+
+.NOTES
+    Use this function to initialize your script and to call GUI forms.
+	
+.NOTES
+    To get the console output in the Packager (Forms Engine) use:
+	$ConsoleOutput (Type: System.Collections.ArrayList)
 #>
 	Param ([String]$Commandline)
 	
