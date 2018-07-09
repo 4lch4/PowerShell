@@ -1,0 +1,58 @@
+{
+	// Place your snippets for powershell here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"PS_Authorship": {
+		"prefix": "authorship",
+		"description": "Creates the authorship header at the top of a PowerShell script file.",
+		"body": [
+			"# =============================================================================",
+			"#  Created On:   $CURRENT_YEAR/$CURRENT_MONTH/$CURRENT_DATE @ $CURRENT_HOUR:$CURRENT_MINUTE",
+			"#  Created By:   Alcha",
+			"#  Organization: HassleFree Solutions, LLC",
+			"#  Filename:     $TM_FILENAME",
+			"#  Description:  $1",
+			"# =============================================================================\n",
+			"$0"
+		]
+	},
+	"PS_New_Class": {
+		"prefix": "class",
+		"description": "Creates a new PowerShell class.",
+		"body": [
+			"class $1 {",
+				"\t# Properties",
+				"\t$$TestProperty\n",
+				"\t# Constructors",
+				"\t$1 () {\n",
+				"\t}\n",
+				"\t# Methods\n",
+			"}"
+		]
+	},
+	"PS_Beginning_Help": {
+		"prefix": "help",
+		"body": [
+			"<#",
+			".SYNOPSIS",
+			"\t$1\n",
+			".DESCRIPTION",
+			"\t$2\n",
+			".PARAMETER $3",
+			"\t$4\n",
+			".EXAMPLE",
+			"$0",
+			"#>"
+		]
+	}
+}
